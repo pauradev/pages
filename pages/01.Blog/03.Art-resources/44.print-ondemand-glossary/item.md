@@ -15,6 +15,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,10 +34,10 @@ comment_status: open
 post_name: 2167333-2
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<img class="alignnone wp-image-2167505 " src="https://printaura.com/wp-content/uploads/2016/03/podglossarybanner-blog1.jpg" alt="Print On Demand Glossary" width="1155" height="480" />
+[![Print On Demand Glossary](https://printaura.com/wp-content/uploads/2016/03/podglossarybanner-blog1.jpg)](https://blog.printaura.com/blog/art-resources/print-ondemand-glossary)
+
 The print industry is full of jargon that most people aren’t familiar with. We know it can be hard to navigate through some aspects of fulfillment when aren’t even sure what the terminology is referring to. We try to make things as clear and simple as possible, but it's still easy to get confused sometimes. We decided to create this handy print on demand glossary in case you still feel a little lost.
 <h2>Print On Demand Glossary</h2>
 <h3>POD</h3>
