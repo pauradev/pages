@@ -15,6 +15,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,10 +34,9 @@ comment_status: open
 post_name: 5-font-mistakes-to-avoid-10-free-fonts
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<img class="alignnone size-large wp-image-2253960" src="https://printaura.com/wp-content/uploads/2015/11/font-mistakes-blog-1024x377.jpg" alt="font mistakes" width="980" height="361" />
+[![font mistakes](https://printaura.com/wp-content/uploads/2015/11/font-mistakes-blog-1024x377.jpg)](https://blog.printaura.com/blog/art-resources/5-font-mistakes-to-avoid-10-free-fonts)
 
 Choosing and using the right fonts with your artwork can really make or break a design. For me, it’s one of the hardest decisions to make when it comes to creating a graphic design that requires text. It is so easy to make mistakes when you are just starting out. For all you budding designers out there, here are 5 font mistakes you should avoid.
 <h2>5 Font Mistakes You Might Be Making</h2>
