@@ -15,6 +15,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,10 +34,9 @@ comment_status: open
 post_name: beginners-photoshop-tutorial-roundup
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<img class="aligncenter size-full wp-image-2051752" src="https://printaura.com/wp-content/uploads/2016/01/PS-tutorial-Round-up-banner.jpg" alt="Photoshop Tutorials " width="960" height="383" />
+[![Photoshop Tutorials](https://printaura.com/wp-content/uploads/2016/01/PS-tutorial-Round-up-banner.jpg)](https://blog.printaura.com/blog/art-resources/beginners-photoshop-tutorial-roundup)
 
 Diving into Photoshop as a beginner can be intimidating. It seems simple enough, but once you get in there it’s like being lost at sea. There are so many possibilities with Photoshop, but you have to unlock them. Think of it a design quest, and the reward is being able to make your ideas come to life. Do you accept? If so, check out the collection of video tutorials below to get started.
 <h2><span style="color: #008080;">Image Requirements</span></h2>
