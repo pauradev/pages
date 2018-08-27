@@ -15,6 +15,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,10 +34,10 @@ comment_status: open
 post_name: intermediate-photoshop-tutorial-roundup
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<h2><a href="https://printaura.com/wp-content/uploads/2016/04/PS-tutorial-Round-up-banner-copy-copy.jpg"><img class="alignnone size-full wp-image-2227034" src="https://printaura.com/wp-content/uploads/2016/04/PS-tutorial-Round-up-banner-copy-copy.jpg" alt="Intermediate photoshop tutorial roudup" width="960" height="383" /></a></h2>
+[![Intermediate photoshop tutorial roudup](https://printaura.com/wp-content/uploads/2016/04/PS-tutorial-Round-up-banner-copy-copy.jpg)](https://blog.printaura.com/blog/art-resources/intermediate-photoshop-tutorial-roundup)
+
 <h2>Intermediate Photoshop Tutorial Roundup</h2>
 We've put together some really helpful Photoshop tutorials that will definitely step up your design game. These tutorials are for those of you who already have a good understanding of the basics in Photoshop. If you are new to using Photoshop, check out our <a href="https://printaura.com/beginners-photoshop-tutorial-roundup/" target="_blank">Beginners Photoshop Tutorial Roundup</a> for videos to help you with the basics.
 <h3>Using The Pen Tool</h3>
