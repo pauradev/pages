@@ -15,6 +15,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,10 +34,10 @@ comment_status: open
 post_name: design-sizing-and-placement-guide
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<h2><img class="alignnone size-full wp-image-2157197" src="https://printaura.com/wp-content/uploads/2016/03/sizing-blog-banner-copy.jpg" alt="design sizing and placement guide" width="900" height="410" /></h2>
+[![design sizing and placement guide](https://printaura.com/wp-content/uploads/2016/03/sizing-blog-banner-copy.jpg)](https://blog.printaura.com/blog/art-resources/design-sizing-and-placement-guide)
+
 <h2>Sizing And Placement</h2>
 We get a lot of questions about design sizing and placement here at Print Aura. People aren't sure how to gauge the sizing of their designs. It can be hard to visualize the size a digital design on a real life garment. We decided to create this handy guide to help you figure out how to size and place your designs.
 
