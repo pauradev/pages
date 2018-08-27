@@ -15,6 +15,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,10 +34,10 @@ comment_status: open
 post_name: top-25-free-commercial-fonts-for-t-shirt-designs
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<img src="https://printaura.com/wp-content/uploads/2016/03/free-fonts-newsletter2.jpg" alt="25 free commercial fonts" width="892" height="418" class="alignnone size-full wp-image-2181226" />
+[![25 free commercial fonts](https://printaura.com/wp-content/uploads/2016/03/free-fonts-newsletter2.jpg)](https://blog.printaura.com/blog/art-resources/top-25-free-commercial-fonts-for-t-shirt-designs)
+
 Finding free fonts has become quite easy. Finding GOOD free fonts gets a bit harder. Finding good free fonts that include a license for commercial use … now that’s no easy endeavor!
 
 We’ve taken on the task of cultivating 25 of the best free commercial fonts the internet has to offer, just for you. You can use all of these fonts to enhance your designs without worry!
