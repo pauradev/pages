@@ -36,6 +36,7 @@ status: publish
 post_type: post
 ---
 
+<img src="https://printaura.com/wp-content/uploads/2017/05/8bitvs16bit.jpg" alt="8bitvs16bit" width="1725" height="899" class="alignnone size-full wp-image-7380545" />
 [![8bitvs16bit](https://printaura.com/wp-content/uploads/2017/05/8bitvs16bit.jpg)](https://blog.printaura.com/blog/art-resources/bit-vs-16-bit-images-whats-the-difference-which-to-use)
 
 <h2>What Is A "Bit"?</h2>
