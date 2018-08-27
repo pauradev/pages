@@ -2,6 +2,8 @@
 title: Blog
 hide_git_sync_repo_link: false
 git_sync_repo_link: 'https://github.com/pauradev/pages'
+sitemap:
+    changefreq: daily
 visible: false
 blog_url: /blog
 show_sidebar: true
@@ -25,8 +27,6 @@ hide_from_post_list: '1'
 swipe_deck_title: ''
 swipe_deck_id: ''
 swipe_deck_pdf_url: ''
-sitemap:
-    changefreq: monthly
 feed:
     description: Blog
     limit: 10
