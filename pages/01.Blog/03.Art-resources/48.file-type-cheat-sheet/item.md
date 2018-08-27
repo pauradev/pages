@@ -36,7 +36,7 @@ status: publish
 post_type: post
 ---
 
-<img class="aligncenter size-large wp-image-1985151" src="https://printaura.com/wp-content/uploads/2015/12/file-types-banner-1024x174.png" alt="file type cheat sheet" width="980" height="167" />
+[![file type cheat sheet](https://printaura.com/wp-content/uploads/2015/12/file-types-banner-1024x174.png)](https://printaura.com/wp-content/uploads/2015/12/file-types-banner-1024x174.png)
 
 If you aren’t very familiar with graphic design, you probably aren’t too familiar with different file types, what they mean, and how they are different.
 
