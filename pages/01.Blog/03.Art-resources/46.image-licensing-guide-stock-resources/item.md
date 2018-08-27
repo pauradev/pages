@@ -15,6 +15,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,10 +34,10 @@ comment_status: open
 post_name: image-licensing-guide-stock-resources
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<h2><strong><img class="alignnone size-large wp-image-2096532" src="https://printaura.com/wp-content/uploads/2016/02/licensing-banner-1024x471.jpg" alt="Image Licensing Guide" width="980" height="451" /></strong></h2>
+[![Image Licensing Guide](https://printaura.com/wp-content/uploads/2016/02/licensing-banner-1024x471.jpg)](https://blog.printaura.com/blog/art-resources/image-licensing-guide-stock-resources)
+
 <h2>What Is Image Licensing?</h2>
 If you aren't an artist, odds are you've looked into buying stock imagery to use in your designs at some point. One of the most important things to consider when buying stock imagery for your products is the licensing.
 
