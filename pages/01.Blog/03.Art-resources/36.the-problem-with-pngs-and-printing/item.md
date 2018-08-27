@@ -15,6 +15,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,11 +34,9 @@ comment_status: open
 post_name: the-problem-with-pngs-and-printing
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<img class="alignnone size-full wp-image-4427470" src="https://printaura.com/wp-content/uploads/2017/01/png-probs-fb.jpg" alt="png problems" width="2000" height="1043" />
-
+[![png problems](https://printaura.com/wp-content/uploads/2017/01/png-probs-fb.jpg)](https://blog.printaura.com/blog/art-resources/the-problem-with-pngs-and-printing)
 <h2>What Is A .PNG File?</h2>
 A .png file, or a "Portable Network Graphics" file is a file type that was designed primarily for web and screen use. The primary function of this file type is to allow for transparency at any level to be published to the web and used online. A .png is a great file type choice for a logo in your online shop or any other images that need to stand on their own, and adapt to any background.
 <h3>PNG At A Glance</h3>
