@@ -9,8 +9,7 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-<img class="alignnone size-full wp-image-886857" src="https://printaura.com/wp-content/uploads/2015/03/difference-between-RGB-and-CMYK.jpg" alt="Difference between CMYK and RGB Color Profiles" width="550" height="416" /></a>
-
+[![Difference between CMYK and RGB Color Profiles](https://printaura.com/wp-content/uploads/2015/03/difference-between-RGB-and-CMYK.jpg)](https://blog.printaura.com/blog/art-resources/the-difference-between-rgb-and-cmyk)
 <h2>CMYK Vs RGB</h2>
 
 Computer monitors emit color as RGB (red, green, blue) light. Although all colors of the visible spectrum can be produced by merging red, green and blue light, monitors are capable of displaying only a limited gamut (i.e., range) of the visible spectrum.
