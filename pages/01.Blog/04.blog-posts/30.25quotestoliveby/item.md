@@ -30,7 +30,7 @@ display_post_summary:
     enabled: '0'
 ---
 
-[![](https://printaura.com/wp-content/uploads/2018/08/nothing-works-until-you-do.jpg)](https://blog.printaura.com/blog/blog-posts/25quotestoliveby)
+[![](https://printaura.com/wp-content/uploads/2018/08/25-quotes.jpg)](https://blog.printaura.com/blog/blog-posts/25quotestoliveby)
 
 <h2>Feeling Tired And Uninspired?</h2>
 If you are feeling uninspired or unmotivated, you aren't alone! It can be tough to put work into a passion project or a second job, especially when you are already tired. Staying motivated can seem impossible, but it's not! A little reminder of why you started, and where you can get with hard work and dedication can make a huge difference!
