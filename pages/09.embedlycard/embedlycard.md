@@ -7,6 +7,7 @@ hide_git_sync_repo_link: true
 routable: false
 visible: false
 embedly_card_alignment: left
+hide_from_post_list: true
 ---
 
 ** Example Embed.ly Card **
