@@ -8,7 +8,7 @@ visible: false
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
-show_pagination: true
+show_pagination: false
 content:
     items:
         - '@self.descendants'
