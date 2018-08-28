@@ -15,6 +15,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,10 +34,10 @@ comment_status: open
 post_name: top-10-free-design-resource-sites
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<img class="alignnone size-large wp-image-2821535" src="https://printaura.com/wp-content/uploads/2016/09/top-10-blog-1024x428.jpg" alt="top 10 free design resource sites" width="980" height="410" />
+[![](https://printaura.com/wp-content/uploads/2016/09/top-10-blog-1024x428.jpg)](https://blog.printaura.com/blog/art-resources/top-10-free-design-resource-sites)
+
 <h2>Free Design Resources</h2>
 It wasn't long ago that I was in a similar to position to many of you. I had a passion for design, but was just starting out. My budget was tight but my desire to create was strong. Luckily it keeps getting easier to come across good quality graphic resources for free. You just have to know where to look for them. It took me a while to find the places that never let me down! I hope to save you all some time and share the places I always turn to when I am looking for a new font or the prefect graphic touch to compliment a new design.
 <h3>Mind The Licenses</h3>
