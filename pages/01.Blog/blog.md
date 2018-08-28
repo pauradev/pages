@@ -30,6 +30,6 @@ swipe_deck_pdf_url: ''
 feed:
     description: Blog
     limit: 10
-pagination: true
+pagination: false
 ---
 
