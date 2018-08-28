@@ -13,7 +13,7 @@ show_breadcrumbs: true
 show_pagination: true
 content:
     items:
-        - '@root.descendants'
+        - '@self.descendants'
     limit: 6
     order:
         by: date
