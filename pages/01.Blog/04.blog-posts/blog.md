@@ -14,8 +14,7 @@ show_pagination: true
 content:
     items:
         - '@self.descendants'
-        -
-            '@page': /blog/art-resources
+        - '@self.siblings.descendants'
     limit: 6
     order:
         by: date
