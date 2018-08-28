@@ -12,7 +12,7 @@ show_pagination: true
 content:
     items:
         - '@self.descendants'
-    limit: 6
+    limit: 12
     order:
         by: date
         dir: desc
@@ -30,6 +30,5 @@ swipe_deck_pdf_url: ''
 feed:
     description: Blog
     limit: 10
-pagination: false
 ---
 
