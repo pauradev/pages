@@ -15,6 +15,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,10 +34,9 @@ comment_status: open
 post_name: font-glossary
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<img class="alignnone size-full wp-image-2248342" src="https://printaura.com/wp-content/uploads/2016/04/fontglossaryblog.jpg" alt="Font Glossary" width="958" height="333" />
+[![Font Glossary](https://printaura.com/wp-content/uploads/2016/04/fontglossaryblog.jpg)](https://blog.printaura.com/blog/art-resources/font-glossary)
 
 Have you ever been on a website searching for fonts to use for your designs, only to realize the fonts are categorized by terms that you don’t understand? If so, you certainly aren’t alone. I had been designing for a long time before I ever thought to look into these terms. Some are easy to guess, but some are less obvious. I found that understanding these terms helped my search processes when I look for specific types of fonts.
 
