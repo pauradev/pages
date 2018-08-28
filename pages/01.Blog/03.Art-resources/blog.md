@@ -1,12 +1,12 @@
 ---
 title: 'Art resources'
-visible: false
 published: true
 date: '23-08-2000 15:39'
 publish_date: '20-07-2018 12:45'
 hide_git_sync_repo_link: false
 routable: true
-blog_url: /blog
+visible: false
+blog_url: /
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
