@@ -14,7 +14,7 @@ show_pagination: true
 content:
     items:
         - '@self.descendants'
-    limit: 7
+    limit: 6
     order:
         by: date
         dir: desc
