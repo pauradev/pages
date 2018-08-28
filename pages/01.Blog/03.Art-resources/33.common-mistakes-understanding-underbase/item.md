@@ -37,6 +37,7 @@ post_type: post
 ---
 
 [![](https://printaura.com/wp-content/uploads/2017/08/t-shirts-1024x534.jpg)](https://blog.printaura.com/blog/art-resources/common-mistakes-understanding-underbase)
+
 <h2>Understanding Underbase</h2>
 Underbase has come up as being a commonly misunderstood concept. We try our best to lay out different concepts and techniques as clearly as possible, but sometimes you really just need to see something before you can understand it. We get a lot of questions about underbase so we thought it was time to create an informative and illustrative article on the subject!
 
