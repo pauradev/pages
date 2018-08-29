@@ -59,27 +59,27 @@ I was lucky enough to be able to sit down with some people on Pinterest's advert
 
 <h3>Creative Guide</h3>
 
-<strong>Include A CTA</strong><br>
-What is a CTA? It is a call to action! You want to motivate the user to take some action. What that action is, is up to you! It could be to visit your shop or to purchase a specific item. An ad without a call to action isn't much of an ad! You can do this as a text over lay, in the description, or both. Just be clear and provide the appropriate links. <br>
+<strong>Include A CTA</strong>
+What is a CTA? It is a call to action! You want to motivate the user to take some action. What that action is, is up to you! It could be to visit your shop or to purchase a specific item. An ad without a call to action isn't much of an ad! You can do this as a text over lay, in the description, or both. Just be clear and provide the appropriate links. <br><br>
 
-<strong>Tasteful Branding</strong><br>
+<strong>Tasteful Branding</strong>
 It's been shown that subtle branding drives higher performance. You can do this through product placement or a small water mark off to the side. <br>
 
-Extra tip - don't put your logo in the bottom right hand corner. It will get covered by the Pinterest product feature.  <br>
+Extra tip - don't put your logo in the bottom right hand corner. It will get covered by the Pinterest product feature.  <br><br>
 
-<strong>Design For Mobile</strong><br>
-Research shows that around of 80% of users access Pinterest from mobile devices.  You might consider uploading your ad to a secret board to check how it looks on mobile to ensure it is legible and is easy to understand. It is also shown that your image will only be on their screen for an average of less than 2 seconds, so make sure you communicate your point efficiently!  <br>
+<strong>Design For Mobile</strong>
+Research shows that around of 80% of users access Pinterest from mobile devices.  You might consider uploading your ad to a secret board to check how it looks on mobile to ensure it is legible and is easy to understand. It is also shown that your image will only be on their screen for an average of less than 2 seconds, so make sure you communicate your point efficiently!  <br><br>
 
-<strong>Stand Out </strong><br>
-One challenge is being able to stand out in a sea of images. Consider what pins will be related to your ad, and try to think and design differently. You want your advertisement to grab attention and stand out, not blend in! <br>
+<strong>Stand Out </strong>
+One challenge is being able to stand out in a sea of images. Consider what pins will be related to your ad, and try to think and design differently. You want your advertisement to grab attention and stand out, not blend in! <br><br>
 
-<strong>Optimize Visual Space</strong><br>
-Advertisers on Pinterest had the best luck creating vertical ads. The vertical format allows the ad to flow on the page as the visitor scrolls down the feed. It is suggested that your ad should be 600 pixels wide by 900-1550 pixels in height.  <br>
+<strong>Optimize Visual Space</strong>
+Advertisers on Pinterest had the best luck creating vertical ads. The vertical format allows the ad to flow on the page as the visitor scrolls down the feed. It is suggested that your ad should be 600 pixels wide by 900-1550 pixels in height.  <br><br>
 
-<strong>Use Text</strong><br>
+<strong>Use Text</strong>
 Text can help give an image context. People are more drawn in by the pin than by its description, so make your point on the image itself! The use of straight forward and clear text can help people take action. <br>
 
-Extra tip - A minimum 20pt font is suggested for legibility on mobile. <br><
+Extra tip - A minimum 20pt font is suggested for legibility on mobile. <br><br>
 
 <h2> Resources </h2>
 
