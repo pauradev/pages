@@ -2,6 +2,8 @@
 title: 'Wedding Season Is Here!'
 published: true
 date: '19-06-2018 12:27'
+metadata:
+    'wedding, printing, tshirts, custom, bachelor, bachelorette': 'printaura, direct to garment, blog'
 taxonomy:
     category:
         - blog
@@ -15,6 +17,7 @@ blog_url: /design%20ideas
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '- ''@self.children'''
     limit: '5'
@@ -33,7 +36,6 @@ comment_status: open
 post_name: wedding-season-is-here-get-in-on-it
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
 <img class="alignnone size-large wp-image-12717229" src="https://printaura.com/wp-content/uploads/2018/06/couple-1850073_1920-1024x534.jpg" alt="couple-1850073_1920" width="980" height="511" />
