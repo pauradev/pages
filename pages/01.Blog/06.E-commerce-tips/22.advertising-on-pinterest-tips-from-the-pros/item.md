@@ -1,5 +1,6 @@
 ---
 title: 'Advertising On Pinterest: Tips From The Pros'
+media_order: 'pinterest blog.jpg'
 published: true
 date: '27-03-2018 12:25'
 taxonomy:
@@ -15,6 +16,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,10 +35,9 @@ comment_status: open
 post_name: advertising-on-pinterest-tips-from-the-pros
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<img src="https://printaura.com/wp-content/uploads/2018/03/pinterest-blog-1024x534.jpg" alt="pinterest blog" width="980" height="511" class="alignnone size-large wp-image-12705463" />
+![](pinterest%20blog.jpg)
 Do you do any online advertising for your brand, products, or online store? If not, you probably want to consider it. Advertising online is essential for getting noticed! If you want to reach your future customers, you have to get in front of them. While Facebook and Instagram can be good platforms to reach people who may be interested in buying your products, Pinterest is an excellent, and sometimes overlooked option as well. 
 
 <h2>Advertising On Pinterest</h2>
@@ -49,36 +50,36 @@ I was lucky enough to be able to sit down with some people on Pinterest's advert
 
 <h3>The Basics </h3>
 
-<strong>Accepted File Types:</strong> PNG and JPEG
-<strong>File Size: </strong> 2MB
-<strong>Minimum Resolution:</strong> 72 dpi
-<strong>Aspect Ratio:</strong> 2:3 or a bit taller
-<strong>Image Size:</strong> 600x900 pixels minimum, 600x1560 pixels maximum.
-<strong>Description Character Count:</strong> 500 characters of less
+<strong>Accepted File Types:</strong> PNG and JPEG<br>
+<strong>File Size: </strong> 2MB<br>
+<strong>Minimum Resolution:</strong> 72 dpi<br>
+<strong>Aspect Ratio:</strong> 2:3 or a bit taller<br>
+<strong>Image Size:</strong> 600x900 pixels minimum, 600x1560 pixels maximum.<br>
+<strong>Description Character Count:</strong> 500 characters of less<br>
 
 <h3>Creative Guide</h3>
 
 <strong>Include A CTA</strong>
-What is a CTA? It is a call to action! You want to motivate the user to take some action. What that action is, is up to you! It could be to visit your shop or to purchase a specific item. An ad without a call to action isn't much of an ad! You can do this as a text over lay, in the description, or both. Just be clear and provide the appropriate links. 
+What is a CTA? It is a call to action! You want to motivate the user to take some action. What that action is, is up to you! It could be to visit your shop or to purchase a specific item. An ad without a call to action isn't much of an ad! You can do this as a text over lay, in the description, or both. Just be clear and provide the appropriate links. <br><br>
 
 <strong>Tasteful Branding</strong>
-It's been shown that subtle branding drives higher performance. You can do this through product placement or a small water mark off to the side. 
+It's been shown that subtle branding drives higher performance. You can do this through product placement or a small water mark off to the side. <br>
 
-Extra tip - don't put your logo in the bottom right hand corner. It will get covered by the Pinterest product feature. 
+Extra tip - don't put your logo in the bottom right hand corner. It will get covered by the Pinterest product feature.  <br><br>
 
 <strong>Design For Mobile</strong>
-Research shows that around of 80% of users access Pinterest from mobile devices.  You might consider uploading your ad to a secret board to check how it looks on mobile to ensure it is legible and is easy to understand. It is also shown that your image will only be on their screen for an average of less than 2 seconds, so make sure you communicate your point efficiently! 
+Research shows that around of 80% of users access Pinterest from mobile devices.  You might consider uploading your ad to a secret board to check how it looks on mobile to ensure it is legible and is easy to understand. It is also shown that your image will only be on their screen for an average of less than 2 seconds, so make sure you communicate your point efficiently!  <br><br>
 
 <strong>Stand Out </strong>
-One challenge is being able to stand out in a sea of images. Consider what pins will be related to your ad, and try to think and design differently. You want your advertisement to grab attention and stand out, not blend in!
+One challenge is being able to stand out in a sea of images. Consider what pins will be related to your ad, and try to think and design differently. You want your advertisement to grab attention and stand out, not blend in! <br><br>
 
 <strong>Optimize Visual Space</strong>
-Advertisers on Pinterest had the best luck creating vertical ads. The vertical format allows the ad to flow on the page as the visitor scrolls down the feed. It is suggested that your ad should be 600 pixels wide by 900-1550 pixels in height. 
+Advertisers on Pinterest had the best luck creating vertical ads. The vertical format allows the ad to flow on the page as the visitor scrolls down the feed. It is suggested that your ad should be 600 pixels wide by 900-1550 pixels in height.  <br><br>
 
 <strong>Use Text</strong>
-Text can help give an image context. People are more drawn in by the pin than by its description, so make your point on the image itself! The use of straight forward and clear text can help people take action.
+Text can help give an image context. People are more drawn in by the pin than by its description, so make your point on the image itself! The use of straight forward and clear text can help people take action. <br>
 
-Extra tip - A minimum 20pt font is suggested for legibility on mobile.
+Extra tip - A minimum 20pt font is suggested for legibility on mobile. <br><br>
 
 <h2> Resources </h2>
 
