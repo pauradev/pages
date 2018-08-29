@@ -37,13 +37,15 @@ status: publish
 post_type: post
 ---
 
-<img src="https://printaura.com/wp-content/uploads/2017/05/letter-to-entrepreneurs.jpg" alt="letter to entrepreneurs" width="2567" height="1338" class="alignnone size-full wp-image-6785616" />
+[![letter to entrepreneurs](https://printaura.com/wp-content/uploads/2017/05/letter-to-entrepreneurs.jpg)](https://blog.printaura.com/blog/e-commerce-tips/-a-letter-to-aspiring-ecommerce-entrepreneurs)
 
 <h2>A Letter To Aspiring eCommerce Entrepreneurs</h2>
 
 Dear aspiring eCommerce entrepreneur, 
 
 You want to start your own business. You want to be your own boss. You want to be able to support yourself while doing something you love. However, you are also hesitant. 
+
+===
 
 <h3>Fear & Failure</h3>
 
