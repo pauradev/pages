@@ -15,6 +15,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,10 +34,9 @@ comment_status: open
 post_name: 8-stunning-woocommerce-themes
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<img src="https://printaura.com/wp-content/uploads/2018/05/themes2-1024x534.jpg" alt="themes2" width="980" height="511" class="alignnone size-large wp-image-12714093" /><h2>What's A Theme?</h2>
+<img src="/images/uploads/2018/05/themes2-1024x534.jpg" alt="themes2" width="980" height="511" class="alignnone size-large wp-image-12714093" /><h2>What's A Theme?</h2>
 If you aren't someone who can hand code an entire eCommerce store front, not to worry! That's what themes are for. Themes are ready-made templates for your online shop. The theme will provide the foundation for a shop, and you simply customize it to fit your brand! Make it your own by adding your logo, picking out fonts, choosing colors themes, and adding design elements that are unique to your brand.
 <h3>Choosing A Theme</h3>
 Choosing a theme can be both fun and frustrating. With so many to choose from, it can be hard to keep your vision clear. It can also be hard to see past the imagery used in examples of theme to see your own brand vision in the theme.
