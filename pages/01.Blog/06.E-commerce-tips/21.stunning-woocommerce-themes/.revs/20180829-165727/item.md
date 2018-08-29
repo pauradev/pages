@@ -36,7 +36,7 @@ status: publish
 post_type: post
 ---
 
-[![](themes2-1024x534.jpg)](https://blog.printaura.com/blog/e-commerce-tips/stunning-woocommerce-themes)
+[![](themes2)](https://blog.printaura.com/blog/e-commerce-tips/stunning-woocommerce-themes)
 
 <h2>What's A Theme?</h2>
 
