@@ -17,7 +17,7 @@ content:
     order:
         by: date
         dir: desc
-    pagination: false
+    pagination: true
     url_taxonomy_filters: true
 bricklayer_layout: true
 display_post_summary:
