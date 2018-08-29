@@ -1,6 +1,6 @@
 ---
 title: '15 Fun Winter and Holiday Design Ideas'
-published: true
+published: false
 date: '28-11-2017 14:57'
 taxonomy:
     category:
@@ -15,6 +15,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '- ''@self.children'''
     limit: '5'
@@ -33,7 +34,6 @@ comment_status: open
 post_name: 15-fun-winter-and-holiday-design-ideas
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
 <img src="https://printaura.com/wp-content/uploads/2017/11/holiday-blog.jpg" alt="holiday blog" width="1452" height="757" class="alignnone size-full wp-image-12604541" />
