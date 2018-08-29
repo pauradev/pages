@@ -36,10 +36,9 @@ status: publish
 post_type: post
 ---
 
-[[!](themes2)](themes2-1024x534.jpg)
-<h2>What's A Theme?</h2>
+<img src="/images/uploads/2018/05/themes2-1024x534.jpg" alt="themes2" width="980" height="511" class="alignnone size-large wp-image-12714093" /><h2>What's A Theme?</h2>
 
-
+![](/images/uploads/2018/05/themes2-1024x534.jp)
 
 If you aren't someone who can hand code an entire eCommerce store front, not to worry! That's what themes are for. Themes are ready-made templates for your online shop. The theme will provide the foundation for a shop, and you simply customize it to fit your brand! Make it your own by adding your logo, picking out fonts, choosing colors themes, and adding design elements that are unique to your brand.
 <h3>Choosing A Theme</h3>
