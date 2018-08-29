@@ -34,6 +34,7 @@ comment_status: open
 post_name: 15-fun-winter-and-holiday-design-ideas
 status: publish
 post_type: post
+routable: true
 ---
 
 <img src="https://printaura.com/wp-content/uploads/2017/11/holiday-blog.jpg" alt="holiday blog" width="1452" height="757" class="alignnone size-full wp-image-12604541" />
