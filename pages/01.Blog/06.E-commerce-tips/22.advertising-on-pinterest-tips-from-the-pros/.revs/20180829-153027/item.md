@@ -79,7 +79,7 @@ Advertisers on Pinterest had the best luck creating vertical ads. The vertical f
 <strong>Use Text</strong><br>
 Text can help give an image context. People are more drawn in by the pin than by its description, so make your point on the image itself! The use of straight forward and clear text can help people take action. <br>
 
-Extra tip - A minimum 20pt font is suggested for legibility on mobile. <br>
+Extra tip - A minimum 20pt font is suggested for legibility on mobile. <br><
 
 <h2> Resources </h2>
 
