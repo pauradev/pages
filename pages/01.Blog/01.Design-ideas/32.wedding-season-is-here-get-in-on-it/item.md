@@ -1,6 +1,6 @@
 ---
 title: 'Wedding Season Is Here!'
-media_order: 'couple-1850073_1920-768x401.jpg,whiskey-bride-e1529439914247.jpg,bride-and-brides-babes.jpg,Bride-and-Crew.jpg,brige-squad.jpg,Fiesta.jpg,wife-of-the-party.jpg,Drunk-In-Love.jpg,bride-tribe-hat.jpg,team-bride-hats.jpg,his-and-hers-mugs.jpg,catchkeeper.jpg,couple-mug.jpg,wife-and-hubs.jpg,marrie-AF.jpg,just-married.jpg,his-and-hers-pillows.jpg,telephone.jpg,morning.jpg,mr-and-mrs-pillows.jpg,beach-bride.jpg'
+media_order: 'couple-1850073_1920-768x401.jpg,whiskey-bride-e1529439914247.jpg,bride-and-brides-babes.jpg,Bride-and-Crew.jpg,brige-squad.jpg,Fiesta.jpg,wife-of-the-party.jpg,Drunk-In-Love.jpg,bride-tribe-hat.jpg,team-bride-hats.jpg,his-and-hers-mugs.jpg,catchkeeper.jpg,couple-mug.jpg,wife-and-hubs.jpg,marrie-AF.jpg,just-married.jpg,his-and-hers-pillows.jpg,telephone.jpg,morning.jpg,mr-and-mrs-pillows.jpg,beach-bride.jpg,bride-tribe-hats-2.jpg,catch.jpg'
 published: true
 date: '19-06-2018 12:27'
 metadata:
