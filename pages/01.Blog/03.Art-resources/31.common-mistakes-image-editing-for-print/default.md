@@ -50,7 +50,7 @@ We've put together some of the most common mistakes we see in the artwork files 
 
 ## 1. Using the wrong file type
 
-
+&NewLine;
 Using the wrong file type can create a few different issues.
 
 **Accepted File Types
