@@ -53,11 +53,11 @@ Using the wrong file type can create a few different issues. **Accepted File Typ
   * .PSD
   * .PDF
   * .PNG
-  Some products require specific file types, so make sure you check before you upload! If you submit a file using a file type we do not accept, it is very likely image quality issues will arise. **Risks Associated With Using .PNG Files** We do accept .PNG files, but they cannot be saved in a CMYK color profile. A .PNG file type is meant for web use, so it's only saveable in an RGB color profile. If the product you have chosen requires a CMYK profile, there may be some color shifting when the image is converted for printing. You can read more about how this is problematic below in the color profile section. So why do we accept .PNG files? This is a way for people who do not have Photoshop or Illustrator to upload images that contain transparency. Check out our article, [The Problem With .PNGs And Printing](/blog/art-resources/the-problem-with-pngs-and-printing), for more information. You can also check out our article, [File Type Cheat Sheet](/blog/art-resources/file-type-cheat-sheet), if you're interested in learning more about the different kinds of file types! 
+  Some products require specific file types, so make sure you check before you upload! If you submit a file using a file type we do not accept, it is very likely image quality issues will arise. **Risks Associated With Using .PNG Files** We do accept .PNG files, but they cannot be saved in a CMYK color profile. A .PNG file type is meant for web use, so it's only saveable in an RGB color profile. If the product you have chosen requires a CMYK profile, there may be some color shifting when the image is converted for printing. You can read more about how this is problematic below in the color profile section. So why do we accept .PNG files? This is a way for people who do not have Photoshop or Illustrator to upload images that contain transparency. Check out our article, [The Problem With .PNGs And Printing](https://printaura.com/the-problem-with-pngs-and-printing/), for more information. You can also check out our article, [File Type Cheat Sheet](https://printaura.com/file-type-cheat-sheet/), if you're interested in learning more about the different kinds of file types! 
 
 link:link:link: 2\. Using The Wrong Color Profile
 
-Each of our products requires a specific color profile. The vast majority of your images will need to be submitted in a CMYK color profile, but there are some exceptions. Make sure to check the image requirements for each individual product. Check out this video tutorial on how to check and change your color profile.  You can also check out this video explaining and demonstrating the difference between CMYK and RGB.  If you'd like even more information on color profiles, take a look at our article, [The Difference Between RGB and CMYK](/blog/art-resources/the-difference-between-rgb-and-cmyk). 
+Each of our products requires a specific color profile. The vast majority of your images will need to be submitted in a CMYK color profile, but there are some exceptions. Make sure to check the image requirements for each individual product. Check out this video tutorial on how to check and change your color profile.  You can also check out this video explaining and demonstrating the difference between CMYK and RGB.  If you'd like even more information on color profiles, take a look at our article, [The Difference Between RGB and CMYK](https://printaura.com/difference-between-RGB-and-CMYK). 
 
 link:link:link: 3\. Sizing Incorrectly
 
@@ -89,9 +89,9 @@ Some products require specific file types, so make sure you check before you upl
 
 We do accept .PNG files, but they cannot be saved in a CMYK color profile. A .PNG file type is meant for web use, so it's only saveable in an RGB color profile. If the product you have chosen requires a CMYK profile, there may be some color shifting when the image is converted for printing. You can read more about how this is problematic below in the color profile section.
 
-So why do we accept .PNG files? This is a way for people who do not have Photoshop or Illustrator to upload images that contain transparency. Check out our article, <a !blog/art-resources/the-problem-with-pngs-and-printing" target="_blank">The Problem With .PNGs And Printing</a>, for more information.
+So why do we accept .PNG files? This is a way for people who do not have Photoshop or Illustrator to upload images that contain transparency. Check out our article, <a href="https://printaura.com/the-problem-with-pngs-and-printing/" target="_blank">The Problem With .PNGs And Printing</a>, for more information.
 
-You can also check out our article, [File Type Cheat Sheet](/blog/art-resources/file-type-cheat-sheet), if you're interested in learning more about the different kinds of file types!
+You can also check out our article, <a href="https://printaura.com/file-type-cheat-sheet/" target="_blank">File Type Cheat Sheet</a>, if you're interested in learning more about the different kinds of file types!
 <h3>2. Using The Wrong Color Profile</h3>
 Each of our products requires a specific color profile. The vast majority of your images will need to be submitted in a CMYK color profile, but there are some exceptions. Make sure to check the image requirements for each individual product.
 
@@ -103,7 +103,7 @@ You can also check out this video explaining and demonstrating the difference be
 
 <iframe src="https://www.youtube.com/embed/qyOkoVUPB9g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-If you'd like even more information on color profiles, take a look at our article, [The Difference Between RGB and CMYK](/blog/art-resources/the-difference-between-rgb-and-cmyk).
+If you'd like even more information on color profiles, take a look at our article, <a href="https://printaura.com/difference-between-RGB-and-CMYK" target="_blank">The Difference Between RGB and CMYK</a>.
 <h3>3. Sizing Incorrectly</h3>
 This is a big one! It is hard to visualize the size of your design on a computer screen, so it's no surprise that it is common for people to submit designs that are incorrectly sized for one reason or another. 
 
