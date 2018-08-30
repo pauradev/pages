@@ -82,7 +82,7 @@ You can also check out this video explaining and demonstrating the difference be
 
 [plugin:youtube](https://www.youtube.com/embed/qyOkoVUPB9g)
 
-If you'd like even more information on color profiles, take a look at our article, ![The Difference Between RGB and CMYK](/blog/art-resources/the-difference-between-rgb-and-cmyk)
+If you'd like even more information on color profiles, take a look at our article, [The Difference Between RGB and CMYK](/blog/art-resources/the-difference-between-rgb-and-cmyk)
 
 ## 3. Sizing Incorrectly
 
@@ -99,7 +99,7 @@ If you aren't sure how large you should make your design, check out this video g
 
 [plugin:youtube](https://www.youtube.com/embed/JI6Fj4siSsE)
 
-You can also check out our article, ![Design Sizing and Placement Guide](/blog/art-resources/design-sizing-and-placement-guide), for more information.
+You can also check out our article, [Design Sizing and Placement Guide](/blog/art-resources/design-sizing-and-placement-guide), for more information.
 
 **Cropping**
 
@@ -136,7 +136,7 @@ Sometimes people assume that they have fully removed a background, only to find 
 
 Here is something not many people consider, or even think about checking. There are two main different bit modes for images: 8 bit and 16 bit. Different bit modes contain different amounts of tonal variation.
 
-We ask for images to be sent in 8 bit mode. Checking and changing the bit mode of your images is easy in Photoshop. For more information, check out our guide, <a ![8 Bit Vs 16 Bit Images: What’s The Difference & Which To Use](/blog/art-resources/bit-vs-16-bit-images-whats-the-difference-which-to-use)
+We ask for images to be sent in 8 bit mode. Checking and changing the bit mode of your images is easy in Photoshop. For more information, check out our guide, [8 Bit Vs 16 Bit Images: What’s The Difference & Which To Use](/blog/art-resources/bit-vs-16-bit-images-whats-the-difference-which-to-use)
 
 ## 6. Not Merging Your Layers
 
