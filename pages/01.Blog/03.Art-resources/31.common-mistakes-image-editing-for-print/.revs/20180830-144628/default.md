@@ -36,7 +36,7 @@ status: publish
 post_type: post
 ---
 
-[![design mistakes fb](design-mistakes-fb.jpg)](https://blog.printaura.com/blog/art-resources/common-mistakes-image-editing-for-print)
+[![design mistakes fb](https://printaura.com/wp-content/uploads/2017/09/design-mistakes-fb.jpg)](https://blog.printaura.com/blog/art-resources/common-mistakes-image-editing-for-print)
 
 [Are You PreparingYour Artwork Correctly For Print?](https://printaura.com/image-requirements/)
 
@@ -61,9 +61,7 @@ Each of our products requires a specific color profile. The vast majority of you
 
 link:link:link: 3\. Sizing Incorrectly
 
-This is a big one! It is hard to visualize the size of your design on a computer screen, so it's no surprise that it is common for people to submit designs that are incorrectly sized for one reason or another. **File Size ** First and foremost, it is important to understand that we print your image on whatever product you have chosen, in the size of the image file you submit itself. So if you submit a file that is 5 inches x 5 inches, it will be printed at 5 inches x 5 inches. Our mockup tool does not resize images for you. The mockup tool is simply a tool for us to understand where you want your images placed. Take a look at the image requirements for the specific product you'd like to add your design to, and make sure the file itself is in accordance with the size listed. For products like our t-shirts, we have a size maximum. This means your image can be that size, or smaller. But again, your image will printed at 
-
-![design mistakes fb](design-mistakes-fb.jpg) 
+This is a big one! It is hard to visualize the size of your design on a computer screen, so it's no surprise that it is common for people to submit designs that are incorrectly sized for one reason or another. **File Size ** First and foremost, it is important to understand that we print your image on whatever product you have chosen, in the size of the image file you submit itself. So if you submit a file that is 5 inches x 5 inches, it will be printed at 5 inches x 5 inches. Our mockup tool does not resize images for you. The mockup tool is simply a tool for us to understand where you want your images placed. Take a look at the image requirements for the specific product you'd like to add your design to, and make sure the file itself is in accordance with the size listed. For products like our t-shirts, we have a size maximum. This means your image can be that size, or smaller. But again, your image will printed at <img src="https://printaura.com/wp-content/uploads/2017/09/design-mistakes-fb.jpg" alt="design mistakes fb" width="1920" height="1002" class="alignnone size-full wp-image-10937256" />
 
 <h2>Are You Preparing Your Artwork Correctly For Print?</h2>
 Before you upload your photos and begin to add them to products, please consider our image requirements first. This is your absolute best shot in guaranteeing that your prints will come out just the way you want them! If you ignore the image requirements, there is no telling how your art will be printed, because it has not been formatted to our printers or the specific products.
