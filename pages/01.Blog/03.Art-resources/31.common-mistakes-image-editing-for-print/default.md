@@ -49,7 +49,7 @@ Before you upload your photos and begin to add them to products, please consider
 We've put together some of the most common mistakes we see in the artwork files that are sent in to us. If you're making these mistake, you certainly aren't alone. We hope this article will help you all if you are feeling confused, or aren't getting the results you expect from your prints. 
 
 ## 1. Using the wrong file type
-
+&NewLine;
 &NewLine;
 Using the wrong file type can create a few different issues.
 
