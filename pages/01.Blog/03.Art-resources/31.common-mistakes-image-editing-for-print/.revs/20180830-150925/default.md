@@ -42,11 +42,11 @@ post_type: post
 
 Before you upload your photos and begin to add them to products, please consider our image requirements first. This is your absolute best shot in guaranteeing that your prints will come out just the way you want them! If you ignore the image requirements, there is no telling how your art will be printed, because it has not been formatted to our printers or the specific products. So, before you upload, check out the **[Image Requirements](https://printaura.com/image-requirements/)** for the products you are interested in, adjust your designs accordingly, then upload! 
 
-# 6 Common Artwork Preparation Mistakes
+link:link: 6 Common Artwork Preparation Mistakes
 
 We've put together some of the most common mistakes we see in the artwork files that are sent in to us. If you're making these mistake, you certainly aren't alone. We hope this article will help you all if you are feeling confused, or aren't getting the results you expect from your prints. 
 
-## 1. Using The Wrong File Type
+link:link:link: 1\. Using The Wrong File Type
 
 Using the wrong file type can create a few different issues. **Accepted File Types** We accept the following file types: 
 
@@ -55,11 +55,11 @@ Using the wrong file type can create a few different issues. **Accepted File Typ
   * .PNG
   Some products require specific file types, so make sure you check before you upload! If you submit a file using a file type we do not accept, it is very likely image quality issues will arise. **Risks Associated With Using .PNG Files** We do accept .PNG files, but they cannot be saved in a CMYK color profile. A .PNG file type is meant for web use, so it's only saveable in an RGB color profile. If the product you have chosen requires a CMYK profile, there may be some color shifting when the image is converted for printing. You can read more about how this is problematic below in the color profile section. So why do we accept .PNG files? This is a way for people who do not have Photoshop or Illustrator to upload images that contain transparency. Check out our article, [The Problem With .PNGs And Printing](/blog/art-resources/the-problem-with-pngs-and-printing), for more information. You can also check out our article, [File Type Cheat Sheet](/blog/art-resources/file-type-cheat-sheet), if you're interested in learning more about the different kinds of file types! 
 
-## 2. Using The Wrong Color Profile
+link:link:link: 2\. Using The Wrong Color Profile
 
 Each of our products requires a specific color profile. The vast majority of your images will need to be submitted in a CMYK color profile, but there are some exceptions. Make sure to check the image requirements for each individual product. Check out this video tutorial on how to check and change your color profile.  You can also check out this video explaining and demonstrating the difference between CMYK and RGB.  If you'd like even more information on color profiles, take a look at our article, [The Difference Between RGB and CMYK](/blog/art-resources/the-difference-between-rgb-and-cmyk). 
 
-##3. Sizing Incorrectly
+link:link:link: 3\. Sizing Incorrectly
 
 This is a big one! It is hard to visualize the size of your design on a computer screen, so it's no surprise that it is common for people to submit designs that are incorrectly sized for one reason or another. **File Size ** First and foremost, it is important to understand that we print your image on whatever product you have chosen, in the size of the image file you submit itself. So if you submit a file that is 5 inches x 5 inches, it will be printed at 5 inches x 5 inches. Our mockup tool does not resize images for you. The mockup tool is simply a tool for us to understand where you want your images placed. Take a look at the image requirements for the specific product you'd like to add your design to, and make sure the file itself is in accordance with the size listed. For products like our t-shirts, we have a size maximum. This means your image can be that size, or smaller. But again, your image will printed at 
 
