@@ -30,7 +30,7 @@ display_post_summary:
     enabled: '0'
 ---
 
-[![](https://printaura.com/wp-content/uploads/2018/08/25-quotes.jpg)](https://blog.printaura.com/blog/blog-posts/25quotestoliveby)
+[![](25-quotes.jpg)](https://blog.printaura.com/blog/blog-posts/25quotestoliveby)
 
 <h2>Feeling Tired And Uninspired?</h2>
 If you are feeling uninspired or unmotivated, you aren't alone! It can be tough to put work into a passion project or a second job, especially when you are already tired. Staying motivated can seem impossible, but it's not! A little reminder of why you started, and where you can get with hard work and dedication can make a huge difference!
@@ -38,9 +38,9 @@ If you are feeling uninspired or unmotivated, you aren't alone! It can be tough 
 Sometimes we all need a little extra push in the right direction. We've pulled some awesome motivational and inspirational quotes to kick start your week, and put some pep back in your step.
 blah
 <h3>1 "Nothing works until you do." - Maya Angelou
-
-<img class="alignnone size-full wp-image-12722456" src="https://printaura.com/wp-content/uploads/2018/08/nothing-works-until-you-do.jpg" alt="nothing works until you do" width="960" height="640" /></h3>
-
+  
+![](nothing-works-until-you-do.jpg)
+    
 <hr />
 
 <h3>2. "Take the risk or lose the chance."
