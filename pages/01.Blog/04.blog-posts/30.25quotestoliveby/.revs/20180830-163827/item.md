@@ -181,7 +181,7 @@ blah
 
 ### 24. "If you get tired, learn to rest, not to quit." -Banksy
 
-![](4.jpg)
+![](4.jpg)<
 
 <hr />
 
