@@ -190,4 +190,4 @@ blah
 ![](3.jpg)
 
 ## Your Favorite Motivational Quotes
-**Do you have any quotes that are sure to inspire and motivate? Share them with your fellow entrepreneurs down below! Did one of the quotes on this post resonate with you? Let us know your favorite! We'd love to hear from you.**
+Do you have any quotes that are sure to inspire and motivate? Share them with your fellow entrepreneurs down below! Did one of the quotes on this post resonate with you? Let us know your favorite! We'd love to hear from you.
