@@ -38,7 +38,7 @@ post_type: post
 
 [![design mistakes fb](design-mistakes-fb.jpg)](https://blog.printaura.com/blog/art-resources/common-mistakes-image-editing-for-print)
 
-# [Are You PreparingYour Artwork Correctly For Print?](https://printaura.com/image-requirements/)
+[Are You PreparingYour Artwork Correctly For Print?](https://printaura.com/image-requirements/)
 
 Before you upload your photos and begin to add them to products, please consider our image requirements first. This is your absolute best shot in guaranteeing that your prints will come out just the way you want them! If you ignore the image requirements, there is no telling how your art will be printed, because it has not been formatted to our printers or the specific products. So, before you upload, check out the **[Image Requirements](https://printaura.com/image-requirements/)** for the products you are interested in, adjust your designs accordingly, then upload! 
 
