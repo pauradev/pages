@@ -39,14 +39,18 @@ post_type: post
 [![design mistakes fb](design-mistakes-fb.jpg)](https://blog.printaura.com/blog/art-resources/common-mistakes-image-editing-for-print)
 
 
-## Are You PreparingYour Artwork Correctly For Print?
+
+## [Are You PreparingYour Artwork Correctly For Print?](https://printaura.com/image-requirements/)
 
 Before you upload your photos and begin to add them to products, please consider our image requirements first. This is your absolute best shot in guaranteeing that your prints will come out just the way you want them! If you ignore the image requirements, there is no telling how your art will be printed, because it has not been formatted to our printers or the specific products. So, before you upload, check out the **[Image Requirements](https://printaura.com/image-requirements/)** for the products you are interested in, adjust your designs accordingly, then upload! 
 
 ## 6 Common Artwork Preparation Mistakes)
 
-
 We've put together some of the most common mistakes we see in the artwork files that are sent in to us. If you're making these mistake, you certainly aren't alone. We hope this article will help you all if you are feeling confused, or aren't getting the results you expect from your prints. 
+
+
+## Are You Preparing Your Artwork Correctly For Print?
+
 
 ## 1. Using the wrong file type
 
@@ -68,9 +72,10 @@ Some products require specific file types, so make sure you check before you upl
 
 We do accept .PNG files, but they cannot be saved in a CMYK color profile. A .PNG file type is meant for web use, so it's only saveable in an RGB color profile. If the product you have chosen requires a CMYK profile, there may be some color shifting when the image is converted for printing. You can read more about how this is problematic below in the color profile section.
 
-So why do we accept .PNG files? This is a way for people who do not have Photoshop or Illustrator to upload images that contain transparency. Check out our article, [The Problem With .PNGs And Printing](/blog/art-resources/the-problem-with-pngs-and-printing)
+So why do we accept .PNG files? This is a way for people who do not have Photoshop or Illustrator to upload images that contain transparency. Check out our article, [The Problem With .PNGs And Printing](https://printaura.com/the-problem-with-pngs-and-printing/)
 
-You can also check out our article, [File Type Cheat Sheet](/blog/art-resources/file-type-cheat-sheet), if you're interested in learning more about the different kinds of file types!
+You can also check out our article, [File Type Cheat Sheet](https://printaura.com/file-type-cheat-sheet/), if you're interested in learning more about the different kinds of file types!
+
 
 ## 2. Using The Wrong Color Profile
 
@@ -79,11 +84,11 @@ Each of our products requires a specific color profile. The vast majority of you
 
 Check out this video tutorial on how to check and change your color profile.
 
-[plugin:youtube](https://www.youtube.com/embed/UUEMU4wFOfY)
+<iframe src="https://www.youtube.com/embed/UUEMU4wFOfY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 You can also check out this video explaining and demonstrating the difference between CMYK and RGB.
 
-[plugin:youtube](https://www.youtube.com/embed/qyOkoVUPB9g)
+<iframe src="https://www.youtube.com/embed/qyOkoVUPB9g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 If you'd like even more information on color profiles, take a look at our article, ![The Difference Between RGB and CMYK](/blog/art-resources/the-difference-between-rgb-and-cmyk)
 
@@ -102,7 +107,7 @@ If you aren't sure how large you should make your design, check out this video g
 
 [plugin:youtube](https://www.youtube.com/embed/JI6Fj4siSsE)
 
-You can also check out our article, ![Design Sizing and Placement Guide](/blog/art-resources/design-sizing-and-placement-guide), for more information.
+You can also check out our article, <a href="https://printaura.com/design-sizing-and-placement-guide/" target="_blank">Design Sizing and Placement Guide</a>, for more information.
 
 <strong>Cropping </strong>
 
@@ -110,8 +115,8 @@ Cropping your design is very important! Since we print your images based on the 
 
 For more information on image sizing, check out our article, [How to Size Your Artwork Correctly For Print](/blog/art-resources/design-sizing-and-placement-guide)
 
-## 4. Not Removing A Background Correctly
 
+## 4. Not Removing A Background Correctly
 
 <strong>Not Considering The Background</strong>
 
@@ -127,25 +132,22 @@ Sometimes people assume that they have fully removed a background, only to find 
 
 Check out this video to see a background being removed correctly.
 
-[plugin:youtube](https://www.youtube.com/embed/AHrpf0TL4xc)
+<iframe src="https://www.youtube.com/embed/AHrpf0TL4xc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## 5. Using The Wrong Bit Mode
 
-
 Here is something not many people consider, or even think about checking. There are two main different bit modes for images: 8 bit and 16 bit. Different bit modes contain different amounts of tonal variation.
 
-We ask for images to be sent in 8 bit mode. Checking and changing the bit mode of your images is easy in Photoshop. For more information, check out our guide, <a ![8 Bit Vs 16 Bit Images: What’s The Difference & Which To Use](/blog/art-resources/bit-vs-16-bit-images-whats-the-difference-which-to-use)
+We ask for images to be sent in 8 bit mode. Checking and changing the bit mode of your images is easy in Photoshop. For more information, check out our guide, <a href="https://printaura.com/8-bit-vs-16-bit-images-whats-the-difference-which-to-use/" target="_blank">8 Bit Vs 16 Bit Images: What’s The Difference &amp; Which To Use</a>.
 
 ## 6. Not Merging Your Layers
-
 
 Merge those layers people! If you are working on a design with multiple layers in photoshop, it is very important to make sure all of the layers are merged when you save the file. If you save your image as a .PDS, and your layers are still separated, our printers will not read the file correctly. When you merge your layers into one single layer, you are creating one seamless image. When they are separated, the image is broken apart into many parts and peices.
 
 Check out this video on merging layers for more information.
 
-[plugin:youtube](https://www.youtube.com/embed/yVlOL8fKvk0)
+<iframe src="https://www.youtube.com/embed/yVlOL8fKvk0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## How About You?
-
 
 Do you have any image editing issues that you run into frequently that you'd like to have explained? If so, let us know in the comments section down below. We love you help our members by creating guides and tutorials to help make things easier to understand. 
