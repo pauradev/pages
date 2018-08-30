@@ -36,7 +36,7 @@ status: publish
 post_type: post
 ---
 
-[![design mistakes fb](design-mistakes-fb.jpg)](/blog/art-resources/common-mistakes-image-editing-for-print)
+[![design mistakes fb](design-mistakes-fb.jpg)](https://blog.printaura.com/blog/art-resources/common-mistakes-image-editing-for-print)
 
 ## Are You PreparingYour Artwork Correctly For Print?
 
@@ -71,17 +71,18 @@ You can also check out our article, [File Type Cheat Sheet](/blog/art-resources/
 
 ## 2. Using The Wrong Color Profile
 
+
 Each of our products requires a specific color profile. The vast majority of your images will need to be submitted in a CMYK color profile, but there are some exceptions. Make sure to check the image requirements for each individual product.
 
-**Check out this video tutorial on how to check and change your color profile.**
+Check out this video tutorial on how to check and change your color profile.
 
 [plugin:youtube](https://www.youtube.com/embed/UUEMU4wFOfY)
 
-**You can also check out this video explaining and demonstrating the difference between CMYK and RGB.**
+You can also check out this video explaining and demonstrating the difference between CMYK and RGB.
 
 [plugin:youtube](https://www.youtube.com/embed/qyOkoVUPB9g)
 
-**If you'd like even more information on color profiles, take a look at our article, [The Difference Between RGB and CMYK](/blog/art-resources/the-difference-between-rgb-and-cmyk)**
+If you'd like even more information on color profiles, take a look at our article, [The Difference Between RGB and CMYK](/blog/art-resources/the-difference-between-rgb-and-cmyk)
 
 ## 3. Sizing Incorrectly
 
@@ -94,11 +95,11 @@ First and foremost, it is important to understand that we print your image on wh
 
 For products like our t-shirts, we have a size maximum. This means your image can be that size, or smaller. But again, your image will printed at the size of the file you have uploaded.
 
-**If you aren't sure how large you should make your design, check out this video guide that can help you decide!**
+If you aren't sure how large you should make your design, check out this video guide that can help you decide!
 
 [plugin:youtube](https://www.youtube.com/embed/JI6Fj4siSsE)
 
-**You can also check out our article, [Design Sizing and Placement Guide](/blog/art-resources/design-sizing-and-placement-guide), for more information.**
+You can also check out our article, [Design Sizing and Placement Guide](/blog/art-resources/design-sizing-and-placement-guide), for more information.
 
 **Cropping**
 
@@ -121,11 +122,17 @@ If you have a design, and there is any kind of background, whether it is white o
 
 Sometimes people assume that they have fully removed a background, only to find when they receive a printed t-shirt, that there a little random specs printed around their design. This happens when a background isn't fully removed. It can be hard to see small spots here and there. They can go unnoticed by even the keenest of eyes. One way to prevent this from happening is to add a plain black layer under your design. This will reveal any hidden spots that were left over. Just make sure to remove the layer when you are done cleaning up the background.
 
+
 **Check out this video to see a background being removed correctly.**
+
+
 
 [plugin:youtube](https://www.youtube.com/embed/AHrpf0TL4xc)
 
+
+
 ## 5. Using The Wrong Bit Mode
+
 
 Here is something not many people consider, or even think about checking. There are two main different bit modes for images: 8 bit and 16 bit. Different bit modes contain different amounts of tonal variation.
 
@@ -133,12 +140,19 @@ We ask for images to be sent in 8 bit mode. Checking and changing the bit mode o
 
 ## 6. Not Merging Your Layers
 
+
 Merge those layers people! If you are working on a design with multiple layers in photoshop, it is very important to make sure all of the layers are merged when you save the file. If you save your image as a .PDS, and your layers are still separated, our printers will not read the file correctly. When you merge your layers into one single layer, you are creating one seamless image. When they are separated, the image is broken apart into many parts and peices.
+
 
 **Check out this video on merging layers for more information.**
 
+
+
 [plugin:youtube](https://www.youtube.com/embed/yVlOL8fKvk0)
 
+
+
 ## How About You?
+
 
 Do you have any image editing issues that you run into frequently that you'd like to have explained? If so, let us know in the comments section down below. We love you help our members by creating guides and tutorials to help make things easier to understand. 
