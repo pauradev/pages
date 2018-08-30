@@ -39,6 +39,7 @@ If you are feeling uninspired or unmotivated, you aren't alone! It can be tough 
 ## 25 Quotes To Live By For Entrepreneurs
 
 Sometimes we all need a little extra push in the right direction. We've pulled some awesome motivational and inspirational quotes to kick start your week, and put some pep back in your step.
+blah
 
 ===
 
