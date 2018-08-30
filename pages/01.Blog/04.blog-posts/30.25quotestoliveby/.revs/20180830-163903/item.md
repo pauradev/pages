@@ -41,8 +41,6 @@ If you are feeling uninspired or unmotivated, you aren't alone! It can be tough 
 Sometimes we all need a little extra push in the right direction. We've pulled some awesome motivational and inspirational quotes to kick start your week, and put some pep back in your step.
 blah
 
-===
-
 ### 1 "Nothing works until you do." - Maya Angelou
   
 ![](nothing-works-until-you-do.jpg)
