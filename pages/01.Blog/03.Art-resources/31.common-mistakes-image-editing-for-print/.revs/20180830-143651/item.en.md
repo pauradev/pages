@@ -37,7 +37,7 @@ status: publish
 post_type: post
 ---
 
-[![design mistakes fb](design-mistakes-fb.jpg)](/blog/art-resources/common-mistakes-image-editing-for-print)
+[![design mistakes fb](design-mistakes-fb.jpg)](https://blog.printaura.com/blog/art-resources/common-mistakes-image-editing-for-print)
 
 [Are You PreparingYour Artwork Correctly For Print?](https://printaura.com/image-requirements/)
 
