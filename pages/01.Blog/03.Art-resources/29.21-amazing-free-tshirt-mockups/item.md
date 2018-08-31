@@ -11,7 +11,7 @@ header_image: '0'
 hide_from_post_list: false
 ---
 
-[![](mockup%20blog.jpg)](https://blog.printaura.com/blog/art-resources/21-amazing-free-tshirt-mockups)
+[![](mockup%20blog.jpg)](/blog/art-resources/21-amazing-free-tshirt-mockups)
 
 ## Use Mockups To Elevate Your Product Pages
 ## 
@@ -143,7 +143,7 @@ We poured through some of our favorite online graphic resource websites to find 
 
 ### 21. Hanging Sweaters
 
-![](21.jpg =400x400)
+![](21.jpg)
 
 ##### [View Mockup](https://graphicburger.com/jumper-mockup-psd/) 
 
