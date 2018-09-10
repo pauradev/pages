@@ -61,8 +61,10 @@ We've added the following items to our product options, as well as new color opt
 </ul>
 &nbsp;
 <hr />
-![](001-woman-long-sleeve-tshirt-brand-psd-mockup.jpg)
-!(Mock Up)( https://www.pixeden.com/psd-mock-up-templates/psd-woman-long-sleeve-t-shirt-mockup)
+
+<img class="alignnone size-full wp-image-12717833" src="https://blog.printaura.com/images/d/2/b/8/3/d2b837466aa8e607f605e73f2b9ccd44cc5bd5a5-001-woman-long-sleeve-tshirt-brand-psd-mockup2x.jpeg?g-1b33e338" alt="1" width="200" height="200" />
+(<a href="https://www.pixeden.com/psd-mock-up-templates/psd-woman-long-sleeve-t-shirt-mockup" target="_blank">Next Level 3602</a>)
+
 
 <img class="alignnone size-large wp-image-12717834" src="https://printaura.com/wp-content/uploads/2018/06/2.png" alt="2" width="200" height="200" />
 <h3>Men’s Cotton Long Body Crew</h3>
