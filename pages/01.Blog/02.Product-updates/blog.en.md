@@ -25,4 +25,3 @@ display_post_summary:
 hide_from_post_list: true
 ---
 
-Your page content goes here.
