@@ -1,6 +1,39 @@
 ---
 title: 'New Next Level Items Added!'
-hide_git_sync_repo_link: false
+published: true
+date: '26-06-2018 10:19'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - post
+hide_git_sync_repo_link: true
+external_links:
+    process: true
+    target: _self
+blog_url: /blog
+show_sidebar: true
+show_breadcrumbs: true
+show_pagination: true
+content:
+    items: '- ''@self.children'''
+    limit: '5'
+    order:
+        by: date
+        dir: desc
+    pagination: '1'
+    url_taxonomy_filters: '1'
+bricklayer_layout: '1'
+display_post_summary:
+    enabled: '0'
+author: denise
+post_id: 12717822
+date_published: '2018/06/26 18:19:29'
+comment_status: open
+post_name: new-next-level-items-added
+status: publish
+post_type: post
+hide_from_post_list: false
 ---
 
 <img src="https://printaura.com/wp-content/uploads/2018/06/next-level-products.jpg" alt="next level products" width="950" height="570" class="alignnone size-full wp-image-12717990" />
