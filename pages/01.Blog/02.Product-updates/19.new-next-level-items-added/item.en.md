@@ -1,5 +1,6 @@
 ---
 title: 'New Next Level Items Added!'
+media_order: 001-woman-long-sleeve-tshirt-brand-psd-mockup.jpg
 published: true
 date: '26-06-2018 10:19'
 taxonomy:
@@ -15,6 +16,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '- ''@self.children'''
     limit: '5'
@@ -33,7 +35,6 @@ comment_status: open
 post_name: new-next-level-items-added
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
 <img src="https://printaura.com/wp-content/uploads/2018/06/next-level-products.jpg" alt="next level products" width="950" height="570" class="alignnone size-full wp-image-12717990" />
@@ -60,8 +61,8 @@ We've added the following items to our product options, as well as new color opt
 </ul>
 &nbsp;
 <hr />
-
-(![https://www.pixeden.com/media/k2/galleries/1259/001-woman-long-sleeve-tshirt-brand-psd-mockup.jpg]( https://www.pixeden.com/psd-mock-up-templates/psd-woman-long-sleeve-t-shirt-mockup))
+![](001-woman-long-sleeve-tshirt-brand-psd-mockup.jpg)
+!(Mock Up)( https://www.pixeden.com/psd-mock-up-templates/psd-woman-long-sleeve-t-shirt-mockup)
 
 <img class="alignnone size-large wp-image-12717834" src="https://printaura.com/wp-content/uploads/2018/06/2.png" alt="2" width="200" height="200" />
 <h3>Men’s Cotton Long Body Crew</h3>
