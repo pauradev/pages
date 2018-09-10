@@ -62,20 +62,6 @@ We've added the following items to our product options, as well as new color opt
 &nbsp;
 <hr />
 
-<img class="alignnone size-full wp-image-12717833" src="https://blog.printaura.com/images/d/2/b/8/3/d2b837466aa8e607f605e73f2b9ccd44cc5bd5a5-001-woman-long-sleeve-tshirt-brand-psd-mockup2x.jpeg?g-1b33e338" alt="1" width="200" height="200" />
-(<a href="https://www.pixeden.com/psd-mock-up-templates/psd-woman-long-sleeve-t-shirt-mockup" target="_blank">Psd Woman Long Sleeve </a>)
-
-
-<strong>Available Sizes:</strong> Small - 3X-Large
-
-<strong>Available Colors:</strong>
-<ul>
- 	<li>Black</li>
- 	<li>Heather Grey</li>
- 	<li>White</li>
-</ul>
-&nbsp;
-<hr />
 
 <img class="alignnone size-large wp-image-12717835" src="https://printaura.com/wp-content/uploads/2018/06/3.png" alt="3" width="200" height="200" />
 <h3>Ladies’ Ideal Dolman</h3>
