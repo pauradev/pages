@@ -24,4 +24,3 @@ post_icon: ''
 hide_from_post_list: '0'
 ---
 
-
