@@ -1,4 +1,5 @@
 ---
+
 title: Blog
 hide_git_sync_repo_link: false
 git_sync_repo_link: 'https://github.com/pauradev/pages'
