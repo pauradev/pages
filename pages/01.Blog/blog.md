@@ -5,7 +5,7 @@ git_sync_repo_link: 'https://github.com/pauradev/pages'
 sitemap:
     changefreq: daily
 visible: false
-hero_classes: overlay-light
+hero_classes: hero-fullscreen
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
