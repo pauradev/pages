@@ -6,4 +6,8 @@ visible: false
 hide_from_post_list: true
 ---
 
-Instagram
+## Instagram 
+
+Follow our latest updated, design ideas, and ecommerce news through instagram.com/print.aura/
+
+#####Check It Out Below 
