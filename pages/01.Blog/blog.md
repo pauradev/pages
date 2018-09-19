@@ -9,7 +9,7 @@ jscomments:
 visible: false
 blog_url: /blog
 show_sidebar: true
-show_breadcrumbs: true
+show_breadcrumbs: false
 show_pagination: false
 content:
     items:
