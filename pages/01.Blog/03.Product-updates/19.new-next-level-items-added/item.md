@@ -15,6 +15,9 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+header_image_width: 900
+header_image_height: 300
+hide_from_post_list: false
 content:
     items: '- ''@self.children'''
     limit: '5'
@@ -33,7 +36,6 @@ comment_status: open
 post_name: new-next-level-items-added
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
 <img src="https://printaura.com/wp-content/uploads/2018/06/next-level-products.jpg" alt="next level products" width="950" height="570" class="alignnone size-full wp-image-12717990" />
