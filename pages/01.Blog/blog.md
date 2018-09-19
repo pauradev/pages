@@ -22,7 +22,7 @@ content:
     url_taxonomy_filters: true
 bricklayer_layout: true
 display_post_summary:
-    enabled: true
+    enabled: false
 display_child_page_titles: '0'
 display_content_titles: '1'
 hide_from_post_list: '1'
