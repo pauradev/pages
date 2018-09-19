@@ -1,6 +1,5 @@
 ---
 title: Blog
-media_order: temp_banner_option_2.jpg
 hide_git_sync_repo_link: false
 git_sync_repo_link: 'https://github.com/pauradev/pages'
 sitemap:
