@@ -35,4 +35,3 @@ feed:
     limit: 10
 ---
 
-![](temp_banner_option_2.jpg)
