@@ -15,6 +15,9 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+summary:
+    enabled: '0'
+hide_from_post_list: false
 content:
     items: '- ''@self.children'''
     limit: '5'
@@ -33,7 +36,6 @@ comment_status: open
 post_name: calling-all-outdoor-enthusiasts
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
 <img src="https://printaura.com/wp-content/uploads/2018/07/outdoor-blog-1024x534.jpg" alt="outdoor blog" width="980" height="511" class="alignnone size-large wp-image-12719532" />
