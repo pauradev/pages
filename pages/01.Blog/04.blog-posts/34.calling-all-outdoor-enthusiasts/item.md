@@ -17,6 +17,7 @@ show_breadcrumbs: true
 show_pagination: true
 summary:
     enabled: '1'
+    size: 100
 hide_from_post_list: false
 content:
     items: '- ''@self.children'''
