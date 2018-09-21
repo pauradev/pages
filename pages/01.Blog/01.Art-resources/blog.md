@@ -8,8 +8,8 @@ routable: true
 visible: false
 blog_url: /
 show_sidebar: true
-show_breadcrumbs: true
-show_pagination: false
+show_breadcrumbs: false
+show_pagination: true
 content:
     items:
         - '@self.children'
