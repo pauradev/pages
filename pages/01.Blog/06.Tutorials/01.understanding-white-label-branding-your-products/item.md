@@ -1,6 +1,7 @@
 ---
 title: 'Understanding White Label & Branding Your Products'
 published: true
+date: '22-08-2017 19:36'
 taxonomy:
     category:
         - tutorial
@@ -14,6 +15,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '- ''@self.children'''
     limit: '5'
@@ -27,12 +29,10 @@ display_post_summary:
     enabled: '0'
 author: denise
 post_id: 9693944
-date: '2017/08/22 19:36:49'
 comment_status: open
 post_name: understanding-white-label-branding-your-products
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
 <h2>What Is White Label?</h2>
