@@ -1,5 +1,6 @@
 ---
 title: 'Understanding White Label & Branding Your Products'
+media_order: fb-branding.jpg
 published: true
 date: '22-08-2017 19:36'
 taxonomy:
@@ -38,7 +39,7 @@ post_type: post
 <h2>What Is White Label?</h2>
 Print Aura is a white label service. You've probably seen this term thrown around before, but might not know what it actually means. White Label simply means that we do not brand the products we print on. We know that the designs are yours, and the customers are yours. We want to give our members the credit they deserve, and the opportunity to add branding of their own. You will never see a Print Aura logo or branding of any kind on your items.
 
-<img class="alignnone size-full wp-image-9700443" src="https://printaura.com/wp-content/uploads/2017/08/fb-branding.jpg" alt="fb branding" width="1000" height="522" />
+![](fb-branding.jpg)
 
 <h2>Branding Your Products</h2>
 Since our products are shipped to your customers without any branding, it's a perfect opportunity for you to put your own branding onto your products. We offer lots of different branding options to help make sure your products are recognizable as being YOURS. If you go into any retail store, you will notice most garments will at least have a branded tag hanging from the item and a branded neck label of some sortl. Brands do this because it helps with brand recognition and allows the customer to have a point of reference after buying the item. If the customer enjoys the item, it's easier for them to look up the brand later and see what else they have to offer.
