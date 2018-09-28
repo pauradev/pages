@@ -1,6 +1,8 @@
 ---
 title: 'How To: Size Artwork Correctly For Print'
+media_order: sizing-art-work.jpg
 published: true
+date: '06-12-2016 20:16'
 taxonomy:
     category:
         - blog
@@ -14,6 +16,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '- ''@self.children'''
     limit: '5'
@@ -27,18 +30,15 @@ display_post_summary:
     enabled: '0'
 author: denise
 post_id: 3807022
-date: '2016/12/06 20:16:26'
 comment_status: open
 post_name: how-to-size-artwork-correctly-for-print
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<img src="https://printaura.com/wp-content/uploads/2016/12/sizing-art-work.jpg" alt="sizing art work" width="1622" height="846" class="alignnone size-full wp-image-3808266" />
 
-<h2>Truth Time: Sizing Your Artwork</h2>
-
+[![](sizing-art-work.jpg)](/blog/tutorials/how-to-size-artwork-correctly-for-print)
+#### Truth Time: Sizing Your Artwork
 Let's talk about sizing artwork for print. We have been getting more and more improperly sized files lately. Sometimes our artwork team has time to resize them for our members, and sometimes they don't. In truth, they are not supposed to be editing people's artwork at all, they just do it out of kindness! However, with the amount of improperly sized files growing every day, our team is spending more and more of their day editing member files that are technically required to be submitted 100% ready to print. While they love to help, it's becoming a problem!
 
 <h2>How To: Size Artwork Correctly For Print</h2>
