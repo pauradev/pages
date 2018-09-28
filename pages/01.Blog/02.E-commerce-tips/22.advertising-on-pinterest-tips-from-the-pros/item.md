@@ -37,7 +37,7 @@ status: publish
 post_type: post
 ---
 
-![](pinterest%20blog.jpg)
+[![](pinterest%20blog.jpg)(/blog/e-commerce-tips/advertising-on-pinterest-tips-from-the-pros)]
 Do you do any online advertising for your brand, products, or online store? If not, you probably want to consider it. Advertising online is essential for getting noticed! If you want to reach your future customers, you have to get in front of them. While Facebook and Instagram can be good platforms to reach people who may be interested in buying your products, Pinterest is an excellent, and sometimes overlooked option as well. 
 
 <h2>Advertising On Pinterest</h2>
