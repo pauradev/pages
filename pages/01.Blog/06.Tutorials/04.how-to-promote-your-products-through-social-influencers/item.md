@@ -1,6 +1,8 @@
 ---
 title: 'How To Promote Your Products Through Social Influencers'
+media_order: bloggers-blog.jpg
 published: true
+date: '28-06-2016 21:10'
 taxonomy:
     category:
         - blog
@@ -14,6 +16,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '- ''@self.children'''
     limit: '5'
@@ -27,16 +30,14 @@ display_post_summary:
     enabled: '0'
 author: denise
 post_id: 2406643
-date: '2016/06/28 21:10:11'
 comment_status: open
 post_name: how-to-promote-your-products-through-social-influencers
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<img src="https://printaura.com/wp-content/uploads/2016/06/bloggers-blog-1024x386.jpg" alt="Promote Your Product" width="980" height="369" class="alignnone size-large wp-image-2406771" />
-<h2>Social Influencers</h2>
+[![](bloggers-blog.jpg)](/blog/tutorials/how-to-promote-your-products-through-social-influencers)
+#### Social Influencers
 Partnering up with fashion or lifestyle bloggers, established instagrammers, and popular youtubers can be a great way to promote your brand and your products. A lot of the time you can get your products out there in front of thousands of people for the price of a t-shirt and shipping. You also receive the endorsement of an opinion leader with influence over their followers / subscribers.
 
 The way you do this is simple! You find someone with a large following who embodies your style and your brand. You then offer them free product in exchange for wearing or featuring the product on their blog, instagram feed, or youtube channel. It’s a win-win!
