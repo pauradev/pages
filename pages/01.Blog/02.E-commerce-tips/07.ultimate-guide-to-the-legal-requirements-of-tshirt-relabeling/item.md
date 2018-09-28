@@ -1,5 +1,6 @@
 ---
 title: 'Ultimate Guide to the Legal Requirements of T-Shirt Relabeling'
+media_order: heat-transfer-label.jpg
 date: '14:10 09-07-2016'
 hide_git_sync_repo_link: false
 blog_url: /blog
@@ -9,7 +10,7 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-<img class="alignnone size-full wp-image-942140" src="https://printaura.com/wp-content/uploads/2015/03/heat-transfer-label-v2-550px.jpg" alt="Clothing Label Requirements" width="575" height="373" />
+[![](heat-transfer-label.jpg)](/blog/e-commerce-tips/ultimate-guide-to-the-legal-requirements-of-tshirt-relabeling)
 
 Many t-shirt companies they want their products sold to appear to be branded whether or not they actually created the physical shirt that was printed on. In doing so many want to remove the default manufacturers tags and add your own tag to build your brand. Removing the tags is only legal if the information is replaced with the following information: fiber content, the country of origin, and the identity of the manufacturer or another business responsible for marketing or handling the item. Read this guide to avoid a “tag snag" that is enforced by the FTC as part of the Textile and Wool Acts.
 <h2>Basic info required on t-shirt labels:</h2>
