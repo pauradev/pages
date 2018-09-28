@@ -1,5 +1,6 @@
 ---
 title: '14 Brilliant Shopify Themes'
+media_order: shopifythemes-fb.jpg
 published: true
 date: '24-01-2017 13:53'
 taxonomy:
@@ -15,6 +16,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '- ''@self.children'''
     limit: '5'
@@ -33,10 +35,9 @@ comment_status: open
 post_name: 14-brilliant-shopify-themes
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<img src="https://printaura.com/wp-content/uploads/2017/01/shopifythemes-fb.jpg" alt="shopifythemes-fb" width="1280" height="668" class="alignnone size-full wp-image-4683110" />
+[![](shopifythemes-fb.jpg)](/blog/e-commerce-tips/14-brilliant-shopify-themes)
 
 <h2>What Is A Store Theme?</h2>
 If you're not great with online design or coding, not to worry! There is a theme for that! A store theme is essentially a ready-made template for your online shop. The theme will provide the foundation for a shop design, and you simply customize it to fit your brand! Add your logo, choose your colors, add your products, spruce it up with some imagery, then presto! You're done.
