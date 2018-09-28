@@ -11,7 +11,7 @@ hide_from_post_list: false
 ---
 
 [![](12-product-description-graphic.png)](/blog/tutorials/how-to-write-a-great-product-description)
-
+#### Take you brand up a notch
 A great product description shows that the people behind the brand are knowledgeable on what they’re selling and know how to present a great idea. You may think that there isn’t anything exciting to say about your product, but that’s where you’re wrong. Even tube socks can sound interesting…
 <blockquote><i>If you’ve ever wanted a pair of socks that say “tourist”, these are it.
 </i><i>Nothing comes between you and your sneakers. Except for these.
