@@ -15,6 +15,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,10 +34,9 @@ comment_status: open
 post_name: 6-ways-to-market-your-brand-on-a-budget
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<img src="https://printaura.com/wp-content/uploads/2018/02/market-budget-blog-1024x534.jpg" alt="market budget blog" width="980" height="511" class="alignnone size-large wp-image-12694363" />
+[![](market-budget-blog.jpg)](/blog/e-commerce-tips/6-ways-to-market-your-brand-on-a-budget)
 
 <h2>Getting Your Brand Out There!</h2>
 Do you want to start marketing your brand, but don't know where to start? It can seem pretty intimidating, and more than anything, expensive! Marketing your brand doesn't have to break the bank. There are plenty of smart and strategic ways you can go about getting your brand out there! 
