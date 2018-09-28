@@ -1,5 +1,6 @@
 ---
 title: 'What Not To Worry About When Starting a T-Shirt Company'
+media_order: tshritssized.jpg
 date: '14:12 09-08-2016'
 hide_git_sync_repo_link: false
 blog_url: /blog
@@ -9,7 +10,8 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-<p dir="ltr"><a href="https://printaura.com/wp-content/uploads/2014/04/tshritssized.jpg"><img class="alignnone size-full wp-image-145150" src="https://printaura.com/wp-content/uploads/2014/04/tshritssized.jpg" alt="Colorful t-shirts" width="575" height="385" /></a></p>
+[![](tshritssized.jpg)](/blog/e-commerce-tips/what-not-to-worry-about-when-starting-a-tshirt-company)
+
 <p id="docs-internal-guid-16cb2c5c-4d20-e490-5b0a-f2d7f4833b20" dir="ltr">Starting any business is a labor of love, sweat, tears and passion. Fortunately, we live in a time where it’s never been easier to start a business. Leveraging existing tech tools, the ability to start and scale a business online is now accessible to anyone with a little knowledge, a computer and an internet connection, and a minimal level of startup capital. This applies to anything but is also product specific, as it is now easier to start one business in particular that many people have shied away from for years: T-shirts.</p>
 <p dir="ltr"><strong>Print on demand services like Print Aura. make it so that you don’t have to produce, inventory, or ship your own shirts.</strong> This can all be done on demand, in an automated fashion, which leaves you free to focus on other aspects of the business, such as continuing to create great products and market and sell those creations.</p>
 <p dir="ltr">So now that technology platforms for business are widely available and accessible, product specific technologies to produce and sell t-shirts effortlessly are available, what’s stopping you or anyone from doing it? The answer is often in the mirror. It’s our own reasons, rationalizations, our own ‘logic’ around why we can’t have what we want to have, why we can’t ‘really’ live our passions and dreams. These are all reasons and excuses, and I’m about to debunk for you many of the most prevalent things that come up for people when trying to start a t-shirt company.</p>
