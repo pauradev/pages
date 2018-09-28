@@ -40,7 +40,7 @@ post_type: post
 [![](letter-to-entrepreneurs.jpg)](blog/e-commerce-tips/-a-letter-to-aspiring-ecommerce-entrepreneurs)
 
 <h2>A Letter To Aspiring eCommerce Entrepreneurs</h2>
-![]()
+
 Dear aspiring eCommerce entrepreneur, 
 
 You want to start your own business. You want to be your own boss. You want to be able to support yourself while doing something you love. However, you are also hesitant. 
