@@ -37,7 +37,6 @@ status: publish
 post_type: post
 ---
 
-
 [![](shopify-fb.jpg)](/blog/e-commerce-tips/6-awesome-shopify-apps-you-need-to-check-out)
 Shopify can be an amazing eCommerce platform for entrepreneurs to get their start, and continue on to big things! Out of all of our members, the majority of you use Shopify to host your online shops. Since so many of you are using this platform, we thought we'd ask you all a question .. 
 
