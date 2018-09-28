@@ -12,7 +12,7 @@ hide_from_post_list: false
 ---
 
 [![](remove-whitebackground.jpg)](/blog/tutorials/how-to-remove-the-white-background-from-your-image)
-
+#### Making Professional Print Images
 When designing a t-shirt, hang tag or heat press label you often will have a logo or graphic that is on background. If you want your graphic to ‘POP’ on the shirt, you must remove this background and place the object on a transparent background. In this tutorial we will show you a few ways that you can easily remove the background and place the image on a transparent background that will make your designs look professional and amazing!
 <h2><b>The Tools of the Trade</b></h2>
 Getting rid of the white background on your image is now easier than ever for the novice. In fact, no design training is even necessary these days. There are several programs that you can use to achieve the same result. Choosing the right program depends on your skill level, computer platform, and budget.
