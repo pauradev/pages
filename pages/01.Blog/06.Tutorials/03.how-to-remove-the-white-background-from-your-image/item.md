@@ -1,5 +1,6 @@
 ---
 title: 'How to remove the white background from your image'
+media_order: remove-whitebackground.jpg
 date: '14:07 09-06-2017'
 publish_date: '14-06-2017 00:00'
 hide_git_sync_repo_link: false
@@ -10,7 +11,7 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-<img class="alignnone  wp-image-1125733" src="https://printaura.com/wp-content/uploads/2015/05/remove-whitebackground.jpg" alt="Remove Background from an Image" width="614" height="425" />
+[![](remove-whitebackground.jpg)](/blog/tutorials/how-to-remove-the-white-background-from-your-image)
 
 When designing a t-shirt, hang tag or heat press label you often will have a logo or graphic that is on background. If you want your graphic to ‘POP’ on the shirt, you must remove this background and place the object on a transparent background. In this tutorial we will show you a few ways that you can easily remove the background and place the image on a transparent background that will make your designs look professional and amazing!
 <h2><b>The Tools of the Trade</b></h2>
