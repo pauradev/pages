@@ -29,7 +29,7 @@ A trademark is a recognizable word, sign, design or expression that identifies a
 
 What does this mean for t-shirt designers? Using any artwork from the internet that you don’t own or didn’t make is <b>ILLEGAL. </b>
 <h2><b>What you CAN’T use for t-shirt design</b></h2>
-<img class="alignnone  wp-image-1125692" src="https://printaura.com/wp-content/uploads/2015/05/legaltshirtdesign.jpg" alt="Legal Guide to T-Shirt Design" width="599" height="1038" />
+[![](legaltshirtdesign.jpg)](/blog/e-commerce-tips/legal-guide-to-tshirt-design)
 
 &nbsp;
 <ul>
