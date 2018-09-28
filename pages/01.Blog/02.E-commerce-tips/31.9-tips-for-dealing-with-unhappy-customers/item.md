@@ -1,5 +1,6 @@
 ---
 title: '9 Tips For Dealing With Unhappy Customers'
+media_order: unhappycustomer1.jpg
 published: true
 date: '09-02-2016 11:10'
 taxonomy:
@@ -15,6 +16,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,10 +35,9 @@ comment_status: open
 post_name: 9-tips-for-dealing-with-unhappy-customers
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<h2><img class="alignnone size-full wp-image-2111304" src="https://printaura.com/wp-content/uploads/2016/02/unhappycustomer1.jpg" alt="9 Tips For Dealing with unhappy Customers" width="900" height="358" /></h2>
+[![](unhappycustomer1.jpg)](/blog/e-commerce-tips/9-tips-for-dealing-with-unhappy-customers)
 Mistakes happen.
 
 We would love to sit here and tell you we do everything perfectly all the time, but that’s just not reality. No one does. If we make a mistake, we own up to it and fix it, period. We know that our members are happy when their customers are happy. If we are to blame for an issue, we reship and replace the item ASAP. Take at look at our stats from January below.
