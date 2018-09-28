@@ -1,5 +1,6 @@
 ---
 title: '6 Awesome Shopify Apps You Need To Check Out'
+media_order: shopify-fb.jpg
 published: true
 date: '04-01-2017 11:57'
 taxonomy:
@@ -15,6 +16,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,11 +35,10 @@ comment_status: open
 post_name: 6-awesome-shopify-apps-you-need-to-check-out
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<img src="https://printaura.com/wp-content/uploads/2017/01/shopify-fb.jpg" alt="shopify fb" width="1920" height="1001" class="alignnone size-full wp-image-4311760" />
 
+[![](shopify-fb.jpg)](/blog/e-commerce-tips/6-awesome-shopify-apps-you-need-to-check-out)
 Shopify can be an amazing eCommerce platform for entrepreneurs to get their start, and continue on to big things! Out of all of our members, the majority of you use Shopify to host your online shops. Since so many of you are using this platform, we thought we'd ask you all a question .. 
 
 <strong>Do you utilize the Shopify App Store? </strong>
