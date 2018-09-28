@@ -1,6 +1,6 @@
 ---
 title: '21 Amazing Free T-Shirt Mockups'
-media_order: 'Baby-T-Shirt-Mockup.jpg,20.jpg,11a.jpg,21.jpg,16a.jpg,14.jpg,15.jpg,17.jpg,18.jpg,19.jpg,16.jpg,13.jpg,12.jpg,11.jpg,10.jpg,9.jpg,8.jpg,7.jpg,6.jpg,5.jpg,4.jpg,3.jpg,2.jpg,1.jpg,mockup blog.jpg,bonus.jpg,3.png,mockup blog.png,17.png,6.png,9.png,15.png,19.png,11.png,1.png,13.png,10.png,12.png,16a.png,16.png,7.png,14.png,bonus.png,4.png,2.png,5.png,21.png,8.png,20.png,18.png,1498287289_male_round_color_tshirt_mockup_privew_3.jpg,11ab.jpg'
+media_order: '20.jpg,21.jpg,16a.jpg,14.jpg,15.jpg,17.jpg,18.jpg,19.jpg,16.jpg,13.jpg,12.jpg,11.jpg,10.jpg,9.jpg,8.jpg,7.jpg,6.jpg,5.jpg,4.jpg,3.jpg,2.jpg,1.jpg,mockup blog.jpg,bonus.jpg'
 date: '14:27 21-08-2018'
 hide_git_sync_repo_link: false
 blog_url: /blog
@@ -77,13 +77,13 @@ We poured through some of our favorite online graphic resource websites to find 
 
 ### 10. Kid's Tee Flat Lay
 
-![](Baby-T-Shirt-Mockup.jpg)
+![](10.jpg)
 
 ##### [View Mockup](https://www.pixeden.com/psd-mock-up-templates/baby-t-shirt-psd-mockup)
 
 ### 11.Men's Model
 
-![](11a.jpg)
+![](11.jpg)
 
 ##### [View Mockup](https://www.designertale.com/round-neck-men-t-shirt-mock-up-233/)
 
@@ -113,7 +113,7 @@ We poured through some of our favorite online graphic resource websites to find 
 
 ### 16. Mockup Set - Men's and Women's
 
-![](16a.jpg)
+![](16.jpg)![](16a.jpg)
 
 ##### [View Mockup](https://freedesignresources.net/ultimate-apparel-mockup-free-demo/)
 
