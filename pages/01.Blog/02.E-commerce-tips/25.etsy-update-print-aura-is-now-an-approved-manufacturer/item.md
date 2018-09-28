@@ -1,5 +1,6 @@
 ---
 title: 'Etsy Update: Print Aura Is Now An Approved Manufacturer!'
+media_order: etsy-1.jpg
 published: true
 date: '13-06-2017 13:02'
 taxonomy:
@@ -15,6 +16,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,10 +35,9 @@ comment_status: open
 post_name: etsy-update-print-aura-is-now-an-approved-manufacturer
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<img src="https://printaura.com/wp-content/uploads/2017/06/etsy-1.jpg" alt="etsy" width="3661" height="1909" class="alignnone size-full wp-image-7679301" />
+[![](etsy-1.jpg)](/blog/e-commerce-tips/etsy-update-print-aura-is-now-an-approved-manufacturer)
 
 <h2>What Happened With Etsy?</h2>
 
