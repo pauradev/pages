@@ -1,5 +1,6 @@
 ---
 title: 'The Truth About Unisex Shirts'
+media_order: unisex-shirt-banner.jpg
 published: true
 date: '16-02-2016 12:35'
 taxonomy:
@@ -15,6 +16,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,11 +35,9 @@ comment_status: open
 post_name: the-truth-about-unisex-shirts
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<h2><img class="alignnone size-large wp-image-2129349" src="https://printaura.com/wp-content/uploads/2016/02/unisex-shirt-banner-1024x333.jpg" alt="The Truth About Unisex Shirts" width="980" height="319" /></h2>
-<h2>What Is A Unisex Shirt?</h2>
+[![](unisex-shirt-banner.jpg)](/blog/e-commerce-tips/the-truth-about-unisex-shirts)
 We get a lot of questions about the unisex shirts we offer. So what is a unisex shirt? A unisex shirt is simply a shirt that is not specific to any sex or gender. It is unfitted.
 
 Have you ever been given a shirt at a conference, a race, or an event? The shirts that are usually given out are unisex shirts. They are about as basic as they come.
