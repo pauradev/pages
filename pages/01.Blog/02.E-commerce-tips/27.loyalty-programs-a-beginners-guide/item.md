@@ -1,5 +1,6 @@
 ---
 title: 'Loyalty Programs: A Beginner''s Guide'
+media_order: loyalty-fb.jpg
 published: true
 date: '07-02-2017 11:58'
 taxonomy:
@@ -15,6 +16,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,11 +35,9 @@ comment_status: open
 post_name: loyalty-programs-a-beginners-guide
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<img src="https://printaura.com/wp-content/uploads/2017/02/loyalty-fb.jpg" alt="loyalty fb" width="1920" height="1001" class="alignnone size-full wp-image-4994320" />
-
+[![](loyalty-fb.jpg)](https://printaura.com/wp-content/uploads/2017/02/loyalty-fb.jpg)
 <h2>What Is A Loyalty Program?</h2>
 A loyalty program is a rewards program that businesses offer to their loyal customers. Loyalty programs reward and encourage return purchasers. Every consumer loves to feel like their purchases are appreciated. A loyalty program is a great way to give back to your return customers and encourage more sales at the same time. It really is a win-win!
 <h3>Benefits Of Loyalty Programs</h3>
