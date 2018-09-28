@@ -1,5 +1,6 @@
 ---
 title: '4 Ways To Improve Your Online Store'
+media_order: improve-your-shop.jpg
 published: true
 date: '18-07-2016 20:23'
 taxonomy:
@@ -15,6 +16,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,10 +35,9 @@ comment_status: open
 post_name: 4-ways-to-improve-your-online-store
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<img class="alignnone size-large wp-image-2515503" src="https://printaura.com/wp-content/uploads/2016/07/improve-your-shop-1024x518.jpg" alt="improve your shop" width="980" height="496" />
+[![](improve-your-shop.jpg)](/blog/e-commerce-tips/4-ways-to-improve-your-online-store)
 
 Are you having trouble making your first sale? Are you looking for ways to boost your current sales? Are you interested in improving your customer’s user experience? Very few e-commerce entrepreneurs can say they have the perfect online store. It usually takes a fair amount of time and tweaking to get things running smoothly and looking just right. There are always ways to improve and evolve the experience your customers have when shopping at your store.
 <h2>4 Ways To Improve Your Online Store</h2>
