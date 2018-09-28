@@ -1,5 +1,6 @@
 ---
 title: 'Easy Copyright Guide'
+media_order: copyright-fb.jpg
 published: true
 date: '04-04-2017 11:29'
 taxonomy:
@@ -15,6 +16,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
@@ -33,10 +35,9 @@ comment_status: open
 post_name: easy-copyright-guide
 status: publish
 post_type: post
-hide_from_post_list: false
 ---
 
-<img src="https://printaura.com/wp-content/uploads/2017/04/copyright-fb.jpg" alt="copyright fb" width="1280" height="667" class="alignnone size-full wp-image-6225176" />
+[![](copyright-fb.jpg)](/blog/e-commerce-tips/easy-copyright-guide)
 
 <h2>What Is A Copyright?</h2>
 A copyright is the exclusive legal right to copy, publish, profit from, reproduce, or distribute a literary, musical, or artistic work. A copyright is typically given to the originator of a work or the entity it was created for. It essentially means that the holder of the copyright owns that work it as if it were their property. No one else may legally copy or profit from that piece of work, unless given permission by the owner of the copyright.
