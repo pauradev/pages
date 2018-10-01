@@ -1,6 +1,5 @@
 ---
 title: 'How to Write a Great Product Description'
-media_order: 12-product-description-graphic.png
 date: '14:09 09-08-2017'
 hide_git_sync_repo_link: false
 blog_url: /blog
@@ -10,8 +9,8 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-[![](12-product-description-graphic.png)](/blog/tutorials/how-to-write-a-great-product-description)
-#### Take Your Brand Up A Notch
+<img class="alignnone  wp-image-1113972" src="https://printaura.com/wp-content/uploads/2015/05/12-product-description-graphic.png" alt="Write a Great Product Description" width="616" height="497" />
+
 A great product description shows that the people behind the brand are knowledgeable on what they’re selling and know how to present a great idea. You may think that there isn’t anything exciting to say about your product, but that’s where you’re wrong. Even tube socks can sound interesting…
 <blockquote><i>If you’ve ever wanted a pair of socks that say “tourist”, these are it.
 </i><i>Nothing comes between you and your sneakers. Except for these.

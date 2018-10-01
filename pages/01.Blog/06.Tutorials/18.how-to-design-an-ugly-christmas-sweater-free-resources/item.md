@@ -1,8 +1,6 @@
 ---
 title: 'How To Design An Ugly Christmas Sweater & Free Resources'
-media_order: how-to-sweater.jpg
 published: true
-date: '23-11-2016 00:07'
 taxonomy:
     category:
         - blog
@@ -16,7 +14,6 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
-hide_from_post_list: false
 content:
     items: '- ''@self.children'''
     limit: '5'
@@ -30,14 +27,17 @@ display_post_summary:
     enabled: '0'
 author: denise
 post_id: 3578354
+date: '2016/11/23 00:07:43'
 comment_status: open
 post_name: how-to-design-an-ugly-christmas-sweater-free-resources
 status: publish
 post_type: post
+hide_from_post_list: false
 ---
 
-[![](how-to-sweater.jpg)](/blog/tutorials/how-to-design-an-ugly-christmas-sweater-free-resources)
-#### Ugly Christmas Sweater 101
+<img src="https://printaura.com/wp-content/uploads/2016/11/how-to-sweater.jpg" alt="how to sweater" width="1174" height="612" class="alignnone size-full wp-image-3581321" />
+
+<h2>How To Design An Ugly Christmas Sweater</h2>
 Soon many Holiday party go-er will be in search of the most unique, tacky, ugly Christmas sweater they can get their hands on. Ugly Christmas sweater parties have become somewhat of a tradition. With any tradition that can be turned into a competition, there are always those die-hard people who will go to great lengths to find something to wow everyone. Have your eCommerce store be the one to give the people what they want! Put your creativity and design skills to good use this holiday season, and create an ugly Christmas sweater that only you could create!
 
 <h3>1. Create Your Design</h3>
