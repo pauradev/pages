@@ -85,9 +85,5 @@ We hope you'll check out the new items and feel inspired to add your designs to 
 ([73000](https://printaura.com/product-view/?v=1&hdn=NTk3))
 ![](73000.png)
 
-
-### Independent Trading
-PRM65DRS
-
 ## What Items Are You Excited For?
 Are you excited to add your designs to any of these new items? If so, let us know which ones down below! If you were hoping to see something different in our fall lineup, let us know what you want to see! 
