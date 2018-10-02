@@ -1,6 +1,6 @@
 ---
 title: 'New Items Have Arrived For Fall!'
-media_order: 'h400.png,9001.png,2050.png,73000.png,73500.png,G540L.png,9303.png,H000.png'
+media_order: 'h400.png,9001.png,2050.png,73000.png,73500.png,G540L.png,9303.png,H000.png,fall arrivals.jpg'
 published: false
 date: '01-10-2018 10:05'
 publish_date: '01-10-2018 10:05'
@@ -41,14 +41,14 @@ status: publish
 post_type: post
 ---
 
-![](h400.png)
+![](fall%20arrivals.jpg)
 
 ## New Arrivals For Fall
 Fall has officially arrived here in the northern hemisphere and we could not be more elated! In order to celebrate the change of season, we've added some wonderfully light and cozy items, perfect for those autumnal mornings and evenings. 
 
-We hope you'll check out the new items and feel inspired to add your designs to one or more! Be sure to click through to check out all of the sizing and color options! 
-
 ===
+
+We hope you'll check out the new items and feel inspired to add your designs to one or more! Be sure to click through to check out all of the sizing and color options! 
 
 ### Next Level
 
@@ -90,4 +90,4 @@ We hope you'll check out the new items and feel inspired to add your designs to 
 PRM65DRS
 
 ## What Items Are You Excited For?
-Are you excited to add your designs to any of these new items? If so, let us know which ones down below! If you were hoping to see something different in our fall line-up, let us know what you want to see! 
+Are you excited to add your designs to any of these new items? If so, let us know which ones down below! If you were hoping to see something different in our fall lineup, let us know what you want to see! 
