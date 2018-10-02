@@ -10,7 +10,6 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-
 ## New Arrivals For Fall
 Fall has officially arrived here in the northern hemisphere and we could not be more elated! In order to celebrate the change of season, we've added some wonderfully light and cozy items, perfect for those autumnal mornings and evenings. 
 
