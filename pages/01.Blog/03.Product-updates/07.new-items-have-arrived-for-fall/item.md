@@ -1,7 +1,7 @@
 ---
 title: 'New Items Have Arrived For Fall!'
 media_order: 'h400.png,9001.png,2050.png,73000.png,73500.png,G540L.png,9303.png,H000.png,fall arrivals.jpg'
-published: false
+published: true
 date: '01-10-2018 10:05'
 publish_date: '01-10-2018 10:05'
 taxonomy:
