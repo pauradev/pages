@@ -53,19 +53,19 @@ We hope you'll check out the new items and feel inspired to add your designs to 
 ### Next Level
 
 #### Unisex Pullover Hoodie<br>
-([9303](https://printaura.com/product-view/?v=1&hdn=NTg3))
+([Next Level 9303](https://printaura.com/product-view/?v=1&hdn=NTg3))
 ![](9303.png)
 
 -----------------------------------------------------------
 
 #### Unisex Crew with Pocket<br>
-([9001](https://printaura.com/product-view/?v=1&hdn=NTg4))
+([Next Level 9001](https://printaura.com/product-view/?v=1&hdn=NTg4))
 ![](9001.png)
 
 -----------------------------------------------------------
 
 #### Men’s Mock Twist Short-Sleeve Raglan T-Shirt<br>
-([2050](https://printaura.com/product-view/?v=1&hdn=NTg5))
+([Next Level 2050](https://printaura.com/product-view/?v=1&hdn=NTg5))
 ![](2050.png)
 
 -----------------------------------------------------------
@@ -73,19 +73,19 @@ We hope you'll check out the new items and feel inspired to add your designs to 
 ### Gildan
 
 #### Adult Hammer™ 6 oz. Long-Sleeve T-Shirt<br>
-([H400](https://printaura.com/product-view/?v=1&hdn=NTky))
+([Gildan H400](https://printaura.com/product-view/?v=1&hdn=NTky))
 ![](h400.png)
 
 -----------------------------------------------------------
 
 #### ADULT Hammer™ Adult 6 oz. T-Shirt<br>
-([H000](https://printaura.com/product-view/?v=1&hdn=NTk1))
+([Gildan H000](https://printaura.com/product-view/?v=1&hdn=NTk1))
 ![](H000.png)
 
 -----------------------------------------------------------
 
 #### Ladies’ Long-Sleeve T-Shirt<br>
-([G540L](https://printaura.com/product-view/?v=1&hdn=NTk0))
+([Gildan G540L](https://printaura.com/product-view/?v=1&hdn=NTk0))
 ![](G540L.png)
 
 -----------------------------------------------------------
@@ -93,13 +93,13 @@ We hope you'll check out the new items and feel inspired to add your designs to 
 ### Anvil
 
 #### Unisex Light Terry Hood<br>
-([73500](https://printaura.com/product-view/?v=1&hdn=NTk2))
+([Anvil 73500](https://printaura.com/product-view/?v=1&hdn=NTk2))
 ![](73500.png)
 
 -----------------------------------------------------------
 
 #### Unisex Light Terry Crew<br>
-([73000](https://printaura.com/product-view/?v=1&hdn=NTk3))
+([Anvil 73000](https://printaura.com/product-view/?v=1&hdn=NTk3))
 ![](73000.png)
 
 ## What Items Are You Excited For?
