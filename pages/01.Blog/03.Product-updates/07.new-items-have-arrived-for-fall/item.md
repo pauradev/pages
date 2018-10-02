@@ -4,10 +4,13 @@ media_order: 'h400.png,9001.png,2050.png,73000.png,73500.png,G540L.png,9303.png,
 published: true
 date: '15:10 01-10-2018'
 hide_git_sync_repo_link: false
+hero_image: h400.png
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+summary:
+    enabled: '1'
 hide_from_post_list: false
 ---
 
