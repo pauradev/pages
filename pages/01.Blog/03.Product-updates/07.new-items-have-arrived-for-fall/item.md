@@ -1,16 +1,44 @@
 ---
 title: 'New Items Have Arrived For Fall!'
 media_order: 'h400.png,9001.png,2050.png,73000.png,73500.png,G540L.png,9303.png,H000.png'
-published: false
-date: '15:10 01-10-2018'
-hide_git_sync_repo_link: false
+published: true
+date: '01-10-2018 10:05'
+publish_date: '01-10-2018 10:05'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - post
+    month:
+        - October
+    author:
+        - denise
+hide_git_sync_repo_link: true
+external_links:
+    process: true
+    target: _self
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
-summary:
-    enabled: '1'
 hide_from_post_list: false
+content:
+    items: '- ''@self.children'''
+    limit: '7'
+    order:
+        by: date
+        dir: desc
+    pagination: '1'
+    url_taxonomy_filters: '1'
+bricklayer_layout: '1'
+display_post_summary:
+    enabled: '0'
+author: denise
+date_published: '2018/10/01 18:05:56'
+comment_status: open
+post_name: 'New Items Have Arrived For Fall!'
+status: publish
+post_type: post
 ---
 
 ## New Arrivals For Fall
