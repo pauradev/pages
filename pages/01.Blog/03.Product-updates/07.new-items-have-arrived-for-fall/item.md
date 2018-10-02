@@ -1,6 +1,6 @@
 ---
 title: 'New Items Have Arrived For Fall!'
-media_order: 'h400.png,9001.png,2050.png,73000.png,73500.png,G540L.png,9303.png,H000.png,fall arrivals.jpg'
+media_order: 'h400.png,9001.png,2050.png,73000.png,73500.png,9303.png,H000.png,fall arrivals.jpg,G540L.png'
 published: true
 date: '01-10-2018 10:05'
 publish_date: '01-10-2018 10:05'
@@ -85,6 +85,7 @@ We hope you'll check out the new items and feel inspired to add your designs to 
 
 **Ladies’ Long-Sleeve T-Shirt**<br>
 ([G540L](https://printaura.com/product-view/?v=1&hdn=NTk0))
+![](G540L.png)
 
 -----------------------------------------------------------
 
