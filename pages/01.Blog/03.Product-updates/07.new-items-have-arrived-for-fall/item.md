@@ -1,6 +1,6 @@
 ---
 title: 'New Items Have Arrived For Fall!'
-media_order: 'h400.png,9001.png,2050.png,73000.png,73500.png,9303.png,H000.png,fall arrivals.jpg,G540L.png'
+media_order: 'h400.png,9001.png,2050.png,73000.png,73500.png,9303.png,H000.png,fall arrivals.jpg,G540L.png,PRM65DRS_Carbon_Front-fs8.png'
 published: true
 date: '01-10-2018 10:05'
 publish_date: '01-10-2018 10:05'
@@ -108,7 +108,7 @@ We hope you'll check out the new items and feel inspired to add your designs to 
 
 #### Women’s Special Blend Hooded Pullover Dress<br> 
 ([Independent Trading PRM65DRS](https://printaura.com/product-view/?v=special_blend_pullover_hoodie_dress&hdn=NTc3))
-
+![](PRM65DRS_Carbon_Front-fs8.png)
 
 ## What Items Are You Excited For?
 Are you excited to add your designs to any of these new items? If so, let us know which ones down below! If you were hoping to see something different in our fall lineup, let us know what you want to see! 
