@@ -32,13 +32,13 @@ display_post_summary:
 
 [![](25-quotes.jpg)](https://blog.printaura.com/blog/blog-posts/25quotestoliveby)
 
-## Feeling Tired And Uninspired?
+#### Feeling Tired And Uninspired?
 
 If you are feeling uninspired or unmotivated, you aren't alone! It can be tough to put work into a passion project or a second job, especially when you are already tired. Staying motivated can seem impossible, but it's not! A little reminder of why you started, and where you can get with hard work and dedication can make a huge difference!
 
 ===
 
-## 25 Quotes To Live By For Entrepreneurs
+### 25 Quotes To Live By For Entrepreneurs
 
 Sometimes we all need a little extra push in the right direction. We've pulled some awesome motivational and inspirational quotes to kick start your week, and put some pep back in your step.
 
