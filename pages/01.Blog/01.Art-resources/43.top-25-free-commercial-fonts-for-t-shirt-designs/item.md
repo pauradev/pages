@@ -41,7 +41,7 @@ post_type: post
 Finding free fonts has become quite easy. Finding GOOD free fonts gets a bit harder. Finding good free fonts that include a license for commercial use … now that’s no easy endeavor!
 
 We’ve taken on the task of cultivating 25 of the best free commercial fonts the internet has to offer, just for you. You can use all of these fonts to enhance your designs without worry!
-<h2>Top 25 Free Commercial Fonts For T-Shirt Designs</h2>
+<h4>Top 25 Free Commercial Fonts For T-Shirt Designs</h4>
 <h3>1.<a href="http://freedesignresources.net/hamurz-free-font" target="_blank">Hamurz</a></h3>
 <h3><a href="http://freedesignresources.net/hamurz-free-font"><img class="alignnone size-full wp-image-2179684" src="https://printaura.com/wp-content/uploads/2016/03/05-Hamurz-Free-Font.jpg" alt="Hamurz" width="900" height="600" /></a></h3>
 <h3>2.<a href="http://freedesignresources.net/luna-free-font" target="_blank">Luna </a></h3>
@@ -72,7 +72,7 @@ We’ve taken on the task of cultivating 25 of the best free commercial fonts th
 <h3><a href="https://www.theleagueofmoveabletype.com/blackout"><img class="alignnone size-full wp-image-2179691" src="https://printaura.com/wp-content/uploads/2016/03/blackout-6.jpeg" alt="blackout" width="820" height="300" /></a></h3>
 <h3>15. <a href="https://www.theleagueofmoveabletype.com/orbitron" target="_blank">Orbitron</a></h3>
 <h3><a href="https://www.theleagueofmoveabletype.com/orbitron"><img class="alignnone size-full wp-image-2179700" src="https://printaura.com/wp-content/uploads/2016/03/orbitron-1.jpeg" alt="Orbitron" width="820" height="300" /></a></h3>
-<h2>Require Sign up</h2>
+<h4>Require Sign up</h4>
 <h3>16. <a href="https://thehungryjpeg.com/freebie/2341-compass-font/" target="_blank">Compass</a></h3>
 <h3><a href="https://thehungryjpeg.com/freebie/2341-compass-font/"><img class="alignnone size-full wp-image-2179685" src="https://printaura.com/wp-content/uploads/2016/03/6c4680ad9d0c66c7a538a1dd439e117b2a01326d.jpg" alt="Compass" width="720" height="479" /></a></h3>
 <h3>17. <a href="https://thehungryjpeg.com/freebie/3870-free-gabo-font/" target="_blank">Gabo</a></h3>

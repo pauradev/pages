@@ -38,7 +38,7 @@ post_type: post
 
 [![](https://printaura.com/wp-content/uploads/2016/09/top-10-blog-1024x428.jpg)](https://blog.printaura.com/blog/art-resources/top-10-free-design-resource-sites)
 
-<h2>Free Design Resources</h2>
+<h4>Free Design Resources</h4>
 It wasn't long ago that I was in a similar to position to many of you. I had a passion for design, but was just starting out. My budget was tight but my desire to create was strong. Luckily it keeps getting easier to come across good quality graphic resources for free. You just have to know where to look for them. It took me a while to find the places that never let me down! I hope to save you all some time and share the places I always turn to when I am looking for a new font or the prefect graphic touch to compliment a new design.
 <h3>Mind The Licenses</h3>
 It's very important to play close attention to licensing for free resources.
@@ -50,7 +50,7 @@ Some free resources only include a personal license. This type of license means 
 This type of license means it is okay for you to use the resource in the marketing of your designs, and if noted, in your designs as well. If it does not state that you may use the resource for items intended for resell, make sure you inquire to ensure it is a legal use of the resource.
 
 If you aren't sure what license is included with the free download, reach out to the creator of the resource and just ask!
-<h2>Top 10 Free Design Resources Sites</h2>
+<h4>Top 10 Free Design Resources Sites</h4>
 In no particular order, here are five of our favorite places to find free design resources. Please mind the licensing carefully. There is a mix of commercial and personal licensed items in each of these links.
 <h3>1. Free Design Resources</h3>
 <a href="http://freedesignresources.net/" target="_blank">Visit Free Design Resources</a>
@@ -114,5 +114,5 @@ Yet another site chock-full of freebies. This site usually takes a bit more digg
 
 This blog has only a select amount of freebies, but they are great ones, and are free to use for any purpose.
 
-<h2> How About You? </h2>
+<h4> How About You? </h4>
 Do you have any websites you love to use for free design resources that we missed on our list? Share with us in the comment section below! I hope some of these sites are new to you and that you were able to add some new resources to your designer toolbox! 

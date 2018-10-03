@@ -36,12 +36,12 @@ post_type: post
 hide_from_post_list: false
 ---
 
-<h2><img class="alignnone size-large wp-image-2459423" src="https://printaura.com/wp-content/uploads/2016/07/lunch-break-blog-banner-1024x433.jpg" alt="lunch break" width="980" height="414" /></h2>
-<h2>The Daily Grind</h2>
+<h4><img class="alignnone size-large wp-image-2459423" src="https://printaura.com/wp-content/uploads/2016/07/lunch-break-blog-banner-1024x433.jpg" alt="lunch break" width="980" height="414" /></h4>
+<h4>The Daily Grind</h4>
 Many Print Aura members start out working on their ecommerce businesses as a side project. It can be tough to make time for the business you want to have when you already working a full time job. The daily grind can be draining, especially if you are spending the majority of your day working for something you are not passionate about. It can even make working on your own projects seem like a massive undertaking. It can be hard to make time and stay motivated to work after you get home from working all day. It takes time, but many of our members have been able to turn their humble side projects into a full time job.
 
 Turning a lunch break into a hour long project productivity session can really work for some people. If your business is something that excites you and gives you energy, why not set aside that time to make progress. Working on your own business while you are still in “work mode” can help keep momentum going, and might also provide a refreshing break from your work day.
-<h2>5 Things You Can Accomplish On Your Lunch Break</h2>
+<h4>5 Things You Can Accomplish On Your Lunch Break</h4>
 Setting aside just an hour every day to work on your own business can have a big impact in the long run. Take a seat, grab a snack, and check out these 5 things you can accomplish for your business during a lunch break!
 <h3>1. Schedule out social media posts</h3>
 You’d be surprised at how much you can get done on social media in a hour. Take some time to schedule out posts for the week. If you are feeling more inspired by ideas than designs, create a content calendar! Content calendars are a great place to store ideas when you are feeling particularly inspired. You can detail out what you want to post and when you want to post it. Having a strategic plan in place can do wonders for your marketing efforts!

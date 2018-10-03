@@ -37,9 +37,9 @@ hide_from_post_list: false
 ---
 
 <img class="alignnone size-full wp-image-6511113" src="https://printaura.com/wp-content/uploads/2017/04/mothers-day2.jpg" alt="mothers day2" width="1200" height="626" />
-<h2>Let's Celebrate Moms!</h2>
+<h4>Let's Celebrate Moms!</h4>
 Mother's Day is right around the corner. That means it's time to start thinking about adding some MOM POWER designs to your shop! If anyone deserves a day of celebration, it's moms! Moms are the hardest working and toughest people around. What better way to show our appreciation of these amazing ladies, than to design for them? Husbands, sons, and daughters will be looking for the prefect gift for the moms in their life. Let's give them some great options!
-<h2>22 Inspirational Ideas For Mother's Day</h2>
+<h4>22 Inspirational Ideas For Mother's Day</h4>
 There is no shortage of mom items for sale online, but there is lot's of room creativity! Here are some fun examples of items for moms. Get inspired and create your designs for moms!
 <h3>Apparel</h3>
 Shirts are an easy way for a proud mom to show the world who she is! Get creative and design your own.
@@ -195,7 +195,7 @@ Via <a href="https://www.etsy.com/shop/TheCCMom?ref=condensed_trust_header_title
 
 <img class="alignnone size-full wp-image-6509715" src="https://printaura.com/wp-content/uploads/2017/04/Home.jpeg" alt="Home" width="570" height="335" />
 Via <a href="https://www.etsy.com/shop/wandwshop?ref=l2-shopheader-name" target="_blank">wandwshop</a>
-<h2>Order Deadlines</h2>
+<h4>Order Deadlines</h4>
 To ensure your orders arrive in time for mother's day, please be sure to have your customers order by <span style="color: #ff0000;"><strong>May 4th</strong></span>, before Noon, eastern.
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 1086px; left: 20px;">Save</span>

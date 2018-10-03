@@ -38,9 +38,9 @@ post_type: post
 ---
 
 [![](email-marketing.png)](/blog/e-commerce-tips/top-5-email-marketing-services-for-entrepreneurs)
-<h2>Email Marketing</h2>
+<h4>Email Marketing</h4>
 The importance of communicating with your customers is paramount! It's how you can show appreciation, promote your products, retain customers, promote return business, develop relationships, and build trust. There are many services out there that make communicating with your customers easier than ever. If you haven't had a chance to look into email marketing services, take a moment now and check some of these out!
-<h2>Top 5 Email Marketing Services For Entrepreneurs</h2>
+<h4>Top 5 Email Marketing Services For Entrepreneurs</h4>
 We've put together this list of email marketing services for you guys to check out. All of these services come recommended either by your fellow members, or based on our own experiences. Many of the services we have chosen to feature either have free accounts or free trials available. So why not check them out?
 
 <h3>1. MailChimp</h3>
@@ -170,7 +170,7 @@ Notable Features:
  	<li>Great with Social Media</li>
 </ul>
 &nbsp;
-<h2>Your Favorites?</h2>
+<h4>Your Favorites?</h4>
 Do you have a favorite email marketing software that we didn't list here? Do you have one you have tried and didn't care for? Let us know what services / software work (or didn't work) for you and your business!
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer;">Save</span>

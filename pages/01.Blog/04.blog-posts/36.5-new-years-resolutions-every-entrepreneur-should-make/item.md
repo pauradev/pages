@@ -38,10 +38,10 @@ hide_from_post_list: false
 
 <img class="alignnone size-full wp-image-4185156" src="https://printaura.com/wp-content/uploads/2016/12/resolutions-fcbk.jpg" alt="resolutions " width="1186" height="618" />
 
-<h2>Resolve To Set Yourself Up For Success</h2>
+<h4>Resolve To Set Yourself Up For Success</h4>
 It's that time of year again! The new year us right around the corner and people are starting to consider resolutions for the new year. For every person making a list of resolutions, there is likely another person cursing the activity for it's fruitlessness. It's easy to skip out on them, or to make a resolution to lose weight or be more active, or some other general resolution of improvement. But it's also super easy to let those kind of resolutions go by the wayside due to their vagueness. Being vague never inspires anyone to action! Resolutions are usually too vague or too strict. Try re-framing the idea of making resolutions to setting goals for the new year. Goals are something you can work towards, and not need to achieve immediately and indefinitely. The more specific you can be, the more likely you are to work towards those goals.
 
-<h2>5 Resolutions Every Entrepreneur Should Make</h2>
+<h4>5 Resolutions Every Entrepreneur Should Make</h4>
 Not sure what kind of resolutions to make this year? Here are a few ideas that will help you re-focus for the new year, and encourage success!
 
 <h3>1. Restore Work/Life Balance</h3>
@@ -95,5 +95,5 @@ Practicing self love and self care can do wonders for us in every aspect of life
  	<li>Make time for yoga 3x a week</li>
 </ul>
 &nbsp;
-<h2>What Are your Goals?</h2>
+<h4>What Are your Goals?</h4>
 Do you have any goals or resolutions for the coming year? If so, share them down in the comments section below! We would love to hear what you have planned for 2017!

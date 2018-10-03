@@ -38,9 +38,9 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2018/01/vday-blog-1024x534.jpg" alt="vday blog" width="980" height="511" class="alignnone size-large wp-image-12689637" />
 
-<h2>Is Your Shop Ready For Valentine's Day?</h2>
+<h4>Is Your Shop Ready For Valentine's Day?</h4>
 Valentine's Day is right around the corner. Have you added any designs or items to your shop to help your customers celebrate the day of love? Or maybe even something to help express their disdain for the holiday? Getting your shop ready for Holidays is a great way to make some extra sales for the month. With that being said, you know your customers best. If it's not something you think would sell, trust your instincts! If you aren't sure, there's no risk to adding new items or designs to your store. As many of you know, we only print out your designs when they sell. If they don't sell, you haven't risked anything. If your on the fence, try something new!
-<h2>22 Ideas Your Customers Will Love For Valentine's Day</h2>
+<h4>22 Ideas Your Customers Will Love For Valentine's Day</h4>
 Check out these fun product ideas for Valentine's Day! Take inspiration from these and create your own! Or even better, do your own thing. Your customers shop at your store for a reason! They like what you have to say through your designs and your items, and identify with it. so check these examples out and get designing!
 <h3>Pillows</h3>
 <strong>Donut XOs</strong>

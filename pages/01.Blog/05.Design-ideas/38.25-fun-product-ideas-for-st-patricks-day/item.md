@@ -38,7 +38,7 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2017/02/st.patricks.jpg" alt="st.patricks" width="1280" height="667" class="alignnone size-full wp-image-5126991" />
 
-<h2>St. Patrick's Day</h2>
+<h4>St. Patrick's Day</h4>
 With Valentine's Day behind us, we will soon trade in hearts for clovers and reds in for greens! St. Patrick's Day is right around the corner. While our modern interpretation of the holiday has strayed from the original meaning of the holiday, we still love to celebrate with shamrocks, green apparel, and perhaps a pub crawl. This year the celebration of Ireland's foremost patron saint falls on Friday, March 17th. Will your shop be ready? 
 
 <h3>Seeing Green</h3>
@@ -48,7 +48,7 @@ As a kid, St. Patrick's day wasn't just about searching for leprechauns and look
 
 <img src="https://printaura.com/wp-content/uploads/2017/02/womens-green.jpg" alt="women&#039;s green" width="1547" height="528" class="alignnone size-full wp-image-5110712" />
 
-<h2>25 Fun Product Ideas For St. Patrick's Day</h2>
+<h4>25 Fun Product Ideas For St. Patrick's Day</h4>
 Having trouble coming up with product ideas for St. Patrick's Day? Not to worry! We are serving up some fun product ideas for inspiration! There are lots of ways you can design for this Holiday. You can go funny, cute, or traditional. Check out these great products other designers have come up with! Take inspiration from these ideas and come up with your own St. Patrick's Day spin!
 
 <h3>Apparel For Kids</h3>
@@ -248,7 +248,7 @@ Via <a href="https://www.etsy.com/shop/ColorMyEveryday?ref=l2-shopheader-name" t
 
 Via <a href="https://www.etsy.com/shop/TheMessageShop?ref=l2-shopheader-name" target="_blank">TheMessageShop</a>
 
-<h2>What About You?</h2>
+<h4>What About You?</h4>
 Do you have any awesome St. Patrick's Day product ideas? Share with us in the comments below. We'd love to see your creations. 
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c  no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 4900px; left: 20px;">Save</span>

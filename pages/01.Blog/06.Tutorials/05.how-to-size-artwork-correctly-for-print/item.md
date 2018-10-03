@@ -37,11 +37,11 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2016/12/sizing-art-work.jpg" alt="sizing art work" width="1622" height="846" class="alignnone size-full wp-image-3808266" />
 
-<h2>Truth Time: Sizing Your Artwork</h2>
+<h4>Truth Time: Sizing Your Artwork</h4>
 
 Let's talk about sizing artwork for print. We have been getting more and more improperly sized files lately. Sometimes our artwork team has time to resize them for our members, and sometimes they don't. In truth, they are not supposed to be editing people's artwork at all, they just do it out of kindness! However, with the amount of improperly sized files growing every day, our team is spending more and more of their day editing member files that are technically required to be submitted 100% ready to print. While they love to help, it's becoming a problem!
 
-<h2>How To: Size Artwork Correctly For Print</h2>
+<h4>How To: Size Artwork Correctly For Print</h4>
 
 We know sizing can be confusing sometimes. With so many items, each with a different sizing requirement, it's hard to keep the artwork requirements straight. We know it can seem overwhelming, so we have created a guide to help you guys get the sizes of your artwork correct every time! There are a few ways you can do this! They all start with visiting our <a href="https://printaura.com/products" target="_blank">products page</a>.
 
@@ -75,7 +75,7 @@ We also provide the actual image requirements for each of our products. If you p
 <h3>4. Submit Artwork</h3>
 After you've sized your artwork properly and saved it as the correct file type, you're done! That's all you need to do! 
 
-<h2>T-Shirt Sizing</h2>
+<h4>T-Shirt Sizing</h4>
 We know sizing for t-shirts is a bit of a different situation. There is no "one size" for the t-shirts, only a maximum size limit. We print out the artwork files onto t-shirts (and all our other items) in the size they are submitted. Sometimes people submit images that over 30 inches wide, and that just wont fit on the front a t-shirt! 
 
 <h3>Sizes</h3>

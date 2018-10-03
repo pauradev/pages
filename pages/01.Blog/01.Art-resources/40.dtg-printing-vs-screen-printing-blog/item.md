@@ -38,7 +38,7 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2016/04/dtg-vs-screen-print-banner1.jpg" alt="dtg vs screen printing" width="647" height="153" class="alignnone size-full wp-image-2287665" />
 
-<h2>DTG Printing</h2>
+<h4>DTG Printing</h4>
 DTG  printing, also referred to as direct to garment printing, is a method used to print digital imagery onto t-shirts and other fabrics. DTG printing is the method we use most frequently here at Print Aura. Direct to garment printing is just what it sounds like; the design is directly printed onto the garment. We use large specialized printers and inks to print designs directly onto fabrics.
 
 <img src="https://printaura.com/wp-content/uploads/2016/04/DTG-printer.jpg" alt="DTG printer" width="873" height="491" class="alignnone size-full wp-image-2287664" />
@@ -78,7 +78,7 @@ There are also some drawbacks to using DTG Printing. Here are the main limitatio
 <span style="color: #ff0000;"><span class="dashicons dashicons-no-alt"></span></span> Ink takes to different fabrics differently
 
 <span style="color: #ff0000;"><span class="dashicons dashicons-no-alt"></span></span> Limited volume discount options
-<h2>Screen Printing</h2>
+<h4>Screen Printing</h4>
 
 Screen printing, also referred to as silk screening is another method for printing graphics on t-shirts and other fabrics. Screen printing is a printing process that goes back thousands of years.
 
@@ -123,5 +123,5 @@ Screen printing also has some limitations when it comes to printing digital imag
 
 <span style="color: #ff0000;"><span class="dashicons dashicons-no-alt"></span></span>Rarely available for print on demand
 
-<h2>Questions?</h2>
+<h4>Questions?</h4>
 Do you still have questions about these different printing processes? If you are still curious about which method is right for you, reach out! Leave us a comment with any questions on concerns about either of these methods. We are always happy to help. 

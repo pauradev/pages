@@ -71,7 +71,7 @@ We are excited to offer 5 high quality phone case options available in a variety
 
 [tab]
 [tab_item title="CASE OPTIONS"]
-<h2>Case Options</h2>
+<h4>Case Options</h4>
 We are excited to offer some of the highest quality cell phone cases on the market, paired with an industry leading 3D printing process. From corner to corner, and edge to edge, our seamless in-surface printing technology leaves no outer surface untouched. Bright, colorful inks are embedded deeply into the surface of the case underneath a clear protective finish, so that your case will look fresh and new as long as you have it. These phone cases will outlast your phone! Available in five different styles, our cases are durable as well as fade and scratch resistant.
 <h3>Hard Case Features</h3>
 <ul>
@@ -174,7 +174,7 @@ Some of our cases are available in two different finishes, matte and gloss. The 
 [/tab_item]
 
 [tab_item title="PRICING"]
-<h2>New Lower Pricing!</h2>
+<h4>New Lower Pricing!</h4>
 We've got some exciting news! We have lowered the price of our cell phone cases across the board! We want to provide products at prices that are not only enticing to your customers, but also allow you as the seller to make a significant profit.
 
 <h3>NEW! Flexi Cases</h3>
@@ -256,7 +256,7 @@ All other countries provide tracking but not delivery confirmation. Services may
 [/tab_item]
 
 [tab_item title="ARTWORK TEMPLATES"]
-<h2>Image Requirements</h2>
+<h4>Image Requirements</h4>
 Image requirements are listed for each phone below the templates. The general requirements are as follows:
 <ul>
  	<li>Make sure to fill our templates up completely as our phone cases are printed full wrap.</li>
@@ -265,7 +265,7 @@ Image requirements are listed for each phone below the templates. The general re
  	<li>Save files as .png</li>
 </ul>
 <iframe src="https://www.youtube.com/embed/uWZS5ZZ27Yo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<h2>Artwork Requirement Templates</h2>
+<h4>Artwork Requirement Templates</h4>
 In an effort to make creating print-ready artwork as simple and easy as possible, we have provided some artwork requirement templates. These templates are preset to match the artwork requirements specific to each case and phone model. All you have to do is paste in your art and position your artwork accordingly. Follow the steps below to use our artwork templates:
 
 1. Download the phone case template you want to offer in your store.
@@ -820,7 +820,7 @@ iPhone X1184 W x 1896 H100.25 W x 160.53 HRGB300
 [/tab_item]
 
 [tab_item title="MOCKUPS"]
-<h2>Mockup Templates</h2>
+<h4>Mockup Templates</h4>
 We have provided easy to use mockup templates for all of the phone cases listed below. You can use these mockups in your store to showcase how your art will appear on the cases you chose to offer.
 
 <img class="alignnone size-medium wp-image-2714917" src="https://printaura.com/wp-content/uploads/2016/08/Galazy-s6-edge-plus-tough-copy-176x300.png" alt="Galaxy s6 edge plus tough copy" width="176" height="300" />
@@ -912,7 +912,7 @@ Galaxy S7 | <a href="https://printaura.com/wp-content/uploads/2016/08/galaxy-s7-
 [/tab_item]
 
 [tab_item title="CASE PHOTOS"]
-<h2>Print Examples</h2>
+<h4>Print Examples</h4>
 <h3>Snap Case</h3>
 <img class="alignnone size-large wp-image-2780944" src="https://printaura.com/wp-content/uploads/2016/08/snap-example.jpg" alt="snap example" width="554" height="554" />
 <h3>Clear Case</h3>

@@ -44,7 +44,7 @@ Just because I am lacking those skills doesn’t mean I can’t start up a t-shi
 I know what you are thinking, "I don’t know .. that sounds expensive! I don’t want to spend a ton of money for designs!" Well not to worry my friend, you can actually do it on the cheap a couple of different ways.
 
 All you really need is an idea for a shirt that you think people would buy!
-<h2>Using Fiverr</h2>
+<h4>Using Fiverr</h4>
 Fiverr is a website where you can get a lot of different freelance services done at a cheap price. People offer their services starting around 5 dollars. On Fiverr you can find logo design, illustration, graphic design, photo editing, and a whole lot more! You can even find people who will help you clean up your own designs to ensure they are print ready!
 
 <a href="https://www.fiverr.com/s2/992b09d8ff" target="_blank">Check out Fiverr </a>
@@ -60,7 +60,7 @@ Check out our <em><a href="https://printaura.com/image-requirements/" target="_b
 If you have Illustrator or Photoshop, it can be helpful to request an editable image. Sometimes it costs extra for them, but it can be worth it if you understand how to edit images.
 
 Make sure their design examples look cohesive. If someone has a bunch of examples, and they all look like they were designed by different people, they probably were. You want to find someone who has consistent designs so you know what to expect.
-<h2>Design Stock</h2>
+<h4>Design Stock</h4>
 I am a big fan of stock art and photography. Stock images aren't always $5 but you can find some pretty high quality imagery for around that price! Stock is great because you can either use it as your design and be done, or you can do what I love doing and gather multiple stock elements to create a new design. The only catch with stock is that you have to pay very close attention to the licensing. Sometimes you are allowed to use an image for marketing, which is great, but you aren’t allowed to use it for re-sale. So just make sure with whatever stock service you are using, that you are allowed to profit from / resell the images. You can find really high quality images to use or to play with!
 
 Looking for great stock? Check out our <em><a href="https://printaura.com/resources" target="_blank">resources page</a></em> to find out more!

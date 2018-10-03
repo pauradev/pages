@@ -36,9 +36,9 @@ hide_from_post_list: false
 ---
 
 <img class="alignnone size-full wp-image-4537054" src="https://printaura.com/wp-content/uploads/2017/01/choosing-a-platform.jpg" alt="choosing a platform" width="1214" height="633" />
-<h2>What Is A Platform?</h2>
+<h4>What Is A Platform?</h4>
 When we refer to a platform, we are simply referring to an eCommerce software or website that allows you to sell things online. Shopify is a platform. Etsy is platform. Different platforms offer different things. Some platforms have marketplaces already established where you can sell your goods. Some platforms will allow you to have your own stand alone website. Some platforms will take a percentage of your sales, and some charge flat rates. Some platforms allow a lot of design freedom, and some are confined. There is a lot to consider when choosing the platform that is right for you and your brand.
-<h2>Choosing An eCommerce Platform</h2>
+<h4>Choosing An eCommerce Platform</h4>
 With all the options available to you, we understand it can be overwhelming when trying to decide which platform to use to start your online shop. That's why we created this no nonsense guide to help you chose the platform that is right for you. We hope this breakdown helps to simplify your decision.
 
 <img src="https://printaura.com/wp-content/uploads/2014/04/choose-shopify.jpg" alt="shopify" />
@@ -110,5 +110,5 @@ BigCommerce offers a free trail of their platform which can be great to use just
 <strong>Marketplace:</strong> No
 <strong>Hosting:</strong> Not required
 <strong>Setup:</strong> Quick
-<h2>Questions or Comments?</h2>
+<h4>Questions or Comments?</h4>
 Is there a platform we don't offer an integration for that you'd like to see? Let us know! We know choosing a platform can be intimidating and we hope this break down helped clear things up for you. If you have an further questions of comments, please feel free to ask! We are here for each and every one of you.

@@ -37,7 +37,7 @@ hide_from_post_list: false
 ---
 
 <img class="alignnone size-large wp-image-2709343" src="https://printaura.com/wp-content/uploads/2016/08/Dose-part-4-home-office-fb1-1024x534.jpg" alt="Dose part 4 - home office ideas" width="980" height="511" />
-<h2>Inspiration Productivity</h2>
+<h4>Inspiration Productivity</h4>
 Welcome to our month long blog series, “Dose of Inspiration”. There will be a new blog every week full of ideas and images meant to inspire you and ignite your passion for what you do!
 
 Check out the rest of the blog series:
@@ -49,8 +49,8 @@ Part 3: <a href="https://printaura.com/dose-of-inspiration-10-examples-of-persua
 This weeks blog will mark the end of our Dose of Inspiration blog series. This week we are going to talk about creative home office ideas for small spaces!
 
 <center>
-<h2>Dose of Inspiration: Part 4
-12 creative home office ideas for small spaces</h2>
+<h4>Dose of Inspiration: Part 4
+12 creative home office ideas for small spaces</h4>
 </center>Many entrepreneurs either work from home all day, or have to work on their business during off hours from their day jobs in their home. Working from home comes with it's own set of challenges. It can be hard to focus and be productive. If you are struggling with being productive at work, check out our blog: <a href="https://printaura.com/5-tips-for-being-more-productive-while-working-from-home/" target="_blank">15 Tips For Being More Productive While Working From Home</a>.
 
 Having a separate work space at home can be a huge factor in how easy it is to focus and get work done at home. Having a room or a space that is set aside just for "work" can help you feel like you have a functional office space separate from your home life. Like wise, having that separate work space can help you relax at home when you aren't working. Being able to compartmentalize work and home life can do a lot for productivity and happiness at home!
@@ -133,5 +133,5 @@ Now this is a great utilization of a small space! This office is small, function
 <img class="alignnone size-large wp-image-2709478" src="https://printaura.com/wp-content/uploads/2016/08/Crate-and-Barrel-683x1024.jpg" alt="Crate and Barrel" width="683" height="1024" />
 Via <a href="http://www.crateandbarrel.com/blog/small-home-office-ideas/?crlt.pid=camp.FbmWJOPnhJ8o" target="_blank">Crate and Barrel</a>
 
-<h2>What About You?</h2>
+<h4>What About You?</h4>
 If you don't already have a separate work space in your home, I hope this blog has inspired you to find room and to try to put together your own little office oasis! Do you have an awesome home office space? Have you utilized your space creativity? Share your space with us!

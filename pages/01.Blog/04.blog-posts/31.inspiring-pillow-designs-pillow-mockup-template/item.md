@@ -39,7 +39,7 @@ hide_from_post_list: false
 <img class="alignnone size-full wp-image-2298161" src="https://printaura.com/wp-content/uploads/2016/05/inspiring-pillow-fb.jpg" alt="Inspiring Pillow Designs" width="2000" height="1043" />
 
 We decided to add pillows to our product offerings because they are a staple decor item for any home. Pillows are a great addition to any store because they appeal to a wide variety of people. Pillows can also offer your shoppers a fun way to customize their homes with their unique personality. They can be charming, funny, comfy, trendy, fancy, fun, or anything else you'd want them to be! The print and material quality is fantastic and they are a great addition to any room.
-<h2>Inspiring Pillow Designs</h2>
+<h4>Inspiring Pillow Designs</h4>
 We've put together is great group of inspiring pillow designs to get your creative gears turning! You can design a pillow for any part of the house: kid's rooms, lounges, man caves, reading nooks, luxury porches, tree houses, posh living rooms, chill out spaces, and more! The only limit is what your creative mind can dream up!
 
 <img class="alignnone size-full wp-image-2297945" src="https://printaura.com/wp-content/uploads/2016/05/take-a-hike-pillow.jpg" alt="take a hike pillow" width="500" height="570" />
@@ -97,7 +97,7 @@ Via <a href="https://www.etsy.com/listing/270689998/bird-pillow-cover-bird-throw
 <img class="alignnone size-full wp-image-2297867" src="https://printaura.com/wp-content/uploads/2016/05/heart-pillow.jpg" alt="heart pillow" width="500" height="855" />
 
 Via <a href="https://www.etsy.com/listing/225217431/geometric-heart-pillow-cover-metallic?ref=shop_home_active_1" target="_blank">Northwestdecor</a>
-<h2>Pillow Mockup Templates</h2>
+<h4>Pillow Mockup Templates</h4>
 Take advantage of our newest product addition! Try playing around with some of your designs using these easy mockup templates.
 
 <a href="https://printaura.com/wp-content/uploads/2015/12/Pillow-Mockup-18x18.psd" target="_blank">18" x 18"</a> (PSD)

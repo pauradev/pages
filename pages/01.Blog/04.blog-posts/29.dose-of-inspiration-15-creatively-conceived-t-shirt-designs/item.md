@@ -38,12 +38,12 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2016/08/Dose-part-2-shirts-1024x501.jpg" alt="Creative t-shirt Designs" width="980" height="479" class="alignnone size-large wp-image-2640930" />
 
-<h2>Inspiration Creates Motivation</h2>
+<h4>Inspiration Creates Motivation</h4>
 
 If you haven't read our last blog, <a href="https://printaura.com/dose-of-inspiration-15-amazing-ecommerce-stores-built-using-shopify/" target="_blank">Dose of Inspiration: 15 Inspiring eCommerce Stores Built Using Shopify</a>, take some time to check it out. It is part one of our month long blog series, "Dose of Inspiration". There will be a new blog every week full of ideas and images meant to inspire you and ignite your passion for what you do! This weeks blog will feature some inspiring T-Shirt designs.
 
-<h2><center>Dose of Inspiration: Part Two<br>
-15 Creatively Conceived T-Shirt Designs </h2></center>
+<h4><center>Dose of Inspiration: Part Two<br>
+15 Creatively Conceived T-Shirt Designs </h4></center>
 Check out these inspired t-shirt designs. Being able to display art and make a statement through apparel is an exciting thing for many artists and consumers. Hopefully some of these designs help spark some ideas of your own!
 
 <h3>1. Shine A Light On Autism</h3>
@@ -136,5 +136,5 @@ Very playful typography! Letters can become more than words.
 <img src="https://printaura.com/wp-content/uploads/2016/08/Voila_Capture-2016-08-09_08-28-35_PM.png" alt="Glorious Purpose" width="661" height="730" class="alignnone size-full wp-image-2641092" />
 Via <a href="http://risarodil.tumblr.com/post/146131370830">Risa Rodil</a> 
 
-<h2>What About Yours? </h2>
+<h4>What About Yours? </h4>
 Have you come across any t-shirts lately that you find to be inspiring? Do you feel like your t-shirt designs could be inspiring to others? Share with us in the comments below!

@@ -39,13 +39,13 @@ post_type: post
 
 [![](etsy-1.jpg)](/blog/e-commerce-tips/etsy-update-print-aura-is-now-an-approved-manufacturer)
 
-<h2>What Happened With Etsy?</h2>
+<h4>What Happened With Etsy?</h4>
 
 Etsy recently changed the way they allow it's sellers to work with outside manufacturers. Members used to have to go through an application process to get approved to use an outside manufacturer. There were many issues with this process. Guidelines were unclear, and it seemed that people applying to use same manufacturer would have inconsistent results. In other words, some members who applied for approval to use Print Aura as an outside manufacturer would get accepted, and some would get declined, all while using similar information. This issue was not specific to Print Aura. 
 
 We were very excited to see a change in the process, however we experienced some issues. In the change over, Print Aura got lost in the shuffle and was unable to become an approved manufacturer due to some misinformation about outsourcing.  
 
-<h2>We Made It! </h2>
+<h4>We Made It! </h4>
 
 <strong>Print Aura is now an Etsy Approved Manufacturer! </strong>
 
@@ -58,6 +58,6 @@ You can also check the <strong><a href="https://www.etsy.com/manufacturing/22094
 
 Getting approved is now easier than ever. If you were previously stuck in the approval process, or were declined, you no longer have to apply for outside manufacturing. You can now simply select Print Aura as your outside manufacturer! 
 
-<h2> The Future </h2>
+<h4> The Future </h4>
 
 We are currently working on making our Etsy integration easier to use than ever. Now that we are available to select as an approved manufacturer, you no longer have to go through the lengthy application process. We will have an updated process for the integration soon considering the new great news! Stay tuned! 

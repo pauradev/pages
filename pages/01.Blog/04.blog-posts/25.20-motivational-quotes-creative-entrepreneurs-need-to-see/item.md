@@ -38,11 +38,11 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2016/12/motivtional-quotes.jpg" alt="motivtional quotes" width="1920" height="1001" class="alignnone size-full wp-image-4072722" />
 
-<h2>Believe In Yourself!</h2>
+<h4>Believe In Yourself!</h4>
 The holidays are in full swing and we are all busy thinking about others. As a hard working artist and entrepreneur, it can be tough to give yourself and your dream the attention that is deserved. We know many of you have started your own online stores a side venture. Many of you have other jobs, families, and other priorities. We know it can be hard to stay motivated and inspired, especially since this business is focused on creativity and imagination. You are bound to hit a creative block, wonder if all the work is worth it, think about giving up, or feel too busy to work on it.
 
 Remember, we all face these challenges and nothing great ever comes easy! Work hard, dream big, and believe in yourself. You WILL succeed.
-<h2>20 Motivational Quotes Entrepreneurs Need To See</h2>
+<h4>20 Motivational Quotes Entrepreneurs Need To See</h4>
 We put together 20 of our motivational graphic quotes to help inspire and motivate you. Hopefully at one of these will hit home for you and reignite your passion, or supercharge it!
 <h3>1. "Let your mistakes make you better not bitter."</h3>
 <img class="alignnone size-full wp-image-4069239" src="https://printaura.com/wp-content/uploads/2016/12/PA-qoute-10a.jpg" alt="PA qoute 10a" width="960" height="640" />
@@ -143,5 +143,5 @@ We put together 20 of our motivational graphic quotes to help inspire and motiva
 <h3>20. "Don't stop until you're proud."</h3>
 <img class="alignnone size-full wp-image-4069240" src="https://printaura.com/wp-content/uploads/2016/12/PA-Quote-1.jpg" alt="PA Quote 1" width="960" height="640" />
 
-<h2>Your Motivation</h2>
+<h4>Your Motivation</h4>
 Do you have any words that you live by? Is there a special mantra that helps pull you out of a rut? Share your words of wisdom with us in the comments below! Who knows, you could help motivate a fellow artist or entrepreneur!

@@ -39,9 +39,9 @@ hide_from_post_list: false
 <img class="aligncenter size-large wp-image-2079174" src="https://printaura.com/wp-content/uploads/2016/01/pricing-products-banner-1024x328.jpg" alt="Product Pricing Advice" width="980" height="314" />
 
 Pricing a product can be a tough decision. It’s especially hard if you aren’t sure where to begin. Charging too much can hurt your sales and charging too little can hurt your brand. So where do you start? We put together this blog to help you navigate pricing your items.
-<h2>What Is MSRP?</h2>
+<h4>What Is MSRP?</h4>
 MSRP stands for manufacturer's suggested retail price. MSRP refers to the price that the manufacturer suggests you sell an item at. In this case, Print Aura is the manufacturer. This number is in no way set in stone. We provide an MSRP for our members as a place to start. You will be able to see our MSRP when you add products to your store through Print Aura. It will automatically populate when you add your product.
-<h2>4 Things To Consider When Pricing Your Products</h2>
+<h4>4 Things To Consider When Pricing Your Products</h4>
 Now that you understand where to start, take these factors into consideration when you price your items out. In some cases, the MSRP makes the most sense. In other cases, the MSRP may be too high or too low.
 <h3>Your USP (Unique Selling Point)</h3>
 USP refers to your place in the marketplace. Are your designs unique? Are you offering something no one else is offering? If so, you can price your items higher. The uniqueness of your products adds value and demand, therefore you are in a position to be able to charge more. If you are selling products that everyone and their neighbor is selling, you aren’t in good position to be asking for higher prices.

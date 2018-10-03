@@ -44,7 +44,7 @@ Shopify can be an amazing eCommerce platform for entrepreneurs to get their star
 
 If you are are member of PrintAura, you've probably at least taken a look. With thousands of apps available for the platform, it can be tough to figure out which apps are helpful, and which are downright superfluous. 
 
-<h2>6 Awesome Shopify Apps You Need To Check Out</h2>
+<h4>6 Awesome Shopify Apps You Need To Check Out</h4>
 We've put together a small list of the Shopify Apps we feel are the most helpful in terms of marketing, communication, and more! 
 
 <h3>1. Product Reviews </h3>
@@ -95,5 +95,5 @@ Not sure about SEO? You are not alone, trust me! This app helps takes the guess 
 
 <a href="https://apps.shopify.com/plug-in-seo" target="_blank">Check out Plug-in SEO</a>
 
-<h2>Did We Miss Any Must-Haves?</h2>
+<h4>Did We Miss Any Must-Haves?</h4>
 Do you have a Shopify App you can't live without? We'd love to know what kinds of apps you guys are using, and how they are benefiting you business! 

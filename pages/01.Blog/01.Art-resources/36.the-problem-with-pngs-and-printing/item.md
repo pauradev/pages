@@ -37,7 +37,7 @@ post_type: post
 ---
 
 [![png problems](https://printaura.com/wp-content/uploads/2017/01/png-probs-fb.jpg)](https://blog.printaura.com/blog/art-resources/the-problem-with-pngs-and-printing)
-<h2>What Is A .PNG File?</h2>
+<h4>What Is A .PNG File?</h4>
 A .png file, or a "Portable Network Graphics" file is a file type that was designed primarily for web and screen use. The primary function of this file type is to allow for transparency at any level to be published to the web and used online. A .png is a great file type choice for a logo in your online shop or any other images that need to stand on their own, and adapt to any background.
 <h3>PNG At A Glance</h3>
 <strong>Stands For: </strong>
@@ -57,7 +57,7 @@ Portable Network Graphics
  	<li>Drawbacks: only compatible with RGB color profile</li>
 </ul>
 &nbsp;
-<h2>What Happens When We Print A .PNG?</h2>
+<h4>What Happens When We Print A .PNG?</h4>
 We do accept .png files for print. However, there is a caveat. The main issue for printing a .png file is its inherent color profile. As we discussed above, .png files can only be saved in the RGB (red, green, blue) color profile. For the best color results and accuracy in printing t-shirts and other garments, we ask for images formatted in the CMYK (cyan, magenta, yellow, key/black) profile.
 
 Printers are almost always calibrated to print using the CMYK color profile. If you have ever had to buy ink, or opened up a printer, you will see the ink colors correspond to the C - cyan, M - magenta, Y - yellow, K - key (black) color profile. Printers speak a certain color language, and web images (RGB files) speak a different color language. They use different base colors to put together and create other colors.

@@ -45,7 +45,7 @@ Every now and then we have to discontinue some of our items. This can happen for
  	<li>An item isn't selling or doing well for our members, and we want to make room for new items that will be popular and exciting!</li>
 </ol>
 &nbsp;
-<h2>Discontinued Items</h2>
+<h4>Discontinued Items</h4>
 The following items will be officially discontinued on <span style="color: #ff0000;"><strong>May 21st, 2018.</strong></span> If you have any of these items up for sale in your shop, please remove them before the discontinue date. If you are not currently offering any of these items, please don't add them to your shop.
 <h4><em> RABBIT SKIN</em></h4>
 RS1004
@@ -420,7 +420,7 @@ AFX4000
  	<li>Solid Charcoal</li>
 </ul>
 &nbsp;
-<h2>Remember To Remove Or Replace</h2>
+<h4>Remember To Remove Or Replace</h4>
 If you currently offer these discontinued items in your store, please make sure to remove them or replace them before the <strong><span style="color: #ff0000;">May 21st deadline</span></strong>. If you were considering offering these items in your store, please refrain from doing so, as they will be discontinued shortly.
 
 We apologize for any inconvenience the discontinued items may have caused you.

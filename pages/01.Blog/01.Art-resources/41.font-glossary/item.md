@@ -41,13 +41,13 @@ post_type: post
 Have you ever been on a website searching for fonts to use for your designs, only to realize the fonts are categorized by terms that you don’t understand? If so, you certainly aren’t alone. I had been designing for a long time before I ever thought to look into these terms. Some are easy to guess, but some are less obvious. I found that understanding these terms helped my search processes when I look for specific types of fonts.
 
 I’ve put together some quick and simple definitions of some common typography terms to help you guys with your font searches.
-<h2>Font Formats</h2>
+<h4>Font Formats</h4>
 Sometimes you will be presented with two different types of font formats. Some will be .TTF files and others will be .OTF files. Sometimes one font will come with both file types. So what’s the difference?
 <h3>TrueType Fonts (TTF)</h3>
 The TTF format contains your basic font characters. You have your 28 letters, numbers, and punctuations. TTF fonts served the basic need for being able to use fonts across different platforms.
 <h3>OpenType Fonts (OTF)</h3>
 The OTF format allows font designers to expand out from basic characters. The OTF format usually features your basic font plus alternate characters and embellishments. This allows you other graphic options to work with within the font.
-<h2>Font Categories</h2>
+<h4>Font Categories</h4>
 <h3>Serif</h3>
 Serif fonts are characterized by embellishments or small decorative flourishes that extend passed the body stroke of a character. Serif fonts are believed to be easier to read in large bodies or text. Most books and print material are written in serif fonts.
 
@@ -82,5 +82,5 @@ Monospaced fonts are characterized by their fixed width. Each character is the s
 Gothic fonts are a subset of sans serif fonts. They are often geometric, lineal, basic fonts.
 
 <img class="alignnone wp-image-2248548" src="https://printaura.com/wp-content/uploads/2016/04/gothic.jpg" alt="gothic" width="650" height="226" />
-<h2>Other Questions?</h2>
+<h4>Other Questions?</h4>
 Do you have questions about any of the terms above? Do you have a term you don’t understand that you’d like me to add to this list? If you have questions, chances are other people have that same question. Don’t hesitate to reach out and ask us in the comments below.

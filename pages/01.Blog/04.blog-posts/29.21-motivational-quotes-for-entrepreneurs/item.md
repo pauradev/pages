@@ -37,9 +37,9 @@ hide_from_post_list: false
 ---
 
 <img class="alignnone size-large wp-image-12679909" src="https://printaura.com/wp-content/uploads/2018/01/motivational-quotes-1024x534.jpg" alt="motivational quotes" width="980" height="511" />
-<h2>Get Motivated!</h2>
+<h4>Get Motivated!</h4>
 Let's all start the new year out on the right foot! You can set yourself up for success by going into things with a positive outlook! Keeping yourself motivated can work wonders for your success, progress, and overall happiness. While the lows are inevitable, it's great to practice getting ourselves out of those spaces and back on to better and brighter things!
-<h2>21 Motivational Quotes For Entrepreneurs</h2>
+<h4>21 Motivational Quotes For Entrepreneurs</h4>
 Sometimes when we are feeling stuck or frustrated, we just need to hear those magic words to help pull us back into a place of positivity and productivity. We've put together a collection of quotes from our Motivational Monday series to help kick things back into gear if you are feeling stuck. We hope at least one of these quotes will speak to you and provide you with an extra jolt of motivation!
 <h3>1. "In life: Get up, show up, and never give up."</h3>
 <img class="alignnone size-full wp-image-12679529" src="https://printaura.com/wp-content/uploads/2018/01/0.jpg" alt="0" width="900" height="600" />
@@ -143,5 +143,5 @@ Sometimes when we are feeling stuck or frustrated, we just need to hear those ma
 
 <h3>21. "Work hard and dream big."</h3>
 <img class="alignnone size-full wp-image-12679546" src="https://printaura.com/wp-content/uploads/2018/01/19.jpg" alt="19" width="900" height="506" />
-<h2>What About You?</h2>
+<h4>What About You?</h4>
 We all find ourselves in a bit of a rut at times. Do you have any favorite motivational quotes or phrases that help bring you back to a place of positivity? Please share with us in the comments down below! You could turn someone's day around!

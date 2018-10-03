@@ -38,7 +38,7 @@ post_type: post
 
 [![Intermediate photoshop tutorial roudup](https://printaura.com/wp-content/uploads/2016/04/PS-tutorial-Round-up-banner-copy-copy.jpg)](https://blog.printaura.com/blog/art-resources/intermediate-photoshop-tutorial-roundup)
 
-<h2>Intermediate Photoshop Tutorial Roundup</h2>
+<h4>Intermediate Photoshop Tutorial Roundup</h4>
 We've put together some really helpful Photoshop tutorials that will definitely step up your design game. These tutorials are for those of you who already have a good understanding of the basics in Photoshop. If you are new to using Photoshop, check out our <a href="https://printaura.com/beginners-photoshop-tutorial-roundup/" target="_blank">Beginners Photoshop Tutorial Roundup</a> for videos to help you with the basics.
 <h3>Using The Pen Tool</h3>
 In the beginners tutorials, we showed you how to remove a background using a combination of easy to use tools. While it's easy to remove a background using the magic wand, it isn't always super accurate. Learning to use the pen tool is a great skill to add to your design toolbox. It can be a bit hard to get used to, but it gives you the most amount of control over what is selected.
@@ -54,15 +54,15 @@ This design effect can be seen on posters, album covers, t-shirts, and more. It�
 <iframe src="https://www.youtube.com/embed/OstULPg8GzA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <h3>Another Example of Multiple Exposure</h3>
 <iframe src="https://www.youtube.com/embed/cGlx3YNZ-4o?list=PLV7ksGW5qlnElI_dVslbIFrKdqugRlElj" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<h2>Creating A Cartoon From An Image</h2>
+<h4>Creating A Cartoon From An Image</h4>
 There are a few ways to accomplish this. This tutorial shows a technique that provides a playful hand-drawn look. You can use this technique for people, animals, objects, and whatever else you can think of.
 
 <iframe src="https://www.youtube.com/embed/HCjdGrv5V24" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<h2>Adding Images To Text</h2>
+<h4>Adding Images To Text</h4>
 Yes, this video is pretty corny, but the concept is illustrated well. You can use this technique in a variety ways. It doesn’t have to be for a “tacky holiday card.”
 
 <iframe src="https://www.youtube.com/embed/ervZqx2N-8c" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<h2>Want More?</h2>
+<h4>Want More?</h4>
 Do you want to see more? Let us know in the comment section below what kind of tutorials you would like to see! If you are looking for even more tutorials, Adobe has a large collection of <a href="https://helpx.adobe.com/photoshop/tutorials.html" target="_blank">free Photoshop tutorials.</a>
 
 Also check out our <a href="https://www.youtube.com/user/printaura" target="_blank">Youtube page</a> for even more quick and easy how-to videos!

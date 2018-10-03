@@ -19,12 +19,12 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2017/05/dads-fb.jpg" alt="dads fb" width="1920" height="1001" class="alignnone size-full wp-image-6972117" />
 
-<h2>Celebrate Dads!</h2>
+<h4>Celebrate Dads!</h4>
 Father's Day is right around the corner (June 18th). Help your customers celebrate the awesome fathers in the their life by adding some dad inspired designs to your shop today! If you need a little inspiration, we've got you covered!
 
 ===
 
-<h2>Dad Life Inspiration</h2>
+<h4>Dad Life Inspiration</h4>
 We poured through shops just like yours to find some fun and fresh ideas for this Father's Day! Take a look at some of these designs, get inspired, and create your own unique designs to celebrate dads!
 <h3>Apparel</h3>
 What does doesn't like a clever, comfy t-shirt? Design one that will become his go-to!
@@ -243,5 +243,5 @@ Via <a href="https://www.etsy.com/shop/Lulubeansboutique?ref=l2-shopheader-name"
 
 Via <a href="https://www.etsy.com/shop/wfrancisdesign?ref=l2-shopheader-name&amp;section_id=18871431" target="_blank">wfrancisdesign</a>
 
-<h2>Add Your Own Designs</h2>
+<h4>Add Your Own Designs</h4>
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c  no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 1926px; left: 20px;">Save</span>

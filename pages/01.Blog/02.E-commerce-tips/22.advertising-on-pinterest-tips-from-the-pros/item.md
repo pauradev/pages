@@ -40,7 +40,7 @@ post_type: post
 [![](pinterest%20blog.jpg)](/blog/e-commerce-tips/advertising-on-pinterest-tips-from-the-pros)
 Do you do any online advertising for your brand, products, or online store? If not, you probably want to consider it. Advertising online is essential for getting noticed! If you want to reach your future customers, you have to get in front of them. While Facebook and Instagram can be good platforms to reach people who may be interested in buying your products, Pinterest is an excellent, and sometimes overlooked option as well. 
 
-<h2>Advertising On Pinterest</h2>
+<h4>Advertising On Pinterest</h4>
  
 If you have ever used Pinterest before, you know it is a very visually driven platform. Over 200 million people browse through Pinterest every month to discover new things and new ideas. Pinterest is place where people can design their own lives. It's a place for inspiration and discovery! 
 
@@ -81,7 +81,7 @@ Text can help give an image context. People are more drawn in by the pin than by
 
 Extra tip - A minimum 20pt font is suggested for legibility on mobile. <br>
 
-<h2> Resources </h2>
+<h4> Resources </h4>
 
 Check out these resources for a closer look into advertising with Pinterest. I have included both informational and inspirational idea to help get you started and on the right path! 
 

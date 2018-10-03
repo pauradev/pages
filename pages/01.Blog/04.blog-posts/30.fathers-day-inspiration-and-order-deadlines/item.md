@@ -37,9 +37,9 @@ hide_from_post_list: false
 ---
 
 <img class="alignnone size-large wp-image-2337640" src="https://printaura.com/wp-content/uploads/2016/05/fathers-day-inspiration-1024x367.jpg" alt="fathers day inspiration" width="980" height="351" />
-<h2>Let's Celebrate All The Dad's Out There!</h2>
+<h4>Let's Celebrate All The Dad's Out There!</h4>
 Father's Day is coming up right around the corner and we know dads are notoriously hard to buy for! Give your customers some fun and unique items to make shopping for dad a breeze this Father's Day.
-<h2>Father's Day Gift Ideas</h2>
+<h4>Father's Day Gift Ideas</h4>
 It's not too late to add some father's day designs to your store. We have lots of dad-friendly products options to choose from. We've combed through stores just like yours to pull out some Father's Day inspiration.
 <h3>Mugs</h3>
 Nothing says #1 dad like a <a href="https://printaura.com/mugs/" target="_blank">mug</a>! Pops can start his day off with a message from his family. It can be funny, sweet, or sarcastic.
@@ -101,7 +101,7 @@ Via <a href="https://www.etsy.com/listing/237825987/big-dipper-little-dipper-t-s
 
 <hr />
 
-<h2>Order Deadlines</h2>
+<h4>Order Deadlines</h4>
 Please be sure to notify your customers that orders must be placed by the dates below in order to get their products printed, shipped out, and delivered by Father’s Day.
 
 T-shirts must be ordered by <span style="color: #ff0000;"><strong>June 9th, 2016</strong></span> to arrive by Father's Day.

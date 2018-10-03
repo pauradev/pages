@@ -39,7 +39,7 @@ post_type: post
 
 [![](letter-to-entrepreneurs.jpg)](blog/e-commerce-tips/-a-letter-to-aspiring-ecommerce-entrepreneurs)
 
-<h2>A Letter To Aspiring eCommerce Entrepreneurs</h2>
+<h4>A Letter To Aspiring eCommerce Entrepreneurs</h4>
 
 Dear aspiring eCommerce entrepreneur, 
 
@@ -63,7 +63,7 @@ You can just go for it. The hardest part of getting to where you want to be can 
 
 You can look your fears in the face and say, TAKE A HIKE! 
 
-<h2>What Keeps Us From Starting?</h2>
+<h4>What Keeps Us From Starting?</h4>
 
 Why is it so difficult to start working towards our dreams? 
 
@@ -77,7 +77,7 @@ In my mind, dreams have two parts. First, there is the dream, the big idea! Seco
 
 It is the expectations that accompany our dreams that keeps us from working towards them and fighting for them. Achieving a goal, but having it not reach expectations is often seen as failure. And failure is seen as a terrible thing. The truth is, failure is a tool. It helps us get to where we want to be. Failure can be an integral part in helping us to achieve our dreams. Not achieving your expectations can be a learning experience. It can be valuable. You can step back, research, reevaluate, and try again with a newly informed mind. You aren't allotted only one attempt at success. 
 
-<h2>Getting Started</h2> 
+<h4>Getting Started</h4> 
 
 If there is one thing I have learned, it is that we too often see our end goal as being success, or nothing. This expectation is debilitating. It will only slow you down, freak you out, and bring a halt to what you are working towards. 
 

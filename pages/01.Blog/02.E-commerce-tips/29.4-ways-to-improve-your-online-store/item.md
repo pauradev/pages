@@ -40,7 +40,7 @@ post_type: post
 [![](improve-your-shop.jpg)](/blog/e-commerce-tips/4-ways-to-improve-your-online-store)
 
 Are you having trouble making your first sale? Are you looking for ways to boost your current sales? Are you interested in improving your customer’s user experience? Very few e-commerce entrepreneurs can say they have the perfect online store. It usually takes a fair amount of time and tweaking to get things running smoothly and looking just right. There are always ways to improve and evolve the experience your customers have when shopping at your store.
-<h2>4 Ways To Improve Your Online Store</h2>
+<h4>4 Ways To Improve Your Online Store</h4>
 If you haven’t quite found that perfect version of your store, these four tips will help point you in the right direction.
 <h3>Make A Good First Impression</h3>
 Your home page / storefront is essentially a greeting to your customer. It should be visually welcoming and function as a snapshot of what your store has to offer. It should have personality, but not be too overwhelming. Creating a beautiful, functional, and successful homepage can be a delicate balance.

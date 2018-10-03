@@ -38,11 +38,11 @@ post_type: post
 
 [![](https://printaura.com/wp-content/uploads/2017/08/t-shirts-1024x534.jpg)](https://blog.printaura.com/blog/art-resources/common-mistakes-understanding-underbase)
 
-<h2>Understanding Underbase</h2>
+<h4>Understanding Underbase</h4>
 Underbase has come up as being a commonly misunderstood concept. We try our best to lay out different concepts and techniques as clearly as possible, but sometimes you really just need to see something before you can understand it. We get a lot of questions about underbase so we thought it was time to create an informative and illustrative article on the subject!
 
 <!--more-->
-<h2>What Is Underbase?</h2>
+<h4>What Is Underbase?</h4>
 Underbase is a layer of white ink that is printed onto the garment before your design is printed. If you think of your garment as an art canvas, underbase makes a lot of sense. Generally speaking, most artists begin with a blank white canvas. This allows the color of their paint or ink to show up on the canvas as they are meant to be. Imagine you are creating an ink design. You have blue ink, because you want to make a blue iris flower. If your canvas is red, there is no chance the blue ink will translate as blue on top of the red. It would come out muddied and dark, closer to a deep brown. If you used that same ink on a white canvas, you are able to achieve your true blue.
 
 The same goes for printing shirts. Blue ink will not show well on a red shirt. That is why we use underbase. The white underbase layer acts a blank canvas for your design. Without this blank canvas, ink can mix in with the color of the garment.
@@ -58,7 +58,7 @@ If your design is all black, you can get away without an underbase on lighter co
 Check out these examples of what white, black, and color will look like with and without underbase on a darker colored garment.
 
 <img class="alignnone wp-image-9185198" src="https://printaura.com/wp-content/uploads/2017/08/underbase-example-red-574x1024.jpg" alt="underbase example - red" width="390" height="696" />
-<h2>Other Considerations</h2>
+<h4>Other Considerations</h4>
 <h3>Aesthetic</h3>
 Sometimes people enjoy the vintage look of not using underbase. If you choose to forgo and underbase for a lighter garment, the print will turn out a bit duller, and slightly take on the hue of the garment's original color. In some situations, this aestheric is actually preferred. It just depends on what you are going for. However, it is very important to note that this is only successful using very light colored garments.
 
@@ -93,5 +93,5 @@ Check out the final adjusted product:
 <img class="alignnone size-large wp-image-9190415" src="https://printaura.com/wp-content/uploads/2017/08/transpar-fix-1-244x1024.jpg" alt="transpar fix" width="244" height="1024" />
 <h3>White Ink</h3>
 Anytime no underbase is selected, no white ink will print at all. The underbase serves as the white ink, so if you ever decide to go without underbase, make sure there is no white in your design!
-<h2>Questions?</h2>
+<h4>Questions?</h4>
 If things still aren't clear, or if there are questions that have gone unanswered, let us know! Post in the comments down below if you need clarification. We truly want to help our members have the best grasp of printing techniques because it produces better results for you and your customers!

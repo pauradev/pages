@@ -37,7 +37,7 @@ hide_from_post_list: false
 ---
 
 <img src="https://printaura.com/wp-content/uploads/2018/05/curvyy.jpg" alt="curvyy" width="679" height="354" class="alignnone size-full wp-image-12714758" />
-<h2>The Curvy Line</h2>
+<h4>The Curvy Line</h4>
 Here at Print Aura, we strive to be as inclusive as possible. People come in all different shapes and sizes, and we want to offer products that excite and look great on everyone. Many of our unisex products are offered in sizes up to 2XL, but we know that those items aren't always the most flattering styles for women. That's why we decided to introduce a line made especially for curvier women!
 <h3>Sizing Information</h3>
 Our Curvy line sizes range from 1-4.
@@ -48,7 +48,7 @@ Our Curvy line sizes range from 1-4.
  	<li>Size 4 (26-28)</li>
 </ul>
 &nbsp;
-<h2>New Curvy Items</h2>
+<h4>New Curvy Items</h4>
 We are so excited to offer these new items that are designed specifically to flatter curvier women! We hope you and your customers are as excited for these new items as we are. 
 <h3>Ladies' Curvy Premium Jersey T-Shirt</h3>
 <a href="https://printaura.com/product-view/?v=1&hdn=NTQx" rel="noopener" target="_blank">LAT Curvy 3804</a>
@@ -130,5 +130,5 @@ Sizes 1-4
  	<li>Vintage Smoke</li>
 </ul>
 &nbsp;
-<h2>Add Curvy Items Today!</h2>
+<h4>Add Curvy Items Today!</h4>
 If you are excited about these new Curvy items, let us know by adding them to your shop! We want to add even more products and color options to this line soon! Please feel free to leave us any and all feedback in the comments section below! What do you think of the new Curvy line? What's missing? Let us know what you would like see!

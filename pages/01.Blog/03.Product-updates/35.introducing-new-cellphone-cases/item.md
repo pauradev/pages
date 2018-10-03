@@ -38,7 +38,7 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2016/09/cell-banner-newsletter.jpg" alt="New cell phone cases" width="1005" height="410" class="alignnone size-full wp-image-2784076" />
 
-<h2>Fantastic News!</h2>
+<h4>Fantastic News!</h4>
 
 We are excited to offer some of the highest quality cell phone cases on the market, paired with an industry leading 3D printing process. From corner to corner, and edge to edge, our seamless in-surface printing technology leaves no outer surface untouched. Bright, colorful inks are embedded deeply into the surface of the case underneath a clear protective finish, so that your case will look fresh and new as long as you have it. These phone cases will outlast your phone! Available in five different styles, our cases are durable as well as fade and scratch resistant.
 
@@ -59,7 +59,7 @@ Our new cases are made of space-grade plastics (seriously .. they use this stuff
 </ul>
 &nbsp;
 
-<h2>A Case For Everyone</h2>
+<h4>A Case For Everyone</h4>
 We are proud to offer not just one, not two, but five new cases for you to choose from! We have carefully included a variety of stylish options that we are confident will accommodate everyone's needs. 
 
 <h3>The Snap Case</h3>
@@ -92,7 +92,7 @@ This case doubles as a wallet! It features a luxurious exterior with 2 card hold
 <img class="alignnone size-large wp-image-2642613" src="https://printaura.com/wp-content/uploads/2016/08/Folio-inside-1024x724.jpg" alt="Folio inside" width="750" height="693" />
 
 
-<h2>New Printing Process</h2>
+<h4>New Printing Process</h4>
 We are not just excited about our new, higher quality, more stylish cases. We are super excited about our new printing process that will yield higher quality prints. The matte cases are vivid and true to color, and gloss cases are out of this world! 
 
 Our new cases are printed using 3D dye sublimation. Each case is vacuum formed to the printing equipment. Your artwork will be printed on a transfer film (not paper) using high quality specialized inks. The printing system heats up the case and the film is overlaid onto it. The vacuum sucks the film down around the edges of the case. The extreme heat converts the ink to gas and that passes into the surface of the case.
@@ -103,7 +103,7 @@ Our new matte case option features a flat and soft finish. The colors are just a
 
 <img src="https://printaura.com/wp-content/uploads/2016/08/matte-vs-gloss.jpg" alt="matte vs gloss" width="468" height="474" class="alignnone size-full wp-image-2780663" />
 
-<h2>Add A Case Today!</h2> 
+<h4>Add A Case Today!</h4> 
 Check out our new <strong><a href="https://printaura.com/phone-cases" target="_blank">custom cellphone case page</a></strong> You'll find the phone models we offer the cases for, pricing, print examples, templates, and mockup files. Here's a little inside scoop ... the iPhone 7 cases will be making their debut soon as well! 
 
 Add your artwork to one (or all) of our cases and start selling them today! 

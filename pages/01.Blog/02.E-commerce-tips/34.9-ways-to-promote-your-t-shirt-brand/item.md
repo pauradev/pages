@@ -39,7 +39,7 @@ hide_from_post_list: false
 <img class="aligncenter size-large wp-image-2039562" src="https://printaura.com/wp-content/uploads/2016/01/blog-banner-promote-tee-brand2-1024x323.jpg" alt="9 ways to promote your t-shirt brand" width="980" height="309" />
 
 Selling T-Shirts online is a great business and can be a lot of fun. It can also be very lucrative and rewarding if promoted properly. In a sea of thousands of online t-shirt stores, you have to find a way to stand out. Starting a t-shirt company from scratch can be a daunting task, but we are here and happy to help!
-<h2>Here are 9 ways to promote your t-shirt brand</h2>
+<h4>Here are 9 ways to promote your t-shirt brand</h4>
 <h3>1. Identify Your Target Market</h3>
 Your designs have a voice, whether you realize it or not. Figure out what kind of people gravitate towards your designs or figure out who you want to sell to, and design for them. You might have a very wide target market, or you may have a very specific niche. Whatever the case, if you can identify them you can market to them more effectively.
 <h3>2. Build Your Brand</h3>
@@ -71,7 +71,7 @@ Creative and unique content can drive traffic to your store. Value isn’t just 
 People buy from people. Let your personality shine through in your designs and your marketing. Passion is energy, and if you let people see your passion, they will feel that energy and get excited too.
 
 T-shirts reflect people’s personalities. If you are passionate about your designs, odds are people just like you will be too.
-<h2>Get Started!</h2>
+<h4>Get Started!</h4>
 If you haven't done so already, <a href="https://printaura.com/register/" target="_blank">sign up</a> with Print Aura today!
 
 If you have a design and wish to sell it on T-shirts or any of our 100's of items, you are in the right place. Print Aura prints and ships your products under your brand. There are no minimums and no membership fees. You only pay for what you sell.

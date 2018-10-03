@@ -38,10 +38,10 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2018/03/mug-designs-1024x534.jpg" alt="mug designs" width="980" height="511" class="alignnone size-large wp-image-12704098" />
 
-<h2>Why Add Mugs To Your Store?</h2>
+<h4>Why Add Mugs To Your Store?</h4>
 I don't know about you, but I use a mug every day. I use one at work for coffee during the day, and use one to wind down with some tea when I get home. Whether it's at work or at home, having a special mug that's all your own is a fun way to brighten up an ordinary day. Having a personalized mug is a great way for people to show off their personality or their interests! Do you have any added to your store for your customers to buy? If not, consider adding your designs to a mug or two and see how your customers respond! 
 
-<h2>17 Inspirational Mug Ideas</h2>
+<h4>17 Inspirational Mug Ideas</h4>
 If you aren't sure what kind of designs to add to a mug, check out these examples. Hopefully the creativity from these designers will inspire you to create your own awesome mug design to sell in your own store!
 
 <h3>1. Motivation </h3>

@@ -38,7 +38,7 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2016/08/Dose-part-3-FB--1024x534.jpg" alt="Dose part 3 FB" width="980" height="511" class="alignnone size-large wp-image-2667578" />
 
-<h2>Inspiration Fuels Imagination</h2>
+<h4>Inspiration Fuels Imagination</h4>
 
 Welcome to our month long blog series, “Dose of Inspiration”. There will be a new blog every week full of ideas and images meant to inspire you and ignite your passion for what you do! 
 
@@ -49,8 +49,8 @@ Check out part 1 and part 2 of the blog series:
 
 This weeks blog will feature inspired product photography. 
 
-<center><h2>Dose of Inspiration: Part 3
-10 Persuasive Product Photographs</center></h2>
+<center><h4>Dose of Inspiration: Part 3
+10 Persuasive Product Photographs</center></h4>
 
 When it comes to marketing and sales, image is everything. I am not just talking about your brand's image, or even your image as the owner. I am talking specifically about product imagery. Product photography, and how you present your products to the public, can have a huge impact on your ability to sell that product, especially online. Since we live in the world of eCommerce, a image is worth a thousand words. 
 
@@ -120,6 +120,6 @@ Adding small props or accessories can make a big impact. They can help set a sce
 <img src="https://printaura.com/wp-content/uploads/2016/08/Nasty-683x1024.jpg" alt="Nasty" width="683" height="1024" class="alignnone size-large wp-image-2669169" />
 <a href="http://www.nastygal.com/" target="_blank">Credit </a></em>
 
-<h2>What About Yours?</h2>
+<h4>What About Yours?</h4>
 
 Have you come across any product photography that you find to be inspiring or especially good? Do you feel like your product photography could be inspiring to others? Share with us in the comments below!

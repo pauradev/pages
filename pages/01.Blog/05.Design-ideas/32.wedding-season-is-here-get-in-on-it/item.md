@@ -41,9 +41,9 @@ post_type: post
 
 [![](couple-1850073_1920-768x401.jpg)](https://blog.printaura.com/blog/design-ideas/wedding-season-is-here-get-in-on-it)
 
-<h2>It's Wedding Season!</h2>
+<h4>It's Wedding Season!</h4>
 Did you know that "Wedding Season" is from June to September? The vast majority of weddings happen during this time. That means people will be looking for fun bachelor and bachelorette party items and wedding gifts! The wedding industry is massive and there is definitely money waiting to be spent on fun wedding themed items! Have you considered adding your own design spin on wedding season?
-<h2>Wedding Season Design Inspiration</h2>
+<h4>Wedding Season Design Inspiration</h4>
 Check out these ideas for inspiration, then create something of your own!
 <h3>Bridal Party</h3>
 

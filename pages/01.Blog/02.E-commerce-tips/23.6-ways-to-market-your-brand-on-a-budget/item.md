@@ -38,10 +38,10 @@ post_type: post
 
 [![](market-budget-blog.jpg)](/blog/e-commerce-tips/6-ways-to-market-your-brand-on-a-budget)
 
-<h2>Getting Your Brand Out There!</h2>
+<h4>Getting Your Brand Out There!</h4>
 Do you want to start marketing your brand, but don't know where to start? It can seem pretty intimidating, and more than anything, expensive! Marketing your brand doesn't have to break the bank. There are plenty of smart and strategic ways you can go about getting your brand out there! 
 
-<h2>6 Ways To Market Your Brand On A Budget </h2>
+<h4>6 Ways To Market Your Brand On A Budget </h4>
 
 <h3>1. Finding The Hangouts</h3>
 Understanding your niche is super important. Let's say your apparel company revolves around trail running and the culture that goes along with it. It's your job to figure out what kind of people would be interested in your products. Luckily, if you are making shirts for people who are trail runners, you are likely a trail runner too! It definitely gives you a leg up if you are the kind of person you are trying to sell your products to. Where do you, and your future customers hang out online? You can probably find popular forums, Facebook groups, Reddit threads, and other online communities to join and become an active part of. You might already be a member of some! Use these communities to build your brand. 

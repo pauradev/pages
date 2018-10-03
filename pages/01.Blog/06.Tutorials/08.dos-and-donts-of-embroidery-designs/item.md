@@ -37,7 +37,7 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2016/05/embroidery-banner-blog1.jpg" alt="do&#039;s and don&#039;ts of embroidery design" width="1792" height="740" class="alignnone size-full wp-image-2312161" />
 
-<h2>How Does Embroidery Work?</h2>
+<h4>How Does Embroidery Work?</h4>
 Embroidery is a decorative technique used to create designs on fabric. This technique involves the weaving of thread to create shapes and words. Embroidery looks elegant and is distinguishable by it’s raised and textured qualities.
 
 If you are using Print Aura for your embroidery work, the steps are as follows:
@@ -62,7 +62,7 @@ If you are using Print Aura for your embroidery work, the steps are as follows:
 
 &nbsp;
 
-<h2>Do’s and Don'ts of Embroidery Design</h2>
+<h4>Do’s and Don'ts of Embroidery Design</h4>
 Creating a design for embroidery can actually be quite difficult. It’s much different than direct to garment printing and screen printing. Since the design is being sewed on, there are some design limitations that need to be taken into account. Certain shapes, details, and fonts, are too complicated or nuanced to be created using thread. Here are some do’s and dont’s to help you create a great embroidery design.
 
 <h3>Using The Embroidery Template</h3>
@@ -126,7 +126,7 @@ Choosing a font for embroidery can be difficult. Many fonts that look great when
 <span style="color: #ff0000;"><span class="dashicons dashicons-no"></span></span> Choose a font that has letters very close together.
 
 <span style="color: #ff0000;"><span class="dashicons dashicons-no"></span></span> Choose a font that is under ½ inch.
-<h2>How To Prepare Art For Embroidery</h2>
+<h4>How To Prepare Art For Embroidery</h4>
 Sometimes seeing is better than reading! If some of these do's and don'ts seem a little hard to understand, check out our video! We've created a how to video to show you guys how to get your artwork ready from embroidery. 
 
 <iframe src="https://www.youtube.com/embed/lUI745XCtdg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

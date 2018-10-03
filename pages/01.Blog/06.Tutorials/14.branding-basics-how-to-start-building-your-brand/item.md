@@ -36,7 +36,7 @@ hide_from_post_list: false
 ---
 
 <img class="alignnone size-full wp-image-2267655" src="https://printaura.com/wp-content/uploads/2016/04/brandingblog.jpg" alt="Branding Basics" width="1500" height="628" />
-<h2>Branding Basics</h2>
+<h4>Branding Basics</h4>
 Before you start obsessing over what shade of blue to use in your logo or what font to use on your shop’s home page, you should stop and make sure that these decisions are being guided and driven by something. It's so easy to get lost in the details if you haven't sorted out the bigger picture. 
 
 Do any of these situations sound familiar?
@@ -50,7 +50,7 @@ Do any of these situations sound familiar?
 Well then my friend, it is time to take a step back and really think about your brand and if what you are doing is in line with the bigger picture.
 
 We’ve talked a lot in the past about defining your “brand identity”. It’s a very important process to go through in order to have a strong and consistent brand strategy. But what exactly is a brand identity, and how do you go about developing one?
-<h2>Brand Identity</h2>
+<h4>Brand Identity</h4>
 What does your brand stand for and how does it convey that purpose to others? The answers you give to those questions are your brand's identity. A brand identity is similar to that of a person. Your brand should have a purpose, values, and a voice.
 
 When developing your brand's identity you should be thinking about:
@@ -93,7 +93,7 @@ So get creative and start brainstorming! Creating a board is a great way to see 
 <p style="text-align: center;"><a href="https://printaura.com/wp-content/uploads/2016/04/c3607725468165.5691dc677693b.jpg"><img class="alignnone size-full wp-image-2267604" src="https://printaura.com/wp-content/uploads/2016/04/c3607725468165.5691dc677693b.jpg" alt="Bijoux" width="600" height="3431" /></a></p>
 <p style="text-align: center;">Bijoux via <a href="https://www.behance.net/gallery/25468165/Bijoux-Brand-Web?utm_medium=email&amp;utm_source=transactional&amp;utm_campaign=project-published" target="_blank">Nikki Clark</a>.</p>
 
-<h2>Branding Tools</h2>
+<h4>Branding Tools</h4>
 Here are few extras you can add to your products to amp up your brand presence.
 <h3>Hang Tags</h3>
 Hang tags are labels that hang from your products. They are a great way to build your brand recognition. Learn more about hang tags by checking out these <a href="https://printaura.com/12-inspiring-hang-tag-designs/" target="_blank">12 Inspiring Hang Tag Designs.</a>

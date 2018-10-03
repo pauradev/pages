@@ -67,11 +67,11 @@ This is a big one! It is hard to visualize the size of your design on a computer
 ![design mistakes](design-mistakes-fb.jpg)
 
 
-<h2>Are You Preparing Your Artwork Correctly For Print?</h2>
+<h4>Are You Preparing Your Artwork Correctly For Print?</h4>
 Before you upload your photos and begin to add them to products, please consider our image requirements first. This is your absolute best shot in guaranteeing that your prints will come out just the way you want them! If you ignore the image requirements, there is no telling how your art will be printed, because it has not been formatted to our printers or the specific products.
 
 So, before you upload, check out the <strong><a href="https://printaura.com/image-requirements/" target="_blank">Image Requirements</a></strong> for the products you are interested in, adjust your designs accordingly, then upload!
-<h2>6 Common Artwork Preparation Mistakes</h2>
+<h4>6 Common Artwork Preparation Mistakes</h4>
 We've put together some of the most common mistakes we see in the artwork files that are sent in to us. If you're making these mistake, you certainly aren't alone. We hope this article will help you all if you are feeling confused, or aren't getting the results you expect from your prints.
 <h3>1. Using The Wrong File Type</h3>
 Using the wrong file type can create a few different issues.
@@ -153,6 +153,6 @@ Check out this video on merging layers for more information.
 
 <iframe src="https://www.youtube.com/embed/yVlOL8fKvk0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<h2>How About You?</h2>
+<h4>How About You?</h4>
 
 Do you have any image editing issues that you run into frequently that you'd like to have explained? If so, let us know in the comments section down below. We love you help our members by creating guides and tutorials to help make things easier to understand. 

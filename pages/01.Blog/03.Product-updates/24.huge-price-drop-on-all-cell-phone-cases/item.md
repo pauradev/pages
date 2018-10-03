@@ -38,9 +38,9 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2017/12/price-drop.jpg" alt="price drop" width="1000" height="521" class="alignnone size-full wp-image-12617271" />
 
-<h2>Huge Price Drop On All Cell Phone Cases</h2>
+<h4>Huge Price Drop On All Cell Phone Cases</h4>
 We've got some exciting news! We have lowered the price of our cell phone cases across the board! We want to provide products at prices that are not only enticing to your customers, but also allow you as the seller to make a significant profit. We think these new prices will help give your customers the best value possible and help boost your sales. If you've already added cases to your store, a price drop could increase sales. Or if your cases are already selling well, enjoy a boost in your profit margin. If you haven't added any cases to your store, what are you waiting for? Now is definitely the time!
-<h2>New Lower Pricing</h2>
+<h4>New Lower Pricing</h4>
 I can say with full confidence that our cell phone cases are truly some of the highest quality on the market. With our new lower prices, hopefully the cases are even more appealing! The new pricing has already gone into affect, and is as follows:
 <h3>Snap Cases</h3>
 <img src="https://printaura.com/wp-content/uploads/2016/08/snap-case-e1504034414632.jpg" alt="snap case" width="350" height="300" class="alignnone size-full wp-image-2642748" />
@@ -98,6 +98,6 @@ A savings of $8.12 - $7.01 per case!
 
 <hr />
 
-<h2>Add Cell Phone Cases To Your Store Today!</h2>
+<h4>Add Cell Phone Cases To Your Store Today!</h4>
 Take advantage of these price drops today! Add your designs to cell phone cases and offer them in your stores today. Let us know what you think about the price drop. Do the lower prices make the cases more accessible for your customers? Are you more motivated to add them to your store? We would love to hear what our members think.
 

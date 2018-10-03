@@ -38,9 +38,9 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2017/06/summer.jpg" alt="summer" width="1920" height="1002" class="alignnone size-full wp-image-7821400" />
 
-<h2>Happy Summer Solstice!</h2>
+<h4>Happy Summer Solstice!</h4>
 Today is the Summer Solstice. It's the longest day of the year, and it seems to be one of the hottest too! With the drastic change in weather, it's time for a wardrobe switch up! I don't know about you guys, but I have definitely been reorganizing my closet and buying new items for the summer heat. This is the time of the year when people start feeling the heat, and get excited to buy new summer apparel! Take advantage of the heat wave and add your designs to some summer apparel items now!
-<h2>Beat The Heat With These Summer Styles &amp; Accessories</h2>
+<h4>Beat The Heat With These Summer Styles &amp; Accessories</h4>
 Here are a few of the staff favorites for beating the heat this summer! My new personal favorite is the the Organic Bamboo Tank from Royal Apparel! It's super soft and wonderfully breathable! Check out all of our favorites below.
 <h3>Women's</h3>
 
@@ -138,7 +138,7 @@ BAGedge Canvas Boat Tote
 
 <img class="alignnone  wp-image-7821221" src="https://printaura.com/wp-content/uploads/2017/06/Screen-Shot-2017-06-21-at-10.40.03-AM.png" alt="BA Apron" width="329" height="350" />
 </center>
-<h2>Add Summer Styles Today!</h2>
+<h4>Add Summer Styles Today!</h4>
 Don't let summer sales opportunities pass you by! Add your designs to some summer styles and accessories to your shop today. Your customers will thank you.
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 3058px; left: 20px;">Save</span>

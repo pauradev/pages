@@ -36,11 +36,11 @@ status: publish
 post_type: post
 ---
 
-<h2><img class="aligncenter wp-image-1931725" src="https://printaura.com/wp-content/uploads/2015/11/productivity-tips-1024x480.jpg" alt="Productivity Tips" width="619" height="290" /></h2>
+<h4><img class="aligncenter wp-image-1931725" src="https://printaura.com/wp-content/uploads/2015/11/productivity-tips-1024x480.jpg" alt="Productivity Tips" width="619" height="290" /></h4>
 People usually DREAM about working from home. But I can say from experience, working from home is no cake walk. It can be a challenge when it comes to focusing and getting things done.  For me, it was a needy dog, a noisy roommate, and never ending household chores. My home never really felt like an office, and it never really felt like somewhere I could relax.
 
 How the heck are you supposed to concentrate and be productive with work when distractions are everywhere? How do you find a way to effectively separate work life from home life when they coexist in the same space? Here are 5 helpful tips that will help make your time working at home more productive than ever!
-<h2>5 Tips For Being More Productive While Working From Home</h2>
+<h4>5 Tips For Being More Productive While Working From Home</h4>
 <h3><img class="aligncenter wp-image-1931740 size-full" src="https://printaura.com/wp-content/uploads/2015/11/tumblr_nkszv2J6U01ssvnogo1_500.gif" alt="Separate home and work" width="500" height="281" /></h3>
 <h3>1. Designate A Work Only Area</h3>
 If you are lucky enough to have a home office area, make sure you treat it that way. This room should be set up for work only. Get rid of the television and any other non work related distractions. You should be able to close the door in this room and feel like you are at work. I know we don’t all have an extra room that we can convert into an office. It doesn’t even need to be a room. It can be a section of your house that is deemed the “work zone”. This is a place where everyone will know, including you, that it’s work time. Try to choose somewhere with lots of natural light. A study by <a href="https://www.psychologytoday.com/blog/the-athletes-way/201306/exposure-natural-light-improves-workplace-performance">psychology today</a> shows that natural light can dramatically improve productivity.

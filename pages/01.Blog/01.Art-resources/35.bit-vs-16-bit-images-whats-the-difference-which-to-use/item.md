@@ -38,7 +38,7 @@ post_type: post
 
 [![8bitvs16bit](https://printaura.com/wp-content/uploads/2017/05/8bitvs16bit.jpg)](https://blog.printaura.com/blog/art-resources/bit-vs-16-bit-images-whats-the-difference-which-to-use)
 
-<h2>What Is A "Bit"?</h2>
+<h4>What Is A "Bit"?</h4>
 
 When we talk about the number of "bits" in reference to images, we are simply talking about the amount of tonal variation in the image. Understanding the tonal values within an image can help you obtain the best print possible. 
 
@@ -49,7 +49,7 @@ Every color has a tonal range. When talking about color, tone refers to the vary
 <img src="https://printaura.com/wp-content/uploads/2017/05/s3-300px.png" alt="red tones" width="300" height="120" class="alignnone size-full wp-image-7379635" />
 
 
-<h2>8 Bit Vs. 16 Bit </h2>
+<h4>8 Bit Vs. 16 Bit </h4>
 
 The main difference between an 8 bit image and a 16 bit image is the amount of tones available for a given color. An 8 bit image is made up of fewer tones than a 16 bit image.
 
@@ -63,7 +63,7 @@ If your image is set to a CMYK color profile and is 8 bits, there are 256 possib
 
 If your image is set to a CMYK color profile and is 16 bits, there are 65,536 tonal values for each color. WOW! That's a lot of tonal variation! 
 
-<h2>Which To Use </h2>
+<h4>Which To Use </h4>
 
 You would probably assume that more tones equate to a better print. However, for PrintAura's specific printing purposes, <strong>we ask for 8 bit images</strong>. This may seem counter intuitive, but the reasoning is simple. Our specialized direct-to-garment Kornit printers were made to run off of 8-bit color tonal ranges. An 8 bit image will create the best color match to your original art work. 
 

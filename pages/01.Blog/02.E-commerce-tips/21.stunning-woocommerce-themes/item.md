@@ -38,7 +38,7 @@ post_type: post
 
 [![](themes2-1024x534.jpg)](https://blog.printaura.com/blog/e-commerce-tips/stunning-woocommerce-themes)
 
-<h2>What's A Theme?</h2>
+<h4>What's A Theme?</h4>
 
 
 
@@ -59,7 +59,7 @@ Try to look past the flashy example branding and concentrate on the bones of the
  	<li>Will my vision fit into this structure?</li>
 </ul>
 &nbsp;
-<h2>8 Stunning WooCommerce Themes</h2>
+<h4>8 Stunning WooCommerce Themes</h4>
 Now that you know what a theme is used for and have an idea of what to look for, let's check out some great WooCommerce themes! The WooCommerce theme shop itself was a little sparce, and truthfully a bit uninspiring, so I took to one my favorite resources for finding themes, themeforest! Hopefully some of these themes pique your interest and get you excited to design, or update your online store.
 
 If none of these themes strike your fancy, browse for yourself! <a href="https://themeforest.net/category/wordpress/ecommerce/woocommerce?gclid=CjwKCAjw_47YBRBxEiwAYuKdw6vBYvcuLR0m0OOpbZZJDOevdzC7WZ-ZOJQuh_RdTb46cRSIF0OZ6xoCtzwQAvD_BwE&referrer=search&sort=sales&utf8=%E2%9C%93&view=grid" rel="noopener" target="_blank">ThemeForest</a> has a lot to choose from, as do other websites that provide themes!
@@ -132,5 +132,5 @@ Price: $49 (Currently on sale)
 <img src="https://printaura.com/wp-content/uploads/2018/05/Screen-Shot-2018-05-22-at-2.34.50-PM.png" alt="Screen Shot 2018-05-22 at 2.34.50 PM" width="594" height="770" class="alignnone size-full wp-image-12714088" />
 
 
-<h2>Your Favorite Theme</h2>
+<h4>Your Favorite Theme</h4>
 Have you found an amazing WooCommerce theme that is easy to use, looks great, and is fun to customize? Share it with our fellow members here in the comments section!

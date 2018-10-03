@@ -36,11 +36,11 @@ hide_from_post_list: false
 ---
 
 <img class="aligncenter wp-image-1995734 " src="https://printaura.com/wp-content/uploads/2015/12/packins-banner1.jpg" alt="Using Pack-ins to build your brand" width="784" height="335" />
-<h2>What Is A “Pack-In”?</h2>
+<h4>What Is A “Pack-In”?</h4>
 We've been getting a lot of questions about "pack-ins" lately, so we decided it was time we wrote a blog on the subject! So what is a "pack-in"?
 
 A <strong>“pack-in”</strong> is an item you include with your shipments as a bonus! A pack-in is usually an inexpensive, fun, promotional item like a flyer, a sticker, a patch, or a button.
-<h2>How To Build Your Brand Using “Pack-Ins”</h2>
+<h4>How To Build Your Brand Using “Pack-Ins”</h4>
 Including a "pack-in" with your orders is a great way to promote your brand and establish a positive identity with your customer. Unexpected surprises can be quite endearing!
 <h3><strong>Make It Personal</strong></h3>
 Pack-ins are a great way to show your customers you appreciate their business and care about them on a personal level. Including a personal touch like a hand written or signed thank you card can leave a lasting impression. It shows you went out of your way to show your appreciation. It lets your customers know they are not just a meaningless purchase in a sea of consumers.
@@ -63,7 +63,7 @@ Check out our post on <a href="https://printaura.com/use-stickers-to-promote-bra
 	<li>Holiday Themed Trinkets</li>
 </ul>
 &nbsp;
-<h2>How To Get Started</h2>
+<h4>How To Get Started</h4>
 Getting started is easy. After you decide what kind of pack-in you would like to include with your shipments, just<a href="https://printaura.com/contactus/" target="_blank"> contact us</a> and let us know you are interested in including pack-ins. We will enable this feature on your account. We do not create the pack in items in house, but we are happy to add them to your shipments. Once the service is enabled you will be given instructions on where to send your pack-in items. We will hand place each item into your shipped orders. It only costs you $0.25 per order!
 
 &nbsp;

@@ -37,14 +37,14 @@ hide_from_post_list: false
 ---
 
 <img class="alignnone size-large wp-image-10469134" src="https://printaura.com/wp-content/uploads/2017/09/posters-fb-1024x534.jpg" alt="posters fb" width="980" height="511" />
-<h2>Posters &amp; Art Prints</h2>
+<h4>Posters &amp; Art Prints</h4>
 Selling posters of your designs is a great way to get your art out there. Posters can be a fun and affordable way for people to decorate their walls and show off art they enjoy. They are easy to frame, and an great way to bring something special to a room. They can be conversation starters, the focal point of a room, and or help to bring things together. You can sell your photography, your designs, and even prints of original paintings and mixed media arts.
 
 T-shirts and phone covers aren't for everyone. It's great to have a variety of items featuring your designs for people to choose from. As many of you know, there is no risk to adding items to your shop to test out how they do. Since Print Aura is a print on demand service, you only pay for what you have already sold. You don't need to pre-order items or keep an inventory.
 
 Posters make art accessible for people who cannot afford original art work, but want to decorate their homes and feature art they enjoy. You really can't go wrong with selling posters!
 
-<h2>12 Inspiring Poster Ideas</h2>
+<h4>12 Inspiring Poster Ideas</h4>
 We put together 12 examples of awesome posters from designers just like you! Check them out and get inspired to create your own.
 
 <h3>1. Rock and Birds</h3>
@@ -117,7 +117,7 @@ Via <a href="https://www.behance.net/gallery/55708983/Dolce" target="_blank">Dol
 <img class="alignnone  wp-image-10490172" src="https://printaura.com/wp-content/uploads/2017/09/il_570xN.1239101339_a9gd.jpg" alt="il_570xN.1239101339_a9gd" width="500" height="500" />
 Via <a href="https://www.etsy.com/shop/holli?ref=l2-shopheader-name" target="_blank">Holli</a>
 
-<h2>Sell Your Designs on Posters Today!</h2>
+<h4>Sell Your Designs on Posters Today!</h4>
 If you haven't added your designs to posters to sell in your store yet, I would encourage you to do so! Again, with Print Aura it's risk free to try out and test new items in your shop.
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 758px; left: 20px;">Save</span>

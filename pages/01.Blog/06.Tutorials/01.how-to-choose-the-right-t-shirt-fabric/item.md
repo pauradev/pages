@@ -40,7 +40,7 @@ hide_from_post_list: false
 Print Aura offers many t-shirt brands that feature different fabric options. The variety of fabric is great if you know what you are looking for. However, it can be a little confusing and intimidating if you aren’t sure what the difference is.
 
 We know most people aren't fabric experts, so we put together this handy little fabrics cheat sheet. Hopefully the information below will help you decide which fabric options work best for your t-shirts.
-<h2>How To Choose The Right T-Shirt Fabric</h2>
+<h4>How To Choose The Right T-Shirt Fabric</h4>
 There are a few things you will want to consider before choosing the fabric for your t-shirts. You should be thinking about what the material is, how it feels, and how the fabric is designed to be used.
 <h3><strong>Cotton</strong></h3>
 <strong>Description:</strong> this fabric is made from the cotton plant. It is one of the most commonly desired fabrics because of its pleasant feel against the skin.

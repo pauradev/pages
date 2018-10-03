@@ -38,11 +38,11 @@ post_type: post
 
 [![Image Licensing Guide](https://printaura.com/wp-content/uploads/2016/02/licensing-banner-1024x471.jpg)](https://blog.printaura.com/blog/art-resources/image-licensing-guide-stock-resources)
 
-<h2>What Is Image Licensing?</h2>
+<h4>What Is Image Licensing?</h4>
 If you aren't an artist, odds are you've looked into buying stock imagery to use in your designs at some point. One of the most important things to consider when buying stock imagery for your products is the licensing.
 
 Licensing refers to the usage agreement you make when you download the image. The license will tell you what you are allowed to do with the image, and more importantly what you are not allowed to do. You could be putting yourself in jeopardy if you ignore these legal terms. You could be fined, or worse, if you are caught reselling other people’s art on your products if it is not legally acceptable to do so.
-<h2>Questions To Ask Before Purchasing Stock Imagery</h2>
+<h4>Questions To Ask Before Purchasing Stock Imagery</h4>
 Before you purchase a stock image, you need to find the licensing information on the stock suppliers website. This information can usually be found in the footer of a website under “legal”. You should be looking for a few key elements in the licensing terms. Ask yourself the following questions...
 <h3>Can I use this image for resale?</h3>
 <img class="alignnone size-full wp-image-2096407" src="https://printaura.com/wp-content/uploads/2016/02/Voila_Capture-2016-02-02_10-16-28_AM.png" alt="Resale" width="802" height="314" />
@@ -73,7 +73,7 @@ Some stock website require you to edit the image in some way before you are allo
 
 <strong>The answer needs to be: YES, unless you are able to create a new design using the image.
 </strong>
-<h2>Websites With Resale Licenses</h2>
+<h4>Websites With Resale Licenses</h4>
 It can be hard to find good images with a resell license. We’ve done the work and dug through the licensing and legal jargon and found some sites that sell designs you can legally use on your products and get printed by a 3rd party.
 <h4><a href="https://printaura.com/wp-content/uploads/2013/02/designious-logo.png"><img class="alignnone size-full wp-image-1480" src="https://printaura.com/wp-content/uploads/2013/02/designious-logo.png" alt="designious-logo" width="175" height="55" /></a></h4>
 Designious has a wide array of t-shirt designs around $15. They also offer photoshop brushes, vector packs, and fonts.

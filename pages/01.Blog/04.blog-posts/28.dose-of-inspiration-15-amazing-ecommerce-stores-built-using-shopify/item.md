@@ -38,11 +38,11 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2016/08/dose-blog-1024x466.jpg" alt="Dose of Inspiration" width="980" height="446" class="alignnone size-large wp-image-2613757" />
 
-<h2>Inspiration Spurs Action!</h2>
+<h4>Inspiration Spurs Action!</h4>
 The month of August will host our first blog series, "Dose of Inspiration". There will be a new blog every week full of ideas and images meant to inspire you and ignite your passion for what you do! Being able to feel inspired, excited, and passionate about what you do can be a huge part of having a successful business.
 
 <strong>"We are seldom passionate about the things we do not feel inspired by. We are seldom inspired by things that are insignificant to our personal journey."</strong>
-<center><h2>Dose of Inspiration: Part One<br> 15 Awesome eCommerce Stores Built Using Shopify</h2></center>
+<center><h4>Dose of Inspiration: Part One<br> 15 Awesome eCommerce Stores Built Using Shopify</h4></center>
 This week we will be featuring inspiring eCommerce stores. I chose to feature stores built using Shopify so you guys can see the potential with this platform. Hopefully these stores will inspire you to play around with your own store or even inspire you to finally create your own.
 
 <h3>1. <a href="https://blackmilkclothing.com/" target="_blank">BlackMilk</a></h3>
@@ -90,5 +90,5 @@ This week we will be featuring inspiring eCommerce stores. I chose to feature st
 <h3>15. <a href="https://www.beardbrand.com/" target="_blank">Beardbrand</a></h3>
 <img class="alignnone size-large wp-image-2612534" src="https://printaura.com/wp-content/uploads/2016/08/Voila_Capture-2016-08-02_04-34-44_PM-1024x640.png" alt="BeardBrand" width="980" height="613" />
 &nbsp;
-<h2>What About You?</h2>
+<h4>What About You?</h4>
 Do you have any shops that you find to be inspiring? Do you feel like your store could be inspiring to others? Share with us in the comments below!

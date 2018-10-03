@@ -43,7 +43,7 @@ Custom cell phone cases have become an essential way to display personality thro
 I happen to have one myself that perfectly reflects my personality and passion! People seek out the perfect case to say something about who they are or what they like. If you know your customers like I hope you do, you probably have a good idea about what kind of case they would love to have covering their phone. If you haven’t added a cell phone cover to shop yet, today is the day! Give your customers the chance to add some personality to their most personal item!
 
 If inspiration has been holding you back, we’ve got you covered.
-<h2>20 Inspiring Cell Phone Case Ideas</h2>
+<h4>20 Inspiring Cell Phone Case Ideas</h4>
 Check out these awesome cell phone cases created by online shop owners just like you! We hope you get inspired and set out to create and sell your own.
 <h3>Ice Cream Sandwich</h3>
 <img class="alignnone size-full wp-image-2323891" src="https://printaura.com/wp-content/uploads/2016/05/ine-cream.jpg" alt="ice cream" width="570" height="690" />
@@ -61,7 +61,7 @@ Via <a href="https://www.etsy.com/listing/279122146/wood-phone-case-set-iphone-6
 <hr />
 
 &nbsp;
-<h2>Vintage Camera</h2>
+<h4>Vintage Camera</h4>
 <img class="alignnone size-full wp-image-2323901" src="https://printaura.com/wp-content/uploads/2016/05/vintage-camera.jpg" alt="vintage camera" width="570" height="690" />
 
 Via <a href="https://www.etsy.com/listing/188292518/vintage-blue-lens-camera-iphone-44s-case?ref=related-2" target="_blank">Crafic</a>
@@ -203,7 +203,7 @@ Via <a href="https://www.etsy.com/listing/178375546/bunny-rabbit-cell-phone-case
 <h3>Wanderlust</h3>
 <img class="alignnone size-full wp-image-2323985" src="https://printaura.com/wp-content/uploads/2016/05/wanderlust.jpg" alt="wanderlust" width="570" height="443" />
 Via <a href="https://www.etsy.com/listing/250348143/wanderlust-wood-print-phone-case-for?ref=shop_home_active_31" target="_blank">CRCases</a>
-<h2>How To Prepare Artwork For Cell Phone Cases</h2>
+<h4>How To Prepare Artwork For Cell Phone Cases</h4>
 Maybe you have ideas, but it’s the technical aspect that has been holding you back. If you aren’t sure how to use our cell phone mockup file, you're in luck! Check out this quick and easy how to video that outlines how to add your artwork to a cell phone case.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uWZS5ZZ27Yo" frameborder="0" allowfullscreen></iframe>

@@ -37,7 +37,7 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2018/04/mugs-blog-1024x534.jpg" alt="mugs blog" width="980" height="511" class="alignnone size-large wp-image-12710463" />
 
-<h2>Our Mugs</h2>
+<h4>Our Mugs</h4>
 
 The mugs we use aren't just a standard white mug. We use a special type of mug that is specifically designed and coated for sublimation printing. They are dishwasher and microwave safe. These mugs come with a Grade AAA rating. Each mug is hand-picked off the assembly line to ensure the highest quality possible. Our mugs hold 11oz (325ml). Mug is 3.75" tall with a 3.25" diameter. Gloss finish. Made in China. 
 
@@ -48,7 +48,7 @@ Our mugs are printed using a sublimation process, which the mugs are specificall
 
 <img src="https://printaura.com/wp-content/uploads/2018/04/Cat-Mug-1024x873.jpg" alt="Cat Mug" width="980" height="835" class="alignnone size-large wp-image-12710453" />
 
-<h2>New Pricing</h2>
+<h4>New Pricing</h4>
 
 Over the past few months we have been getting a lot of requests from our members to lower the pricing of our mugs. Our highest priority here is the success of our members, and we try our best to offer the most competitive pricing we can. 
 

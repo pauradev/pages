@@ -36,10 +36,10 @@ post_type: post
 hide_from_post_list: false
 ---
 
-<h2>Is Your Product Page Costing You Sales?</h2>
+<h4>Is Your Product Page Costing You Sales?</h4>
 Have your sales been a little low lately? Your product page could be to blame. The way you present your products can have a massive impact on your sales. In the world of online shopping, it’s all about looks! Your page design, product photography, and content need to be on point. If you aren't sure
-<h2><img class="aligncenter wp-image-2065612" src="https://printaura.com/wp-content/uploads/2016/01/product-page-banner-1024x464.jpg" alt="5 tips for creating a success product page" width="755" height="342" /></h2>
-<h2>5 Tips For Creating A Successful Product Page</h2>
+<h4><img class="aligncenter wp-image-2065612" src="https://printaura.com/wp-content/uploads/2016/01/product-page-banner-1024x464.jpg" alt="5 tips for creating a success product page" width="755" height="342" /></h4>
+<h4>5 Tips For Creating A Successful Product Page</h4>
 We put together a list of tips to help you create a great product page that sells your products for you. If you already have product pages created, take a look at this list, and review your pages. All of the elements discussed below are essential for a successful product page. How you choose to implement them is up to you, but you should at least be considering them.
 <h3>1. Use Descriptive Product Names</h3>
 Find a way to sum up your product in a few words. The more descriptive you can be, the easier it will be for people to find you. Don’t get carried away though. Make sure you keep your product name concise. Ask yourself, “if I was looking for this product, what would I type into google to find it?”. The answer to that question is usually a good place to start for naming your product.

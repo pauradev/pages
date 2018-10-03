@@ -39,7 +39,7 @@ post_type: post
 [![font mistakes](https://printaura.com/wp-content/uploads/2015/11/font-mistakes-blog-1024x377.jpg)](https://blog.printaura.com/blog/art-resources/5-font-mistakes-to-avoid-10-free-fonts)
 
 Choosing and using the right fonts with your artwork can really make or break a design. For me, it’s one of the hardest decisions to make when it comes to creating a graphic design that requires text. It is so easy to make mistakes when you are just starting out. For all you budding designers out there, here are 5 font mistakes you should avoid.
-<h2>5 Font Mistakes You Might Be Making</h2>
+<h4>5 Font Mistakes You Might Be Making</h4>
 <h3>1) Using Too Many Fonts</h3>
 Combining fonts can be a lot of fun, but it can be addicting! Once you start playing around with them you find so many combinations that you think really work together. But hold up! You can definitely take it too far. Too many different fonts can make your design look disjointed and cluttered.
 
@@ -69,7 +69,7 @@ Just as you can use too many fonts, you can also use too few. This is usually on
 <img class="aligncenter size-medium wp-image-1924210" src="https://printaura.com/wp-content/uploads/2015/11/no-variety-300x250.jpg" alt="variety" width="300" height="250" />
 
 Instead, try breaking up the text with a different font style or graphic imagery. I will admit, sometimes you can get this to work and look nice, but most of the time it's pretty boring.
-<h2>10 Free Font Downloads</h2>
+<h4>10 Free Font Downloads</h4>
 It can be a challenge to find free fonts that are high quality. We know it can also be super time consuming. That's why we have carefully curated 10 free high quality fonts to help you get started, or to add to your font collection. All of these fonts were chosen from different artists on Behance. ENJOY!
 
 <img class="size-large wp-image-1924072 aligncenter" src="https://printaura.com/wp-content/uploads/2015/11/font-examples-1024x683.jpg" alt="Gorgeous green forest in the fog" width="980" height="654" />

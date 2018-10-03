@@ -43,7 +43,7 @@ If you aren’t very familiar with graphic design, you probably aren’t too fam
 When it comes to creating images for print, file type becomes very important. You will notice we ask for specific file types for different products. It’s not because we are trying to make things difficult, we swear! We just want to make sure your print looks as great as it possibly can, and using the correct file types can help ensure that.
 
 Here is everything you wanted to know and more about file types!
-<h2>Raster Files Vs. Vector Files</h2>
+<h4>Raster Files Vs. Vector Files</h4>
 You may have heard these terms thrown around and haven’t been sure what to make of them.
 <h3><span style="color: #008080;">Raster Files</span></h3>
 A raster file is made up of thousands of squares of color information we refer to as “pixels”. We usually edit raster files in programs like Adobe Photoshop.
@@ -67,7 +67,7 @@ They are also easy to edit because the different shapes will always remain separ
 Vector files come up short when dealing with complex images that require complex coloring. Vectors also cannot support some effects like blurring or drop shadows.
 
 <strong>Usual file types:</strong> AI, EPS
-<h2>File Type Cheat Sheet</h2>
+<h4>File Type Cheat Sheet</h4>
 We have listed a variety of common file types below. You will learn what each of these file types stand for, their best uses, and some features that are specific to each individual file type. We hope this helps clear things up a bit!
 <h3>Print Aura's Accepted File Types</h3>
 <span style="color: #ff0000;">*Some products require specific file types. Make sure you check the specific image requirements for each product.</span>

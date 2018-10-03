@@ -39,7 +39,7 @@ post_type: post
 
 [![](shopifythemes-fb.jpg)](/blog/e-commerce-tips/14-brilliant-shopify-themes)
 
-<h2>What Is A Store Theme?</h2>
+<h4>What Is A Store Theme?</h4>
 If you're not great with online design or coding, not to worry! There is a theme for that! A store theme is essentially a ready-made template for your online shop. The theme will provide the foundation for a shop design, and you simply customize it to fit your brand! Add your logo, choose your colors, add your products, spruce it up with some imagery, then presto! You're done.
 <h3>Choosing A Theme</h3>
 Choosing a theme can be both a fun and frustration process. With so many to choose from, it can be hard to keep your vision clear. It can also be hard to see past the imagery used in examples of theme to see your own brand vision in the theme.
@@ -57,7 +57,7 @@ Try to look past the flashy example branding and concentrate on the bones of the
  	<li>Will my vision fit into this structure?</li>
 </ul>
 &nbsp;
-<h2>14 Brilliant Shopify Themes</h2>
+<h4>14 Brilliant Shopify Themes</h4>
 There are tons of themes, both free and paid, to choose from. Here are some of our favorites!
 <h3>Free Themes</h3>
 <strong>1. Venture</strong>
@@ -185,7 +185,7 @@ Price: $180
 
 <a href="https://themes.shopify.com/themes/masonry/styles/coyote" target="_blank">View Demo</a>
 
-<h2>What About You?</h2>
+<h4>What About You?</h4>
 Do you have a favorite theme? We know there are lots of places to download themes for Shopify, so let us know if you've found some cool ones we haven't seen! 
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c  no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 5145px; left: 20px;">Save</span>

@@ -39,9 +39,9 @@ post_type: post
 
 [![](https://printaura.com/wp-content/uploads/2017/09/color-theory-fb-1024x534.jpg)](/blog/art-resources/beginners-guide-to-color-theory)
 
-<h2>Color Theory</h2>
+<h4>Color Theory</h4>
 So, what is color theory? Color theory is the theory behind color mixing and color pairing. It provides methods and guidance for understanding how colors influence one another. Understanding colors and how they can work together or against one another can really help your designs look their absolute best. Having a general working knowledge of color theory will help you when you are choosing not only the colors of your designs, but also the colors of the products you choose for your designs.
-<h2>The 3 Characteristics of Color</h2>
+<h4>The 3 Characteristics of Color</h4>
 These terms describe the basic attributes of any color. Understanding these terms, and learning how to manipulate the characteristics of the colors you work with can be a highly valuable skill.
 <h3>1. Hue</h3>
 Hue refers to the color itself. So, if you are dealing with a red, the hue would be red.
@@ -63,7 +63,7 @@ The blue on the left has a darker value than the blue on the right.
 Yellow has a lighter value than purple.
 
 <img class="alignnone  wp-image-10202631" src="https://printaura.com/wp-content/uploads/2017/09/yellow-purple-1-e1504641258561-1024x433.jpg" alt="yellow purple" width="503" height="213" />
-<h2>The Color Wheel</h2>
+<h4>The Color Wheel</h4>
 Color wheels are great tools for beginners and experts alike! The color wheel helps to visualize the way colors work together. They can also help show what happened when one color is added to another. Color wheels can be simple, or very complex! If color theory interests you, I would highly recommend purchasing a color wheel of your own!
 
 <img class="alignnone size-full wp-image-10202409" src="https://printaura.com/wp-content/uploads/2017/09/colorwheel.jpg" alt="colorwheel" width="686" height="680" />
@@ -79,7 +79,7 @@ Secondary colors are colors that are created when you mix together two primary c
 <strong>Yellow-orange, red-orange, red-purple, blue-purple, blue-green, yellow-green</strong>
 
 Tertiary colors are created when you mix a secondary color and a primary color together.
-<h2>Pairing Colors</h2>
+<h4>Pairing Colors</h4>
 There are two main ways to create color harmony. You can either use complimentary or analogous color pairings.
 <h3>Complimentary Colors</h3>
 Complimentary colors are colors that compliment each other. They will appear more vibrant and intense when they are placed next to one another. They are found opposite one another on the color wheel. If you really want your colors to POP, use complimentary colors!
@@ -103,7 +103,7 @@ Yellow-orange, orange, and red-orange are all next to one another on the color w
 Blue-purple, purple, and red-purple are also all next to one another on the color wheel. All three of these colors also look great together! You can do this with any 3 colors that are connected on the color wheel. 
 
 <img class="alignnone size-full wp-image-10202397" src="https://printaura.com/wp-content/uploads/2017/09/an1.jpg" alt="an1" width="483" height="215" />
-<h2>Questions? Comments?</h2>
+<h4>Questions? Comments?</h4>
 Hopefully this lesson in color theory was helpful to you all! If you have any questions or comments, please let us know in the comments section down below!
 
 &nbsp;

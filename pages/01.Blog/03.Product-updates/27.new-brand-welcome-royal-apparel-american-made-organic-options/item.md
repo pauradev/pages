@@ -37,11 +37,11 @@ hide_from_post_list: false
 ---
 
 <img class="alignnone size-full wp-image-7244509" src="https://printaura.com/wp-content/uploads/2017/05/royal-FB-final.jpg" alt="royal FB final" width="910" height="474" />
-<h2>Introducing Royal Apparel</h2>
+<h4>Introducing Royal Apparel</h4>
 We are so excited to announce the launch of Royal Apparel products! Print Aura is proud to now carry products from the American Made brand Royal Apparel. Our hopes with the launch of this brand is to fill in some of the gaps that were left empty when American Apparel was bought out by Gildan. However, we are hopeful it will bring much more value to our customers with all the brand has to offer! 
 
 Royal Apparel not only features American made products, the line also features organic, hemp, and bamboo items. We are also excited to offer a greater range of kids and youth items in this line.
-<h2>Staff Picks</h2>
+<h4>Staff Picks</h4>
 Check out some of our staff's favorite items from Royal Apparel!
 
 
@@ -149,5 +149,5 @@ Check out some of our staff's favorite items from Royal Apparel!
 
 <img class="alignnone size-full wp-image-7245311" src="https://printaura.com/wp-content/uploads/2017/05/20260.jpeg" alt="20260" width="200" height="280" />
 </center>
-<h2>Add Royal Apparel To Your Store Today!</h2>
+<h4>Add Royal Apparel To Your Store Today!</h4>
 All of the items above, and many more are available to be added to your stores today. As in ... right now! So what are you waiting for? Add your designs to one or many of the new products in our new Royal Apparel line!

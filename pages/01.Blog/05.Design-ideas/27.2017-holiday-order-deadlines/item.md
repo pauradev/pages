@@ -41,7 +41,7 @@ hide_from_post_list: false
 It's that time of the year again. The holiday season is full swing, and it's time to start thinking about holiday orders! One of the most important things to consider when it comes to holiday orders is shipping time! As a seller, you will want to ensure that purchases made at your store will arrive on time for the holidays. It's the season of giving and there's nothing more frustrating than being left empty handed because a gift arrived late.
 
 <strong>How can you make sure your customers get their gifts on time? <span style="color: #ff0000;">SHARE these holiday order deadlines</span>.</strong>
-<h2 style="text-align: center;">2017 Holiday Order Deadlines</h2>
+<h2 style="text-align: center;">2017 Holiday Order Deadlines</h4>
 Please make sure your customers place their orders by the dates below to ensure we make USPS deadlines for products to arrive on or before December 24th.
 
 <hr />
@@ -104,7 +104,7 @@ Please make sure your customers place their orders by the dates below to ensure 
 &nbsp;
 <hr />
 
-<h2>Things To Note </h2>
+<h4>Things To Note </h4>
 
 <strong>Pack-ins & Heat Press Labels </strong>
 If you utilize either of these branding services, please contact us to inquire about the stock levels of these items. Since it's the holidays we want to ensure that there are no hold ups with orders and that there are enough branding items in stock to complete all of your orders as desired.

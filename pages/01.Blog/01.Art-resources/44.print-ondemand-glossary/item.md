@@ -39,7 +39,7 @@ post_type: post
 [![Print On Demand Glossary](https://printaura.com/wp-content/uploads/2016/03/podglossarybanner-blog1.jpg)](https://blog.printaura.com/blog/art-resources/print-ondemand-glossary)
 
 The print industry is full of jargon that most people aren’t familiar with. We know it can be hard to navigate through some aspects of fulfillment when aren’t even sure what the terminology is referring to. We try to make things as clear and simple as possible, but it's still easy to get confused sometimes. We decided to create this handy print on demand glossary in case you still feel a little lost.
-<h2>Print On Demand Glossary</h2>
+<h4>Print On Demand Glossary</h4>
 <h3>POD</h3>
 POD or “Print On Demand” simply means we only print your products when you need them. This is different from other services because we only print out the items you sell. There are no minimums and no need to keep a large stock of inventory. This eliminates any waste or excess product which translates to less overhead.
 <h3>DTG</h3>
@@ -81,5 +81,5 @@ DPI or “dots per inch” refers to how many pixels make up a square inch of yo
 	<li>Looks Smooth</li>
 </ul>
 &nbsp;
-<h2>Anything Else?</h2>
+<h4>Anything Else?</h4>
 Are there any other words you’ve come across that you don’t quite understand? Let us know in the comments below and we will add it to our list!

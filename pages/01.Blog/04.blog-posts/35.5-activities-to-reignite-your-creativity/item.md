@@ -39,7 +39,7 @@ hide_from_post_list: false
 <img src="https://printaura.com/wp-content/uploads/2018/02/creative-activities-1024x534.jpg" alt="creative activities" width="980" height="511" class="alignnone size-large wp-image-12697557" />
 
 Making a living based on art and creativity can feel like a lot of pressure sometimes. I know that I am not always in the "mood" to produce new art or designs. If you have been wanting to put out new designs, but you're feeling a little stifled, this post is for you!
-<h2>5 Activities To Reignite Your Creativity</h2>
+<h4>5 Activities To Reignite Your Creativity</h4>
 <h3>1. Collaborate</h3>
 <img class="alignnone size-large wp-image-12697540" src="https://printaura.com/wp-content/uploads/2018/02/people-2557399_1280-1024x682.jpg" alt="people-2557399_1280" width="980" height="653" />
 Get a group of people together, online or offline, and collaborate on a project together! It can be just for fun or for an actual project. Working with other people and vibing off each other's ideas and techniques is one of the best ways to get inspired. In the end you will have created something you would have never thought to do on your own. It might even make you want to break off and create something totally different than what you've done before!
@@ -68,5 +68,5 @@ Grab a sketch book, put on some music, and just go for it. Try not to worry abou
 <h3>5. Switch Up Your Medium</h3>
 <img class="alignnone size-large wp-image-12697549" src="https://printaura.com/wp-content/uploads/2018/02/brush-2927793_1280-1024x683.jpg" alt="brush-2927793_1280" width="980" height="654" />
 Do you spend all your time designing on your computer or tablet? Take a break from the glow of your screen and go old school. Grab a pencil, some paint, some clay, a camera, a musical instrument, or even a power tool! Keeping things fresh and changing up your medium can help when you feel burnt out and need a break from the pressure of creating something to sell.
-<h2>Whats Your Favorite Trick?</h2>
+<h4>Whats Your Favorite Trick?</h4>
 Do you have a specific activity that brings out your creativity? Let us know in the comments down below what gives you new ideas and gets you excited to create!

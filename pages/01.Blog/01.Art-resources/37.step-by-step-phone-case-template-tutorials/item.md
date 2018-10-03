@@ -38,10 +38,10 @@ post_type: post
 
 [![phone case tutorial fb](https://printaura.com/wp-content/uploads/2016/09/phone-case-tutorial-fb.jpg)](https://blog.printaura.com/blog/art-resources/step-by-step-phone-case-template-tutorials)
 
-<h2>Easy Set Up</h2>
+<h4>Easy Set Up</h4>
 We know introducing new cell phone cases means that out members have to take the time to set up new products. We know setting up a new product can be a little tricky the first time around. That's why we have provided easy to use templates for both image requirements and phone mockups. We want you guys to be excited about new products, so we try to make it as easy as possible. Check out our step-by-step phone case template tutorials below!
 
-<h2>Artwork Requirement Templates</h2>
+<h4>Artwork Requirement Templates</h4>
 
 We have provided these templates to help make submitting artwork easy! These templates are pre-sized and setup to meet all of our artwork requirements for each individual cell phone case. Here's how to use them!
 
@@ -85,7 +85,7 @@ And now your artwork is all set up and ready to submit!
 
 <strong>NOTE:</strong> If you are creating artwork for a clear case, light colors will not print. Light colors will appear translucent. 
 
-<h2> Mockup Templates </h2>
+<h4> Mockup Templates </h4>
 
 We have provided these templates to make creating a mockup easy! You can showcase what your artwork will look like printed onto the case and model of your choosing. You can also feel free to use these mockups in your store front. Here's how to use them!
 
@@ -120,11 +120,11 @@ Paste in the artwork from your image requirement template and move it under the 
 <h3>8. Save your new mockup</h3>
 And now your mockup is ready to add to your storefront! 
 
-<h2>Watch the Tutorial</h2>
+<h4>Watch the Tutorial</h4>
 Check out the video tutorial to see these steps happening in live action!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uWZS5ZZ27Yo" frameborder="0" allowfullscreen></iframe>
 
-<h2>Tutorial Requests</h2>
+<h4>Tutorial Requests</h4>
 Would you like to see step-by-step tutorials for anything else? Please let us know in the comment section below. We really want to make things as easy and painless for our members as possible. If you'd like help or are struggling with understanding anything, let us know! 
 

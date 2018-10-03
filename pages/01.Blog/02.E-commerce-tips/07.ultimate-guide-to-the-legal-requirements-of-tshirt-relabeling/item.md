@@ -13,7 +13,7 @@ hide_from_post_list: false
 [![](heat-transfer-label.jpg)](/blog/e-commerce-tips/ultimate-guide-to-the-legal-requirements-of-tshirt-relabeling)
 
 Many t-shirt companies they want their products sold to appear to be branded whether or not they actually created the physical shirt that was printed on. In doing so many want to remove the default manufacturers tags and add your own tag to build your brand. Removing the tags is only legal if the information is replaced with the following information: fiber content, the country of origin, and the identity of the manufacturer or another business responsible for marketing or handling the item. Read this guide to avoid a “tag snag" that is enforced by the FTC as part of the Textile and Wool Acts.
-<h2>Basic info required on t-shirt labels:</h2>
+<h4>Basic info required on t-shirt labels:</h4>
 The following must be included on all garment labels:
 <ul>
 	<li><strong>Size:</strong> S, M, L, XL.</li>
@@ -28,9 +28,9 @@ The following must be included on all garment labels:
 	<li><strong>Identification of Manufacturer, Importer or Other Dealer:</strong> Must include a company name or the Registered Identification Number (RN) of the manufacturer,</li>
 	<li><strong>Care Instructions:</strong> text and/or graphic symbol instructions</li>
 </ul>
-<h2></h2>
+<h4></h4>
 &nbsp;
-<h2>Specific Requirements for t-shirt relabeling</h2>
+<h4>Specific Requirements for t-shirt relabeling</h4>
 <h3></h3>
 <h3><b>Size</b></h3>
 It is required that the size of the garment is included in the garment label. You can list the size Small, Medium, Large or abbreviated like: S, M, L, XL.

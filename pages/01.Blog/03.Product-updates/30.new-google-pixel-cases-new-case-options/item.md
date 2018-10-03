@@ -36,8 +36,8 @@ post_type: post
 hide_from_post_list: false
 ---
 
-<h2><img class="alignnone size-large wp-image-5290131" src="https://printaura.com/wp-content/uploads/2017/02/new-cases-1024x534.jpg" alt="new cases" width="980" height="511" /></h2>
-<h2>Introducing: More New Phone Cases!</h2>
+<h4><img class="alignnone size-large wp-image-5290131" src="https://printaura.com/wp-content/uploads/2017/02/new-cases-1024x534.jpg" alt="new cases" width="980" height="511" /></h4>
+<h4>Introducing: More New Phone Cases!</h4>
 We are excited to add even more new cases to our new and improved phone case line! With the phone market changing so often, we do our best to keep up with it! It is important to us that you can offer your customers the most up to date cases as possible. We've added some new cases to make sure you are able to sell to as many people as possible!
 
 <strong>New Cases:</strong>
@@ -70,7 +70,7 @@ I have been trying out one of our tough cases on my personal phone for a few mon
 <span style="color: #339966;"><strong>The Verdict</strong></span>
 
 I can say in complete honesty, I have been thoroughly impressed with our tough case. I am not just talking about the looks of it! I have dropped my phone on just about every surface you can think of .. concrete, table tops, asphalt, mud puddles, rocks, and more. There isn't a single scratch on my phone, or the case! The print still looks like it did the day I got it. I love our tough case and am so happy to be able to offer such an awesome product!
-<h2>The New Cases</h2>
+<h4>The New Cases</h4>
 Offering a wide variety of cases to your customers is a great way to make sure there is an option for everyone. Without any further ado, here are our new case offerings!
 <h3>The New Google Pixel Cases</h3>
 We are excited to offer cases for the new Google Pixel phones. The cases will be available for both the Google Pixel, and the Google Pixel XL.

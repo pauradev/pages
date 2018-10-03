@@ -37,15 +37,15 @@ hide_from_post_list: false
 ---
 
 <img class="aligncenter wp-image-2024772" src="https://printaura.com/wp-content/uploads/2015/12/hang-tag-banner-1024x392.jpg" alt="ideas for hang tags" width="815" height="312" />
-<h2>What Is A Hang Tag?</h2>
+<h4>What Is A Hang Tag?</h4>
 A hang tag is a label that hangs from a product. Hang tags come in all shapes and sizes and appear on a variety of products. Adding a hang tag to your products allows you the opportunity to build brand identity and help set your brand apart.
-<h2>Why Use A Hang Tag?</h2>
+<h4>Why Use A Hang Tag?</h4>
 <strong>Branding, branding, branding!</strong>
 
 Hang tags aren't a marketing staple in the retail world for no reason. You almost always expect to find some kind of hang tag on the products you're browsing when you're out shopping. If you don’t, it's out of the ordinary. Unfortunately, hang tags are often overlooked when dealing with online apparel and product sales.
 
 Hang tags are great for brand building and brand recognition. A hang tag can give your brand a personality. Is your brand simple and classic? Is it rustic and hip? Is it feminine and flirty? Whatever your brand’s personality is, a hang tag is a great way to showcase it. Hang tags also give your brand a sense of legitimacy.
-<h2>12 Inspiring Hang Tag Designs</h2>
+<h4>12 Inspiring Hang Tag Designs</h4>
 We put together a small compilation of hang tags we found to be creative, unique, and inspiring. All of these are successful because they embody the brand they represent.
 
 <img class="aligncenter wp-image-2024541" src="https://printaura.com/wp-content/uploads/2015/12/Voila_Capture-2015-12-29_11-04-09_AM.png" alt="" width="603" height="450" />

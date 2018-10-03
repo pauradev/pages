@@ -39,7 +39,7 @@ hide_from_post_list: false
 <img class="alignnone size-large wp-image-2394157" src="https://printaura.com/wp-content/uploads/2016/06/creative-block-1024x346.jpg" alt="break through creative block" width="980" height="331" />
 
 As creative people, we all get a little stuck sometimes. It can be tough to push through a creative block whether it's due to a lack of motivation, inspiration, or something else. Hitting a wall when trying to create used to happen to me a lot more than I would have liked. I'd be on a roll for weeks, then BAM! All the ideas, all the flow, all the inspiration just seemed to be used up. I used to have a really tough time breaking through and pushing past a creative block.
-<h2>7 Ways To Break Through A Creative Block</h2>
+<h4>7 Ways To Break Through A Creative Block</h4>
 I've drawn from my own personal experience and done some research to bring you guys this list of 7 different ways that will help you get out on the other side of a creative block.
 <h3>1. Leave your comfort zone</h3>
 Growth happens outside of your comfort zone. I find that my imagination becomes incredibly blocked when I become too comfortable or too stagnant. When I am feeling devoid of any inspiration, I go outside, go somewhere new, or have a new experience. Pushing yourself outside of your comfort zone and experiencing new things can be a huge source of inspiration.

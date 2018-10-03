@@ -38,9 +38,9 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2017/10/new-fall.jpg" alt="new fall" width="1920" height="1002" class="alignnone size-full wp-image-11994293" />
 
-<h2>Welcome Fall With New Cozy Items</h2>
+<h4>Welcome Fall With New Cozy Items</h4>
 The seasons are changing again and that means it's time for a new launch! Fall is here and winter is on its way. We've added lots of comfy cozy items for your customers to choose from, as well as more children's items!
-<h2>New Fall Styles</h2>
+<h4>New Fall Styles</h4>
 We always try our best to choose items that our members will be excited to add their designs to. We also look for items that print well and will hold up to washing. Check out our new fall additions below!
 
 <center>
@@ -161,7 +161,7 @@ We always try our best to choose items that our members will be excited to add t
 
 </center>
 
-<h2>Other Cozy Fall Favorites</h2>
+<h4>Other Cozy Fall Favorites</h4>
 Check out this Cozy Fall Favorites video to see some of our favorite cozy products for fall.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GrSMnKtCWXI" frameborder="0" allowfullscreen></iframe>

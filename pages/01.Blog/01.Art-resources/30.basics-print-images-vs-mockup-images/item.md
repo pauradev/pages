@@ -38,10 +38,10 @@ post_type: post
 
 [![](https://printaura.com/wp-content/uploads/2018/06/print-vs-mockup.jpg)](https://blog.printaura.com/blog/art-resources/basics-print-images-vs-mockup-images)
 
-<h2>Print Images Vs. Mockup Images</h2>
+<h4>Print Images Vs. Mockup Images</h4>
 One of the most common issues our members run into while creating products for their stores has to do with image requirements. Too often, people submit artwork that does not meet the requirements for the product they want printed. One of the most simple mistakes, but one that we see happen over and over again, has to do with the difference between the print image we ask for and the mockup image we ask for. We hope this blog article will help clear things up! 
 
-<h2>Print Images</h2>
+<h4>Print Images</h4>
 
 <img src="https://printaura.com/wp-content/uploads/2018/06/print-image.jpg" alt="print image" width="471" height="376" class="alignnone size-full wp-image-12715581" />
 
@@ -57,7 +57,7 @@ Your print image is your design, your art. The exact file you want printed on yo
 
 We don't use your print files for anything other than printing.
 
-<h2>Mockups and Mockup Generator Images</h2>
+<h4>Mockups and Mockup Generator Images</h4>
 
 <img src="https://printaura.com/wp-content/uploads/2018/06/Mockup-Image.jpg" alt="Mockup Image" width="471" height="376" class="alignnone size-full wp-image-12715580" />
 
@@ -76,5 +76,5 @@ Mockup files are NOT intended to act as a resizing tool. If you shrink down your
 <strong>BONUS TIP</strong>
 Name your files when you upload them to be able to easily identify and separate your print images from your mockup images. This will save you loads of time when you are adding products.
 
-<h2>Any Questions?</h2>
+<h4>Any Questions?</h4>
 If you have any further questions, or would like to suggest a tutorial or informational blog about any subject, let us know in the comments down below!

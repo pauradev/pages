@@ -10,7 +10,7 @@ hide_from_post_list: false
 ---
 
 [![Difference between CMYK and RGB Color Profiles](https://printaura.com/wp-content/uploads/2015/03/difference-between-RGB-and-CMYK.jpg)](https://blog.printaura.com/blog/art-resources/the-difference-between-rgb-and-cmyk)
-<h2>CMYK Vs RGB</h2>
+<h4>CMYK Vs RGB</h4>
 
 Computer monitors emit color as RGB (red, green, blue) light. Although all colors of the visible spectrum can be produced by merging red, green and blue light, monitors are capable of displaying only a limited gamut (i.e., range) of the visible spectrum.
 
@@ -28,7 +28,7 @@ When you design graphics on a computer for printing, or want  to print images f
 
 <i>Quick tip ** When designing graphics for print always set up your document in the CMYK color profile. When designing for web or working with photographs use the RGB color profile. **</i>
 
-<h2>Color Guide</h2>
+<h4>Color Guide</h4>
 
 <a attid="2299717"  href="https://printaura.com/wp-content/uploads/2015/03/CMYK-vs-RGB-01.jpg"><img src="https://printaura.com/wp-content/uploads/2015/03/CMYK-vs-RGB-01.jpg" alt="CMYK vs RGB" width="1025" height="2403" class="alignnone size-full wp-image-2299717" /></a>
 CMYK vs RBG – Cheat Sheet was created by the <a href="http://firstsiteguide.com/">FirstSiteGuide.com</a> Team.

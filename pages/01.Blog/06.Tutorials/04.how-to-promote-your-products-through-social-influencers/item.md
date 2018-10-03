@@ -36,11 +36,11 @@ hide_from_post_list: false
 ---
 
 <img src="https://printaura.com/wp-content/uploads/2016/06/bloggers-blog-1024x386.jpg" alt="Promote Your Product" width="980" height="369" class="alignnone size-large wp-image-2406771" />
-<h2>Social Influencers</h2>
+<h4>Social Influencers</h4>
 Partnering up with fashion or lifestyle bloggers, established instagrammers, and popular youtubers can be a great way to promote your brand and your products. A lot of the time you can get your products out there in front of thousands of people for the price of a t-shirt and shipping. You also receive the endorsement of an opinion leader with influence over their followers / subscribers.
 
 The way you do this is simple! You find someone with a large following who embodies your style and your brand. You then offer them free product in exchange for wearing or featuring the product on their blog, instagram feed, or youtube channel. It’s a win-win!
-<h2>Do Your Research</h2>
+<h4>Do Your Research</h4>
 Identify the creators that you feel your brand and style align with. You should be into their style, and they should look like they would dig your products.
 
 You also need to make sure that they have a sizable following to make partnering up worth your while. You can do this by looking at:
@@ -64,7 +64,7 @@ You also need to make sure that they have a sizable following to make partnering
  	<li>Positive and active comment interactions</li>
 </ul>
 &nbsp;
-<h2>Craft A Persuasive Message</h2>
+<h4>Craft A Persuasive Message</h4>
 After you’ve found some people you want to reach out to, find a way to contact them and start laying out your message. You will want to be both friendly and professional. Have a few items selected that you think they would love.
 
 <span class="dashicons dashicons-yes"></span> Introduce yourself and your brand
@@ -85,7 +85,7 @@ After you’ve found some people you want to reach out to, find a way to contact
  	<li>Don’t get discouraged if you don’t hear back right away, or at all. If you continue to search and reach out, you will eventually find someone that is a good fit for your brand.</li>
 </ul>
 &nbsp;
-<h2>Consider Collaboration</h2>
+<h4>Consider Collaboration</h4>
 If you come to a point where you have established a good relationship and trust with the person you are working with, think about doing a collaboration.
 
 Design a product or line of products specifically for them and their following. Work out an agreeable profit split, and let them promote the products available exclusively in your store!

@@ -40,10 +40,10 @@ post_type: post
 
 <img src="https://printaura.com/wp-content/uploads/2018/07/outdoor-blog-1024x534.jpg" alt="outdoor blog" width="980" height="511" class="alignnone size-large wp-image-12719532" />
 
-<h2>Calling All Outdoor Enthusiasts!</h2>
+<h4>Calling All Outdoor Enthusiasts!</h4>
 It's summertime and that means all the happy campers and outdoor lovers are celebrating! Summer is a time for outdoor fun and adventure! Do you love to camp, hike, oaddle, or explore? How about your customers? Many people who are fans of the great outdoors love to show off their passion. Not mention that outdoor adventure scene is super on trend! Don't miss this opportunity to provide the outdoor enthusiasts of world with amazing and fun designs to showcase what they love! 
 
-<h2>Outdoor Inspiration</h2>
+<h4>Outdoor Inspiration</h4>
 Check out these awesome designs made for outdoor lovers created by entrepreneurs just like you! Take inspiration from these items and create your own designs and products. 
 
 <h3>Tees</h3>
@@ -304,5 +304,5 @@ Via <a href="https://www.etsy.com/shop/AdventureWoofs" rel="noopener" target="_b
 <img src="https://printaura.com/wp-content/uploads/2018/07/woods-and-river.jpg" alt="woods and river" width="570" height="573" class="alignnone size-large wp-image-12719527" />
 Via <a href="https://www.etsy.com/shop/thewhitecrowe" rel="noopener" target="_blank">thewhitecrowe</a>
 
-<h2>Get Designing Today!</h2>
+<h4>Get Designing Today!</h4>
 We hope these examples have inspired you to create your own outdoorsy summer designs. From shirts to hats to mugs to totes, the possibilities are endless. Take advantage of this popular trend and get designing today!

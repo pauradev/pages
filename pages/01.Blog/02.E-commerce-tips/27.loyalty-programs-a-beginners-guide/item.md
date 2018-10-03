@@ -38,7 +38,7 @@ post_type: post
 ---
 
 [![](loyalty-fb.jpg)](https://printaura.com/wp-content/uploads/2017/02/loyalty-fb.jpg)
-<h2>What Is A Loyalty Program?</h2>
+<h4>What Is A Loyalty Program?</h4>
 A loyalty program is a rewards program that businesses offer to their loyal customers. Loyalty programs reward and encourage return purchasers. Every consumer loves to feel like their purchases are appreciated. A loyalty program is a great way to give back to your return customers and encourage more sales at the same time. It really is a win-win!
 <h3>Benefits Of Loyalty Programs</h3>
 Loyalty programs can demonstrate both a companies loyalty to their customers, and reward a customer's loyalty to a company. Here are some benefits that can ?? from loyalty programs:
@@ -54,7 +54,7 @@ First time customers can also be persuaded to make an initial purchase if they f
 
 <strong> 4. Improves brand relationship</strong>
 Having a loyalty program can help customers feel like they are part of your brand. It can improve opinions about a brand's identity and help to build a relationship between the company and the customer.
-<h2>Simple Loyalty Program Types</h2>
+<h4>Simple Loyalty Program Types</h4>
 Loyalty programs come in many different forms. Each will reward your customers for spending their hard earned money at your store. Here are some easy to implement programs that will encourage your customers to come back for more!
 
 <strong>1. Points Program</strong>
@@ -92,7 +92,7 @@ VIP programs are a type of tiered program. Essentially after you spend a certain
  	<li>Free Shipping</li>
 </ul>
 &nbsp;
-<h2>Loyalty Program Example</h2>
+<h4>Loyalty Program Example</h4>
 Let's take a quick look at <a href="http://tartecosmetics.com/tarte-tokens.php" target="_blank">Tarte Cosmetics</a>! Tarte's loyalty program is called "Pretty Perks". You can also create a fun name for your own loyalty program! Pretty Perks is a token based system where every dollar you spend is equal to one Tarte Token. There are also different ways to earn tokens that are not related to spending. The more you spend, the more tokens you earn. The more you interact with the brand, the more tokens you earn. Tarte could have gone a few different ways. They decided to settle on a tier system where as soon as you reach a certain amount of tokens you can unlock new benefits. This encourages customers to keep spending to receive deluxe samples and other gifts. Signing up for the loyalty program is free, and includes a special birthday offer.
 
 <img class="alignnone size-full wp-image-4994130" src="https://printaura.com/wp-content/uploads/2017/02/Screen-Shot-2017-02-07-at-10.56.57-AM.png" alt="Loyalty Program Example" width="1129" height="657" /> <img class="alignnone size-full wp-image-4994135" src="https://printaura.com/wp-content/uploads/2017/02/Screen-Shot-2017-02-07-at-10.57.16-AM.png" alt="Loyalty Program example" width="1029" height="531" />

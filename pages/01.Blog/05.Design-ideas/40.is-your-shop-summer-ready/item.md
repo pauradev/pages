@@ -43,7 +43,7 @@ Even though the first day of summer isn't officially until June 20th, we are alr
 With the first day of summer fast approaching, you should ask yourself ...<strong> is my shop summer ready?</strong> Summer is a time for exploration, outdoor fun, and relaxation. Students are all on break and the rest of us wish we were! Capture the spirit of summer and share it through your designs.
 
 The changing of the seasons is a great opportunity to add new lines and new items to your store. If you aren’t sure what to add, check out some of our summer favorites.
-<h2>Summer Apparel</h2>
+<h4>Summer Apparel</h4>
 Sleeves start to disappear as the weather warms up. Summer is all about losing the layers and feeling the sun on your skin! Once summer rolls around I swap out my closet from sweaters and jackets to tank tops and dresses. Here are some of our favorite summer apparel items.
 <h3>Pocket Tees</h3>
 <a href="https://printaura.com/pockets/"><img class="alignnone wp-image-2350054" src="https://printaura.com/wp-content/uploads/2016/05/pockt-print-1024x1024.jpg" alt="pocket print" width="426" height="426" /></a>
@@ -88,7 +88,7 @@ See all the available colors for the <a href="https://printaura.com/product-view
 
 <hr />
 
-<h2>Summer Accessories</h2>
+<h4>Summer Accessories</h4>
 <h3>Beach Totes</h3>
 Nothing says summer like a day cooling off and hanging out by the water. Whether it’s the beach, the lake, the pool, or the river, everybody needs a beach tote! These bags are a summer staple and I’m never out by the river without one.
 <h4>Oversized Zip-up Tote</h4>
@@ -124,5 +124,5 @@ These hats are great for summer! The mesh backing on this hat provides great ven
 Check out our <a href="https://printaura.com/embroidery" target="_blank">hat options</a>.
 
 All apparel photos via <a href="https://bellacanvas.com" target="_blank">Bella+Canvas</a>
-<h2>Want More Summer?</h2>
+<h4>Want More Summer?</h4>
 If you have ideas for summer items you'd like see, let us know in the comments down below. We always try to offer products that we know will sell well and that our members will enjoy customizing. So let us know! Is there a type of shirt or accessory you've been dying to add to your shop? If we get enough people requesting the same item, there's a chance it'll get added to our products.

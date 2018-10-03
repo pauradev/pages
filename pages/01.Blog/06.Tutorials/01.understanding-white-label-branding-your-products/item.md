@@ -38,10 +38,10 @@ post_type: post
 
 ![](fb-branding.jpg)
 
-<h2>What Is White Label?</h2>
+<h4>What Is White Label?</h4>
 Print Aura is a white label service. You've probably seen this term thrown around before, but might not know what it actually means. White Label simply means that we do not brand the products we print on. We know that the designs are yours, and the customers are yours. We want to give our members the credit they deserve, and the opportunity to add branding of their own. You will never see a Print Aura logo or branding of any kind on your items.
 
-<h2>Branding Your Products</h2>
+<h4>Branding Your Products</h4>
 Since our products are shipped to your customers without any branding, it's a perfect opportunity for you to put your own branding onto your products. We offer lots of different branding options to help make sure your products are recognizable as being YOURS. If you go into any retail store, you will notice most garments will at least have a branded tag hanging from the item and a branded neck label of some sortl. Brands do this because it helps with brand recognition and allows the customer to have a point of reference after buying the item. If the customer enjoys the item, it's easier for them to look up the brand later and see what else they have to offer.
 
 We offer many branding services free of charge. For instance, we always offer branded packing slips that accompany all of your orders. We also offer customer shipping return labels at no cost.We also offer other branding services at a small fee per item. So, what are some other ways you can expanding your brand using Print Auras services?
@@ -70,7 +70,7 @@ Photo via <a href="https://www.rvca.com/" target="_blank">RVCA</a>
 <h3>Pack-ins</h3>
 Pack-ins can be a great way to promote your brand with every item you sell! A pack-in is simply a little extra something you send your customers in their orders. Common pack-ins include stickers, hand-written thank you cards, buttons, and other little trinkets that can help with your brand exposure and customer retention. If you want people to return to your shop, try this! Add a coupon in with your customer's order that can be applied to their next order.  
 Check out our article, <a href="https://printaura.com/how-to-build-your-brand-using-pack-ins/" target="_blank">How To Build Your Brand Using Pack-ins</a> for more information and ideas!
-<h2>Suggestions?</h2>
+<h4>Suggestions?</h4>
 Can you think of any other ways you'd like to be able to brand your items? We are always open to new ideas and looking for unique ways to make your products uniquely yours!
 
 You can learn more about our branding options by checking out our <a href="https://printaura.com/branding" target="_blank">branding services page</a>.

@@ -36,8 +36,8 @@ post_type: post
 hide_from_post_list: false
 ---
 
-<h2><img class="alignnone size-large wp-image-2144173" src="https://printaura.com/wp-content/uploads/2016/02/womensspringfashion1-1024x534.jpg" alt="Women's Spring Fashion" width="980" height="511" /></h2>
-<h2>Women's Fashion</h2>
+<h4><img class="alignnone size-large wp-image-2144173" src="https://printaura.com/wp-content/uploads/2016/02/womensspringfashion1-1024x534.jpg" alt="Women's Spring Fashion" width="980" height="511" /></h4>
+<h4>Women's Fashion</h4>
 As many of you already know, Print Aura has over 100 products available for printing. But did you know that we offer some fashion-forward apparel items? Many of our fashion items are overlooked in favor of more basic styles. Basic apparel styles work nicely for a wide variety of designs, but can lack in fashionable silhouette for those of ladies who want to show off our personality through design, but still look stylish. Step it up a notch and offer your design on a fashion forward item to your store today. Check out some of our more fashionable apparel items and accessories below.
 <h3>Apparel Examples</h3>
 <a href="https://printaura.com/product-view/?v=Ladies_Jersey_Tank_Dress&amp;hdn=MTgx" target="_blank"><strong>Bella / Canvas Ladies Jersey Tank Dress</strong></a>
@@ -98,5 +98,5 @@ Nothing says spring and summer fashion like the right pair of sunglasses. When y
 I love wearing hats in the spring and summer time. They combine fashion and function by looking great, keeping hair out of our faces, and protecting us from the sun. I love wearing hats on the river, on runs, hiking, and to outdoor events.
 
 <a href="https://printaura.com/embroidery" target="_blank"><img class="alignnone wp-image-2141930" src="https://printaura.com/wp-content/uploads/2016/02/flexfit-300x300.jpg" alt="Hat" width="285" height="285" /></a>
-<h2>More Fashion</h2>
+<h4>More Fashion</h4>
 Interested in different colors or different styles? You can check out all of our t-shirt and fashion apparel items on our <a href="https://printaura.com/tshirts" target="_blank"><strong>T-Shirts &amp; Garments Products Page</strong></a>. Do you guys like these fashion offerings? Would you like to see more or these types of items? Let us know!

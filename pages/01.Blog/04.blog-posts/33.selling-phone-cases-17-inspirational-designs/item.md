@@ -46,10 +46,10 @@ post_type: post
 
 <img src="https://printaura.com/wp-content/uploads/2018/03/cellphonecases.jpg" alt="cellphonecases" width="938" height="489" class="alignnone size-full wp-image-12701061" />
 
-<h2>Why Add Phone Cases To Your Shop?</h2>
+<h4>Why Add Phone Cases To Your Shop?</h4>
 We live in a time where our phones can cost as much as a used vehicle! We depend on them, and the thought of one breaking sends chills down our spines! Most people want to protect their expensive and precious devices in some kind of case. Most of us have a phone case, whether it's for protection or decoration. Tap into that market and add your designs to phone cases! Since you are a Print Aura member (right?) it's risk free to add different designs and device types to your shop. You only pay for the cases you sell, so there's no worries if something doesn't sell.
 
-<h2>About Our Cases</h2>
+<h4>About Our Cases</h4>
 We changed over phone case suppliers a while back because the quality of the cases we were using were not consistently meeting our high standards. We happily found a new provider, that I can say I fully stand behind! My personal favorite is the tough case, being that I am a little bit, okay VERY clumsy. I no longer drop my phone and immediately wince. Instead, I shrug it off, knowing it's well protected.
 
 "I just bought the iPhone and was so paranoid about dropping it. I ordered a tough case as a sample to check out how the cases perform, and I couldn't be happier with this case! I was honestly surprised and wasn't expecting something as nice as what I got for the price."
@@ -57,7 +57,7 @@ We changed over phone case suppliers a while back because the quality of the cas
 
 We also recently lowered the prices of our phone cases across the board! In case you missed that, check out <a href="https://printaura.com/huge-price-drop-on-all-cell-phone-cases/" target="_blank">the post</a>. If you haven't tried out these news cases, I highly recommended doing so. Even if it's just to order a sample case for yourself. You wont be disappointed!
 
-<h2>17 Fun Phone Case Examples</h2>
+<h4>17 Fun Phone Case Examples</h4>
 If you don't have any designs you think will work well for a phone case, no worries! Need some ideas before you get started? I combed through Etsy to find fun and inspiring designs that might give you an idea or two for your own!
 
 <h3>Soccer Player</h3>

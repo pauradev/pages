@@ -38,7 +38,7 @@ post_type: post
 
 [![design sizing and placement guide](https://printaura.com/wp-content/uploads/2016/03/sizing-blog-banner-copy.jpg)](https://blog.printaura.com/blog/art-resources/design-sizing-and-placement-guide)
 
-<h2>Sizing And Placement</h2>
+<h4>Sizing And Placement</h4>
 We get a lot of questions about design sizing and placement here at Print Aura. People aren't sure how to gauge the sizing of their designs. It can be hard to visualize the size a digital design on a real life garment. We decided to create this handy guide to help you figure out how to size and place your designs.
 
 <h3>Maximum T-shirt Print Size</h3>
@@ -69,7 +69,7 @@ Make sure your DPI is set to 300! We have a <a href="https://www.youtube.com/wat
 
 Think about what size you want your design to be on a shirt. You don't need to fill the entire print area. Sometimes bigger isn't always better! Grab a t-shirt and throw it on. Think about where you would want your design to rest, and about how large you would like it.
 
-<h2>Quick Trick</h2>
+<h4>Quick Trick</h4>
 A really quick and easy way to help you visualize how your design will look printed on a shirt is to round up some common household items.
 
 <strong>You will need:</strong>
@@ -99,7 +99,7 @@ The size of the paper is now<strong> 8.5" x 5.5".</strong> If this still seems t
 
 The paper is now <strong>4.25" x 5.5"</strong>. You can play around with the direction of the paper and the size of the paper until you are happy with the size. Once you are happy with the sizing of your paper, take note of it's size and adjust your design to fit that size.
 
-<h2>Watch The Video</h2>
+<h4>Watch The Video</h4>
 We created ta little video to help our users understand sizing and placement a bit better.
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JI6Fj4siSsE" frameborder="0" allowfullscreen></iframe>

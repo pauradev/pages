@@ -38,10 +38,10 @@ post_type: post
 ---
 
 <img src="https://printaura.com/wp-content/uploads/2018/06/next-level-products.jpg" alt="next level products" width="950" height="570" class="alignnone size-full wp-image-12717990" />
-<h2>More Items To Choose From!</h2>
+<h4>More Items To Choose From!</h4>
 One of our goals here at Print Aura is to keep our members excited about their stores and their designs. Adding new and fresh things can be great for your business, so we try to do the same. We've added some new Next Level items, with more additions from other brands on the way!
 
-<h2>New Next Level Items</h2>
+<h4>New Next Level Items</h4>
 We've added the following items to our product options, as well as new color options for some of our existing Next Level items! We hope one or more of these items inspires you to add something new to your store! 
 
 <img class="alignnone size-full wp-image-12717833" src="https://printaura.com/wp-content/uploads/2018/06/1.png" alt="1" width="200" height="200" />
@@ -235,7 +235,7 @@ We've added the following items to our product options, as well as new color opt
  	<li>White</li>
 </ul>
 &nbsp;
-<h2>More Colors Added</h2>
+<h4>More Colors Added</h4>
 We've added more colors to some of our existing items!
 
 <img src="https://printaura.com/wp-content/uploads/2018/06/6051.png" alt="6051" width="200" height="200" class="alignnone size-full wp-image-12717994" />
@@ -276,5 +276,5 @@ We've added more colors to some of our existing items!
  	<li>White/Heather Gray</li>
 </ul>
 &nbsp;
-<h2>Stay Tuned!</h2>
+<h4>Stay Tuned!</h4>
 Over the next few weeks we will be adding even more new items to choose from, so stay tuned! If you have specific things you's like to see, let us know down in the comments below. 

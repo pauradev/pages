@@ -37,7 +37,7 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2016/11/how-to-sweater.jpg" alt="how to sweater" width="1174" height="612" class="alignnone size-full wp-image-3581321" />
 
-<h2>How To Design An Ugly Christmas Sweater</h2>
+<h4>How To Design An Ugly Christmas Sweater</h4>
 Soon many Holiday party go-er will be in search of the most unique, tacky, ugly Christmas sweater they can get their hands on. Ugly Christmas sweater parties have become somewhat of a tradition. With any tradition that can be turned into a competition, there are always those die-hard people who will go to great lengths to find something to wow everyone. Have your eCommerce store be the one to give the people what they want! Put your creativity and design skills to good use this holiday season, and create an ugly Christmas sweater that only you could create!
 
 <h3>1. Create Your Design</h3>
@@ -138,7 +138,7 @@ There are lots of different cost effective ways to advertise your new ugly Chris
 <a href="https://printaura.com/6-ways-to-boost-holiday-sales/" target="_blank">6 Ways to Boost Holiday Sales</a>
 <a href="https://printaura.com/9-ways-to-promote-your-t-shirt-brand/" target="_blank">9 Ways to Promote Your T-Shirt Brand</a>
 <a href="https://printaura.com/how-to-promote-your-products-through-social-influencers/" target="_blank">How To Promote Your Products Through Social Influencers</a>
-<h2>Show Us Your Holiday Designs</h2>
+<h4>Show Us Your Holiday Designs</h4>
 We would love to start featuring some of our members work on our instagram account! Show us your holiday designs! They can be tacky, or they can be classy! We'd just love to see your work. Comment below to be considered!
 
 <strong>Holiday Order Deadlines</strong>
