@@ -18,7 +18,7 @@ hide_from_post_list: false
 ![](woocommerce.png)![](storenvy.png)![](shopify.png)![](etsy.png)![](bigcommerce.png)
 
 
-## Our Planned Platforms
+<p align="center"><h4>Our Planned Platforms</h4></p>
 
 ***
 ![](3dcart.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](aceshop.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](amazon.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](aspdotnetstorefront.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](cubecart.png)
