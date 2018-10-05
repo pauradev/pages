@@ -21,5 +21,16 @@ hide_from_post_list: false
 ## Our Planned Platforms
 
 ***
-
-![](3dcart.png)![](aceshop.png)![](amazon.png)![](aspdotnetstorefront.png) ![](cubecart.png)![](demandware.png)![](ebay.png)![](ecwid.png)![](gambio.png)![](interspire.png)![](joocart.png)![](loaded-commerce.png)![](magento.png)![](magento2.png)![](magento-cc.png)![](mijoshop.png)![](neto.png)![](opencart.png)![](oscmax.png)![](oscommerce.png)![](oxid.png)![](pinnacle-cart.png)![](prestashop.png)![](shopify-plus.png)![](shop-script.png)![](shopware.png)![](tomatocart.png)![](ubercart.png)![](virtuemart.png)![](volusion.png)![](webasyst.png)![](wpe-commerce.png)![](x-cart.png)![](xt-commerce.png)![](xt-commerce-veyton.png)![](zen-cart.png)
+![](3dcart.png),![](aceshop.png)![](amazon.png)![](aspdotnetstorefront.png) ![](cubecart.png)
+***
+![](demandware.png)![](ebay.png)![](ecwid.png)![](gambio.png)![](interspire.png)
+***
+![](joocart.png)![](loaded-commerce.png)![](magento.png)![](magento2.png)![](magento-cc.png)
+***
+![](mijoshop.png)![](neto.png)![](opencart.png)![](oscmax.png)![](oscommerce.png)
+***
+![](oxid.png)![](pinnacle-cart.png)![](prestashop.png)![](shopify-plus.png)![](shop-script.png)
+***
+![](shopware.png)![](tomatocart.png)![](ubercart.png)![](virtuemart.png)![](volusion.png)
+***
+![](webasyst.png)![](wpe-commerce.png)![](x-cart.png)![](xt-commerce.png)![](xt-commerce-veyton.png)![](zen-cart.png)
