@@ -16,8 +16,8 @@ hide_from_post_list: false
 ![](woocommerce.png)![](storenvy.png)![](shopify.png)![](etsy.png)![](bigcommerce.png)
 
 ### Our Planned Platforms
-
-![](3dcart.png)![](aceshop.png)![](amazon.png)![](aspdotnetstorefront.png)
+|:----------------|:-----------------:|:---------------:|-----------------------------:|
+| ![](3dcart.png) | ![](aceshop.png)  | ![](amazon.png) | ![](aspdotnetstorefront.png) |
 
 ![](cubecart.png)![](demandware.png)![](ebay.png)![](ecwid.png)
 
