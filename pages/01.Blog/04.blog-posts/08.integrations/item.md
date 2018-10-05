@@ -13,9 +13,13 @@ hide_from_post_list: false
 
 ### Our Currently supported Selling Platforms
 
+***
+
 ![](woocommerce.png)![](storenvy.png)![](shopify.png)![](etsy.png)![](bigcommerce.png)
 
 ### Our Planned Platforms
+
+***
 
 ![](3dcart.png)![](aceshop.png)![](amazon.png)![](aspdotnetstorefront.png) 
 
@@ -26,16 +30,27 @@ hide_from_post_list: false
 ***
 
 ![](gambio.png)![](interspire.png)![](joocart.png)![](loaded-commerce.png)
-&nbsp;
+
+***
+
 ![](magento.png) ![](magento2.png)![](magento-cc.png)![](mijoshop.png)
-&nbsp;
+
+***
+
 ![](neto.png)![](opencart.png)![](oscmax.png)![](oscommerce.png)
-&nbsp;
+
+***
+
 ![](oxid.png)![](pinnacle-cart.png)![](prestashop.png)![](shopify-plus.png)
-&nbsp;
+
+***
+
 ![](shop-script.png)![](shopware.png)![](tomatocart.png)![](ubercart.png)
-&nbsp;
+
+***
+
 ![](virtuemart.png)![](volusion.png)![](webasyst.png)![](wpe-commerce.png)
-&nbsp;
+
+***
+
 ![](x-cart.png)![](xt-commerce.png)![](xt-commerce-veyton.png)![](zen-cart.png)
-&nbsp;
