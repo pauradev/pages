@@ -18,9 +18,13 @@ hide_from_post_list: false
 ### Our Planned Platforms
 
 ![](3dcart.png)![](aceshop.png)![](amazon.png)![](aspdotnetstorefront.png) 
-&nbsp;
+
+***
+
 ![](cubecart.png)![](demandware.png)![](ebay.png)![](ecwid.png)
-&nbsp;
+
+***
+
 ![](gambio.png)![](interspire.png)![](joocart.png)![](loaded-commerce.png)
 &nbsp;
 ![](magento.png) ![](magento2.png)![](magento-cc.png)![](mijoshop.png)
