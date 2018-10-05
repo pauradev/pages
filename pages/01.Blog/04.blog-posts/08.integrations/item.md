@@ -16,21 +16,22 @@ hide_from_post_list: false
 ![](woocommerce.png)![](storenvy.png)![](shopify.png)![](etsy.png)![](bigcommerce.png)
 
 ### Our Planned Platforms
-|:----------------|:-----------------:|:---------------:|-----------------------------:|
-| ![](3dcart.png) | ![](aceshop.png)  | ![](amazon.png) | ![](aspdotnetstorefront.png) |
 
+![](3dcart.png)![](aceshop.png)![](amazon.png)![](aspdotnetstorefront.png) 
+&nbsp;
 ![](cubecart.png)![](demandware.png)![](ebay.png)![](ecwid.png)
-
+&nbsp;
 ![](gambio.png)![](interspire.png)![](joocart.png)![](loaded-commerce.png)
-
+&nbsp;
 ![](magento.png) ![](magento2.png)![](magento-cc.png)![](mijoshop.png)
-
+&nbsp;
 ![](neto.png)![](opencart.png)![](oscmax.png)![](oscommerce.png)
-
+&nbsp;
 ![](oxid.png)![](pinnacle-cart.png)![](prestashop.png)![](shopify-plus.png)
-
+&nbsp;
 ![](shop-script.png)![](shopware.png)![](tomatocart.png)![](ubercart.png)
-
+&nbsp;
 ![](virtuemart.png)![](volusion.png)![](webasyst.png)![](wpe-commerce.png)
-
+&nbsp;
 ![](x-cart.png)![](xt-commerce.png)![](xt-commerce-veyton.png)![](zen-cart.png)
+&nbsp;
