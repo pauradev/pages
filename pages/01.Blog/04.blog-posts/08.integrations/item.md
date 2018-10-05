@@ -21,7 +21,7 @@ hide_from_post_list: false
 ## Our Planned Platforms
 
 ***
-![](3dcart.png),![](aceshop.png)![](amazon.png)![](aspdotnetstorefront.png) ![](cubecart.png)
+![](3dcart.png)   ![](aceshop.png)   ![](amazon.png)   ![](aspdotnetstorefront.png)   ![](cubecart.png)
 ***
 ![](demandware.png)![](ebay.png)![](ecwid.png)![](gambio.png)![](interspire.png)
 ***
@@ -33,4 +33,6 @@ hide_from_post_list: false
 ***
 ![](shopware.png)![](tomatocart.png)![](ubercart.png)![](virtuemart.png)![](volusion.png)
 ***
-![](webasyst.png)![](wpe-commerce.png)![](x-cart.png)![](xt-commerce.png)![](xt-commerce-veyton.png)![](zen-cart.png)
+![](webasyst.png)![](wpe-commerce.png)![](x-cart.png)![](xt-commerce.png)![](xt-commerce-veyton.png)
+***
+![](zen-cart.png)
