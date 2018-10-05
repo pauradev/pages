@@ -21,7 +21,7 @@ hide_from_post_list: false
 ## Our Planned Platforms
 
 ***
-![](3dcart.png)   ![](aceshop.png)   ![](amazon.png)   ![](aspdotnetstorefront.png)   ![](cubecart.png)
+![](3dcart.png)&nbsp;&nbsp;&nbsp;![](aceshop.png)&nbsp;&nbsp;&nbsp;![](amazon.png)&nbsp;&nbsp;&nbsp;![](aspdotnetstorefront.png)&nbsp;&nbsp;&nbsp;![](cubecart.png)
 ***
 ![](demandware.png)![](ebay.png)![](ecwid.png)![](gambio.png)![](interspire.png)
 ***
