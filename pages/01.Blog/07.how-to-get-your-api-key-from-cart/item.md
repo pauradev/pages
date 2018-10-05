@@ -1,5 +1,6 @@
 ---
 title: 'How to get your API Key from cart'
+media_order: integration.png
 published: false
 date: '15:19 05-10-2018'
 hide_git_sync_repo_link: false
@@ -9,6 +10,8 @@ show_breadcrumbs: true
 show_pagination: true
 hide_from_post_list: false
 ---
+
+[![](integration.png)](/blog/how-to-get-your-api-key-from-cart)
 
 #### How can I get API Key and Token from my API based shopping cart?
 
