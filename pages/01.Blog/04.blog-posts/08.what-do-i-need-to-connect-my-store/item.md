@@ -1,5 +1,6 @@
 ---
 title: 'What do I need to connect my store'
+published: false
 date: '11:47 08-10-2018'
 hide_git_sync_repo_link: false
 blog_url: /blog
