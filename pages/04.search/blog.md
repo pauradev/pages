@@ -17,7 +17,7 @@ content:
     url_taxonomy_filters: true
 bricklayer_layout: true
 display_post_summary:
-    enabled: true
+    enabled: false
 icon: search
 hide_from_post_list: true
 ---
