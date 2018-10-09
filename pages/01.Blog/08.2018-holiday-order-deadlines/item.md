@@ -1,7 +1,7 @@
 ---
 title: '2018 Holiday Order Deadlines'
 media_order: 'nov 26.png,dec-15.png,dec 15.png,Dec 4.png,dec 7.png,nov 28.png,2018 holiday order deadlines.jpg,2018 holiday order deadlines.jpg'
-published: false
+published: true
 date: '13:33 09-10-2018'
 hide_git_sync_repo_link: false
 blog_url: /blog
