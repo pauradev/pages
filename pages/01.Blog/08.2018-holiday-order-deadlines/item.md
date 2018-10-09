@@ -1,6 +1,6 @@
 ---
 title: '2018 Holiday Order Deadlines'
-media_order: 'nov 26.png,dec-15.png,dec 15.png,Dec 4.png,dec 7.png,nov 28.png'
+media_order: 'nov 26.png,dec-15.png,dec 15.png,Dec 4.png,dec 7.png,nov 28.png,2018 holiday order deadlines.jpg,2018 holiday order deadlines.jpg'
 published: false
 date: '13:33 09-10-2018'
 hide_git_sync_repo_link: false
@@ -11,8 +11,10 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-The holiday season is right around the corner which means it's time to start thinking about holiday orders! One of the most important things to consider when it comes to holiday orders is shipping time! As a seller, you will want to ensure that purchases made at your store will arrive on time for the holidays. It's the season of giving and there's nothing more frustrating than being left empty handed because a gift arrived late.
+![](2018%20holiday%20order%20deadlines.jpg)
 
+The holiday season is right around the corner which means it's time to start thinking about holiday orders! One of the most important things to consider when it comes to holiday orders is shipping time! As a seller, you will want to ensure that purchases made at your store will arrive on time for the holidays. It's the season of giving and there's nothing more frustrating than being left empty handed because a gift arrived late.
+<br><br>
 How can you make sure your customers get their gifts on time? **SHARE these holiday order deadlines**.
 
 ===
