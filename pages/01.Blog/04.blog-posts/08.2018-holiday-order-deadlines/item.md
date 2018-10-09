@@ -13,7 +13,7 @@ hide_from_post_list: false
 
 ![](2018%20holiday%20order%20deadlines.jpg)
 
-## 'Tis The Season
+### 'Tis The Season
 
 The holiday season is right around the corner which means it's time to start thinking about holiday orders! One of the most important things to consider when it comes to holiday orders is shipping time! As a seller, you will want to ensure that purchases made at your store will arrive on time for the holidays. It's the season of giving and there's nothing more frustrating than being left empty handed because a gift arrived late.
 <br><br>
