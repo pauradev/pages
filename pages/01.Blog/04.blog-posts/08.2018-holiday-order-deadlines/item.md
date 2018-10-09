@@ -26,9 +26,7 @@ Please make sure your customers place their orders by the dates below to ensure 
 ### United States (Priority Mail)
 ![](dec-15.png)<br>
 
-* To have your domestic orders arrive on or before December 24th with standard processing they must be placed and paid for before 
-
-**December 15th at 9:30AM PST / 12:30PM ET.** 
+* To have your domestic orders arrive on or before December 24th with standard processing they must be placed and paid for before **December 15th at 9:30AM PST / 12:30PM ET.** 
 
 * For orders going to Hawaii or Alaska please allow for more time.
 
