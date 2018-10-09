@@ -19,7 +19,7 @@ How can you make sure your customers get their gifts on time? **SHARE these holi
 
 ===
 
-<span style="color:red">Holiday Order Deadlines</span>
+### <span style="color:red">Holiday Order Deadlines</span>
 
 Please make sure your customers place their orders by the dates below to ensure we make USPS deadlines for products to arrive on or before December 24th.
 
