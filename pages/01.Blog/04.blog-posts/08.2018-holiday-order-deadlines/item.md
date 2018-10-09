@@ -31,6 +31,7 @@ Please make sure your customers place their orders by the dates below to ensure 
 * For orders going to Hawaii or Alaska please allow for more time.
 
 <br>
+
 ----------------------------------------------------------------
 
 ### United States (First Class)
@@ -42,6 +43,7 @@ Please make sure your customers place their orders by the dates below to ensure 
 * For orders going to Hawaii or Alaska please allow for more time.
 
 <br>
+
 ----------------------------------------------------------------
 
 ### Canada (First Class)
@@ -53,6 +55,7 @@ Please make sure your customers place their orders by the dates below to ensure 
 a few weeks and is quite variable.
 
 <br>
+
 ----------------------------------------------------------------
 
 ### International (Africa, Central & South America, and Middle East)
@@ -64,6 +67,7 @@ a few weeks and is quite variable.
 * Customs clearance can cause variable delays in order arrival time.
 
 <br>
+
 ----------------------------------------------------------------
  
 ### International (All other areas)
@@ -76,6 +80,7 @@ a few weeks and is quite variable.
 * Customs clearance can cause variable delays in order arrival time.
 
 <br>
+
 ----------------------------------------------------------------
 
 ### APO/FPO/DPO
