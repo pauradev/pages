@@ -13,7 +13,7 @@ show_pagination: true
 content:
     items:
         - '@self.children'
-    limit: 7
+    limit: 8
     order:
         by: date
         dir: desc
@@ -25,4 +25,3 @@ display_post_summary:
 hide_from_post_list: true
 ---
 
-Your page content goes here.
