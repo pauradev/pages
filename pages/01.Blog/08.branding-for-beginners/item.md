@@ -23,7 +23,15 @@ Hang Tags
 Hang tags are a great way to add some personality and brand visibility to your products. Though they will be thrown away before the customer's first use, it's a great way to make a good and lasting impression. 
 
 Neck Labels 
-These are important because they are here to stay. Print Aura can remove existing garment branding, and add a neck label of your design. This way, when someone checks branding on the neck label, they will see your brand, and not Gildan or Next Level Apparel. 
+Neck labels are important because they are there on the garment to stay. Print Aura can remove existing garment branding, and add a neck label of your design. This way, when someone checks branding on the neck label, they will see your brand, and not Gildan or Next Level Apparel. Include a little, or include a lot (just make sure your follow these [re-labeling guidelines](https://printaura.com/guide-legal-requirements-t-shirt-relabeling). 
+
+Via [atlanticinkcrew](https://www.instagram.com/atlanticinkcrew/)
+
+Via 
+
+Via 
+
+Via
 
 Pack-ins
 Pack-ins are a great way to spark a relationship with your customer to let them know that you care. Add an extra little goody to show your apprecaition, or a sale coupon off their next order. The possibilities are limitless! 
