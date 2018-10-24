@@ -33,48 +33,64 @@ There are plenty of online strategies you can employ to build relationships with
 
 Hang tags are a great way to add some personality and brand visibility to your products. Though they will be thrown away before the customer's first use, it's a great way to make a good and lasting impression. For more hang tag examples, check out our article, "[12 Inspiring Hang Tag Designs](https://blog.printaura.com/blog/blog-posts/12-inspiring-hang-tag-designs)". Keep it simple, or go over the top! It's up to you.
 
-**Elements**
-![](Elements.jpg)
+**Elements**<br>
+![](Elements.jpg)<br>
 Via [Bianca Christoffersen](https://www.behance.net/biancachristoffersen)
 
-**BC Burnings**
-![](BC%20Burnings.jpg)
+-----------------------------------
+
+**BC Burnings**<br>
+![](BC%20Burnings.jpg)<br>
 Via [DesignbyDiamond](https://dribbble.com/DesignbyDiamond)
 
-**Sinicline Designs**
-![](sinicline.jpg)
+-----------------------------------
+
+**Sinicline Designs**<br>
+![](sinicline.jpg)<br>
 Via [Sinicline](https://www.behance.net/sinicline) 
 
-**Ferm Living**
-![](ferm%20living%20copy.jpg)
+-----------------------------------
+
+**Ferm Living**<br>
+![](ferm%20living%20copy.jpg)<br>
 Via [Ferm Living](http://blog.ferm-living.com/2010/01/new-hangtags-for-kids.html)
 
-**Froget Me Knots**
-![](forget%20me%20knots.jpg)
+-----------------------------------
+
+**Froget Me Knots**<br>
+![](forget%20me%20knots.jpg)<br>
 Via [Natalie Palmer](https://www.behance.net/natalielouisepalmer)
 
 ### Neck Labels 
 
 Neck labels are important because they are there on the garment to stay. Print Aura can remove existing garment branding, and add a neck label of your design. This way, when someone checks branding on the neck label, they will see your brand, and not Gildan or Next Level Apparel. Include a little, or include a lot (just make sure your follow these [re-labeling guidelines](https://printaura.com/guide-legal-requirements-t-shirt-relabeling). 
 
-**Zeus Jones**
-![](Zeus%20Jones.jpg)
+**Zeus Jones**<br>
+![](Zeus%20Jones.jpg)<br>
 Via [Alex Register](https://dribbble.com/AlexRegister) 
 
-**Nauti-Kids**
-![](atlantic%20ink.jpg)
+-----------------------------------
+
+**Nauti-Kids**<br>
+![](atlantic%20ink.jpg)<br>
 Via [Atlantic Ink](https://www.instagram.com/atlanticinkcrew/) 
 
-**Dodge & Burn**
-![](dodge%20and%20burn.jpg)
+-----------------------------------
+
+**Dodge & Burn**<br>
+![](dodge%20and%20burn.jpg)<br>
 Via [Dodge & Burn](https://www.dodgeandburn.com/)
 
-**Give A Fluff**
-![](give%20a%20fluff.jpg)
+-----------------------------------
+
+**Give A Fluff**<br>
+![](give%20a%20fluff.jpg)<br>
 Via [Give A Fluff](https://giveafluff.com/)
 
-**Neve & Hawk**
-![](neve%20hawk.png)
+-----------------------------------
+
+**Neve & Hawk**<br>
+![](neve%20hawk.png)<br>
 Via [Bob Galmarini](https://dribbble.com/bgalmar)
 
 ### Pack-ins
