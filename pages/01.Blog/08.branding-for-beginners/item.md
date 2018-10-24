@@ -17,6 +17,8 @@ Let's talk about branding your products, ways to do it, and why it's important.
 
 ===
 
+![](product%20branding.jpg)
+
 ## Branding Basics 
 
 First of all, let's make sure we are all on the same page. We are working under the assumption that you've already begun to develop your brand. Hopefully you've read our article, "[Branding Basics: How To Start Building You Brand](https://blog.printaura.com/blog/tutorials/branding-basics-how-to-start-building-your-brand)". If you haven't, you might want to check it out! There we break down branding basics like how to develop your brand's identity and how to achieve consistency. Here, we will be diving a bit deeper into the branding options that are available to you as a Print Aura member. 
