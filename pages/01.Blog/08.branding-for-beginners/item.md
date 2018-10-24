@@ -1,6 +1,6 @@
 ---
 title: 'Product Branding For Beginners '
-media_order: 'ferm living copy.jpg,sinicline.jpg,neve hawk.png,BC Burnings.jpg,Zeus Jones.jpg,dodge and burn.jpg,give a fluff.jpg,atlantic ink.jpg,Elements.jpg,forget me knots.jpg'
+media_order: 'product branding.jpg,ferm living copy.jpg,sinicline.jpg,neve hawk.png,BC Burnings.jpg,Zeus Jones.jpg,dodge and burn.jpg,give a fluff.jpg,atlantic ink.jpg,Elements.jpg,forget me knots.jpg'
 published: false
 date: '19:16 23-10-2018'
 hide_git_sync_repo_link: false
@@ -11,7 +11,9 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-Let's talk about branding your products, and why it's important.  
+![](product%20branding.jpg)
+
+Let's talk about branding your products, ways to do it, and why it's important.  
 
 ===
 
