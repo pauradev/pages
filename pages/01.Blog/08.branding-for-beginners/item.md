@@ -16,6 +16,7 @@ hide_from_post_list: false
 Let's talk about branding your products, ways to do it, and why it's important.  
 
 ===
+![](product%20branding.jpg)
 
 ## Branding Basics 
 
