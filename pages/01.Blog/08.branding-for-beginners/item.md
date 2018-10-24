@@ -17,15 +17,15 @@ Let's talk about branding your products, and why it's important.
 
 ## Branding Basics 
 
-First of all, let's make sure we are all on the same page. We are working under the assumption that you've already begun to develop your brand. Hopefully you've read our article, "[Branding Basics: How To Start Building You Brand](https://blog.printaura.com/blog/tutorials/branding-basics-how-to-start-building-your-brand)". If you haven't, you might want to check it out! There we break down branding basics like how to devlop your brand's identity and how to acheive consistency. Here, we will be diving a bit deeper into the branding options that are available to you as a Print Aura member. 
+First of all, let's make sure we are all on the same page. We are working under the assumption that you've already begun to develop your brand. Hopefully you've read our article, "[Branding Basics: How To Start Building You Brand](https://blog.printaura.com/blog/tutorials/branding-basics-how-to-start-building-your-brand)". If you haven't, you might want to check it out! There we break down branding basics like how to develop your brand's identity and how to achieve consistency. Here, we will be diving a bit deeper into the branding options that are available to you as a Print Aura member. 
 
-Let's say you've gone through all the trouble to develop your branding on a digital level. You've figured out your brand's identity, your logo is finally perfect, and your website and product pages are looking on point. Now, selling and sending out unbranded shirts can undo a lot of that work. We live in an age of easy distraction and poor retetion. On a daily basis, people are exposed to up to 5,000 ads a day. Crazy, right? How many of those brands do you even recall seeing? How do you help ensure your brand leaves a lasting impression?
+Let's say you've gone through all the trouble to develop your branding on a digital level. You've figured out your brand's identity, your logo is finally perfect, and your website and product pages are looking on point. Now, selling and sending out unbranded shirts can undo a lot of that work. We live in an age of easy distraction and poor retention. On a daily basis, people are exposed to up to 5,000 ads a day. Crazy, right? How many of those brands do you even recall seeing? How do you help ensure your brand leaves a lasting impression?
 
 Let's say a first time customer finds your shop, buys a t-shirt, get's it in the mail, and tosses out the packaging and packing slip. What is there left on the product to signify where they purchased this garment from? A few months from now, do you think they will be able to recall? What if a friend, family member, or passerby admire the shirt and wants to know? 
 
 ## Branding Services 
 
-There are plenty of online strategies you can employ to build relationships with your customers and increase return sales (we will cover this in a future article). However, on a purely pyschical level, there's a lot you can to do to brand your items so people will remember where they got it from. 
+There are plenty of online strategies you can employ to build relationships with your customers and increase return sales (we will cover this in a future article). However, on a purely real-world level, there's a lot you can to do to brand your items so people will remember where they got it from. 
 
 ### Hang Tags 
 
@@ -77,13 +77,13 @@ Via [Bob Galmarini](https://dribbble.com/bgalmar)
 
 ### Pack-ins
 
-Pack-ins are a great way to spark a relationship with your customer to let them know that you care. Add an extra little goody to show your apprecaition, a hand written note, or a sale coupon off their next order. The possibilities are limitless! For even more on pack-ins, check out our article, "[How To Build Your Brand Using Pack-Ins](https://blog.printaura.com/blog/tutorials/how-to-build-your-brand-using-pack-ins)". 
+Pack-ins are a great way to spark a relationship with your customer to let them know that you care. Add an extra little goody to show your appreciation, a handwritten note, or a sale coupon off their next order. The possibilities are limitless! For even more on pack-ins, check out our article, "[How To Build Your Brand Using Pack-Ins](https://blog.printaura.com/blog/tutorials/how-to-build-your-brand-using-pack-ins)". 
 
 **Pack-in Ideas:**
 
 * Stickers 
 * Small jewelry items 
-* Hand-written note
+* Handwritten note
 * Brand pins 
 * Buttons 
 * Patches 
