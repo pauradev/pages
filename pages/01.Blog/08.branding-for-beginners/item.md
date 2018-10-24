@@ -1,7 +1,7 @@
 ---
 title: 'Product Branding For Beginners '
 media_order: 'product branding.jpg,ferm living copy.jpg,sinicline.jpg,neve hawk.png,BC Burnings.jpg,Zeus Jones.jpg,dodge and burn.jpg,give a fluff.jpg,atlantic ink.jpg,Elements.jpg,forget me knots.jpg'
-published: false
+published: true
 date: '19:16 23-10-2018'
 hide_git_sync_repo_link: false
 blog_url: /blog
