@@ -13,7 +13,9 @@ hide_from_post_list: false
 
 ![](product%20branding.jpg)
 
-Let's say you've gone through all the trouble to develop your branding on a digital level. You've figured out your brand's identity, your logo is finally perfect, and your website and product pages are looking on point. Now, selling and sending out unbranded shirts can undo a lot of that work. Let's talk about branding your products, ways to do it, and why it's important.  
+Let's say you've gone through all the trouble to develop your branding on a digital level. You've figured out your brand's identity, your logo is finally perfect, and your website and product pages are looking on point. Now, selling and sending out unbranded shirts can undo a lot of that work. 
+
+Let's talk about branding your products, ways to do it, and why it's important.  
 
 ===
 
