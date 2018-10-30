@@ -1,6 +1,6 @@
 ---
 title: '8 Easy Ways To Increase Sales On Black Friday and Cyber Monday'
-media_order: 'celebrate-cyber-monday-savings_925x.jpg,sale-signs_925x.jpg,online-sale-cyber-monday_4460x4460.jpg,cyber-monday-chalkboard_925x.jpg,cyber-monday-sale-sign-by-computer_925x.jpg,black-friday-on-calendar_925x.jpg,black-friday-1878945_640.png,black-friday-deals_925x.jpg,black-friday-1898114_640.jpg,black-friday-in-chalk_925x.jpg,black-friday-2925476_640.jpg'
+media_order: 'black friday blog.jpg,celebrate-cyber-monday-savings_925x.jpg,sale-signs_925x.jpg,online-sale-cyber-monday_4460x4460.jpg,cyber-monday-chalkboard_925x.jpg,cyber-monday-sale-sign-by-computer_925x.jpg,black-friday-on-calendar_925x.jpg,black-friday-1878945_640.png,black-friday-deals_925x.jpg,black-friday-1898114_640.jpg,black-friday-in-chalk_925x.jpg,black-friday-2925476_640.jpg'
 published: false
 hide_git_sync_repo_link: false
 blog_url: /blog
@@ -10,9 +10,12 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
+![](black%20friday%20blog.jpg)
+
 It's that time of the year again. A time for family, friends, celebration and joy! Not only that, but it's also the time of year when sales are a their highest. Are you prepared to make the most out of this Holiday season?
 
 ===
+![](black%20friday%20blog.jpg)
 
 It's that time of the year again. A time for family, friends, celebration and joy! Not only that, but it's also the time of year when sales are a their highest. Are you prepared to make the most out of this Holiday season?
 
