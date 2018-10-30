@@ -1,6 +1,6 @@
 ---
 title: '8 Easy Ways To Increase Sales On Black Friday and Cyber Monday'
-media_order: 'celebrate-cyber-monday-savings_925x.jpg,sale-signs_925x.jpg,online-sale-cyber-monday_4460x4460.jpg,cyber-monday-chalkboard_925x.jpg,cyber-monday-sale-sign-by-computer_925x.jpg,black-friday-on-calendar_925x.jpg,black-friday-1878945_640.png,black-friday-2925476_1920.jpg,black-friday-deals_925x.jpg,black-friday-1898114_640.jpg,black-friday-in-chalk_925x.jpg'
+media_order: 'celebrate-cyber-monday-savings_925x.jpg,sale-signs_925x.jpg,online-sale-cyber-monday_4460x4460.jpg,cyber-monday-chalkboard_925x.jpg,cyber-monday-sale-sign-by-computer_925x.jpg,black-friday-on-calendar_925x.jpg,black-friday-1878945_640.png,black-friday-deals_925x.jpg,black-friday-1898114_640.jpg,black-friday-in-chalk_925x.jpg,black-friday-2925476_640.jpg'
 published: false
 hide_git_sync_repo_link: false
 blog_url: /blog
@@ -63,37 +63,37 @@ Here are a few images you can feel free to use to advertise your sales in both y
 
 ### Black Friday
 
-![](black-friday-2925476_1920.jpg)
-[Download Fullsize](https://pixabay.com/en/black-friday-shopping-sale-retail-2925476/)
+![](black-friday-2925476_640.jpg)<br>
+[Download Fullsize](https://pixabay.com/en/black-friday-shopping-sale-retail-2925476/)<br>
 
-![](black-friday-deals_925x.jpg)
-[Download Fullsize](https://burst.shopify.com/photos/black-friday-deals)
+![](black-friday-deals_925x.jpg)<br>
+[Download Fullsize](https://burst.shopify.com/photos/black-friday-deals)<br>
 
-![](black-friday-on-calendar_925x.jpg)
-[Download Fullsize](https://burst.shopify.com/photos/black-friday-on-calendar)
+![](black-friday-on-calendar_925x.jpg)<br>
+[Download Fullsize](https://burst.shopify.com/photos/black-friday-on-calendar)<br>
 
-![](black-friday-1898114_640.jpg)
-[Download Fullsize](https://pixabay.com/en/black-friday-christmas-1898114/)
+![](black-friday-1898114_640.jpg)<br>
+[Download Fullsize](https://pixabay.com/en/black-friday-christmas-1898114/)<br>
 
-![](black-friday-1878945_640.png)
-[Download Fullsize](https://pixabay.com/en/black-friday-christmas-1878945/)
+![](black-friday-1878945_640.png)<br>
+[Download Fullsize](https://pixabay.com/en/black-friday-christmas-1878945/)<br>
 
-![](black-friday-in-chalk_925x.jpg)
-[Download Fullsize](https://burst.shopify.com/photos/black-friday-in-chalk)
+![](black-friday-in-chalk_925x.jpg)<br>
+[Download Fullsize](https://burst.shopify.com/photos/black-friday-in-chalk)<br>
 
 ### Cyber Monday
 
-![](celebrate-cyber-monday-savings_925x.jpg)
-[Download Fullsize](https://burst.shopify.com/photos/celebrate-cyber-monday-savings)
+![](celebrate-cyber-monday-savings_925x.jpg)<br>
+[Download Fullsize](https://burst.shopify.com/photos/celebrate-cyber-monday-savings)<br>
 
-![](cyber-monday-chalkboard_925x.jpg)
-[Download Fullsize](https://burst.shopify.com/photos/cyber-monday-chalkboard)
+![](cyber-monday-chalkboard_925x.jpg)<br>
+[Download Fullsize](https://burst.shopify.com/photos/cyber-monday-chalkboard)<br>
 
-![](cyber-monday-sale-sign-by-computer_925x.jpg)
-[Download Fullsize](https://burst.shopify.com/photos/cyber-monday-sale-sign-by-computer)
+![](cyber-monday-sale-sign-by-computer_925x.jpg)<br>
+[Download Fullsize](https://burst.shopify.com/photos/cyber-monday-sale-sign-by-computer)<br>
 
-![](online-sale-cyber-monday_4460x4460.jpg)
-[Download Fullsize](https://burst.shopify.com/photos/online-sale-cyber-monday)
+![](online-sale-cyber-monday_4460x4460.jpg)<br>
+[Download Fullsize](https://burst.shopify.com/photos/online-sale-cyber-monday)<br>
 
-![](sale-signs_925x.jpg)
+![](sale-signs_925x.jpg)<br>
 [Download Fullsize](https://burst.shopify.com/photos/sale-signs)
