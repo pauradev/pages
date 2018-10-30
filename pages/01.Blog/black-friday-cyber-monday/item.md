@@ -12,7 +12,7 @@ hide_from_post_list: false
 
 [![](black%20friday%20blog.jpg)](https://blog.printaura.com/blog/black-friday-cyber-monday)
 
-It's that time of the year again. A time for family, friends, celebration and joy! Not only that, but it's also the time of year when sales are a their highest. Are you prepared to make the most out of this Holiday season? 
+It's that time of the year again. A time for family, friends, celebration and joy! Not only that, but it's also the time of year when sales are at their highest. Are you prepared to make the most out of this Holiday season? 
 
 Click through for Black Friday / Cyber Monday Sale Ideas and Graphic Freebies!
 
@@ -20,7 +20,7 @@ Click through for Black Friday / Cyber Monday Sale Ideas and Graphic Freebies!
 
 ![](black%20friday%20blog.jpg)
 
-It's that time of the year again. A time for family, friends, celebration and joy! Not only that, but it's also the time of year when sales are a their highest. Are you prepared to make the most out of this Holiday season?
+It's that time of the year again. A time for family, friends, celebration and joy! Not only that, but it's also the time of year when sales are at their highest. Are you prepared to make the most out of this Holiday season?
 
 ## Black Friday / Cyber Monday Basics
 
