@@ -1,5 +1,6 @@
 ---
 title: '8 Easy Ways To Increase Sales On Black Friday and Cyber Monday'
+media_order: 'celebrate-cyber-monday-savings_925x.jpg,black-friday-is-on.mp4,online-shopping-sale_925x.jpg,black-friday-in-chalk_925x.jpg,black-friday-deals_925x.jpg,black-friday-2925476_1920.jpg,cyber-monday-sale-sign-by-computer_925x.jpg'
 published: false
 hide_git_sync_repo_link: false
 blog_url: /blog
@@ -35,3 +36,18 @@ If you are worried about -, there are still easy ways to participate in America'
 Like the tiered precentage off, this kind of incentive also encourages shoppers to spend more. The more they spend the more they save! Providing a dollar amount off can make the deal seem more tangible. For example, Spend $25 and get $5 off, Spend $40 and get $10 off, etc. These amounts can sound like more than simply saying "20% off" or "25% off".
 6. Create Bundles / Gift Packs At Discounted Rates 
 7. 
+
+Extra Goodies
+Here are a few images you can feel free to use to advertise your sales in both your shops and in newsletters. Just click on the image to be taken to its page where you can download it!
+
+Black Friday
+![](black-friday-2925476_1920.jpg)
+![](black-friday-2925476_1920.jpg)
+![](black-friday-in-chalk_925x.jpg)
+![](black-friday-is-on.mp4)
+
+Cyber Monday
+
+![](celebrate-cyber-monday-savings_925x.jpg)
+![](cyber-monday-sale-sign-by-computer_925x.jpg)
+![](online-shopping-sale_925x.jpg)
