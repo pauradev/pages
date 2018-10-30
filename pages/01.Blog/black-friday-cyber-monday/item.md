@@ -26,7 +26,9 @@ Bottom line, it all comes down to getting a great deal. This is the time of year
 
 ## 8 Easy Ways To Increase Sales Black Friday and Cyber Monday
 
-If you are worried about -, there are still easy ways to participate in America's shopping holiday! You don't have to go BIG in order to see sales increase. Sometimes people just want to feel like they are getting added value for free, or saving money
+If you are worried about putting your products on mega sale, there are still easy ways to participate in America's shopping holiday! In fact, it may not make sense for you or your business to cut prices dramatically. You don't have to go BIG in order to see your sales increase. Many shoppers just want to feel like they are getting added value for free, or saving money on something they would have paid full price for.
+
+Of course these marketing tips will work exponentially better if you effetively advertise them to your shoppers via newsletters, social media, on-site announcements, etc. If you don't advertise your sales, you are doing yourself a huge disservice! 
 
 ### 1. Offer Free Shipping 
 
@@ -48,7 +50,11 @@ Like the tiered precentage off, this kind of incentive also encourages shoppers 
 
 ### 6. Create Bundles / Gift Packs At Discounted Rates 
 
-### 7. 
+### 7. Create A Gift Guide
+
+### 8. Create Hourly Deals
+
+Add even more urgency to purchasing by creating deals that expire. Discount an item for a limited time only, then move on to a different item. 
 
 ## Extra Goodies
 
