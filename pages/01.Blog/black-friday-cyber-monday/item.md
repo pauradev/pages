@@ -83,14 +83,14 @@ Here are a few images you can feel free to use to advertise your sales in both y
 ![](black-friday-on-calendar_925x.jpg)<br>
 [Download Fullsize](https://burst.shopify.com/photos/black-friday-on-calendar)<br>
 
+![](black-friday-in-chalk_925x.jpg)<br>
+[Download Fullsize](https://burst.shopify.com/photos/black-friday-in-chalk)<br>
+
 ![](black-friday-1898114_640.jpg)<br>
 [Download Fullsize](https://pixabay.com/en/black-friday-christmas-1898114/)<br>
 
 ![](black-friday-1878945_640.png)<br>
 [Download Fullsize](https://pixabay.com/en/black-friday-christmas-1878945/)<br>
-
-![](black-friday-in-chalk_925x.jpg)<br>
-[Download Fullsize](https://burst.shopify.com/photos/black-friday-in-chalk)<br>
 
 ### Cyber Monday
 
