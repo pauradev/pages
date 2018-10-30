@@ -12,7 +12,7 @@ hide_from_post_list: false
 
 ![](black%20friday%20blog.jpg)
 
-It's that time of the year again. A time for family, friends, celebration and joy! Not only that, but it's also the time of year when sales are a their highest. Are you prepared to make the most out of this Holiday season?
+It's that time of the year again. A time for family, friends, celebration and joy! Not only that, but it's also the time of year when sales are a their highest. Are you prepared to make the most out of this Holiday season? **Click through for Black Friday / Cyber Monday Sale Ideas and Graphic Freebies!**
 
 ===
 ![](black%20friday%20blog.jpg)
@@ -48,13 +48,19 @@ This is a classic sales technique. If you don't usually hold sales, you can even
 
 ### 4. Offer Teired % Off
 
+One way to ensure you are getting the best return on your deals and to encourage higher sales is to create a tiered deal system. This way, the more they spend the more they save! For instance you could do 10% off $25, 15% off $40, 20% off $100, and so on. This way, if someone has $30 worth of product in their cart, there is incetive to add more to get to a higher discount tier. 
+
 ### 5. Offer Tiered Dollar Amounts Off
 
 Like the tiered precentage off, this kind of incentive also encourages shoppers to spend more. The more they spend the more they save! Providing a dollar amount off can make the deal seem more tangible. For example, Spend $25 and get $5 off, Spend $40 and get $10 off, etc. These amounts can sound like more than simply saying "20% off" or "25% off".
 
 ### 6. Create Bundles / Gift Packs At Discounted Rates
 
+Creating product bundles is a perfect way to sell more over the holidays. Put themed items together into a bundle and offer it at a discounted price compared to buying the items all together. You can put together the bundles and advertise the bundles in many different ways. The bundles could be a one-and-done situation for an entire family, or for one person. 
+
 ### 7. Create A Gift Guide
+
+Some shoppers don't have a good idea about what to buy that special person in their life. Help them out by making suggestions via a gift guide, featuring all your amazing products! Do you have something dad's love? Or a product that kid's go crazy over? Let your shoppers know!
 
 ### 8. Create Hourly Deals
 
