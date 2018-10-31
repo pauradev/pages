@@ -31,11 +31,11 @@ Shoppers get excited to make purchases during Black Friday and Cyber Monday for 
 
 Bottom line, it all comes down to getting a great deal. This is the time of year shoppers have been waiting for! The question is, are you prepared? You could be missing out on sales if you choose not to participate.
 
-## 8 Easy Ways To Increase Sales Black Friday and Cyber Monday
+## 8 Easy Ways To Increase Sales On Black Friday and Cyber Monday
 
-If you are worried about putting your products on mega sale, there are still easy ways to participate in America's shopping holiday! In fact, it may not make sense for you or your business to cut prices dramatically. You don't have to go BIG in order to see your sales increase. Many shoppers just want to feel like they are getting added value for free, or saving money on something they would have paid full price for.
+Have you considered creating a Black Friday / Cyber Monday promotion? If you feel hesitant because you are worried about doing a big dramatic sale, you don't need to be. There are still easy ways to participate in America's shopping holiday! In fact, it may not make sense for you or your business to cut prices dramatically. You don't have to go BIG in order to see your sales increase. Many shoppers just want to feel like they are getting added value for free, or saving money on something they would have paid full price for.
 
-Of course these marketing tips will work exponentially better if you effectively advertise them to your shoppers via newsletters, social media, on-site announcements, etc. If you don't advertise your sales, you are doing yourself a huge disservice!
+Of course these marketing tips will work exponentially better if you effectively advertise them to your shoppers via newsletters, social media, on-site announcements, and the like. If you don't advertise your sales, you are doing yourself a huge disservice!
 
 ### 1. Offer Free Shipping
 
@@ -43,31 +43,31 @@ Sometimes people hold off on buying lower end items due to shipping costs. Offer
 
 ### 2. Offer Gifts With Purchase
 
-Offering gifts with purchase can be a fun and easy way to provide some extra value to normal purchases. You can send items to Print Aura to be added into your sales.
+Offering gifts with purchase can be a fun and easy way to provide some extra value to normal purchases. You can send items to Print Aura to be added into your sales. To learn more, check out our article, "[How to build your brand using pack-ins](https://blog.printaura.com/blog/tutorials/how-to-build-your-brand-using-pack-ins)".
 
-### 3. Offer % Off
+### 3. Offer A Percentage Off
 
 This is a classic sales technique. If you don't usually hold sales, you can even advertise it as the best prices/ deals of the year! It doesn't need to be a high percent off. Many larger companies offer between 20% and 30% off on orders.
 
-### 4. Offer Teired % Off
+### 4. Offer A Teired Percentage Off
 
-One way to ensure you are getting the best return on your deals and to encourage higher sales is to create a tiered deal system. This way, the more they spend the more they save! For instance you could do 10% off $25, 15% off $40, 20% off $100, and so on. This way, if someone has $30 worth of product in their cart, there is incetive to add more to get to a higher discount tier. 
+One way to ensure you are getting the best return on your sale is to create a tiered promotional system. This way, the more they spend the more they save! For instance you could do 10% off $25, 15% off $40, 20% off $100, and so on. This way, if someone has $30 worth of product in their cart, there is incetive to add more to get to a higher discount tier. 
 
 ### 5. Offer Tiered Dollar Amounts Off
 
-Like the tiered precentage off, this kind of incentive also encourages shoppers to spend more. The more they spend the more they save! Providing a dollar amount off can make the deal seem more tangible. For example, Spend $25 and get $5 off, Spend $40 and get $10 off, etc. These amounts can sound like more than simply saying "20% off" or "25% off".
+Like the tiered precentage off, this kind of incentive also encourages shoppers to spend more. The more they spend the more they save, and the more sales you make! Providing a dollar amount off can make the deal seem more tangible. For example, Spend $25 and get $5 off, Spend $40 and get $10 off, etc. These amounts can sound like more than simply saying "20% off" or "25% off".
 
 ### 6. Create Bundles / Gift Packs At Discounted Rates
 
-Creating product bundles is a perfect way to sell more over the holidays. Put themed items together into a bundle and offer it at a discounted price compared to buying the items all together. You can put together the bundles and advertise the bundles in many different ways. The bundles could be a one-and-done situation for an entire family, or for one person. 
+Creating product bundles is a perfect way to sell more over the holidays. Put themed items together into a bundle and offer it at a discounted price compared to buying the items individually. You can put the bundles together and advertise them in many different ways. The bundles could be a one-and-done situation for an entire family, or for one person. 
 
 ### 7. Create A Gift Guide
 
-Some shoppers don't have a good idea about what to buy that special person in their life. Help them out by making suggestions via a gift guide, featuring all your amazing products! Do you have something dad's love? Or a product that kid's go crazy over? Let your shoppers know!
+Some shoppers don't have a good idea about what to buy that special person in their life. Help them out by making suggestions via a gift guide, featuring all your amazing products! Do you have something dad's love? Or a product that kid's go crazy over? Let your shoppers know! It helps make their decision an easy one. 
 
 ### 8. Create Hourly Deals
 
-Add even more urgency to purchasing by creating deals that expire. Discount an item for a limited time only, then move on to a different item.
+Add even more urgency to purchasing by creating deals that expire. Discount an item for a limited time only, then move on to a different item. The shoppers will feel like they need to act quickly, and could keep checking back for new deals. 
 
 ## Extra Goodies
 
