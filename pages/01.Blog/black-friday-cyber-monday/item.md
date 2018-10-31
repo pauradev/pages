@@ -71,7 +71,7 @@ Add even more urgency to purchasing by creating deals that expire. Discount an i
 
 ## Extra Goodies
 
-Here are a few images you can feel free to use to advertise your sales in both your shops and in newsletters. Just click on the image to be taken to its page where you can download it!
+Here are a few images you can feel free to use to advertise your sales in both your shops and in newsletters.
 
 ### Black Friday
 
