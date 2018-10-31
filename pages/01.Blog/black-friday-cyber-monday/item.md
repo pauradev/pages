@@ -71,41 +71,41 @@ Add even more urgency to purchasing by creating deals that expire. Discount an i
 
 ## Extra Goodies
 
-Here are a few images you can feel free to use to advertise your sales in both your shops and in newsletters.
+Here are a few images you can feel free to use to advertise your sales in both your shops and in newsletters. Just click on the link below the image to be taken to the page where you can download the full sized images!
 
 ### Black Friday
 
 ![](black-friday-2925476_640.jpg)<br>
-[Download Fullsize](https://pixabay.com/en/black-friday-shopping-sale-retail-2925476/)<br>
+[Download Full Size](https://pixabay.com/en/black-friday-shopping-sale-retail-2925476/)<br>
 
 ![](black-friday-deals_925x.jpg)<br>
-[Download Fullsize](https://burst.shopify.com/photos/black-friday-deals)<br>
+[Download Full Size](https://burst.shopify.com/photos/black-friday-deals)<br>
 
 ![](black-friday-on-calendar_925x.jpg)<br>
-[Download Fullsize](https://burst.shopify.com/photos/black-friday-on-calendar)<br>
+[Download Full Size](https://burst.shopify.com/photos/black-friday-on-calendar)<br>
 
 ![](black-friday-in-chalk_925x.jpg)<br>
-[Download Fullsize](https://burst.shopify.com/photos/black-friday-in-chalk)<br>
+[Download Full Size](https://burst.shopify.com/photos/black-friday-in-chalk)<br>
 
 ![](black-friday-1898114_640.jpg)<br>
-[Download Fullsize](https://pixabay.com/en/black-friday-christmas-1898114/)<br>
+[Download Full Size](https://pixabay.com/en/black-friday-christmas-1898114/)<br>
 
 ![](black-friday-1878945_640.png)<br>
-[Download Fullsize](https://pixabay.com/en/black-friday-christmas-1878945/)<br>
+[Download Full Size](https://pixabay.com/en/black-friday-christmas-1878945/)<br>
 
 ### Cyber Monday
 
 ![](celebrate-cyber-monday-savings_925x.jpg)<br>
-[Download Fullsize](https://burst.shopify.com/photos/celebrate-cyber-monday-savings)<br>
+[Download Full Size](https://burst.shopify.com/photos/celebrate-cyber-monday-savings)<br>
 
 ![](cyber-monday-chalkboard_925x.jpg)<br>
-[Download Fullsize](https://burst.shopify.com/photos/cyber-monday-chalkboard)<br>
+[Download Full Size](https://burst.shopify.com/photos/cyber-monday-chalkboard)<br>
 
 ![](cyber-monday-sale-sign-by-computer_925x.jpg)<br>
-[Download Fullsize](https://burst.shopify.com/photos/cyber-monday-sale-sign-by-computer)<br>
+[Download Full Size](https://burst.shopify.com/photos/cyber-monday-sale-sign-by-computer)<br>
 
 ![](online-sale-cyber-monday_4460x4460.jpg)<br>
-[Download Fullsize](https://burst.shopify.com/photos/online-sale-cyber-monday)<br>
+[Download Full Size](https://burst.shopify.com/photos/online-sale-cyber-monday)<br>
 
 ![](sale-signs_925x.jpg)<br>
-[Download Fullsize](https://burst.shopify.com/photos/sale-signs)
+[Download Full Size](https://burst.shopify.com/photos/sale-signs)
