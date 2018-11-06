@@ -10,7 +10,7 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-The activewear indusurty is booming! With fit fashion giants like lululemon charging upwords of $100 for single items, customers are looking for similar styles at more reasonable prices. 
+The activewear indusurty is booming! With fit fashion giants like lululemon charging upwords of $100 for single items, customers are looking for similar styles at more reasonable prices. The laid back look is in, so we've added some items to help you keep your store on trend!
 
 ===
 
@@ -27,7 +27,8 @@ We've also added the Bella + Canvas Unisex Jogger Sweatpant (Bella / Canvas 3727
 These joggers are also super comfortable and on trend! You can create matching pairs to go along with the cropped hoody, or let them stand on their own. They can also be styled in many different ways! They are also a unisex style and look great on both men and women! 
 
 Design Inspiration
-We've browsed through some creator's stores to see what
+Check out these trending designs we've found from popular stores owned by entreprenurs just like you! Wether you add your art or a witty quote, these ....
+
 Mellow Out
 Via [MoxieMerchDesign](https://www.etsy.com/shop/MoxieMerchDesign)
 
@@ -46,10 +47,17 @@ Via [SincerelySweetSSB](https://www.etsy.com/shop/SincerelySweetSSB)
 Appalachia
 Via [BrainCandyInk](https://www.etsy.com/shop/BrainCandyInk)
 
+Savage
+Via [bashandboujee](https://www.etsy.com/shop/bashandboujee)
+
 Nomad
 Via [NoSmallPlan](https://www.etsy.com/shop/NoSmallPlan?ref=l2-shopheader-name)
 
 Lucky Girl
 Via [LuckyGirlsShop](https://www.etsy.com/shop/LuckyGirlsShop)
 
+Mother Of Cats
+Via [boutiqueRus](https://www.etsy.com/shop/boutiqueRus)
 
+Workout
+Via [SweatyGirlGlam](https://www.etsy.com/shop/SweatyGirlGlam)
