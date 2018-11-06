@@ -10,8 +10,46 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-The activewear indusurty is booming. 
+The activewear indusurty is booming! With fit fashion giants like lululemon charging upwords of $100 for single items, customers are looking for similar styles at more reasonable prices. 
 
 ===
 
-Your page content goes here.
+Cropped Hoodie
+
+We've added the Bella + Canvas Ladies’ Cropped Fleece Hoodie (Bella / Canvas B7502)
+
+This cropped hoodie is super on trend at the moment! It's super soft and comfortable, and can be styled in a multitude of different ways! It's great for lounging around, street style, and as part of a gym or dance ensamble. 
+
+Joggers
+
+We've also added the Bella + Canvas Unisex Jogger Sweatpant (Bella / Canvas 3727)
+
+These joggers are also super comfortable and on trend! You can create matching pairs to go along with the cropped hoody, or let them stand on their own. They can also be styled in many different ways! They are also a unisex style and look great on both men and women! 
+
+Design Inspiration
+We've browsed through some creator's stores to see what
+Mellow Out
+Via [MoxieMerchDesign](https://www.etsy.com/shop/MoxieMerchDesign)
+
+Aliens!
+Via [UriahClearLight](https://www.etsy.com/shop/UriahClearLight)
+
+Nerd Life 
+Via [BlasphemeBout](https://www.etsy.com/shop/BlasphemeBout)
+
+Tree Of Life
+Via [UriahClearLight](https://www.etsy.com/shop/UriahClearLight)
+
+Mermaid
+Via [SincerelySweetSSB](https://www.etsy.com/shop/SincerelySweetSSB)
+
+Appalachia
+Via [BrainCandyInk](https://www.etsy.com/shop/BrainCandyInk)
+
+Nomad
+Via [NoSmallPlan](https://www.etsy.com/shop/NoSmallPlan?ref=l2-shopheader-name)
+
+Lucky Girl
+Via [LuckyGirlsShop](https://www.etsy.com/shop/LuckyGirlsShop)
+
+
