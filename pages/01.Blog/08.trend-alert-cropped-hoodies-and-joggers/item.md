@@ -1,6 +1,6 @@
 ---
 title: 'Trend Alert: Cropped Hoodies and Joggers'
-media_order: 'mother of cats.jpg,tree of life.jpg,nerd life.jpg,barbell.jpg,lucky Girl.jpg,Nomad.jpg,savage.jpg,mermaid.jpg,Joggers.jpg,hoodie.jpg,mellow out.jpg,trend alert.jpg,whale.jpg,abduction.jpg,landscape.jpg,scarab.jpg'
+media_order: 'mother of cats.jpg,tree of life.jpg,scarab.jpg,nerd life.jpg,barbell.jpg,lucky Girl.jpg,Nomad.jpg,savage.jpg,mermaid.jpg,Joggers.jpg,hoodie.jpg,mellow out.jpg,trend alert.jpg,whale.jpg,abduction.jpg,landscape.jpg'
 published: true
 date: '14:16 06-11-2018'
 hide_git_sync_repo_link: false
@@ -126,6 +126,8 @@ Via [boutiqueRus](https://www.etsy.com/shop/boutiqueRus)
 -------------------------------------
 
 ### Scarab 
+
+![](scarab.jpg)
 
 Via [UriahClearLight](https://www.etsy.com/shop/UriahClearLight)
 
