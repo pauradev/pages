@@ -25,7 +25,7 @@ The activewear industry is booming! With fit fashion giants like lululemon charg
 
 ### Cropped Hoodie
 
-We've added the Bella + Canvas Ladies’ Cropped Fleece Hoodie <br>
+We are excited to announce that we now offer the Bella + Canvas Ladies’ Cropped Fleece Hoodie <br>
 ([Bella / Canvas B7502](https://printaura.com/product-view/?v=1&hdn=NTkw))
 
 ![](hoodie.jpg)
