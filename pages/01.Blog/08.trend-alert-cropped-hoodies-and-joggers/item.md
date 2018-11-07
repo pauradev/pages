@@ -10,23 +10,28 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-The activewear indusurty is booming! With fit fashion giants like lululemon charging upwords of $100 for single items, customers are looking for similar styles at more reasonable prices. The laid back look is in, so we've added some items to help you keep your store on trend!
+The activewear industry is booming! With fit fashion giants like lululemon charging upwords of $100 for single items, customers are looking for similar styles at more reasonable prices. The laid back look is in, so we've added some items to help you keep your store on trend!
 
 ===
 
-Cropped Hoodie
+## Trend Alert!
+
+The activewear industry is booming! With fit fashion giants like lululemon charging upwords of $100 for single items, customers are looking for similar styles at more reasonable prices. The laid back look is in, so we've added some items to help you keep your store on trend!
+
+### Cropped Hoodie
 
 We've added the Bella + Canvas Ladies’ Cropped Fleece Hoodie (Bella / Canvas B7502)
 
 This cropped hoodie is super on trend at the moment! It's super soft and comfortable, and can be styled in a multitude of different ways! It's great for lounging around, street style, and as part of a gym or dance ensamble. 
 
-Joggers
+### Joggers
 
 We've also added the Bella + Canvas Unisex Jogger Sweatpant (Bella / Canvas 3727)
 
 These joggers are also super comfortable and on trend! You can create matching pairs to go along with the cropped hoody, or let them stand on their own. They can also be styled in many different ways! They are also a unisex style and look great on both men and women! 
 
-Design Inspiration
+## Design Inspiration
+
 Check out these trending designs we've found from popular stores owned by entreprenurs just like you! Wether you add your art or a witty quote, these ....
 
 Mellow Out
