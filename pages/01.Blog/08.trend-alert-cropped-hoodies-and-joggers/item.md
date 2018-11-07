@@ -20,19 +20,21 @@ The activewear industry is booming! With fit fashion giants like lululemon charg
 
 ### Cropped Hoodie
 
-We've added the Bella + Canvas Ladies’ Cropped Fleece Hoodie (Bella / Canvas B7502)
+We've added the Bella + Canvas Ladies’ Cropped Fleece Hoodie 
+(Bella / Canvas B7502)
 
-This cropped hoodie is super on trend at the moment! It's super soft and comfortable, and can be styled in a multitude of different ways! It's great for lounging around, street style, and as part of a gym or dance ensamble. 
+Cropped hoodies are very popular right now. It's super soft and comfortable, and can be styled in a multitude of different ways! It's great for lounging around, street style, and as part of a gym or dance ensemble. 
 
 ### Joggers
 
-We've also added the Bella + Canvas Unisex Jogger Sweatpant (Bella / Canvas 3727)
+We've also added the Bella + Canvas Unisex Jogger Sweatpant 
+(Bella / Canvas 3727)
 
 These joggers are also super comfortable and on trend! You can create matching pairs to go along with the cropped hoody, or let them stand on their own. They can also be styled in many different ways! They are also a unisex style and look great on both men and women! 
 
 ## Design Inspiration
 
-Check out these trending designs we've found from popular stores owned by entreprenurs just like you! Wether you add your art or a witty quote, these ....
+Check out these trending designs we've found from popular stores owned by entrepreneurs just like you! Whether you add your art or a witty quote, these ....
 
 Mellow Out
 Via [MoxieMerchDesign](https://www.etsy.com/shop/MoxieMerchDesign)
@@ -63,6 +65,9 @@ Via [LuckyGirlsShop](https://www.etsy.com/shop/LuckyGirlsShop)
 
 Mother Of Cats
 Via [boutiqueRus](https://www.etsy.com/shop/boutiqueRus)
+
+Scarab 
+Via [UriahClearLight](https://www.etsy.com/shop/UriahClearLight)
 
 Workout
 Via [SweatyGirlGlam](https://www.etsy.com/shop/SweatyGirlGlam)
