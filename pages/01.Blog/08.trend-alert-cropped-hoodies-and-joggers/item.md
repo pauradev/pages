@@ -13,7 +13,7 @@ hide_from_post_list: false
 
 ![](trend%20alert.jpg)
 
-The activewear industry is booming! With fit fashion giants like lululemon charging upwords of $100 for single items, customers are looking for similar styles at more reasonable prices. The laid back look is in, so we've added some items to help you keep your store on trend!
+The activewear industry is booming! With fit fashion giants like Lululemon charging upwards of $100 for single items, customers are looking for similar styles at more reasonable prices. The laid back look is in, so we've added some items to help you keep your store on trend!
 
 ===
 
