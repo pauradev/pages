@@ -301,12 +301,6 @@ B8881
  	<li>Kelly</li>
 </ul>
 &nbsp;
-6951
-<ul>
- 	<li>Heather Gray</li>
- 	<li>Dark Grey</li>
-</ul>
-&nbsp;
 3352
 <ul>
  	<li>Kelly/White</li>
