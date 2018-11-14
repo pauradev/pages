@@ -1,7 +1,7 @@
 ---
 title: 'New Mugs Are Here For Chilly Weather'
-media_order: 'Coffee Spell.jpg,think.jpg,IMG_1047.png,Blackrim-handle MUG.png,gender reveal.jpg,grumps.jpg,Muertos.jpg,fox sake.jpg,wizarding world .jpg,zombie.jpg,getting piggy with it.jpg,marry me.jpg,mama bear.jpg'
-published: false
+media_order: 'Coffee Spell.jpg,new mugs.jpg,think.jpg,IMG_1047.png,Blackrim-handle MUG.png,gender reveal.jpg,grumps.jpg,Muertos.jpg,fox sake.jpg,wizarding world .jpg,zombie.jpg,getting piggy with it.jpg,marry me.jpg,mama bear.jpg'
+published: true
 date: '07:35 14-11-2018'
 hide_git_sync_repo_link: false
 blog_url: /blog
@@ -11,17 +11,22 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
+![](new%20mugs.jpg)
+
 ## It’s Mug Season!
 It could be argued that it’s always mug season, but they sure come in handy during this time of the year. The streets here are dusted in snow and hot beverages are essential! Whether you are getting your day started at home, or sipping on something throughout the day at the office, mugs are a must. If you don’t already offer mugs in your shop, you should certainly consider it!
 
 ===
 
+![](new%20mugs.jpg)
+
 ## It’s Mug Season!
+
 It could be argued that it’s always mug season, but they sure come in handy during this time of the year. The streets here are dusted in snow and hot beverages are essential! Whether you are getting your day started at home, or sipping on something throughout the day at the office, mugs are a must. If you don’t already offer mugs in your shop, you should certainly consider it! They are a fun way to start the day or show some personality at work. 
 
 ## New Mugs
 
-We are excited to offer a few new mug options!
+We've added a few new fun mug types to our product options. 
 
 ### Color Changing Mug
 
@@ -40,68 +45,76 @@ This mug features black trimmed rim and handle. If these mugs do well we will ad
 Do you love the idea of these mugs, but need a little design inspiration to get you started? Check out all these awesome designs created by entrepreneurs just like you!
 
 ### Wedding Proposal 
-![](marry%20me.jpg)
-Via https://www.etsy.com/shop/TheMugLifeCo
+
+![](marry%20me.jpg)<br>
+Via [TheMugLifeCo](https://www.etsy.com/shop/TheMugLifeCo)
 
 -----------------------------------------------
 
 ### Decorative Skull
-![](Muertos.jpg)
-Via https://www.etsy.com/shop/CakeTopperDecor
+
+![](Muertos.jpg)<br>
+Via [CakeTopperDecor](https://www.etsy.com/shop/CakeTopperDecor)
 
 -----------------------------------------------
 
 ### Wizarding World 
-![](wizarding%20world%20.jpg)
-Via https://www.etsy.com/shop/ATANUnLimited
+
+![](wizarding%20world%20.jpg)<br>
+Via [ATANUnLimited](https://www.etsy.com/shop/ATANUnLimited)
 
 -----------------------------------------------
 
 ### Zombie 
-![](zombie.jpg)
-Via https://www.etsy.com/shop/theteatreasures
+
+![](zombie.jpg)<br>
+Via [theteatreasures](https://www.etsy.com/shop/theteatreasures)
 
 -----------------------------------------------
 
 ### Gender Reveal 
-![](gender%20reveal.jpg)
-Via https://www.etsy.com/shop/SimplyLemonberry
+
+![](gender%20reveal.jpg)<br>
+Via [SimplyLemonberry](https://www.etsy.com/shop/SimplyLemonberry)
 
 -----------------------------------------------
 
 ### Coffee Spell
-![](Coffee%20Spell.jpg)
-Via https://www.etsy.com/shop/djndesignstudio
+
+![](Coffee%20Spell.jpg)<br>
+Via [djndesignstudio](https://www.etsy.com/shop/djndesignstudio)
 
 -----------------------------------------------
 
 ### Drink And Think
-![](think.jpg)
-Via https://www.etsy.com/shop/djndesignstudio
+
+![](think.jpg)<br>
+Via [djndesignstudio](https://www.etsy.com/shop/djndesignstudio)
 
 -----------------------------------------------
 
 ### Piggy With It
-![](getting%20piggy%20with%20it.jpg)
-Via https://www.etsy.com/shop/JitterBeanMugs
+
+![](getting%20piggy%20with%20it.jpg)<br>
+Via [JitterBeanMugs](https://www.etsy.com/shop/JitterBeanMugs)
 
 -----------------------------------------------
 
 ### Grumps 
-![](grumps.jpg)
-Via https://www.etsy.com/shop/MugsbyMadKittyMedia
+![](grumps.jpg)<br>
+Via [MugsbyMadKittyMedia](https://www.etsy.com/shop/MugsbyMadKittyMedia)
 
 -----------------------------------------------
 
 ### Mama Bear 
-![](mama%20bear.jpg)
-Via https://www.etsy.com/shop/JitterBeanMugs
+![](mama%20bear.jpg)<br>
+Via [JitterBeanMugs](https://www.etsy.com/shop/JitterBeanMugs)
 
 -----------------------------------------------
 
 ### For Fox Sake
-![](fox%20sake.jpg)
-Via https://www.etsy.com/shop/JitterBeanMugs
+![](fox%20sake.jpg)<br>
+Via [JitterBeanMugs](https://www.etsy.com/shop/JitterBeanMugs)
 
 
 ## Add A Mug To Your Shop Today!
