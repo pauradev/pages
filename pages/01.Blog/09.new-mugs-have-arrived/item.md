@@ -30,14 +30,14 @@ We've added a few new fun mug types to our product options.
 
 ### Color Changing Mug
 
-![](IMG_1047.png)
+![](IMG_1047.png)<br>
 11 oz. <br>
 This mug starts out black, but will reveal your design when hot liquid is added!
 
 ### Color Accented Mug
 
-![](Blackrim-handle%20MUG.png)
-11oz. <br>
+![](Blackrim-handle%20MUG.png)<br>
+11oz.<br>
 This mug features black trimmed rim and handle. If these mugs do well we will add more colors! 
 
 ## Fun Mug Ideas
