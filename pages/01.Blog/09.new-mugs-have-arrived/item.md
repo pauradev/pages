@@ -1,5 +1,6 @@
 ---
 title: 'New Mugs Are Here For Chilly Weather'
+media_order: 'zombie.jpg,wizarding world .jpg,marry me.jpg,getting piggy with it.jpg,wedding proposal .jpg,Coffee Spell.jpg,Muertos.jpg,grumps.jpg,think.jpg,fox sake.jpg'
 published: false
 date: '07:35 14-11-2018'
 hide_git_sync_repo_link: false
@@ -39,6 +40,9 @@ Do you love the idea of these mugs, but need a little design inspiration to get 
 Wedding Proposal 
 Via https://www.etsy.com/shop/TheMugLifeCo
 
+Decorative Skull
+Via https://www.etsy.com/shop/CakeTopperDecor
+
 Wizarding World 
 Via https://www.etsy.com/shop/ATANUnLimited
 
@@ -51,14 +55,20 @@ Via https://www.etsy.com/shop/SimplyLemonberry
 Coffee Spell
 Via https://www.etsy.com/shop/djndesignstudio
 
-
-
-Think And Drink
+Drink And Think
 Via https://www.etsy.com/shop/djndesignstudio
 
+Piggy With It
+Via https://www.etsy.com/shop/JitterBeanMugs
 
+Grumps 
+Via https://www.etsy.com/shop/MugsbyMadKittyMedia
 
+Moma Bear 
+Via https://www.etsy.com/shop/JitterBeanMugs
 
+For Fox Sake
+Via https://www.etsy.com/shop/JitterBeanMugs
 
 
 ## Add A Mug To Your Shop Today!
