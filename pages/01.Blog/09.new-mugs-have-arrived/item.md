@@ -1,6 +1,6 @@
 ---
 title: 'New Mugs Are Here For Chilly Weather'
-media_order: 'Coffee Spell.jpg,new mugs.jpg,think.jpg,IMG_1047.png,Blackrim-handle MUG.png,gender reveal.jpg,grumps.jpg,Muertos.jpg,fox sake.jpg,wizarding world .jpg,zombie.jpg,getting piggy with it.jpg,marry me.jpg,mama bear.jpg'
+media_order: 'Coffee Spell.jpg,new mugs.jpg,think.jpg,gender reveal.jpg,grumps.jpg,Muertos.jpg,fox sake.jpg,wizarding world .jpg,zombie.jpg,getting piggy with it.jpg,marry me.jpg,mama bear.jpg'
 published: true
 date: '07:35 14-11-2018'
 hide_git_sync_repo_link: false
