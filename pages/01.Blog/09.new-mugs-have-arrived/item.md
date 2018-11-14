@@ -1,6 +1,6 @@
 ---
 title: 'New Mugs Are Here For Chilly Weather'
-media_order: 'zombie.jpg,wizarding world .jpg,marry me.jpg,getting piggy with it.jpg,wedding proposal .jpg,Coffee Spell.jpg,Muertos.jpg,grumps.jpg,think.jpg,fox sake.jpg'
+media_order: 'Coffee Spell.jpg,think.jpg,IMG_1047.png,Blackrim-handle MUG.png,gender reveal.jpg,grumps.jpg,Muertos.jpg,fox sake.jpg,wizarding world .jpg,zombie.jpg,getting piggy with it.jpg,marry me.jpg,mama bear.jpg'
 published: false
 date: '07:35 14-11-2018'
 hide_git_sync_repo_link: false
@@ -25,49 +25,82 @@ We are excited to offer a few new mug options!
 
 ### Color Changing Mug
 
-11 oz. 
+![](IMG_1047.png)
+11 oz. <br>
 This mug starts out black, but will reveal your design when hot liquid is added!
 
 ### Color Accented Mug
 
-11oz. 
+![](Blackrim-handle%20MUG.png)
+11oz. <br>
 This mug features black trimmed rim and handle. If these mugs do well we will add more colors! 
 
 ## Fun Mug Ideas
 
 Do you love the idea of these mugs, but need a little design inspiration to get you started? Check out all these awesome designs created by entrepreneurs just like you!
 
-Wedding Proposal 
+### Wedding Proposal 
+![](marry%20me.jpg)
 Via https://www.etsy.com/shop/TheMugLifeCo
 
-Decorative Skull
+-----------------------------------------------
+
+### Decorative Skull
+![](Muertos.jpg)
 Via https://www.etsy.com/shop/CakeTopperDecor
 
-Wizarding World 
+-----------------------------------------------
+
+### Wizarding World 
+![](wizarding%20world%20.jpg)
 Via https://www.etsy.com/shop/ATANUnLimited
 
-Zombie 
+-----------------------------------------------
+
+### Zombie 
+![](zombie.jpg)
 Via https://www.etsy.com/shop/theteatreasures
 
-Gender Reveal 
+-----------------------------------------------
+
+### Gender Reveal 
+![](gender%20reveal.jpg)
 Via https://www.etsy.com/shop/SimplyLemonberry
 
-Coffee Spell
+-----------------------------------------------
+
+### Coffee Spell
+![](Coffee%20Spell.jpg)
 Via https://www.etsy.com/shop/djndesignstudio
 
-Drink And Think
+-----------------------------------------------
+
+### Drink And Think
+![](think.jpg)
 Via https://www.etsy.com/shop/djndesignstudio
 
-Piggy With It
+-----------------------------------------------
+
+### Piggy With It
+![](getting%20piggy%20with%20it.jpg)
 Via https://www.etsy.com/shop/JitterBeanMugs
 
-Grumps 
+-----------------------------------------------
+
+### Grumps 
+![](grumps.jpg)
 Via https://www.etsy.com/shop/MugsbyMadKittyMedia
 
-Moma Bear 
+-----------------------------------------------
+
+### Mama Bear 
+![](mama%20bear.jpg)
 Via https://www.etsy.com/shop/JitterBeanMugs
 
-For Fox Sake
+-----------------------------------------------
+
+### For Fox Sake
+![](fox%20sake.jpg)
 Via https://www.etsy.com/shop/JitterBeanMugs
 
 
