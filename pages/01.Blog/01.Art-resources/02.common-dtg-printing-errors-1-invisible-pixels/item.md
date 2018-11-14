@@ -19,7 +19,7 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-When printing direct to garment (DTG) a white underboss is printed on dark garments by default. This white underbase is both the white of a design as well as the base layer before the color is printed on top. By adding the underbase the colors will be much more vibrant.
+When printing direct to garment (DTG) a white underbase is printed on dark garments by default. This white underbase is both the white of a design as well as the base layer before the color is printed on top. By adding the underbase the colors will be much more vibrant.
 
 Below is an example of a clients artwork (who gave us permission to share her experience) that we printed on a black t-shirt.  The client informed us that there were "extra marks" that looked like a print error on our part. These lines were not intended by the artist. While it is unfortunate that those extra pixels were printed it is not considered a misprint but art that wasn't cleaned up correctly and ready for print.
 
