@@ -174,14 +174,14 @@ PrintAura selected the U.S. Postal Service as our preferred carrier based on the
 </tbody>
 </table>
 <hr />
-<h3>Cell Phone Case Shipping Costs</h3>
+<h5>Cell Phone Case Shipping Costs</h5>
 <p>All of our cell phone cases are carefully packaged in reinforced cardboard packaging. The cases are shipped out to your customers, under your brand, in protective packaging that ensures the cases will arrive in pristine shape.</p>
 <h5>US Shipping</h5>
 <table style="height: 119px;" border="0" width="667" cellpadding="10">
 <tbody>
 <tr>
 <td width="308"><strong>Ship Method</strong></td>
-<td width="151"> Price</td>
+<td width="151"><strong>Price</strong></td>
 </tr>
 <tr>
 <td> US Standard Shipping</td>
@@ -203,6 +203,3 @@ PrintAura selected the U.S. Postal Service as our preferred carrier based on the
 </tr>
 </tbody>
 </table>
-
-
-[Updated Shipping Prices](https://printaura.com/shipping)
