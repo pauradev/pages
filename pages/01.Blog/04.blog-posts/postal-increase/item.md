@@ -29,11 +29,178 @@ display_post_summary:
     enabled: '0'
 ---
 
+# U.S. Postal rate hike
+
 On January 27th The U.S. Postal Service is instituting its’ largest price increase in history. The cost of postage for a first class letter is going up by 10%, there is a corresponding increase for packages. As a result, PrintAura is forced to increase our shipping rates. Every effort has been made to hold our pricing to under a 10% increase while making shipping calculations as easy as possible for everyone. Starting February 1st, PrintAura will be raising the rate for shipping individual items by $0.50 and multiple items by $0.25. For example: the shipping rate of an individual T-shirt will increase from $5.00 to $5.50 and an additional item will ship for $1.25 opposed to $1.00.
 
 ===
 
 PrintAura selected the U.S. Postal Service as our preferred carrier based on their exemplary cost and performance. Many Industry printers use a hybrid system that uses a third party to transport the material part way, then the Postal Service to deliver it to the home. While this saves money, it can add as much as 7 days to the overall delivery time. PrintAura recognizes that your customers don't want to wait an extra week to receive your products. By using our current system 95% of our packages are delivered in 2-3 days. This makes it possible for us to have the product in your customers' hands within a week of the time they place an order. Expedient delivery is important to our customers, as well as your customers' happiness.  
+
+<p>Below are our shipping options for our print on demand products.</p>
+
+<h5>Domestic Shipping</h5>
+<h5>Standard Shipping (3-5 business days)</h5>
+<table border="0" width="691" cellpadding="10">
+<tbody>
+<tr>
+<td><strong>Product Type</strong></td>
+<td><strong>1st item</strong></td>
+<td><strong>Additional</strong></td>
+</tr>
+<tr>
+<td width="136">T-Shirts, Bags, Beanies</td>
+<td width="67">$5.00</td>
+<td width="61">$1.00</td>
+</tr>
+<tr>
+<td>Sweatshirts</td>
+<td>$8.00</td>
+<td>$1.00</td>
+</tr>
+<tr>
+<td>Brimmed Hats</td>
+<td>$6.50</td>
+<td>$1.00</td>
+</tr>
+<tr>
+<td>Posters (8&#215;10, 12&#215;16, 12&#215;12, 12&#215;18, 16&#215;20, 18&#215;24)</td>
+<td>$8.00</td>
+<td>$0.00</td>
+</tr>
+<tr>
+<td>Posters (24&#215;36)</td>
+<td>$11.00</td>
+<td>$0.00</td>
+</tr>
+<tr>
+<td>Mugs</td>
+<td>$7.00</td>
+<td>$5.00</td>
+</tr>
+<tr>
+<td>Pillows</td>
+<td>$11.00</td>
+<td>$6.00</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h4>Canada Shipping</h4>
+<h5>USPS International 1st Class (5-12+ business days)</h5>
+<p>Tracking is only available when the package is in the United States.  Print Aura is not responsible for delays due to customs which may be a few days to a few weeks.</p>
+<table border="0" width="691" cellpadding="10">
+<tbody>
+<tr>
+<td><strong>Product Type</strong></td>
+<td><strong>1st item</strong></td>
+<td><strong>Additional</strong></td>
+</tr>
+<tr>
+<td width="136">T-Shirts, Bags, Beanies</td>
+<td width="67">$8.00</td>
+<td width="61">$1.00</td>
+</tr>
+<tr>
+<td>Sweatshirts</td>
+<td>$10.00</td>
+<td>$2.00</td>
+</tr>
+<tr>
+<td>Brimmed Hats</td>
+<td>$8.00</td>
+<td>$2.00</td>
+</tr>
+<tr>
+<td>Posters (8&#215;10, 12&#215;16, 12&#215;12, 12&#215;18, 16&#215;20, 18&#215;24)</td>
+<td>$12.00</td>
+<td>$0.00</td>
+</tr>
+<tr>
+<td>Posters (24&#215;36)</td>
+<td>$16.00</td>
+<td>$0.00</td>
+</tr>
+<tr>
+<td>Mugs</td>
+<td>$11.00</td>
+<td>$7.00</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h4></h4>
+<h4>International Shipping</h4>
+<p>We will ship USPS First Class to just about anywhere your customer is located. Tracking is only available when the package is in the United States.  Print Aura is not responsible for lost packages or delays due to customs which may be a few days to a few weeks.</p>
+<table border="0" width="691" cellpadding="10">
+<tbody>
+<tr>
+<td><strong>Product Type</strong></td>
+<td><strong>1st item</strong></td>
+<td><strong>Additional</strong></td>
+</tr>
+<tr>
+<td width="136">T-Shirts, Bags, Beanies</td>
+<td width="67">$12.00</td>
+<td width="61">$1.00</td>
+</tr>
+<tr>
+<td>Sweatshirts</td>
+<td>$15.00</td>
+<td>$2.00</td>
+</tr>
+<tr>
+<td>Brimmed Hats</td>
+<td>$15.00</td>
+<td>$3.00</td>
+</tr>
+<tr>
+<td>Posters (8&#215;10, 12&#215;16, 12&#215;12, 12&#215;18, 16&#215;20, 18&#215;24)</td>
+<td>$16.00</td>
+<td>$0.00</td>
+</tr>
+<tr>
+<td>Posters (24&#215;36)</td>
+<td>$20.00</td>
+<td>$0.00</td>
+</tr>
+<tr>
+<td>Mugs</td>
+<td>$17.00</td>
+<td>$8.00</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3>Cell Phone Case Shipping Costs</h3>
+<p>All of our cell phone cases are carefully packaged in reinforced cardboard packaging. The cases are shipped out to your customers, under your brand, in protective packaging that ensures the cases will arrive in pristine shape.</p>
+<h4>US Shipping</h4>
+<table style="height: 119px;" border="0" width="667" cellpadding="10">
+<tbody>
+<tr>
+<td width="308"><strong>Ship Method</strong></td>
+<td width="151"> Price</td>
+</tr>
+<tr>
+<td> US Standard Shipping</td>
+<td>$5.00</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h4>International Shipping</h4>
+<table style="height: 119px;" border="0" width="667" cellpadding="10">
+<tbody>
+<tr>
+<td width="308"><strong>Ship Method</strong></td>
+<td width="151">  <strong>Price</strong></td>
+</tr>
+<tr>
+<td>Asendia</td>
+<td>$10.80</td>
+</tr>
+</tbody>
+</table>
 
 
 [Updated Shipping Prices](https://printaura.com/shipping)
