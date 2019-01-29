@@ -92,8 +92,10 @@ ___
 ---
 >#### Select each installed Webhook
 In the Webhooks menu edit both PrintAura Webhooks one at a time.
+
 ---
 ![](woo6.PNG)
+
 ___
 >#### Select Legacy API v3
 In the "Webhook data" menu select "Legacy API v3" and click save. Do this for both webhooks.
