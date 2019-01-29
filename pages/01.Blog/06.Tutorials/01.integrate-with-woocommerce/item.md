@@ -56,7 +56,7 @@ Click the link titled "click here" to begin.
 
 ---
 >#### Step 2:
-First download the current PrintAura Plugin from the "PrintAura Woocommerce Plugin" link and save it to a location ,such as My Desktop, for later.
+First download the current PrintAura Plugin from the "PrintAura Woocommerce Plugin" link and save it to a location, such as My Desktop, for later.
 Under the field "Woocommerce Shop" enter the URL of your Woocommerce store it the text block, starting with "http://" or "https://".
 
 ---
