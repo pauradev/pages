@@ -7,8 +7,7 @@ publish_date: '29-01-2019 11:59'
 taxonomy:
     category:
         - tutorial
-    tag:
-        - post
+    tag: ''
 hide_git_sync_repo_link: true
 external_links:
     process: true
