@@ -65,15 +65,19 @@ Under the field "Woocommerce Shop" enter the URL of your Woocommerce store it th
 ---
 >#### Step 3:
 In a new tab go to your Woocommerce Store Admin panel and navigate to Plugins > Upload Plugin then "Chose File" and select the .zip file you downloaded in the last step. Click "Install Now" to install the PrintAura-Woocommerce Plugin.
+
 ---
 ![](woo4.PNG)
+
 ---
 >#### Step 4:
 Return to the Woocommerce Store Installation tab.
 Click Install to continue.**
 You will be directed to your Woocommerce Shop. You will be asked to connect with PrintAura, simply click approve to let PrintAura setup your Woocommerce Store and begin setting up products.
+
 ---
 ![](woo3.PNG)
+
 ---
 #### __**Troubleshooting**__
 ___
@@ -81,8 +85,10 @@ Depending on the version of Woocommerce and word press you are using you may hav
 ___
 >#### Navigate to Webhooks
 Navigate to Woocommerce > Settings > Advanced > Webhooks
+
 ___
 ![](woo5.PNG)
+
 ---
 >#### Select each installed Webhook
 In the Webhooks menu edit both PrintAura Webhooks one at a time.
@@ -91,25 +97,33 @@ In the Webhooks menu edit both PrintAura Webhooks one at a time.
 ___
 >#### Select Legacy API v3
 In the "Webhook data" menu select "Legacy API v3" and click save. Do this for both webhooks.
+
 ___
 ![](woo7.PNG)
+
 ---
 #### __**Re-Link**__ 
 ---
 > #### Delete Webhooks    
 In the Woocommerce > Settings > Advanced "Webhooks" menu, described above, select all webhooks and Apply the "Delete permanently" action.
+
 ---
 ![](woo9.PNG)
+
 ---
 >#### Delete API Keys
 Navigate to the "REST API" tab select all API Keys and apply the "Revoke" Action.
+
 ---
 ![](woo10.PNG)
+
 ---
 >#### Remove Shop on PrintAura My Shops
 In your PrintAura My Shops > Woocommerce Shops select the remove action to uninstall the current shop.
+
 ---
 ![](woo8.PNG)
+
 ---
 >#### Clear Cookies and Cache
 At this point clear your browser cookies and cache from the browser settings menu.
