@@ -3,11 +3,6 @@ title: 'Advertising On Pinterest: Tips From The Pros'
 media_order: 'pinterest blog.jpg'
 published: true
 date: '27-03-2018 12:25'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
 hide_git_sync_repo_link: true
 external_links:
     process: true
