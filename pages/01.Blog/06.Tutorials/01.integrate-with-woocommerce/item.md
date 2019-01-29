@@ -28,7 +28,7 @@ content:
     url_taxonomy_filters: '1'
 bricklayer_layout: '1'
 display_post_summary:
-    enabled: '1'
+    enabled: '0'
 author: denise
 post_id: 9693944
 comment_status: open
