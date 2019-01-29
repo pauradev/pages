@@ -40,8 +40,8 @@ post_type: post
 
 #### __**Having trouble setting up Woocomerce?**__ 
 
-Please Take a look through this handy guide that details the instilation steps and trouble shoots some common problems you may have. This article is for you is you have previously tried to setup a store but can't get orders to go through, orders were working but aren't now or if you went through the installation guide and are still having problems. 
-**Lookout for the updated printaura 4.0 plugin 'for open shopping carts' comming this spring.**  
+Please Take a look through this handy guide that details the installation steps and trouble shoots some common problems you may have. This article is for you is you have previously tried to setup a store but can't get orders to go through, orders were working but aren't now or if you went through the installation guide and are still having problems. 
+**Lookout for the updated PrintAura 4.0 plugin ,for open shopping cart platforms, coming this spring.**  
 
 ===
 >#### Step 1:
@@ -55,7 +55,7 @@ Please Take a look through this handy guide that details the instilation steps a
 ---
 >#### Step 2:
 ---
-**First download the current PrintAura plugin from the "PrintAura Woocommerce Plugin" link and save it to a location ,such as My Desktop, for later.**
+**First download the current PrintAura Plugin from the "PrintAura Woocommerce Plugin" link and save it to a location ,such as My Desktop, for later.**
 **Under the field "Woocommerce Shop" enter the URL of your Woocommerce store it the text block, starting with "http://" or "https://".**
 ---
 ---
@@ -74,11 +74,11 @@ Please Take a look through this handy guide that details the instilation steps a
 ---
 **Return to the Woocommerce Store Installation tab.**
 **Click Install to continue.**
-**You will be directed to your Woocommerce Shop. You will be asked to connect with PrintAura, simply click approve to let Printaura setup your Woocommerce Store and begin setting up products.**
+**You will be directed to your Woocommerce Shop. You will be asked to connect with PrintAura, simply click approve to let PrintAura setup your Woocommerce Store and begin setting up products.**
 ![](woo3.PNG)
 #### __**Troubleshooting**__
 ___
-Depending on the version of Woocommerce and word press you are using you may have to enable legacy weebhooks complete the following actions if you are able to see orders in Woocommerce but are unable to view them in PrintAura*
+Depending on the version of Woocommerce and word press you are using you may have to enable legacy webhooks complete the following actions if you are able to see orders in Woocommerce but are unable to view them in PrintAura*
 ___
 >#### Navigate to Webhooks
 **Navigate to Woocommerce > Settings > Advanced > Webhooks**
@@ -88,7 +88,7 @@ ___
 ___
 ---
 >#### Select each installed Webhook
-**In the Webbhooks menu edit both PrintAura Webhooks one at a time.**
+**In the Webhooks menu edit both PrintAura Webhooks one at a time.**
 ___
 ---
 ![](woo6.PNG)
@@ -104,7 +104,7 @@ ___
 #### __**Re-Link**__ 
 ---
 > #### Delete Webhooks                                                                                                                          
-**In the Woocommerce > Settings > Advanced "Webhooks" menu ,described above, select all webhooks and Apply the "Delete permanently" action.** 
+**In the Woocommerce > Settings > Advanced "Webhooks" menu, described above, select all webhooks and Apply the "Delete permanently" action.** 
 ---
 ---
 ---
@@ -127,9 +127,14 @@ ___
 ---
 >#### Clear Cookies and Cache
 **At this point clear your browser cookies and cache from the browser settings menu.**
+
+* [Chrome](https://support.google.com/accounts/answer/9098093?co=GENIE.Platform=Desktop&hl=en&visit_id=636843775705401342-2310875799&rd=1)
+* [FireFox](https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox)
+* [Netscape](http://www.allaboutcookies.org/manage-cookies/netscape-6-plus.html)
+
 ___
 >#### Relink Shop
-**To Relink follow steps 1-5 and if neccesary the steps outlined in trouble shooting to relink your store.** 
+**To Relink follow steps 1-5 and if necessary the steps outlined in trouble shooting to relink your store.** 
 ---
 ---
 ---
