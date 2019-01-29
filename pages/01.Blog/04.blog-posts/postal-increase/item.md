@@ -32,7 +32,7 @@ display_post_summary:
 ---
 
 [![](postal_rate_increase_268396.jpg)](https://blog.printaura.com/blog/blog-posts/postal-increase)
-# **U.S. Postal rate hike**
+### **U.S. Postal rate hike**
 
 On January 27th The U.S. Postal Service is instituting its’ largest price increase in history. The cost of postage for a first class letter is going up by 10%, there is a corresponding increase for packages. As a result, PrintAura is forced to increase our shipping rates. Every effort has been made to hold our pricing to under a 10% increase while making shipping calculations as easy as possible for everyone. Starting February 1st, PrintAura will be raising the rate for shipping individual items by $0.50 and multiple items by $0.25. For example: the shipping rate of an individual T-shirt will increase from $5.00 to $5.50 and an additional item will ship for $1.25 opposed to $1.00.
 
