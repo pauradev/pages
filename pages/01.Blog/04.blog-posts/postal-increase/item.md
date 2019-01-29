@@ -6,8 +6,6 @@ date: '14:04 04-01-2019'
 taxonomy:
     category:
         - blog
-    tag:
-        - journal
 hide_git_sync_repo_link: true
 external_links:
     process: true
