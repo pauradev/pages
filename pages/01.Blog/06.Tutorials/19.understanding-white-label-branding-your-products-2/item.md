@@ -59,21 +59,38 @@ First download the current PrintAura plugin from the "PrintAura Woocommerce Plug
 
 Under the field "Woocommerce Shop" enter the URL of your Woocommerce store it the text block, starting with "http://" or "https://".
 
-Click Install to continue
-
-![](woo3.PNG)
-
 #### Step 3:
 
-You will be directed to your Woocommerce Shop you may have to enter your Woocommerce credentials. You will be asked to connect with PrintAura, simply click approve to let Printaura setup your Woocommerce Store and begin setting up products.
-
+In a new tab go to your Woocommerce Store Admin panel and navigate to Plugins > Upload Plugin then "Chose File" and select the .zip file you downloaded in the last step. Click "Install Now" to install the PrintAura-Woocommerce Plugin. 
 
 ![](woo4.PNG)
 
+#### Step 4:
+
+Return to the Woocommerce Store Installation tab.
+
+Click Install to continue.
+
+You will be directed to your Woocommerce Shop. You will be asked to connect with PrintAura, simply click approve to let Printaura setup your Woocommerce Store and begin setting up products.
+
+![](woo3.PNG)
+
+### Troubleshooting
+
+Depending on the version of Woocommerce and word press you are using you may have to enable legacy weebhooks complete the following actions if you are able to see orders in Woocommerce but are unable to view them in PrintAura:
+
+Navigate to Woocommerce > Settings > Advanced > Webhooks
+
 ![](woo5.PNG)
+
+In the Webbhooks menu edit both PrintAura Webhooks one at a time.
 
 ![](woo6.PNG)
 
+In the "Webhook data" menu select "Legacy API v3" and click save. Do this for both webhooks.
+
 ![](woo7.PNG)
+
+### Re-Link 
 
 ![](woo8.PNG)
