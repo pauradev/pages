@@ -56,20 +56,17 @@ Click the link titled "click here" to begin.
 
 ---
 >#### Step 2:
----
 First download the current PrintAura Plugin from the "PrintAura Woocommerce Plugin" link and save it to a location ,such as My Desktop, for later.
 Under the field "Woocommerce Shop" enter the URL of your Woocommerce store it the text block, starting with "http://" or "https://".
 ---
 ![](woo2.PNG)
 ---
 >#### Step 3:
----
 In a new tab go to your Woocommerce Store Admin panel and navigate to Plugins > Upload Plugin then "Chose File" and select the .zip file you downloaded in the last step. Click "Install Now" to install the PrintAura-Woocommerce Plugin.
 ---
 ![](woo4.PNG)
 ---
 >#### Step 4:
----
 Return to the Woocommerce Store Installation tab.
 Click Install to continue.**
 You will be directed to your Woocommerce Shop. You will be asked to connect with PrintAura, simply click approve to let PrintAura setup your Woocommerce Store and begin setting up products.
@@ -97,7 +94,7 @@ ___
 ---
 #### __**Re-Link**__ 
 ---
-> #### Delete Webhooks                                                                                                                          
+> #### Delete Webhooks    
 In the Woocommerce > Settings > Advanced "Webhooks" menu, described above, select all webhooks and Apply the "Delete permanently" action.
 ---
 ![](woo9.PNG)
