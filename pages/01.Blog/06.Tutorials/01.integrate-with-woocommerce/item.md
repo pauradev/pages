@@ -106,7 +106,7 @@ ___
 
 ---
 
-###### If you are still unable to view woocommerce orders on the printaura site the links between the site may be broken. to re-generate new links please follow the rest of the trouble shooting walkthrough to remove and re-install your Woocommerce shop on PrintAura.
+##### If you are still unable to view woocommerce orders on the printaura site the links between the site may be broken. to re-generate new links please follow the rest of the trouble shooting walkthrough to remove and re-install your Woocommerce shop on PrintAura.
 
 ---
 > #### Delete Webhooks    
