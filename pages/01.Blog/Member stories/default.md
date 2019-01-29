@@ -1,17 +1,17 @@
 ---
 title: 'Member Stories'
-media_order: 
 published: true
-date: '13:01 2016-02-17'
+date: '17-02-2016 13:01'
 taxonomy:
- category:
- - blog
- tag:
- - journal
+    category:
+        - blog
+    tag:
+        - journal
 hide_git_sync_repo_link: true
 external_links:
- process: true
- target: _self
+    process: true
+    target: _self
+visible: false
 hero_classes: ''
 hero_image: ''
 header_image_alt_text: ''
