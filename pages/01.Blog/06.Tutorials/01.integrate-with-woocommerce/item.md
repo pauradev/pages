@@ -101,7 +101,7 @@ Click Install to continue.
 &nbsp;
 &nbsp;
 
-### Troubleshooting
+## Troubleshooting
 
 &nbsp;
 
@@ -147,7 +147,7 @@ Depending on the version of Woocommerce and word press you are using you may hav
 &nbsp;
 &nbsp;
 
-### Re-Link 
+# Re-Link 
 
 &nbsp;
 
