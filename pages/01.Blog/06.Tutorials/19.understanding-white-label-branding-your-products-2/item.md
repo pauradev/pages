@@ -36,7 +36,7 @@ status: publish
 post_type: post
 ---
 
-![](woo.jpg)
+[![](woo.jpg)](/blog/art-resources/21-amazing-free-tshirt-mockups)
 
 ### Having trouble setting up Woocomerce? 
 
