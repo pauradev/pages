@@ -136,6 +136,8 @@ At this point clear your browser cookies and cache from the browser settings men
 
 ___
 >#### Relink Shop
+
 **To Relink follow steps 1-5 and if necessary the steps outlined in trouble shooting to relink your store.** 
+
 ---
 ---
