@@ -34,7 +34,6 @@ post_id: 9693944
 comment_status: open
 post_name: understanding-white-label-branding-your-products
 status: publish
-post_type: post
 ---
 
 [![](woo.jpg)](/blog/tutorials/integrate-with-woocommerce)
