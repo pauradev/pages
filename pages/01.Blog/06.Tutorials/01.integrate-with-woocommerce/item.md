@@ -45,11 +45,13 @@ Please Take a look through this handy guide that details the installation steps 
 **Lookout for the updated PrintAura 4.0 plugin ,for open shopping cart platforms, coming this spring.**  
 
 ===
->#### Step 1:
+#### Step 1:
 Logon to your PrintAura account and navigate to My Stores > Woocommerce Shops.
 Click the link titled "click here" to begin.
+
 ---
 ![](woo1.PNG)
+
 ---
 >#### Step 2:
 ---
