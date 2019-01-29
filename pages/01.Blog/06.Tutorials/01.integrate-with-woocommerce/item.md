@@ -45,31 +45,20 @@ Please Take a look through this handy guide that details the instilation steps a
 
 ===
 #### Step 1:
-
-&nbsp;
-
-**Logon to your PrintAura account and navigate to My Stores > Woocommerce Shops.
-Click the link titled "click here" to begin.**
-
-&nbsp;
+---
+>**Logon to your PrintAura account and navigate to My Stores > Woocommerce Shops.**
+**Click the link titled "click here" to begin.**
+---
+---
 
 ![](woo1.PNG)
 
-&nbsp;
-
+---
 #### Step 2:
 
-&nbsp;
-
-**First download the current PrintAura plugin from the "PrintAura Woocommerce Plugin" link and save it to a location ,such as My Desktop, for later.**
-
+>**First download the current PrintAura plugin from the "PrintAura Woocommerce Plugin" link and save it to a location ,such as My Desktop, for later.**
 **Under the field "Woocommerce Shop" enter the URL of your Woocommerce store it the text block, starting with "http://" or "https://".**
-
-&nbsp;
-
 ![](woo1.PNG)
-
-&nbsp;
 
 #### Step 3:
 
@@ -147,26 +136,20 @@ Depending on the version of Woocommerce and word press you are using you may hav
 &nbsp;
 &nbsp;
 
-# Re-Link 
+#### __**Re-Link**__ 
 
-&nbsp;
+---
 
-#### Delete Webhooks
-
-&nbsp;
-
+> #### Delete Webhooks                                                                                                                          
 **In the Woocommerce > Settings > Advanced "Webhooks" menu ,described above, select all webhooks and Apply the "Delete permanently" action.** 
 
-&nbsp;
-
+ ---
+ 
 ![](woo9.PNG)
 
 &nbsp;
 
-#### Delete API Keys
-
-&nbsp;
-
+>#### Delete API Keys
 **Navigate to the "REST API" tab select all API Keys and apply the "Revoke" Action.**
 
 &nbsp;
@@ -175,10 +158,7 @@ Depending on the version of Woocommerce and word press you are using you may hav
 
 &nbsp;
 
-#### Remove Shop on PrintAura My Shops
-
-&nbsp;
-
+>#### Remove Shop on PrintAura My Shops
 **In your PrintAura My Shops > Woocommerce Shops select the remove action to uninstall the current shop.** 
 
 &nbsp;
@@ -187,16 +167,15 @@ Depending on the version of Woocommerce and word press you are using you may hav
 
 &nbsp;
 
-#### Clear Cookies and Cache
-
+>#### Clear Cookies and Cache
 **At this point clear your browser cookies and cache from the browser settings menu.**
 
 &nbsp;
 &nbsp;
 
 #### Relink Shop
-
-### To Relink follow steps 1-5 and if neccesary the steps outlined in trouble shooting to relink your store. 
-
+---
+>### To Relink follow steps 1-5 and if neccesary the steps outlined in trouble shooting to relink your store. 
+---
 &nbsp;
 &nbsp;
