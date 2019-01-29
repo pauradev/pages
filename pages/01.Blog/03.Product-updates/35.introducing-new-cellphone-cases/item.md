@@ -2,11 +2,8 @@
 title: 'Introducing: New Cell Phone Cases!'
 published: true
 date: '06-09-2016 10:02'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

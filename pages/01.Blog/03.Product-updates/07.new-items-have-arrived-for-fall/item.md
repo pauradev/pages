@@ -4,15 +4,6 @@ media_order: 'h400.png,9001.png,2050.png,73000.png,73500.png,9303.png,H000.png,f
 published: true
 date: '01-10-2018 10:05'
 publish_date: '01-10-2018 10:05'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
-    month:
-        - October
-    author:
-        - denise
 hide_git_sync_repo_link: true
 external_links:
     process: true

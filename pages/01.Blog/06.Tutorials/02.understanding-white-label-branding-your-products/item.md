@@ -6,8 +6,7 @@ date: '22-08-2017 19:36'
 taxonomy:
     category:
         - tutorial
-    tag:
-        - post
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

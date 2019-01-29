@@ -3,11 +3,8 @@ title: 'A Letter To Aspiring eCommerce Entrepreneurs'
 published: true
 date: '02-05-2017 08:49'
 publish_date: '02-05-2017 08:49'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

@@ -2,11 +2,8 @@
 title: 'File Type Cheat Sheet'
 published: true
 date: '15-12-2015 14:09'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

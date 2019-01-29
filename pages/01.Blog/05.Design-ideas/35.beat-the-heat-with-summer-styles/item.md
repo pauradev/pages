@@ -2,11 +2,8 @@
 title: 'Beat The Heat With Cool Summer Styles'
 published: true
 date: '21-06-2017 09:56'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

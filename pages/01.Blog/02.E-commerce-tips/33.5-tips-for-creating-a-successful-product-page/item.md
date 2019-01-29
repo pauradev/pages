@@ -2,11 +2,8 @@
 title: '5 Tips For Creating A Successful Product Page'
 published: true
 date: '19-01-2016 13:53'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

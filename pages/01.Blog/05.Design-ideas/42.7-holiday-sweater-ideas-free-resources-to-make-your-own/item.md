@@ -2,11 +2,8 @@
 title: '7 Holiday Sweater Ideas + FREE Resources To Design Your Own'
 published: true
 date: '10-11-2015 14:53'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

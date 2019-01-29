@@ -3,11 +3,8 @@ title: 'Etsy Update: Print Aura Is Now An Approved Manufacturer!'
 media_order: etsy-1.jpg
 published: true
 date: '13-06-2017 13:02'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

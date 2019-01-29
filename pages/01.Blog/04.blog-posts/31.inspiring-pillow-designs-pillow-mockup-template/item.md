@@ -2,11 +2,8 @@
 title: 'Inspiring Pillow Designs & Pillow Mockup Templates'
 published: true
 date: '03-05-2016 12:17'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

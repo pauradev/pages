@@ -2,11 +2,8 @@
 title: '5 Tips For Being More Productive While Working From Home'
 published: true
 date: '24-11-2015 12:14'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

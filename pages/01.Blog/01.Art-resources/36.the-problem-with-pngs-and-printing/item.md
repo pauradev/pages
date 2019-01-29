@@ -2,11 +2,8 @@
 title: 'The Problem With .PNGs And Printing'
 published: true
 date: '10-01-2017 13:51'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

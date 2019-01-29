@@ -2,11 +2,8 @@
 title: '5 Font Mistakes To Avoid & 10 FREE Fonts'
 published: true
 date: '17-11-2015 13:56'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

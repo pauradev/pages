@@ -2,11 +2,8 @@
 title: 'Introducing: The Flexi Case!'
 published: true
 date: '15-05-2018 11:59'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

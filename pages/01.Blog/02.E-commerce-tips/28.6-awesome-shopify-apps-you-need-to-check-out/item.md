@@ -3,11 +3,8 @@ title: '6 Awesome Shopify Apps You Need To Check Out'
 media_order: shopify-fb.jpg
 published: true
 date: '04-01-2017 11:57'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

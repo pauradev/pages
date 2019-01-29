@@ -3,11 +3,8 @@ title: '6 Common Artwork Preparation Mistakes'
 media_order: design-mistakes-fb.jpg
 published: true
 date: '26-09-2017 11:45'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

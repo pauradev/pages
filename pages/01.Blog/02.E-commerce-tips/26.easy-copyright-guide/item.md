@@ -3,11 +3,8 @@ title: 'Easy Copyright Guide'
 media_order: copyright-fb.jpg
 published: true
 date: '04-04-2017 11:29'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

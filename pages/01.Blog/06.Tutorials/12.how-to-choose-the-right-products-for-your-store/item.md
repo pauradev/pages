@@ -1,11 +1,8 @@
 ---
 title: 'How To Choose The Right Products For Your Store'
 published: true
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

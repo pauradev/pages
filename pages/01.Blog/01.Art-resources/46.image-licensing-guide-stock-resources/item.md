@@ -2,11 +2,8 @@
 title: 'Image Licensing Guide + Stock Resources'
 published: true
 date: '02-02-2016 16:20'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

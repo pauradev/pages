@@ -2,11 +2,8 @@
 title: '21 Motivational Quotes For Entrepreneurs'
 published: true
 date: '09-01-2018 11:47'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

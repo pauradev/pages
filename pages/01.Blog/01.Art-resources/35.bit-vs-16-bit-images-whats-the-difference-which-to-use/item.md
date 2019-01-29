@@ -2,11 +2,8 @@
 title: '8 Bit Vs 16 Bit Images: What''s The Difference & Which To Use'
 published: true
 date: '30-05-2017 11:31'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

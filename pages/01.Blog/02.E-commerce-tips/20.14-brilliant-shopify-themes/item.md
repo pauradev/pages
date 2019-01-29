@@ -3,11 +3,8 @@ title: '14 Brilliant Shopify Themes'
 media_order: shopifythemes-fb.jpg
 published: true
 date: '24-01-2017 13:53'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

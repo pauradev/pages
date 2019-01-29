@@ -3,11 +3,6 @@ title: '25 Quotes To Live By For Entrepreneurs'
 media_order: nothing-works-until-you-do.jpg
 published: true
 date: '20:32 06-08-2018'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - journal
 hide_git_sync_repo_link: true
 external_links:
     process: true

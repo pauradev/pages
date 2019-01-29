@@ -2,11 +2,8 @@
 title: 'Font Glossary'
 published: true
 date: '12-04-2016 16:54'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

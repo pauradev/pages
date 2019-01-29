@@ -2,11 +2,8 @@
 title: '6 Ways To Boost Holiday Sales'
 published: true
 date: '01-11-2016 16:54'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

@@ -2,11 +2,8 @@
 title: 'The Truth About Unisex Shirts'
 published: true
 date: '16-02-2016 12:35'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

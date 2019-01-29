@@ -2,11 +2,8 @@
 title: 'Print On Demand Glossary'
 published: true
 date: '08-03-2016 14:11'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

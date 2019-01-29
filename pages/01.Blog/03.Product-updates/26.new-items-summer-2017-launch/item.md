@@ -2,11 +2,8 @@
 title: 'New Items: Summer 2017 Launch'
 published: true
 date: '25-07-2017 11:49'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

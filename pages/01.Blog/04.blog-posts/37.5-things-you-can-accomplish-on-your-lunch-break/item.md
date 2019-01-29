@@ -2,11 +2,8 @@
 title: '5 Things You Can Accomplish On Your Lunch Break'
 published: true
 date: '12-07-2016 14:19'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

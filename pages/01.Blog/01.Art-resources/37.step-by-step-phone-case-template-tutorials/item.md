@@ -2,11 +2,8 @@
 title: 'Step-By-Step Phone Case Template Tutorials'
 published: true
 date: '20-09-2016 09:45'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

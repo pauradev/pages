@@ -2,11 +2,6 @@
 title: pages
 published: false
 date: '17-02-2016 13:01'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - journal
 hide_git_sync_repo_link: true
 external_links:
     process: true

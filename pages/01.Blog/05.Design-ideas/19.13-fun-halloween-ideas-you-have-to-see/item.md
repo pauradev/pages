@@ -2,11 +2,8 @@
 title: '13 Fun Halloween Ideas You Have To See'
 published: true
 date: '04-10-2016 14:51'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

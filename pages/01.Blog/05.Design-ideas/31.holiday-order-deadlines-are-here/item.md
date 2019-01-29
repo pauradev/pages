@@ -2,12 +2,6 @@
 title: '2015 Holiday Order Deadlines Are Here!'
 published: true
 date: '08-11-2015 15:09'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
-        - holiday
 hide_git_sync_repo_link: true
 external_links:
     process: true

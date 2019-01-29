@@ -3,15 +3,6 @@ title: 'Newly Added: Bella+Canvas Items!'
 published: true
 date: '18-07-2018 10:05'
 publish_date: '18-07-2018 10:05'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
-    month:
-        - July
-    author:
-        - denise
 hide_git_sync_repo_link: true
 external_links:
     process: true

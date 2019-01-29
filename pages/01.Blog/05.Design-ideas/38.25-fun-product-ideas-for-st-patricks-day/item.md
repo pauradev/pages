@@ -2,11 +2,8 @@
 title: '25 Fun Product Ideas For St. Patrick''s Day'
 published: true
 date: '14-02-2017 09:26'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

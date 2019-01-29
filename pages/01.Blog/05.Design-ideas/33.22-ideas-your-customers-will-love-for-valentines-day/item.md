@@ -2,11 +2,8 @@
 title: '22 Ideas Your Customers Will Love For Valentine''s Day'
 published: true
 date: '23-01-2018 12:49'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

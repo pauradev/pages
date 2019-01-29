@@ -2,11 +2,8 @@
 title: 'New Launch: iPhone 8 and 8 Plus Phone Cases'
 published: true
 date: '10-10-2017 11:59'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

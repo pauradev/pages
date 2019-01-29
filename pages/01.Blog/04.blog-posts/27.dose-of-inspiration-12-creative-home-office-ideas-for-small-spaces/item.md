@@ -2,11 +2,8 @@
 title: 'Dose of Inspiration: 12 Creative Home Office Ideas For Small Spaces'
 published: true
 date: '23-08-2016 13:43'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

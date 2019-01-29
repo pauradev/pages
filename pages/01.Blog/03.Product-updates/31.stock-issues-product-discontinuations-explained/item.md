@@ -2,11 +2,8 @@
 title: 'Stock Issues & Product Discontinuations: Explained!'
 published: true
 date: '13-12-2016 13:17'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

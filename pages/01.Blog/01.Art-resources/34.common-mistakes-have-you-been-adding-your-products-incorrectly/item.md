@@ -2,11 +2,8 @@
 title: 'Common Mistakes: Have You Been Adding Your Products Incorrectly?'
 published: true
 date: '18-07-2017 09:41'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

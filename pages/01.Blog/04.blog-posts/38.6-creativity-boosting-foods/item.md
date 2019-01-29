@@ -2,11 +2,8 @@
 title: '6 Creativity Boosting Foods'
 published: true
 date: '05-07-2016 13:48'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

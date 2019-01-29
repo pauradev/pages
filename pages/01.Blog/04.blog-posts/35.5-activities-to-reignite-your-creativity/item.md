@@ -2,11 +2,8 @@
 title: '5 Activities To Reignite Your Creativity'
 published: true
 date: '20-02-2018 13:09'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

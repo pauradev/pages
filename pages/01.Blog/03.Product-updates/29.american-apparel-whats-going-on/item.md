@@ -2,11 +2,8 @@
 title: 'American Apparel - What''s Going On?'
 published: true
 date: '28-02-2017 12:28'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

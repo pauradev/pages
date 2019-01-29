@@ -2,11 +2,8 @@
 title: 'Let''s Celebrate Moms: 22 Inspirational Ideas For Mother''s Day'
 published: true
 date: '18-04-2017 12:59'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

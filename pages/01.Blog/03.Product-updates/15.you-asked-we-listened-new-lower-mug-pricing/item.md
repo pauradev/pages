@@ -1,11 +1,8 @@
 ---
 title: 'You Asked, We Listened: New Lower Mug Pricing'
 date: '24-04-2018 12:34'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

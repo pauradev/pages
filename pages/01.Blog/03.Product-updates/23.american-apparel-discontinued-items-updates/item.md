@@ -2,11 +2,8 @@
 title: 'American Apparel: Discontinued Items & Updates'
 published: true
 date: '12-12-2017 11:22'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

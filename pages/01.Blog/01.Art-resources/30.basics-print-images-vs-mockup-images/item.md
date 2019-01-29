@@ -2,11 +2,8 @@
 title: 'Basics: Print Images Vs. Mockup Images'
 published: true
 date: '05-06-2018 11:35'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

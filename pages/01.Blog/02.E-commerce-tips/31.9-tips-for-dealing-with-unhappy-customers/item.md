@@ -2,11 +2,8 @@
 title: '9 Tips For Dealing With Unhappy Customers'
 published: true
 date: '09-02-2016 11:10'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

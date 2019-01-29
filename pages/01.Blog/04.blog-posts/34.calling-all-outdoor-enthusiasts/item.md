@@ -2,11 +2,8 @@
 title: 'Calling All Outdoor Enthusiasts!'
 published: true
 date: '11-07-2018 10:03'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

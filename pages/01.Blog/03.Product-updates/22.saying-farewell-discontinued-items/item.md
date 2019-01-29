@@ -2,11 +2,8 @@
 title: 'Saying Farewell: Discontinued Items'
 published: true
 date: '08-05-2018 10:30'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

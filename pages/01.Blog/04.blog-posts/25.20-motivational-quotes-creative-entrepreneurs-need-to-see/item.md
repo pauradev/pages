@@ -2,11 +2,8 @@
 title: '20 Motivational Quotes Creative Entrepreneurs Need To See'
 published: true
 date: '20-12-2016 15:01'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

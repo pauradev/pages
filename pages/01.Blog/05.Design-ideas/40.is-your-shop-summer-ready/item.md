@@ -2,11 +2,8 @@
 title: 'Is Your Shop Summer Ready?'
 published: true
 date: '31-05-2016 17:06'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

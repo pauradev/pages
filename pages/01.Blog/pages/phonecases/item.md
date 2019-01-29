@@ -3,11 +3,8 @@
 title: 'phonecases'
 published: false
 date: '12-07-2015 08:17'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

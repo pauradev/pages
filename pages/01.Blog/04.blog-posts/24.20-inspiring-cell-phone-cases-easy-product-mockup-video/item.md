@@ -2,11 +2,8 @@
 title: '20 Inspiring Cell Phone Cases + Easy Product Mockup Video'
 published: true
 date: '17-05-2016 13:21'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

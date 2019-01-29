@@ -2,11 +2,8 @@
 title: 'Father''s Day Inspiration and Order Deadlines'
 published: true
 date: '24-05-2016 13:41'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

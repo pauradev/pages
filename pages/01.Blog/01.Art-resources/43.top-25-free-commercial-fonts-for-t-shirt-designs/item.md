@@ -2,11 +2,8 @@
 title: 'Top 25 Free Commercial Fonts For T-Shirt Designs'
 published: true
 date: '15-03-2016 11:07'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

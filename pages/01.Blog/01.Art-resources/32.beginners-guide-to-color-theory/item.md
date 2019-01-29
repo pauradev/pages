@@ -2,11 +2,8 @@
 title: 'Color Theory: A Beginner''s Guide'
 published: true
 date: '05-09-2017 12:01'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

@@ -2,11 +2,8 @@
 title: 'Welcome Fall: New Apparel Items Are Here!'
 published: true
 date: '24-10-2017 13:26'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

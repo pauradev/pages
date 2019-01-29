@@ -2,11 +2,8 @@
 title: 'Fresh Ideas For Spring & Easter'
 published: true
 date: '14-03-2017 12:41'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

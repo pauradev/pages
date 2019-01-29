@@ -2,11 +2,8 @@
 title: 'NEW BRAND! Welcome Royal Apparel - American Made & Organic Options'
 published: true
 date: '24-05-2017 10:17'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

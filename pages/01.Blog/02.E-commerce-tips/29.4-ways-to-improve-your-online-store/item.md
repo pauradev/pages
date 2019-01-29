@@ -3,11 +3,8 @@ title: '4 Ways To Improve Your Online Store'
 media_order: improve-your-shop.jpg
 published: true
 date: '18-07-2016 20:23'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

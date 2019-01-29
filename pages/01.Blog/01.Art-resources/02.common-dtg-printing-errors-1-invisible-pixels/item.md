@@ -1,16 +1,6 @@
 ---
 title: 'Common DTG Printing Errors #1 - Invisible Pixels'
 date: '14:06 09-08-2016'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - printing
-        - artwork
-    month:
-        - august
-    author:
-        - denise
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true

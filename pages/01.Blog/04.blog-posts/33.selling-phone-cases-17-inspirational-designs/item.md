@@ -3,17 +3,6 @@ title: 'Selling Phone Cases + 17 Inspirational Designs'
 published: true
 date: '06-03-2018 14:27'
 publish_date: '06-03-2018 14:27'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
-        - phone
-        - design
-    month:
-        - March
-    author:
-        - denise
 hide_git_sync_repo_link: true
 external_links:
     process: true

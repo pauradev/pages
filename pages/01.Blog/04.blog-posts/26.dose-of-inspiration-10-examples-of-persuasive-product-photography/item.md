@@ -2,11 +2,8 @@
 title: 'Dose of Inspiration: 10 Examples of Persuasive Product Photography'
 published: true
 date: '16-08-2016 17:17'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

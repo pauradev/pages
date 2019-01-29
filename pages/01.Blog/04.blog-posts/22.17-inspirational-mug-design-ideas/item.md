@@ -2,11 +2,8 @@
 title: '17 Inspirational Mug Design Ideas'
 published: true
 date: '20-03-2018 12:02'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

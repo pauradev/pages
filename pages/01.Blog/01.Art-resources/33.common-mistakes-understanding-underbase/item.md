@@ -2,11 +2,8 @@
 title: 'Common Mistakes: Understanding Underbase'
 published: true
 date: '09-08-2017 09:05'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

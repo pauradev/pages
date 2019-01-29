@@ -2,11 +2,8 @@
 title: '15 Fun Winter and Holiday Design Ideas'
 published: true
 date: '28-11-2017 14:57'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

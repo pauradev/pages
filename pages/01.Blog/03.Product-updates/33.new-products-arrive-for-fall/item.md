@@ -2,11 +2,8 @@
 title: 'New Products Arrive For Fall'
 published: true
 date: '25-10-2016 11:17'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

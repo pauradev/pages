@@ -2,11 +2,8 @@
 title: 'Becoming Household Art - 12 Inspiring Poster Ideas'
 published: true
 date: '13-09-2017 09:11'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

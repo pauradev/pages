@@ -5,11 +5,8 @@ published: true
 date: '19-06-2018 12:27'
 metadata:
     'wedding, printing, tshirts, custom, bachelor, bachelorette': 'printaura, direct to garment, blog'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

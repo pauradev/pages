@@ -2,11 +2,8 @@
 title: '8 Stunning WooCommerce Themes'
 published: true
 date: '22-05-2018 14:07'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

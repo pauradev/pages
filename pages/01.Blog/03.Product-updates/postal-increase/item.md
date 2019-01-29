@@ -3,9 +3,6 @@ title: 'Postal Increase'
 media_order: postal_rate_increase_268396.jpg
 published: true
 date: '14:04 04-01-2019'
-taxonomy:
-    category:
-        - blog
 hide_git_sync_repo_link: true
 external_links:
     process: true

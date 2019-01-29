@@ -2,11 +2,8 @@
 title: 'Intermediate Photoshop Tutorial Roundup'
 published: true
 date: '05-04-2016 13:06'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

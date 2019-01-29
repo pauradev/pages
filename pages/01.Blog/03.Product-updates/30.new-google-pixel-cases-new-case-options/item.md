@@ -2,11 +2,8 @@
 title: 'New! Google Pixel Cases & New Case Options'
 published: true
 date: '21-02-2017 13:35'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

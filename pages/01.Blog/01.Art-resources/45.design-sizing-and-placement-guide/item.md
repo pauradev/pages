@@ -2,11 +2,8 @@
 title: 'Design Sizing and Placement Guide'
 published: true
 date: '02-03-2016 16:53'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

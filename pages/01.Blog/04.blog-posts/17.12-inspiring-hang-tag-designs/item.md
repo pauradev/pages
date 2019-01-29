@@ -2,11 +2,8 @@
 title: '12 Inspiring Hang Tag Designs'
 published: true
 date: '29-12-2015 13:05'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

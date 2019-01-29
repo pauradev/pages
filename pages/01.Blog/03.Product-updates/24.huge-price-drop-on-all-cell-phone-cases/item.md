@@ -2,11 +2,8 @@
 title: 'Huge Price Drop On All Cell Phone Cases'
 published: true
 date: '05-12-2017 13:55'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

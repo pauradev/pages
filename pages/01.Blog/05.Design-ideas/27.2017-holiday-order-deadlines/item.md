@@ -2,11 +2,8 @@
 title: '2017 Holiday Order Deadlines'
 published: true
 date: '31-10-2017 12:14'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

@@ -2,11 +2,8 @@
 title: 'New Next Level Hoody Video Reviews'
 published: true
 date: '30-11-2016 10:34'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

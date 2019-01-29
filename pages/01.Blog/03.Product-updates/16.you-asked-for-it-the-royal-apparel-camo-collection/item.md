@@ -2,11 +2,8 @@
 title: 'You Asked For It: The Royal Apparel Camo Collection'
 published: true
 date: '07-11-2017 11:30'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

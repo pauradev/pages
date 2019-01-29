@@ -2,11 +2,8 @@
 title: 'Spring Into Fashion: Women''s Fashion Apparel'
 published: true
 date: '23-02-2016 14:12'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

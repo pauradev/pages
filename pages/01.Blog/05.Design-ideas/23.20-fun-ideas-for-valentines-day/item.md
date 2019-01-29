@@ -2,11 +2,8 @@
 title: '20 Fun Ideas For Valentine''s Day'
 published: true
 date: '31-01-2017 13:53'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

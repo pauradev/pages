@@ -3,11 +3,8 @@ title: 'Loyalty Programs: A Beginner''s Guide'
 media_order: loyalty-fb.jpg
 published: true
 date: '07-02-2017 11:58'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

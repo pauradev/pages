@@ -2,11 +2,8 @@
 title: '9 Ways to Promote Your T-Shirt Brand'
 published: true
 date: '05-01-2016 15:09'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

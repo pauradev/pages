@@ -2,11 +2,8 @@
 title: 'Top 10 Free Design Resource Sites'
 published: true
 date: '13-09-2016 11:19'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

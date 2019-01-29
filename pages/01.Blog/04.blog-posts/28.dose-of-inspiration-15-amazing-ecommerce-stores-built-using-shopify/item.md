@@ -2,11 +2,8 @@
 title: 'Dose of Inspiration: 15 Amazing eCommerce Stores Built Using Shopify'
 published: true
 date: '02-08-2016 21:14'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

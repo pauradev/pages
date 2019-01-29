@@ -2,11 +2,8 @@
 title: 'Beginner''s Illustrator Video Tutorials'
 published: true
 date: '26-07-2016 14:22'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

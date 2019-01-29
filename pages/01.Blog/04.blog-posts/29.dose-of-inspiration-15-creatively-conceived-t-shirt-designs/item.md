@@ -2,11 +2,8 @@
 title: 'Dose of Inspiration: 15 Creatively Conceived T-Shirt Designs'
 published: true
 date: '09-08-2016 19:31'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

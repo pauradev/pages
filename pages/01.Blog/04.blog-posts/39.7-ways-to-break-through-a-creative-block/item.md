@@ -2,11 +2,8 @@
 title: '7 Ways To Break Through A Creative Block'
 published: true
 date: '21-06-2016 16:16'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

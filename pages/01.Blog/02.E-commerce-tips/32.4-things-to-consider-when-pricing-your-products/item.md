@@ -2,11 +2,8 @@
 title: '4 Things To Consider When Pricing Your Products'
 published: true
 date: '26-01-2016 13:13'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

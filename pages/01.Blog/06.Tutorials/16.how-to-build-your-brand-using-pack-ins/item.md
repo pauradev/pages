@@ -1,11 +1,8 @@
 ---
 title: 'How To Build Your Brand Using “Pack-Ins”'
 published: true
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

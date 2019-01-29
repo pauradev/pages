@@ -2,11 +2,8 @@
 title: '6 Ways To Market Your Brand On A Budget'
 published: true
 date: '06-02-2018 10:59'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

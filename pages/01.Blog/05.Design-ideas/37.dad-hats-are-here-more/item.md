@@ -2,11 +2,8 @@
 title: 'Dad Hats Are Here + More!'
 published: true
 date: '07-03-2017 13:11'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

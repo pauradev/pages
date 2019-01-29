@@ -1,11 +1,8 @@
 ---
 title: 'How To Get A T-shirt Designed For Around $5'
 published: true
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

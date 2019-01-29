@@ -2,11 +2,8 @@
 title: 'Introducing: The Curvy Line'
 published: true
 date: '30-05-2018 09:55'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

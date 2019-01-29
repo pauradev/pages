@@ -2,11 +2,8 @@
 title: 'Introducing: New Eco-Friendly Farmer''s Market Bags!'
 published: true
 date: '11-10-2016 12:51'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true

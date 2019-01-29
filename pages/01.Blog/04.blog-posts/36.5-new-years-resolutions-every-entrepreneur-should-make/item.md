@@ -2,11 +2,8 @@
 title: '5 New Year''s Resolutions Every Entrepreneur Should Make'
 published: true
 date: '27-12-2016 12:41'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - post
+
+
 hide_git_sync_repo_link: true
 external_links:
     process: true
