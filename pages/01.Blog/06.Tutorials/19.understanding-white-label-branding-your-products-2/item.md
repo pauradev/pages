@@ -1,7 +1,7 @@
 ---
 title: 'Integrate with Woocommerce'
 media_order: 'woo.jpg,woo2.PNG,woo1.PNG,woo3.PNG,woo4.PNG,woo5.PNG,woo6.PNG,woo8.PNG,woo7.PNG'
-published: true
+published: false
 date: '22-08-2017 19:36'
 taxonomy:
     category:
@@ -35,7 +35,6 @@ post_name: understanding-white-label-branding-your-products
 status: publish
 post_type: post
 ---
-
 
 ![](woo.jpg)
 Having trouble setting up Woocomerce? Please Take a look through this handy guide that details the instilation steps and trouble shoots some common problems you may have. This article is for you is you have previously tried to setup a store but can't get orders to go through, orders were working but aren't now or if you went through the installation guide and are still having problems. 
