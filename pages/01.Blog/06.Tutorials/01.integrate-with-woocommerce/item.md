@@ -1,8 +1,9 @@
 ---
 title: 'Integrate with Woocommerce'
 media_order: 'woo.jpg,woo2.PNG,woo4.PNG,woo5.PNG,woo6.PNG,woo8.PNG,woo7.PNG,woo3.PNG,woo9.PNG,woo10.PNG'
-published: false
+published: true
 date: '22-08-2017 19:36'
+publish_date: '29-01-2019 11:59'
 taxonomy:
     category:
         - tutorial
