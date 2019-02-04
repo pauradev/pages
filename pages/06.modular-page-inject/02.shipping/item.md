@@ -37,38 +37,38 @@ Items that are on a separate line are shipped in separate packages due to the na
 </tr>
 <tr>
 <td width="136">T-Shirts, Bags, Beanies</td>
-<td width="67">$5.00</td>
-<td width="61">$1.00</td>
+<td width="67">$5.50</td>
+<td width="61">$1.25</td>
 </tr>
 <tr>
 <td>Sweatshirts</td>
-<td>$8.00</td>
-<td>$1.00</td>
+<td>$8.50</td>
+<td>$1.25</td>
 </tr>
 <tr>
 <td>Brimmed Hats</td>
-<td>$6.50</td>
-<td>$1.00</td>
+<td>$7.00</td>
+<td>$1.25</td>
 </tr>
 <tr>
 <td>Posters (8x10, 12x16, 12x12, 12x18, 16x20, 18x24)</td>
-<td>$8.00</td>
+<td>$8.50</td>
 <td>$0.00</td>
 </tr>
 <tr>
 <td>Posters (24x36)</td>
-<td>$11.00</td>
+<td>$11.50</td>
 <td>$0.00</td>
 </tr>
 <tr>
 <td>Mugs</td>
-<td>$7.00</td>
-<td>$5.00</td>
+<td>$7.50</td>
+<td>$5.25</td>
 </tr>
 <tr>
 <td>Pillows</td>
-<td>$11.00</td>
-<td>$6.00</td>
+<td>$11.50</td>
+<td>$6.25</td>
 </tr>
 </tbody>
 </table>
@@ -85,33 +85,33 @@ Tracking is only available when the package is in the United States.  Print Aur
 </tr>
 <tr>
 <td width="136">T-Shirts, Bags, Beanies</td>
-<td width="67">$8.00</td>
-<td width="61">$1.00</td>
+<td width="67">$8.50</td>
+<td width="61">$1.25</td>
 </tr>
 <tr>
 <td>Sweatshirts</td>
-<td>$10.00</td>
-<td>$2.00</td>
+<td>$10.50</td>
+<td>$2.25</td>
 </tr>
 <tr>
 <td>Brimmed Hats</td>
-<td>$8.00</td>
-<td>$2.00</td>
+<td>$8.50</td>
+<td>$2.25</td>
 </tr>
 <tr>
 <td>Posters (8x10, 12x16, 12x12, 12x18, 16x20, 18x24)</td>
-<td>$12.00</td>
+<td>$12.50</td>
 <td>$0.00</td>
 </tr>
 <tr>
 <td>Posters (24x36)</td>
-<td>$16.00</td>
+<td>$16.50</td>
 <td>$0.00</td>
 </tr>
 <tr>
 <td>Mugs</td>
-<td>$11.00</td>
-<td>$7.00</td>
+<td>$11.50</td>
+<td>$7.25</td>
 </tr>
 </tbody>
 </table>
@@ -128,33 +128,33 @@ We will ship USPS First Class to just about anywhere your customer is located. 
 </tr>
 <tr>
 <td width="136">T-Shirts, Bags, Beanies</td>
-<td width="67">$12.00</td>
-<td width="61">$1.00</td>
+<td width="67">$12.50</td>
+<td width="61">$1.25</td>
 </tr>
 <tr>
 <td>Sweatshirts</td>
-<td>$15.00</td>
-<td>$2.00</td>
+<td>$15.50</td>
+<td>$2.25</td>
 </tr>
 <tr>
 <td>Brimmed Hats</td>
-<td>$15.00</td>
-<td>$3.00</td>
+<td>$15.50</td>
+<td>$3.25</td>
 </tr>
 <tr>
 <td>Posters (8x10, 12x16, 12x12, 12x18, 16x20, 18x24)</td>
-<td>$16.00</td>
+<td>$16.50</td>
 <td>$0.00</td>
 </tr>
 <tr>
 <td>Posters (24x36)</td>
-<td>$20.00</td>
+<td>$20.50</td>
 <td>$0.00</td>
 </tr>
 <tr>
 <td>Mugs</td>
-<td>$17.00</td>
-<td>$8.00</td>
+<td>$17.50</td>
+<td>$8.25</td>
 </tr>
 </tbody>
 </table>
@@ -172,7 +172,7 @@ All of our cell phone cases are carefully packaged in reinforced cardboard packa
 </tr>
 <tr>
 <td> US Standard Shipping</td>
-<td>$5.00</td>
+<td>$5.50</td>
 </tr>
 </tbody>
 </table>
@@ -186,7 +186,7 @@ All of our cell phone cases are carefully packaged in reinforced cardboard packa
 </tr>
 <tr>
 <td>Asendia</td>
-<td>$10.80</td>
+<td>$11.30</td>
 </tr>
 </tbody>
 </table>
