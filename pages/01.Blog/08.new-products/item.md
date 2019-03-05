@@ -1,7 +1,7 @@
 ---
 title: 'New Products!'
 media_order: 'Depositphotos_199702558_xl-2015.png,silver travel mug-With Design_blog.png,white waterbottle_mockup1 (3)_blog.jpg,silver waterbottle_With Design.png'
-published: false
+published: true
 date: '15:35 04-03-2019'
 hide_git_sync_repo_link: false
 blog_url: /blog
