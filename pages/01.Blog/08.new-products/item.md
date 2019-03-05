@@ -41,7 +41,7 @@ Remember you can include these products into your shop risk free. We only charge
 
 ![](white%20waterbottle_mockup1%20%283%29_blog.jpg)
 
-For More information about these great products you can check them out here. https://printaura.com/drinkware/   
+For More information about these great products you can check them out here. [https://printaura.com/drinkware/](https://printaura.com/drinkware/)
 
-For an inspiring water bottle for a great cause check out this link! https://www.littlestwarrior.com/products/advocate-like-a-mother-water-bottle
+For an inspiring water bottle for a great cause check out this link! [https://www.littlestwarrior.com/products/advocate-like-a-mother-water-bottle](https://www.littlestwarrior.com/products/advocate-like-a-mother-water-bottle)
 
