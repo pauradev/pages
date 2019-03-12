@@ -11,7 +11,7 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-[![](Depositphotos_199702558_xl-2015.png)](https://blog.printaura.com/blog/blog-posts/25quotestoliveby)
+[![](Depositphotos_199702558_xl-2015.png)](https://blog.printaura.com/blog/design-ideas/new-products)
 
 
 ## New Products!
