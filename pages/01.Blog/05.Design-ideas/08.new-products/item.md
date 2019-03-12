@@ -11,7 +11,8 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-![](Depositphotos_199702558_xl-2015.png)
+[![](Depositphotos_199702558_xl-2015.png)](https://blog.printaura.com/blog/blog-posts/25quotestoliveby)
+
 
 ## New Products!
 We have added two new products to help boost your sales just in time for summer.  Those new products are: 15 ounce Stainless Steel Travel Mugs and 17 ounce Aluminum Water Bottle. 
