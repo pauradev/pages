@@ -19,7 +19,6 @@ We have added two new products to help boost your sales just in time for summer.
 
 ===
 
-![](Depositphotos_199702558_xl-2015.png)
 
 We have added two new products to help boost your sales just in time for summer.  Those new products are: 15 ounce Stainless Steel Travel Mugs and 17 ounce Aluminum Water Bottle. 
 
