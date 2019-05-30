@@ -2,6 +2,10 @@
 title: '21 Amazing Free T-Shirt Mockups'
 media_order: '20.jpg,21.jpg,16a.jpg,14.jpg,15.jpg,17.jpg,18.jpg,19.jpg,16.jpg,13.jpg,12.jpg,11.jpg,10.jpg,9.jpg,8.jpg,7.jpg,6.jpg,5.jpg,4.jpg,3.jpg,2.jpg,1.jpg,mockup blog.jpg,bonus.jpg'
 date: '14:27 21-08-2018'
+taxonomy:
+    category:
+        - blog
+        - tutorial
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
