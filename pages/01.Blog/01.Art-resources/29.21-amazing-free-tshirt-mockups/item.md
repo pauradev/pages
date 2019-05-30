@@ -4,8 +4,8 @@ media_order: '20.jpg,21.jpg,16a.jpg,14.jpg,15.jpg,17.jpg,18.jpg,19.jpg,16.jpg,13
 date: '14:27 21-08-2018'
 taxonomy:
     category:
-        - blog
         - tutorial
+        - blog
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
