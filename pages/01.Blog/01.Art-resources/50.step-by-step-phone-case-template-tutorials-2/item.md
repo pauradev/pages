@@ -1,7 +1,7 @@
 ---
-title: 'Step-By-Step Phone Case Template Tutorials 2'
-published: true
-date: '20-09-2016 09:45'
+title: 'Phone Case Template Tutorial'
+published: false
+date: '07-06-2019 09:45'
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -31,10 +31,10 @@ status: publish
 post_type: post
 ---
 
-[![phone case tutorial fb](https://printaura.com/wp-content/uploads/2016/09/phone-case-tutorial-fb.jpg)](https://blog.printaura.com/blog/art-resources/step-by-step-phone-case-template-tutorials)
+[![phone case tutorial fb](https://printaura.com/wp-content/uploads/2016/09/phone-case-tutorial-fb.jpg)](https://blog.printaura.com/blog/art-resources/phone-case-template-tutorial)
 
 <h4>Easy Set Up</h4>
-We know introducing new cell phone cases means that out members have to take the time to set up new products. We know setting up a new product can be a little tricky the first time around. That's why we have provided easy to use templates for both image requirements and phone mockups. We want you guys to be excited about new products, so we try to make it as easy as possible. Check out our step-by-step phone case template tutorials below!
+We know introducing new cell phone cases means that out members have to take the time to set up new products. That's why we have provided easy to use templates for both image requirements and phone mockups. We want you guys to be excited about new products, so we try to make it as easy as possible. Check out our step-by-step phone case template tutorials below!
 
 <h4>Artwork Requirement Templates</h4>
 
@@ -119,7 +119,4 @@ And now your mockup is ready to add to your storefront!
 Check out the video tutorial to see these steps happening in live action!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uWZS5ZZ27Yo" frameborder="0" allowfullscreen></iframe>
-
-<h4>Tutorial Requests</h4>
-Would you like to see step-by-step tutorials for anything else? Please let us know in the comment section below. We really want to make things as easy and painless for our members as possible. If you'd like help or are struggling with understanding anything, let us know! 
 
