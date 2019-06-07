@@ -1,5 +1,5 @@
 ---
-title: 'Phone Case Template Tutorial'
+title: 'Phone Case Template Tutorials'
 published: true
 date: '07-06-2019 09:45'
 hide_git_sync_repo_link: true
