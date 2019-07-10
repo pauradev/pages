@@ -1,6 +1,6 @@
 ---
 title: 'Integrate with Woocommerce - Updated for Printaura Plugin V4.0.1'
-media_order: 'woo.jpg,woo2.PNG,woo4.PNG,woo5.PNG,woo6.PNG,woo8.PNG,woo7.PNG,woo3.PNG,woo9.PNG,woo10.PNG,woo1.PNG'
+media_order: 'woo.jpg,woo2.PNG,woo4.PNG,woo5.PNG,woo6.PNG,woo8.PNG,woo7.PNG,woo3.PNG,woo9.PNG,woo10.PNG,woo11@3x.jpg,woo1.PNG'
 published: true
 date: '29-01-2019 19:36'
 publish_date: '29-01-2019 11:59'
@@ -62,8 +62,7 @@ Under the field "Woocommerce Shop" enter the URL of your Woocommerce store it th
 In a new tab go to your Woocommerce Store Admin panel and navigate to Plugins > Add New. In the search box type 'Printaura'. The Printaura-Woocomerce plugin will show up. Install and activate it.
 
 ---
-![](woo11@3x.jpg)
-
+![](woo11.jpg)
 ---
 >#### Step 4:
 Return to the Woocommerce Store Installation tab.
