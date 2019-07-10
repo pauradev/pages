@@ -2,7 +2,7 @@
 title: 'Integrate with Woocommerce - Updated for Printaura Plugin V4.0.1'
 media_order: 'woo.jpg,woo2.PNG,woo4.PNG,woo5.PNG,woo6.PNG,woo8.PNG,woo7.PNG,woo3.PNG,woo9.PNG,woo10.PNG,woo11@3x.jpg,woo1.PNG'
 published: true
-date: '29-01-2019 19:36'
+date: '10-07-2019 15:42'
 publish_date: '10-07-2019 15:41'
 taxonomy:
     category:
