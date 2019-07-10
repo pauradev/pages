@@ -1,8 +1,6 @@
 ---
 title: 'How To Create Your Own T-Shirt Mockup in 5 Easy Steps'
 published: true
-
-
 hide_git_sync_repo_link: true
 external_links:
     process: true

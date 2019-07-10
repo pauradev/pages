@@ -1,8 +1,6 @@
 ---
 title: 'How To Design An Ugly Christmas Sweater & Free Resources'
 published: true
-
-
 hide_git_sync_repo_link: true
 external_links:
     process: true

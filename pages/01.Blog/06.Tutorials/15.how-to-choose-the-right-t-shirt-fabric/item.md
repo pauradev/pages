@@ -1,8 +1,6 @@
 ---
 title: 'How To Choose The Right T-Shirt Fabric'
 published: true
-
-
 hide_git_sync_repo_link: true
 external_links:
     process: true

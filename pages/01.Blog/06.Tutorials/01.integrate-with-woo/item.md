@@ -1,13 +1,12 @@
 ---
 title: 'Integrate with Woocommerce 2'
 media_order: 'woo.jpg,woo2.PNG,woo4.PNG,woo5.PNG,woo6.PNG,woo8.PNG,woo7.PNG,woo3.PNG,woo9.PNG,woo10.PNG'
-published: true
+published: false
 date: '29-01-2019 19:36'
 publish_date: '29-01-2019 11:59'
 taxonomy:
     category:
         - tutorial
-    tag: ''
 hide_git_sync_repo_link: true
 external_links:
     process: true

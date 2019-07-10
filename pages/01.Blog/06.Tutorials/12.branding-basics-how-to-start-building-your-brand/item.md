@@ -1,8 +1,6 @@
 ---
 title: 'Branding Basics: How To Start Building Your Brand'
 published: true
-
-
 hide_git_sync_repo_link: true
 external_links:
     process: true

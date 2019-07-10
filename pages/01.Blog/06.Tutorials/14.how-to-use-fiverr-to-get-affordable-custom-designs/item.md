@@ -1,8 +1,6 @@
 ---
 title: 'How To Use Fiverr To Get Affordable Custom Designs'
 published: true
-
-
 hide_git_sync_repo_link: true
 external_links:
     process: true
