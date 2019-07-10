@@ -34,7 +34,6 @@ post_type: post
 [![phone case tutorial fb](https://printaura.com/wp-content/uploads/2016/09/phone-case-tutorial-fb.jpg)](https://blog.printaura.com/blog/art-resources/phone-case-template-tutorial)
 
 <h4>Easy Set Up</h4>
-another change
 We know introducing new cell phone cases means that out members have to take the time to set up new products. That's why we have provided easy to use templates for both image requirements and phone mockups. We want you guys to be excited about new products, so we try to make it as easy as possible. Check out our step-by-step phone case template tutorials below!
 
 <h4>Artwork Requirement Templates</h4>
