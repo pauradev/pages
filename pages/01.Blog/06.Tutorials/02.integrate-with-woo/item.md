@@ -1,6 +1,6 @@
 ---
 title: 'Integrate with Woocommerce'
-media_order: 'woo.jpg,woo2.PNG,woo4.PNG,woo5.PNG,woo6.PNG,woo8.PNG,woo7.PNG,woo3.PNG,woo9.PNG,woo10.PNG'
+media_order: 'woo.jpg,woo2.PNG,woo4.PNG,woo5.PNG,woo6.PNG,woo8.PNG,woo7.PNG,woo3.PNG,woo9.PNG,woo10.PNG,woo1.PNG,woo11@3x.jpg'
 published: true
 date: '29-01-2019 19:36'
 publish_date: '29-01-2019 11:59'
@@ -40,7 +40,6 @@ status: publish
 
 Please Take a look through this handy guide that details the installation steps and trouble shoots some common problems you may have. This article is for you is you have previously tried to setup a store but can't get orders to go through, orders were working but aren't now or if you went through the installation guide and are still having problems. 
  
-
 ===
 
 ---
@@ -53,18 +52,17 @@ Click the link titled "click here" to begin.
 
 ---
 >#### Step 2:
-First download the current PrintAura Plugin from the "PrintAura Woocommerce Plugin" link and save it to a location, such as My Desktop, for later.
-Under the field "Woocommerce Shop" enter the URL of your Woocommerce store it the text block, starting with "http://" or "https://".
+Under the field "Woocommerce Shop" enter the URL of your Woocommerce store it the text block, starting with "http://" or "https://". Do not click install yet.
 
 ---
 ![](woo2.PNG)
 
 ---
 >#### Step 3:
-In a new tab go to your Woocommerce Store Admin panel and navigate to Plugins > Upload Plugin then "Chose File" and select the .zip file you downloaded in the last step. Click "Install Now" to install the PrintAura-Woocommerce Plugin.
+In a new tab go to your Woocommerce Store Admin panel and navigate to Plugins > Add New. In the search box type 'Printaura'. The Printaura-Woocomerce plugin will show up. Install and activate it.
 
 ---
-![](woo4.PNG)
+![](woo11@3x.jpg)
 
 ---
 >#### Step 4:
