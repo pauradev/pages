@@ -1,5 +1,6 @@
 ---
 title: Shutterstock
+media_order: gallery-2948052_1280.jpg
 published: false
 date: '07-06-2019 09:45'
 hide_git_sync_repo_link: true
@@ -31,7 +32,7 @@ status: publish
 post_type: post
 ---
 
-[![phone case tutorial fb](https://printaura.com/wp-content/uploads/2016/09/phone-case-tutorial-fb.jpg)](https://blog.printaura.com/blog/art-resources/shutterstock/)
+[![phone case tutorial fb](gallery-2948052_1280.jpg)](https://blog.printaura.com/blog/art-resources/shutterstock/)
 
 	Images convey thoughts, emotions, and ideas without the need for words. Whether you're an artist hoping to profit from your own creative ideas, a business owner with the desire to market your brand, or even just someone with a fun idea, Print Aura can help you turn ideas into physical products.
     
