@@ -32,7 +32,7 @@ status: publish
 post_type: post
 ---
 
-[![sstk_partners](gallery-2948052_1280.jpg)](https://blog.printaura.com/blog/art-resources/shutterstock/)
+[![sstk_partners](gallery-2948052_1280.jpg)](https://blog.printaura.com/blog/art-resources/shutterstock)
 
 #### New Collections
 Images convey thoughts, emotions, and ideas without the need for words. Whether you're an artist hoping to profit from your own creative ideas, a business owner with the desire to market your brand, or even just someone with a fun idea, Print Aura can help you turn ideas into physical products.
