@@ -52,6 +52,6 @@ At Print Aura we believe our competitive advantage to you in growing your busine
     
 We know that apparel is an important part of growing your brand or business and the funding source of many organizations and special interests. We want to be your partner in furthering your vision.
     
-Start an online merchandise shop with your brand right now! [](https://printaura.com/register/)
+Start an online merchandise shop with your brand right now! [Sign Up](https://printaura.com/register/)
 
 
