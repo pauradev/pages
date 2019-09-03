@@ -44,11 +44,14 @@ We're thrilled to announce an API integration with Shutterstock a leading global
     
 We at Print Aura have determined that one of the key, yet limiting, factors in launching successful merchandise campaigns is access to high quality licensed images. Print Aura, in collaboration with Shutterstock, allows you to gain dynamic looking images created by talented professional creators with the correct license and prices that will make custom merchandise design easy, reduce overhead and increase your profits. You will have a treasure trove of images, with licensing provided, that can be used with a simple click of your mouse to create individual items or merchandise campaigns.
 
-#### Get The Images You Want    
+#### Get The Images You Want
+
+![](simba.PNG)
+
 At Print Aura we believe our competitive advantage to you in growing your business lies in helping you to vertically integrate all the complex factors that make up this market segment. We have supported you with simple and easy to integrate platforms, we have provided you with quality printing, we deliver your product to your customer in 2-4 days. Now we can hand you the ultimate tool to use, high quality, copyright free images, at your fingertips...immediately...at unbelievable cost to you.
     
 We know that apparel is an important part of growing your brand or business and the funding source of many organizations and special interests. We want to be your partner in furthering your vision.
     
-Start an online merchandise shop with your brand right now! Go to https://printaura.com/register/
+Start an online merchandise shop with your brand right now! [](https://printaura.com/register/)
 
 
