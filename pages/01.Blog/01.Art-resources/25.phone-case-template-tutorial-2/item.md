@@ -46,7 +46,7 @@ We at Print Aura have determined that one of the key, yet limiting, factors in l
 
 #### Get The Images You Want
 
-![](simba.PNG)
+[![Simba](simba.PNG)](https://mockup.printaura.com)
 
 At Print Aura we believe our competitive advantage to you in growing your business lies in helping you to vertically integrate all the complex factors that make up this market segment. We have supported you with simple and easy to integrate platforms, we have provided you with quality printing, we deliver your product to your customer in 2-4 days. Now we can hand you the ultimate tool to use, high quality, copyright free images, at your fingertips...immediately...at unbelievable cost to you.
 
