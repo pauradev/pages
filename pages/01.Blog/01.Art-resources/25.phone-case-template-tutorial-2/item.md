@@ -1,5 +1,5 @@
 ---
-title: 'Phone Case Template Tutorials 2'
+title: Shutterstock
 published: false
 date: '07-06-2019 09:45'
 hide_git_sync_repo_link: true
@@ -31,92 +31,18 @@ status: publish
 post_type: post
 ---
 
-[![phone case tutorial fb](https://printaura.com/wp-content/uploads/2016/09/phone-case-tutorial-fb.jpg)](https://blog.printaura.com/blog/art-resources/phone-case-template-tutorial)
+[![phone case tutorial fb](https://printaura.com/wp-content/uploads/2016/09/phone-case-tutorial-fb.jpg)](https://blog.printaura.com/blog/art-resources/shutterstock/)
 
-<h4>Easy Set Up</h4>
-We know introducing new cell phone cases means that out members have to take the time to set up new products. That's why we have provided easy to use templates for both image requirements and phone mockups. We want you guys to be excited about new products, so we try to make it as easy as possible. Check out our step-by-step phone case template tutorials below!
+	Images convey thoughts, emotions, and ideas without the need for words. Whether you're an artist hoping to profit from your own creative ideas, a business owner with the desire to market your brand, or even just someone with a fun idea, Print Aura can help you turn ideas into physical products.
+    
+    We're thrilled to announce an API integration with Shutterstock a leading global provider of high-quality licensed photographs, vectors, illustrations, videos and music to businesses, marketing agencies and media organizations around the world. Working with its growing community of over 900,000 contributors, Shutterstock adds hundreds of thousands of images each week, and currently has more than 280 million images and more than 15 million video clips available.
+    
+    We at Print Aura have determined that one of the key, yet limiting, factors in launching successful merchandise campaigns is access to high quality licensed images. Print Aura, in collaboration with Shutterstock, allows you to gain dynamic looking images created by talented professional creators with the correct license and prices that will make custom merchandise design easy, reduce overhead and increase your profits. You will have a treasure trove of images, with licensing provided, that can be used with a simple click of your mouse to create individual items or merchandise campaigns.
+    
+    At Print Aura we believe our competitive advantage to you in growing your business lies in helping you to vertically integrate all the complex factors that make up this market segment. We have supported you with simple and easy to integrate platforms, we have provided you with quality printing, we deliver your product to your customer in 2-4 days. Now we can hand you the ultimate tool to use, high quality, copyright free images, at your fingertips...immediately...at unbelievable cost to you.
+    
+    We know that apparel is an important part of growing your brand or business and the funding source of many organizations and special interests. We want to be your partner in furthering your vision.
+    
+    Start an online merchandise shop with your brand right now! Go to https://printaura.com/register/
 
-<h4>Artwork Requirement Templates</h4>
-
-We have provided these templates to help make submitting artwork easy! These templates are pre-sized and setup to meet all of our artwork requirements for each individual cell phone case. Here's how to use them!
-
-<h3>1. Visit the phone case <a href="https://printaura.com/phone-cases" target="_blank">product page</a> </h3>
-
-<img src="https://printaura.com/wp-content/uploads/2016/09/page.jpg" alt="page" width="1440" height="900" class="alignnone size-full wp-image-2859986" />
-
-<h3>2. Click on the Image Requirements tab</h3>
-
-<img src="https://printaura.com/wp-content/uploads/2016/09/img-req-tab.jpg" alt="img req tab" width="1436" height="894" class="alignnone size-full wp-image-2859979" />
-
-<h3>3. Download Template</h3>
-Find the phone case type and model you want to add to your store and click "Download".
-
-<img src="https://printaura.com/wp-content/uploads/2016/09/download.jpg" alt="download" width="1440" height="900" class="alignnone size-full wp-image-2859978" />
-
-<h3>4. Save the template</h3>
-
-<img src="https://printaura.com/wp-content/uploads/2016/09/save-template.png" alt="save template" width="1440" height="900" class="alignnone size-full wp-image-2860064" />
-
-<h3>5. Open the template in Photoshop</h3>
-
-<img src="https://printaura.com/wp-content/uploads/2016/09/open-template.png" alt="open template" width="1440" height="900" class="alignnone size-full wp-image-2859984" />
-
-<h3>6. Add your artwork</h3>
-Paste your artwork into the template and move it under the template layer.>
-
-<img src="https://printaura.com/wp-content/uploads/2016/09/paste-img-req.jpg" alt="paste img req" width="1440" height="900" class="alignnone size-full wp-image-2859987" />
-
-<h3>7. Resize and place your artwork</h3>
-Your artwork should fill up the entire document. The blue lines represent where the image will be wrapped around the sides of the phone case. 
-
-<img src="https://printaura.com/wp-content/uploads/2016/09/size-art-req.png" alt="size art req" width="1440" height="900" class="alignnone size-full wp-image-2860080" />
-
-<h3>8. Remove the template layer</h3>
-
-<img src="https://printaura.com/wp-content/uploads/2016/09/remove-layer.png" alt="remove layer" width="1440" height="900" class="alignnone size-full wp-image-2859993" />
-
-<h3>9. Save your new image as .png</h3>
-And now your artwork is all set up and ready to submit!
-
-<strong>NOTE:</strong> If you are creating artwork for a clear case, light colors will not print. Light colors will appear translucent. 
-
-<h4> Mockup Templates </h4>
-
-We have provided these templates to make creating a mockup easy! You can showcase what your artwork will look like printed onto the case and model of your choosing. You can also feel free to use these mockups in your store front. Here's how to use them!
-
-<h3>1. Have your artwork properly sized </h3>
-Make sure to complete the artwork requirement template first.
-<h3>2. Visit the phone case <a href="https://printaura.com/phone-cases" target="_blank">product page</a>. </h3>
-
-<img src="https://printaura.com/wp-content/uploads/2016/09/page.jpg" alt="page" width="1440" height="900" class="alignnone size-full wp-image-2859986" />
-
-<h3>3. Click on the Mockups tab</h3>
-
-<img src="https://printaura.com/wp-content/uploads/2016/09/mockup-tab.jpg" alt="mockup tab" width="1440" height="900" class="alignnone size-full wp-image-2859980" />
-
-<h3>4. Download The Template </h3>
-Find the phone case type and model you want to add to your store and click "Download".
-
-<img src="https://printaura.com/wp-content/uploads/2016/09/download.jpg" alt="download" width="1440" height="900" class="alignnone size-full wp-image-2859978" />
-
-<h3>5. Save the template</h3>
-
-<img src="https://printaura.com/wp-content/uploads/2016/09/save-mockup.png" alt="save mockup" width="1440" height="900" class="alignnone size-full wp-image-2860048" />
-
-<h3>6. Open the template in Photoshop</h3>
-
-<img src="https://printaura.com/wp-content/uploads/2016/09/open-mockup.png" alt="open mockup" width="1440" height="900" class="alignnone size-full wp-image-2859983" />
-
-<h3>7. Add your artwork</h3>
-Paste in the artwork from your image requirement template and move it under the mockup layer.
-
-<img src="https://printaura.com/wp-content/uploads/2016/09/paste-mockup.jpg" alt="paste mockup" width="1440" height="900" class="alignnone size-full wp-image-2859988" />
-
-<h3>8. Save your new mockup</h3>
-And now your mockup is ready to add to your storefront! 
-
-<h4>Watch the Tutorial</h4>
-Check out the video tutorial to see these steps happening in live action!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uWZS5ZZ27Yo" frameborder="0" allowfullscreen></iframe>
 
