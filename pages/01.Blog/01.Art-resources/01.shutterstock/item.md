@@ -1,8 +1,8 @@
 ---
 title: 'Shutterstock Integration'
 media_order: gallery-2948052_1280.jpg
-published: false
-date: '07-06-2019 09:45'
+published: true
+date: '03-09-2019 09:45'
 hide_git_sync_repo_link: true
 external_links:
     process: true
