@@ -20,7 +20,7 @@ display_post_summary:
     enabled: false
 ---
 
-![](2019-hoildaydeadlines.png)
+![https://blog.printaura.com/admin/pages/blog/product-updates/printaura-blog](2019-hoildaydeadlines.png)
 
 ## Domestic
 
