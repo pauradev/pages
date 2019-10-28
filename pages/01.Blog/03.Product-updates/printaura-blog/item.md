@@ -8,6 +8,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+hide_from_post_list: false
 content:
     items: '- ''@self.children'''
     limit: '5'
@@ -22,6 +23,13 @@ display_post_summary:
 ---
 
 [![](2019-hoildaydeadlines.png)](https://blog.printaura.com/blog/product-updates/printaura-blog)
+
+It's that time of the year again. The holiday season is full swing, and it's time to start thinking about holiday orders! One of the most important things to consider when it comes to holiday orders is shipping time! As a seller, you will want to ensure that purchases made at your store will arrive on time for the holidays. It's the season of giving and there's nothing more frustrating than being left empty handed because a gift arrived late.
+
+How can you make sure your customers get their gifts on time? SHARE these holiday order deadlines.
+
+2019 Holiday Order Deadlines
+Please make sure your customers place their orders by the dates below to ensure we make USPS deadlines for products to arrive on or before December 24th.
 
 ## Domestic
 
