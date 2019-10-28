@@ -9,17 +9,16 @@ show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
 content:
-    items:
-        - '@self.children'
-    limit: 5
+    items: '- ''@self.children'''
+    limit: '5'
     order:
         by: date
         dir: desc
-    pagination: true
-    url_taxonomy_filters: true
-bricklayer_layout: true
+    pagination: '1'
+    url_taxonomy_filters: '1'
+bricklayer_layout: '1'
 display_post_summary:
-    enabled: false
+    enabled: '0'
 ---
 
 [![](2019-hoildaydeadlines.png)](https://blog.printaura.com/blog/product-updates/printaura-blog)
