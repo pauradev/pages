@@ -4,9 +4,7 @@ hide_git_sync_repo_link: false
 git_sync_repo_link: 'https://github.com/pauradev/pages'
 sitemap:
     changefreq: daily
-jscomments:
-    provider: googleplus
-visible: false
+visible: true
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: false
@@ -23,6 +21,8 @@ content:
 bricklayer_layout: true
 display_post_summary:
     enabled: true
+jscomments:
+    provider: googleplus
 display_child_page_titles: '0'
 display_content_titles: '1'
 hide_from_post_list: '1'
