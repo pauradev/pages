@@ -164,6 +164,34 @@ Notable Features:
  	<li>24/7 phone support</li>
  	<li>Great with Social Media</li>
 </ul>
+
+<h3>6. Email Octopus</h3>
+<img class="alignnone wp-image-8227985" src="https://printaura.com/wp-content/uploads/PurpleEmailOctopus.png" alt="EmaiLOctopus" width="310" height="55" />
+ 
+<a href="https://emailoctopus.com" target="_blank">Visit Website </a>
+Pricing: Free / Pro starting at $20 a month for 5000 subscribers.
+ 
+EmailOctopus is a simple, straightforward email marketing tool used for growing an audience and sending beautiful campaigns. It also has one of the most generous free plans on the market for up to 2,500 subscribers and is up to 60% cheaper than the likes of Mailchimp and other well-known names.
+
+Free Plan: Yes
+Chat Support: Yes
+Tracking: Yes
+Mobile Friendly: Yes
+Email Templates: Yes
+Reports: Yes
+ 
+<strong>Notable Features:</strong>
+<ul>
+<li>Free plan for up to 2,500 subscribers</li>
+<li>Customisable sign-up forms and landing pages</li>
+<li>Time-based autoresponders</li>
+<li>Segmentation based on custom fields and campaign activity</li>
+<li>Ability to import your own HTML email templates</li>
+<li>No limits on number of lists or the number of users within a team account</li>
+</ul>
+ 
+<hr />
+
 &nbsp;
 <h4>Your Favorites?</h4>
 Do you have a favorite email marketing software that we didn't list here? Do you have one you have tried and didn't care for? Let us know what services / software work (or didn't work) for you and your business!
