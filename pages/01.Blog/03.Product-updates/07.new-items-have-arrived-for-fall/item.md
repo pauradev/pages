@@ -30,6 +30,14 @@ comment_status: open
 post_name: 'New Items Have Arrived For Fall!'
 status: publish
 post_type: post
+taxonomy:
+    tag:
+        - new
+        - printing
+        - products
+        - inspiration
+feed:
+    limit: 10
 ---
 
 [![](fall%20arrivals.jpg)](/blog/product-updates/new-items-have-arrived-for-fall)
