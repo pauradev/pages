@@ -7,6 +7,14 @@ show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
 hide_from_post_list: false
+taxonomy:
+    tag:
+        - new
+        - feature
+        - printing
+        - products
+feed:
+    limit: 10
 ---
 
 <h2 style="color: #606060 !important;">1. Jumbo T-Shirt Printing Options</h2>
