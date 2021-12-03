@@ -7,6 +7,8 @@ taxonomy:
         - blog
     tag:
         - post
+        - new
+        - products
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -34,6 +36,8 @@ post_name: new-launch-iphone-8-and-8-plus-phone-cases
 status: publish
 post_type: post
 hide_from_post_list: false
+feed:
+    limit: 10
 ---
 
 <img class="alignnone size-full wp-image-11268547" src="https://printaura.com/wp-content/uploads/2017/10/iphone-8-fb-banner.jpg" alt="iphone 8 fb banner" width="1920" height="1001" />
