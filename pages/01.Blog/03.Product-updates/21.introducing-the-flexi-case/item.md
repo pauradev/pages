@@ -2,8 +2,11 @@
 title: 'Introducing: The Flexi Case!'
 published: true
 date: '15-05-2018 11:59'
-
-
+taxonomy:
+    category:
+        - blog
+    tag:
+        - post
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -35,7 +38,7 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2018/05/flexicase-fb.jpg" alt="flexicase fb" width="925" height="482" class="alignnone size-full wp-image-12713264" />
 
-<h4>All About The Flexi Case!</h4>
+<h2>All About The Flexi Case!</h2>
 
 <img src="https://printaura.com/wp-content/uploads/2018/05/flexi.jpg" alt="flexi" width="900" height="452" class="alignnone size-full wp-image-12713259" />
 
@@ -65,7 +68,7 @@ There are a few important things to take into consideration when creating design
 </ol>
 &nbsp;
 <img src="https://printaura.com/wp-content/uploads/2018/05/flexi2.jpg" alt="flexi2" width="900" height="584" class="alignnone size-full wp-image-12713258" />
-<h4>Design Examples</h4>
+<h2>Design Examples</h2>
 Here are just a few examples of the kind of designs you can create with a clear frosted case! Let your mind wonder and get inspired! Just reminder, the Flexi cases are a bit frosted, and not completely clear. Our only limit is your own imagination!
 
 <h3>Abduction</h3>
@@ -126,5 +129,5 @@ Via <a href="https://www.etsy.com/shop/RaveStudioDesigns" target="_blank" rel="n
 <h3>Lake</h3>
 <img class="alignnone size-large wp-image-12713111" src="https://printaura.com/wp-content/uploads/2018/05/kale.jpg" alt="kale" width="570" height="456" />
 Via Via <a href="https://www.etsy.com/shop/RaveStudioDesigns" target="_blank" rel="noopener">RaveStudioDesigns</a>
-<h4>Add A Flexi Case To Your Shop Today!</h4>
+<h2>Add A Flexi Case To Your Shop Today!</h2>
 Templates and mockups are up and ready to go for the Flexi Case on our <a href="https://printaura.com/phone-cases" rel="noopener" target="_blank">Cell Phone Page</a>! Play around with your designs, or create some new ones. If you are already a Print Aura member, you know that adding your designs to our items and listing them for sale in your shop is a risk-free endeavor! If they don't sell, there's no loss to you because we only print and ship things AFTER they sell. Try out these phone cases and see how your customers respond. The price on these will be very enticing!  

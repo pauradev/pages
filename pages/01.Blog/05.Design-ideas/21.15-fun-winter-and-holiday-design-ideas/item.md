@@ -2,19 +2,19 @@
 title: '15 Fun Winter and Holiday Design Ideas'
 published: true
 date: '28-11-2017 14:57'
-
-
+taxonomy:
+    category:
+        - blog
+    tag:
+        - post
 hide_git_sync_repo_link: true
 external_links:
     process: true
     target: _self
-routable: true
-visible: true
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
-hide_from_post_list: true
 content:
     items: '- ''@self.children'''
     limit: '5'
@@ -33,13 +33,14 @@ comment_status: open
 post_name: 15-fun-winter-and-holiday-design-ideas
 status: publish
 post_type: post
+hide_from_post_list: false
 ---
 
 <img src="https://printaura.com/wp-content/uploads/2017/11/holiday-blog.jpg" alt="holiday blog" width="1452" height="757" class="alignnone size-full wp-image-12604541" />
 
-<h4>Ready For The Winter?</h4>
+<h2>Ready For The Winter?</h2>
 With winter in full swing and Holiday order deadlines approaching, now is the time to make sure your shop is winterized! We put together some fun winter and holiday designs to help inspire your own artistic ideas! We offer plenty of products to put winter and holiday designs onto including sweaters, beanies, mugs, and pillows. Get in the spirit and add some to your shop today.
-<h4>15 Fun Winter and Holiday Design Ideas</h4>
+<h2>15 Fun Winter and Holiday Design Ideas</h2>
 From ugly Christmas sweaters, to mugs for warm holiday drinks, to cozy and festive pillows, you're bound to have a winning idea! Let these fun designs inspire you to create your own.
 
 <h3>Apparel</h3>

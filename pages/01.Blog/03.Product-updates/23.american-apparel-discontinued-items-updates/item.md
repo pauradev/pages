@@ -2,8 +2,11 @@
 title: 'American Apparel: Discontinued Items & Updates'
 published: true
 date: '12-12-2017 11:22'
-
-
+taxonomy:
+    category:
+        - blog
+    tag:
+        - post
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -34,7 +37,7 @@ hide_from_post_list: false
 ---
 
 <img src="https://printaura.com/wp-content/uploads/2017/12/another-AA-update-copy.jpg" alt="another AA update copy" width="1920" height="1002" class="alignnone size-full wp-image-12622963" />
-<h4>American Apparel Update</h4>
+<h2>American Apparel Update</h2>
 Before we get started, if you've missed our first few American Apparel Update blogs, take a read to get caught up!
 
 1. <a href="https://printaura.com/american-apparel-whats-going-on/" target="_blank">American Apparel - What's Going On?</a>
@@ -43,7 +46,7 @@ Before we get started, if you've missed our first few American Apparel Update bl
 To quickly summarize, American Apparel was bought out by Gildan, a Canadian based apparel company. During this acquisition period, we were unaware of what would become of the once exclusively American Made company. We hypothesized that the company wasn't going anywhere, but that all the items may not be "Made in America" anymore.
 
 Our instincts were right. We've finally been given the run down of what is going on with American Apparel! Gildan will continue to manufacture some (10 to be exact) of American Apparel's products in The United States. The rest will no longer be "Made in America".
-<h4>Discontinued Items</h4>
+<h2>Discontinued Items</h2>
 Many of the colors of the American Made items were discontinued by Gildan, as well as some items. We've decided to discontinue these items, as well as the items that are now being made outside of America. These items will be officially discontinued on January 1st, 2018.
 
 <strong>2001</strong>

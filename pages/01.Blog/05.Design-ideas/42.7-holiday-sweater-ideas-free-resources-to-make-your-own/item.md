@@ -2,8 +2,11 @@
 title: '7 Holiday Sweater Ideas + FREE Resources To Design Your Own'
 published: true
 date: '10-11-2015 14:53'
-
-
+taxonomy:
+    category:
+        - blog
+    tag:
+        - post
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -38,7 +41,7 @@ hide_from_post_list: false
 Holiday sweater season is upon us! People everywhere are looking for that special holiday sweater. Whether it’s someone looking to show off their festiveness, a friend looking for the most epic ugly Christmas sweater around, a Grinch looking to broadcast their disdain for the season via wardrobe choice, or a grandma looking to add a new addition to her favorites. No matter the reason, you can count on people being in search of that perfect holiday sweater around this time of the year.
 
 Adding a holiday themed garment to your store is a great way to get in the holiday spirit!
-<h4>7 Holiday Sweater Ideas</h4>
+<h2>7 Holiday Sweater Ideas</h2>
 Here are some pretty amazing holiday sweater designs we have rounded up for your enjoyment and inspiration!
 <h3>Punny</h3>
 Puns.. even Christmas cannot escape the puns. Love them or hate them .. the only sensible recourse is to make them into a shirt. Right?
@@ -82,7 +85,7 @@ This shirt is for the people who want you to remember what Christmas is really a
 <img class="aligncenter size-medium wp-image-1903035" src="https://printaura.com/wp-content/uploads/2015/11/women_s_jesus_christmas_sweater_flat_2_1-300x300.jpg" alt="jesus" width="300" height="300" />
 <p style="text-align: center;">via <a href="http://www.tipsyelves.com/jesus-christmas-sweater" target="_blank">TipsyElves</a></p>
 
-<h4>FREE Christmas Sweater Design Resources</h4>
+<h2>FREE Christmas Sweater Design Resources</h2>
 And since you all are amazing, here are some FREE resources to help get your sweater game on point!
 
 <strong>Images</strong>
@@ -105,7 +108,7 @@ And since you all are amazing, here are some FREE resources to help get your swe
 </ul>
 <strong>Now go forth and CREATE!</strong>
 *Note: The sweaters shown are intended to be inspiration for your own designs. Use of copyrighted material without consent is against the law. Get creative and come up with your own designs!
-<h4>Sell Your Holiday Sweater Creation!</h4>
+<h2>Sell Your Holiday Sweater Creation!</h2>
 After you've completed your ingenious design, it's time to start profiting from your hard work! Sell your design with Print Aura! We make it easy for you to get your designs out into the market place. There is no risk because you only pay for what you sell, and we take care of the printing and shipping for you!
 <p style="text-align: left;"><strong>Get started by checking out all the products Print Aura offers for customization!</strong></p>
 <a href="https://printaura.com/t-shirt-options/"><img class="size-full wp-image-1903431 aligncenter" src="https://printaura.com/wp-content/uploads/2015/11/holidaysweaters1.jpg" alt="get started" width="260" height="167" /></a>

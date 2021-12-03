@@ -2,8 +2,11 @@
 title: '6 Ways To Boost Holiday Sales'
 published: true
 date: '01-11-2016 16:54'
-
-
+taxonomy:
+    category:
+        - blog
+    tag:
+        - post
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -37,7 +40,7 @@ post_type: post
 
 We all know the holiday season is big for both traditional retail stores and eCommerce shops a like. Black Friday, Cyber Monday, and the weeks that follow are some of the biggest sales days of the entire year. It is important to really make the most out of this time of the year.
 
-<h4>6 Ways To Boost Holiday Sales</h4>
+<h2>6 Ways To Boost Holiday Sales</h2>
 
 Whether you own a physical storefront, or an online one, the holiday season is full of sales potential. Check out these 6 ways to ensure you make the best of the holiday season. 
 

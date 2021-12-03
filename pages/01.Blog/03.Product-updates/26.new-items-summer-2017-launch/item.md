@@ -2,8 +2,11 @@
 title: 'New Items: Summer 2017 Launch'
 published: true
 date: '25-07-2017 11:49'
-
-
+taxonomy:
+    category:
+        - blog
+    tag:
+        - post
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -33,11 +36,11 @@ post_type: post
 hide_from_post_list: false
 ---
 
-<h4>Summer Launch</h4>
+<h2>Summer Launch</h2>
 <img class="alignnone size-large wp-image-8687070" src="https://printaura.com/wp-content/uploads/2017/07/summer-blog-1024x534.jpg" alt="summer blog" width="980" height="511" />
 
 The sun is out, and man is it ever out! Things sure are heating up on this side of the world, and we thought it was high time we added some more summer items to choose from and add to your shops. With the recent heat wave, your customers probably aren't looking to buy sweaters or heavy tees. Add your designs to some of our new summer items and see how they do in your shop! As you know, there's no risk experimenting with products when you work with Print Aura! You only pay for what you sell, and items are printed and shipped as they are ordered. So go ahead! Experiment, play around, try something new!
-<h4>Staff Favorites</h4>
+<h2>Staff Favorites</h2>
 We've not only added new items, but new colors to choose from as well! Check out some of our favorites from the new line up of summer items!
 <h3>Women's Flowy Boxy Tee</h3>
 <a href="https://printaura.com/product-view/?v=1&amp;hdn=NDYz" target="_blank">Bella Canvas 8881</a>
@@ -90,7 +93,7 @@ We've not only added new items, but new colors to choose from as well! Check out
 <h3>Flexfit Classic Two Tone Trucker Cap</h3>
 <a href="https://printaura.com/embroidery" target="_blank">Yupoong 6006W</a>
 <img class="alignnone wp-image-8686890" src="https://printaura.com/wp-content/uploads/2017/07/SL-hat.png" alt="SL hat" width="289" height="195" />
-<h4>What Do You Want To See?</h4>
+<h2>What Do You Want To See?</h2>
 If you didn't see any items you are excited to add to your shop, let us know what you would like to see in the comment section down below. We strive to add items we feel everyone will love! If we are missing the mark, don't be shy about speaking up and letting us know what you want!
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 477px; left: 20px;">Save</span>

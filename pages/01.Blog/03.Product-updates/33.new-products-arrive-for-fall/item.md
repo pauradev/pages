@@ -2,8 +2,11 @@
 title: 'New Products Arrive For Fall'
 published: true
 date: '25-10-2016 11:17'
-
-
+taxonomy:
+    category:
+        - blog
+    tag:
+        - post
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -36,7 +39,7 @@ hide_from_post_list: false
 <img class="alignnone size-full wp-image-2995714" src="https://printaura.com/wp-content/uploads/2016/10/fall-fb.jpg" alt="Fall Arrivals" width="1809" height="943" />
 
 Can you feel the crisp breeze in the air? It's finally starting to feel like fall and that means it's time to trade in the tank tops for cozy sweaters and long sleeves! We've added some great items for fall and they are just waiting to be printed with your amazing designs. Check them out, add you designs, and sell them for fall and winter!
-<h4>New Products For Fall</h4>
+<h2>New Products For Fall</h2>
 We try to keep our products current and offer what our members show interest in. We've added some great cozy items for fall including new earthy colors. We've also added more great youth items and farmer's market bags. Check them out!
 <h3><span style="color: #993300;">Cozy Additions</span></h3>
 These new long sleeve additions are sure to keep your customers warm and comfy on those chilly fall days
@@ -242,7 +245,7 @@ We are super excited to add these Eco-friendly organic farmers market bags! Your
 &nbsp;
 <h3><span style="color: #993300;">More Colors!</span></h3>
 We have also added more color options to many of our current items. Go check them out!
-<h4>Request A Product</h4>
+<h2>Request A Product</h2>
 Let us know what products you would like to see us offer! We choose products to add based on requests from our members, so speak up! If you don't see anything you like that we've added for fall, let us know what you want to sell your artwork on for Spring!
 <h6>Images courtesy of their respective  brands  <a href="http://www.econscious.net" target="_blank">Econscious</a>, <a href="http://www.nextlevelapparel.com" target="_blank">Next Level</a>, <a href="https://www.bellacanvas.com" target="_blank">Bella + Canvas</a>, <a href="http://www.mygildan.com" target="_blank">Gildan</a></h6>
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 412px; left: 20px;">Save</span>

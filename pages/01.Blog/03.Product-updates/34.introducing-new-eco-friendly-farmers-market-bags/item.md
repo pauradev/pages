@@ -2,8 +2,11 @@
 title: 'Introducing: New Eco-Friendly Farmer''s Market Bags!'
 published: true
 date: '11-10-2016 12:51'
-
-
+taxonomy:
+    category:
+        - blog
+    tag:
+        - post
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -34,7 +37,7 @@ hide_from_post_list: false
 ---
 
 <img class="alignnone size-full wp-image-3067503" src="https://printaura.com/wp-content/uploads/2016/10/market-tote-blog.jpg" alt="market tote blog" width="1920" height="844" />
-<h4>New Econscious Farmer's Market Bags</h4>
+<h2>New Econscious Farmer's Market Bags</h2>
 It's harvest season and that means farmers markets are in full swing and autumnal produce is at its freshest! From pumpkins to squashes to apples, the choices are bountiful. Your customers will feel proud to fill up these new eco-friendly bags up with the fall harvest, whether it's at the farmers market, or the grocery store. It's not just trendy to bring your own bags to markets and groceries stores, it's also good for the planet and the environment!
 
 <strong>So what makes these bags eco-friendly?</strong>
@@ -61,7 +64,7 @@ It's harvest season and that means farmers markets are in full swing and autumna
  	<li>Black</li>
 </ul>
 &nbsp;
-<h4>Design Inspiration</h4>
+<h2>Design Inspiration</h2>
 If you want to add a market bag to your shop, but aren't sure what kind of design to add, we've got you covered! We've put together a few examples to help get your creative juices going. You can do a lot with the farm fresh motif, but there are lots of other ways you can go too. Use your imagination and get designing!
 <h3>Oh Kale Yes!</h3>
 <img class="alignnone size-full wp-image-3066405" src="https://printaura.com/wp-content/uploads/2016/10/kale-yes.jpg" alt="kale yes" width="570" height="855" />
@@ -130,7 +133,7 @@ Via <a href="https://www.etsy.com/listing/401089253/farmers-market-tote-bag-eat-
 <img class="alignnone size-full wp-image-3066401" src="https://printaura.com/wp-content/uploads/2016/10/farm-to-table.jpg" alt="farm to table" width="570" height="570" />
 
 Via <a href="https://www.etsy.com/listing/253376077/farm-to-table-cotton-canvas-tote-bag?utm_campaign=Share&amp;utm_medium=PageTools&amp;utm_source=Pinterest" target="_blank">Lamudita</a>
-<h4>Add An Organic Tote Bag To Your Store Today!</h4>
+<h2>Add An Organic Tote Bag To Your Store Today!</h2>
 We have our new tote bags all set up and ready for you to add to your store! If you aren't into the whole market thing, they make great trick-or-treat bags too!
 
 Check out the new bags on out on the <a href="https://printaura.com/bags" target="_blank">Bags &amp; Totes Product Page</a>!

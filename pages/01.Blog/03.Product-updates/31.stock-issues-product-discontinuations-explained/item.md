@@ -2,8 +2,11 @@
 title: 'Stock Issues & Product Discontinuations: Explained!'
 published: true
 date: '13-12-2016 13:17'
-
-
+taxonomy:
+    category:
+        - blog
+    tag:
+        - post
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -34,9 +37,9 @@ hide_from_post_list: false
 ---
 
 <img class="alignnone size-full wp-image-3929998" src="https://printaura.com/wp-content/uploads/2016/12/stock-issues-blog.jpg" alt="stock issues blog" width="1700" height="699" />
-<h4>Stock Issues &amp; Discontinuation</h4>
+<h2>Stock Issues &amp; Discontinuation</h2>
 Since we do not outsource our printing, we are ordering new stock each and every day to keep up with our member's orders. Though 99.44% of our orders are shipped out without any issue, we do experience stock issues from time to time due to our dynamic and fast moving inventory. Items being out of stock or discontinued is a frustrating thing for all of us, and it is certainly not what we want! Since it does happen every now and then, we thought it was time we gave a detailed explanation about both why this happens, and what the procedure is when it does happens.
-<h4>Why Do Items Get Discontinued?</h4>
+<h2>Why Do Items Get Discontinued?</h2>
 Products can be discontinued for a couple of different reasons. Sometimes we have control over the discontinuation, and sometimes we don't. Here are the two main reasons a product will be discontinued.
 <h4>Manufacturer Discontinues Item</h4>
 This is when the company that produces an item, like American Apparel or Hanes, decides to stop making an item that we stock. Unfortunately when this happens we have no choice but to stop offering the item.
@@ -44,13 +47,13 @@ This is when the company that produces an item, like American Apparel or Hanes, 
 We only discontinue an item for this reason if there is an extremely low amount of the product being added to stores or bought by our members customers. This doesn't happen very often, but is necessary sometimes to add new products to our range. If this happens to an item you offer, you can always email us about re-adding it. We are happy to bring items back if enough people want them.
 <h3>Short Notice</h3>
 Sometimes items are discontinued and there's really nothing we can do about it. Since most of the companies we stock items from are large companies, we aren't always given advanced notice about discontinuations. With that being said, we do our best to keep our customers informed and on top of product additions and discontinuations.
-<h4>Why Do Items Go Out of Stock?</h4>
+<h2>Why Do Items Go Out of Stock?</h2>
 There are also a few different reasons an item can be out of stock. We do try very hard to keep everything we need for the day on hand, but sometimes issues do arise.
 <h4>Manufacturer Issues</h4>
 Sometimes our supplier experiences stocking issues. This can happen with certain items, or just certain colors of an item. When this happens, the stocking issue trickles down to us. Sometimes manufacturers also experience production delays which makes it hard for us to keep a steady amount of their product in stock.
 <h4>Surprise Demands</h4>
 Sometimes there is a random surge in demand for a specific item that is impossible to predict. This occurrence is very rare, but has happened in the past. A misjudgement of stocking needs on our part can happen, but has only occurred if there is an unprecedented surprise demand for one specific item.
-<h4>What Happens Next?</h4>
+<h2>What Happens Next?</h2>
 It is important to note that we do try to give our members as much notice as possible about stocking issues and product discontinuations, though it is not always possible. Trust us, we hate springing this stuff on you guys as much as you hate having it sprung on you!
 
 So what happens? There are two scenarios:
@@ -78,5 +81,5 @@ So, this is obviously the less desirable of the two scenarios. Sometimes we won'
  	<li>At this point we will email you about the stock issue ASAP. Again, if there are suitable alternatives to the item we will provide you with suggestions. You won't have to change it in your shop unless the item is going to be out of stock indefinitely.</li>
 </ol>
 &nbsp;
-<h4>Other Questions?</h4>
+<h2>Other Questions?</h2>
 If you have any other questions about discontinuations or stocking issues, please let us know. Trust us, we want our members to be happy and feeling stress free about the aspect of their business that we handle. It is truly the most important thing to us! So let us know if you have any further questions.

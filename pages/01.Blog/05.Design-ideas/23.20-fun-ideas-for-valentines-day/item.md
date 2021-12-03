@@ -2,8 +2,11 @@
 title: '20 Fun Ideas For Valentine''s Day'
 published: true
 date: '31-01-2017 13:53'
-
-
+taxonomy:
+    category:
+        - blog
+    tag:
+        - post
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -36,7 +39,7 @@ hide_from_post_list: false
 <img class="alignnone size-full wp-image-4842497" src="https://printaura.com/wp-content/uploads/2017/01/vday-ideas.jpg" alt="vday ideas" width="1920" height="1001" />
 
 Love is in the air! Valentine's Day is coming up right around the corner. Is your shop ready? Adding seasonal items to your shop can be a lucrative venture. Valentine's day can be a decisive holiday, and many people have strong opinions about it. Help your customers express their love, or lack there of, of the Holiday!
-<h4>20 Fun Ideas For Valentine's Day</h4>
+<h2>20 Fun Ideas For Valentine's Day</h2>
 We've rounded up some fun and inspirational ideas for valentines day! Take a look, get inspired, and create your own Vanetine's items to add to your shop. You certainly don't have to stop with shirts and pillows. Get creative!
 <h3>Adult T-Shirts</h3>
 T-shirts are a fun way to celebrate holidays and make a statement. They also make great gifts! Offer your customers some apparel items celebrating the holiday.
@@ -200,7 +203,7 @@ Via <a href="https://www.etsy.com/listing/164618848/girl-nursery-decor-girl-cora
 <img src="https://printaura.com/wp-content/uploads/2017/01/LOVE-Pillow.jpg" />
 
 Via <a href="https://www.etsy.com/listing/265451406/love-pillow-valentine-pillow-love-pillow?ga_order=most_relevant&amp;ga_search_type=all&amp;ga_view_type=gallery&amp;ga_search_query=LOVE%20pillow&amp;ref=sr_gallery_18" target="_blank">LiveInTheMomentGifts</a>
-<h4>Any Other Ideas?</h4>
+<h2>Any Other Ideas?</h2>
 Share your Valentine's Inspiration here! Do you have ideas for valentine's inspired shirts, mugs, pillows, aprons, bags, or posters? Let us know!
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c  no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 36px; left: 20px;">Save</span>

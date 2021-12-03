@@ -2,8 +2,11 @@
 title: 'New Next Level Items Added!'
 published: true
 date: '26-06-2018 10:19'
-
-
+taxonomy:
+    category:
+        - blog
+    tag:
+        - post
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -12,9 +15,6 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
-header_image_width: 900
-header_image_height: 300
-hide_from_post_list: false
 content:
     items: '- ''@self.children'''
     limit: '5'
@@ -33,13 +33,14 @@ comment_status: open
 post_name: new-next-level-items-added
 status: publish
 post_type: post
+hide_from_post_list: false
 ---
 
 <img src="https://printaura.com/wp-content/uploads/2018/06/next-level-products.jpg" alt="next level products" width="950" height="570" class="alignnone size-full wp-image-12717990" />
-<h4>More Items To Choose From!</h4>
+<h2>More Items To Choose From!</h2>
 One of our goals here at Print Aura is to keep our members excited about their stores and their designs. Adding new and fresh things can be great for your business, so we try to do the same. We've added some new Next Level items, with more additions from other brands on the way!
 
-<h4>New Next Level Items</h4>
+<h2>New Next Level Items</h2>
 We've added the following items to our product options, as well as new color options for some of our existing Next Level items! We hope one or more of these items inspires you to add something new to your store! 
 
 <img class="alignnone size-full wp-image-12717833" src="https://printaura.com/wp-content/uploads/2018/06/1.png" alt="1" width="200" height="200" />
@@ -249,7 +250,7 @@ We've added the following items to our product options, as well as new color opt
  	<li>White</li>
 </ul>
 &nbsp;
-<h4>More Colors Added</h4>
+<h2>More Colors Added</h2>
 We've added more colors to some of our existing items!
 
 <img src="https://printaura.com/wp-content/uploads/2018/06/6051.png" alt="6051" width="200" height="200" class="alignnone size-full wp-image-12717994" />
@@ -290,5 +291,5 @@ We've added more colors to some of our existing items!
  	<li>White/Heather Gray</li>
 </ul>
 &nbsp;
-<h4>Stay Tuned!</h4>
+<h2>Stay Tuned!</h2>
 Over the next few weeks we will be adding even more new items to choose from, so stay tuned! If you have specific things you's like to see, let us know down in the comments below. 

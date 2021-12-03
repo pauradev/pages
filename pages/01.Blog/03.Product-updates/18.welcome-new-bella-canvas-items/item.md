@@ -3,6 +3,15 @@ title: 'Newly Added: Bella+Canvas Items!'
 published: true
 date: '18-07-2018 10:05'
 publish_date: '18-07-2018 10:05'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - post
+    month:
+        - July
+    author:
+        - denise
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -33,12 +42,12 @@ post_type: post
 ---
 
 <img class="alignnone size-large wp-image-12722409" src="https://printaura.com/wp-content/uploads/2018/07/bella-canvas-1024x534.jpg" alt="bella canvas" width="980" height="511" />
-<h4>Newly Added!</h4>
+<h2>Newly Added!</h2>
 We are committed to offering our members items that inspire and excite! We are proud to have one of the largest product selections around, but why stop there? We want to keep our members feeling motivated to create.
 
 ===
 
-<h4>New Bella+Canvas Products</h4>
+<h2>New Bella+Canvas Products</h2>
 We've added some new Bella+Canvas products, along with some additional colors to existing items. From crop tops to toddler tees, we tried to add something for everyone! Check them out and add some to your store.
 
 <img class="alignnone size-medium wp-image-12722412" src="https://printaura.com/wp-content/uploads/2018/07/3200-300x300.png" alt="3200" width="300" height="300" />
@@ -350,5 +359,5 @@ We've also added more color options to the following Bella Canvas items:
  	<li>3001c</li>
 </ul>
 &nbsp;
-<h4>More Coming!</h4>
+<h2>More Coming!</h2>
 We are planning to add even more new items over the next couple months. If you have any products, apparel or otherwise, you'd like to see us offer, let us know down in the comments below! We truly want to offer items that excite and inspire our members, so don't be shy with sharing your opinions!

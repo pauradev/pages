@@ -2,8 +2,11 @@
 title: 'Fresh Ideas For Spring & Easter'
 published: true
 date: '14-03-2017 12:41'
-
-
+taxonomy:
+    category:
+        - blog
+    tag:
+        - post
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -35,10 +38,10 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2017/03/spring-FB.jpg" alt="spring FB" width="1920" height="1001" class="alignnone size-full wp-image-5809179" />
 
-<h4>Springtime Is Almost Here</h4>
+<h2>Springtime Is Almost Here</h2>
 The first official day of spring is right around the corner. The changing of the seasons can be an exciting time of the year for many people. Spring is especially fun because we are welcomed into the season with beautiful flowers, lots of cute baby animals, and warmer weather. It's a welcome reprieve from a cold and bitter winter. Spring is also the time when many people embrace "spring cleaning". When people get rid of old clothes and things they no longer need, they also buy new items to replace them! Help your customers freshen up their wardrobe and boost the excitement of spring by adding some spring inspired items and designs to your shop!
 
-<h4>Fresh Ideas For Spring</h4>
+<h2>Fresh Ideas For Spring</h2>
 Check out these fun spring inspired designs! What do you love the most about spring? Take inspiration from these and create your own spring designs!
 
 <h3>Adopt A Plant</h3>
@@ -150,7 +153,7 @@ Via <a href="https://www.etsy.com/shop/ceridwenDESIGN?ref=l2-shopheader-name" ta
 <img class="alignnone size-full wp-image-5808334" src="https://printaura.com/wp-content/uploads/2017/03/cant-touch-this.jpg" alt="cant touch this" width="570" height="570" />
 
 Via <a href="https://www.etsy.com/shop/WildHeartsUSA?ref=l2-shopheader-name" target="_blank">WildHeartsUSA</a>
-<h4>Fresh Ideas For Easter</h4>
+<h2>Fresh Ideas For Easter</h2>
 Easter can be such a fun holiday for kids! Check out these fun Easter inspired designs, then create your own!
 
 <hr />
@@ -201,5 +204,5 @@ Via <a href="https://www.etsy.com/shop/CoolKidsTees?ref=l2-shopheader-name" targ
 <img class="alignnone size-full wp-image-5808408" src="https://printaura.com/wp-content/uploads/2017/03/hippity.jpg" alt="hippity" width="570" height="549" />
 
 Via <a href="https://www.etsy.com/shop/PetitePartyCo?ref=l2-shopheader-name" target="_blank">PetitePartyCo</a>
-<h4>Spring Ideas</h4>
+<h2>Spring Ideas</h2>
 Some places around the world are lucky enough to get spring-like weather all year round. We couldn't be more excited for some warmer weather. Let us know why you love spring and how you celebrate the warmer weather!

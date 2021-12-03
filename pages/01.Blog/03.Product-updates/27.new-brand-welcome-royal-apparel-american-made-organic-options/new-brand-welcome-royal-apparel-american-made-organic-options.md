@@ -12,8 +12,11 @@ status: publish
 post_type: post
 media_order: 
 published: true
-
-
+taxonomy:
+    category:
+        - blog
+    tag:
+        - post
 hide_git_sync_repo_link: true
 external_links:
     process: true

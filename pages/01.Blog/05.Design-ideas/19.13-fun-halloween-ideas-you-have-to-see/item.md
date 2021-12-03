@@ -2,8 +2,11 @@
 title: '13 Fun Halloween Ideas You Have To See'
 published: true
 date: '04-10-2016 14:51'
-
-
+taxonomy:
+    category:
+        - blog
+    tag:
+        - post
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -36,7 +39,7 @@ hide_from_post_list: false
 <img class="alignnone size-full wp-image-2997960" src="https://printaura.com/wp-content/uploads/2016/10/fb-spooky.jpg" alt="fb spooky" width="1920" height="1001" />
 
 Can you feel it? The leaves are changing color and there is a chill in the air. Candy is coming out and ghastly decorations are starting appear here and there. Halloween is right around the corner. Is your shop ready? Add some spooky seasonal items to your shop and embrace the spirit of Halloween!
-<h4>13 Fun Halloween Ideas You Have To See</h4>
+<h2>13 Fun Halloween Ideas You Have To See</h2>
 Feeling a little uninspired? Halloween brings about so many fun ideas for shirts, bags, and more! Check out some of the fun designs we came across below.
 <h3>Spooky Apparel</h3>
 Halloween lends itself well to creativity when it comes to t-shirts! You can go funny, scary, cute, or classic! If you need a little inspiration, check out these shirts.
@@ -142,7 +145,7 @@ Via <a href="https://www.etsy.com/listing/465558008/screen-printed-trick-or-trea
 <img class="alignnone size-full wp-image-2997517" src="https://printaura.com/wp-content/uploads/2016/10/Parents.jpg" alt="Parents" width="500" height="750" />
 
 Via <a href="https://www.etsy.com/listing/164585619/funny-halloween-child-trick-or-treat-bag?ga_order=most_relevant&amp;ga_search_type=all&amp;ga_view_type=gallery&amp;ga_search_query=trick%20or%20treat%20bag&amp;ref=sc_gallery_4&amp;plkey=b657c30c770dd0c39d777c02552ba4efc9f8a830:164585619" target="_blank">seekerofhappiness</a>
-<h4>What About You?</h4>
+<h2>What About You?</h2>
 Do you have any amazing Halloween design ideas you are just waiting to show off? Share you shop with us! Your designs just might inspire your fellow members to create something spooky!
 
 &nbsp;

@@ -5,12 +5,12 @@ hide_git_sync_repo_link: true
 visible: false
 blog_url: /blog
 show_sidebar: true
-show_breadcrumbs: false
+show_breadcrumbs: true
 show_pagination: true
 content:
     items:
         - '@self.children'
-    limit: 7
+    limit: 6
     order:
         by: date
         dir: desc
