@@ -7,6 +7,8 @@ taxonomy:
         - blog
     tag:
         - post
+        - products
+        - discontinued
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -34,6 +36,8 @@ comment_status: open
 post_name: saying-farewell-discontinued-items
 status: publish
 post_type: post
+feed:
+    limit: 10
 ---
 
 <img class="alignnone size-large wp-image-12712264" src="https://printaura.com/wp-content/uploads/2018/05/discontinue-1024x534.jpg" alt="discontinue" width="980" height="511" />
