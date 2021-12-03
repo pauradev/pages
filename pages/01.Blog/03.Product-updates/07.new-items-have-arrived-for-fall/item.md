@@ -32,10 +32,11 @@ status: publish
 post_type: post
 taxonomy:
     tag:
-        - new
         - printing
+        - new
         - products
         - inspiration
+        - seasonal
 feed:
     limit: 10
 ---
