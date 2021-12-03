@@ -7,6 +7,8 @@ taxonomy:
         - blog
     tag:
         - post
+        - new
+        - seasonal
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -34,6 +36,8 @@ post_name: new-items-summer-2017-launch
 status: publish
 post_type: post
 hide_from_post_list: false
+feed:
+    limit: 10
 ---
 
 <h2>Summer Launch</h2>
