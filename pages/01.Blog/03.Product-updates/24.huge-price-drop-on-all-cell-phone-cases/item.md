@@ -7,6 +7,8 @@ taxonomy:
         - blog
     tag:
         - post
+        - price
+        - products
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -34,6 +36,8 @@ post_name: huge-price-drop-on-all-cell-phone-cases
 status: publish
 post_type: post
 hide_from_post_list: false
+feed:
+    limit: 10
 ---
 
 <img src="https://printaura.com/wp-content/uploads/2017/12/price-drop.jpg" alt="price drop" width="1000" height="521" class="alignnone size-full wp-image-12617271" />
