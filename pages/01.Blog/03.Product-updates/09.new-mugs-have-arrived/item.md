@@ -9,6 +9,13 @@ show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
 hide_from_post_list: false
+taxonomy:
+    tag:
+        - new
+        - products
+        - seasonal
+feed:
+    limit: 10
 ---
 
 ![](new%20mugs.jpg)
