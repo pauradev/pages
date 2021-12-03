@@ -7,6 +7,9 @@ taxonomy:
         - blog
     tag:
         - post
+        - new
+        - products
+        - seasonal
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -34,6 +37,8 @@ post_name: you-asked-for-it-the-royal-apparel-camo-collection
 status: publish
 post_type: post
 hide_from_post_list: false
+feed:
+    limit: 10
 ---
 
 <img class="alignnone size-full wp-image-12468757" src="https://printaura.com/wp-content/uploads/2017/11/camo-launch.jpg" alt="camo launch" width="1165" height="608" />
