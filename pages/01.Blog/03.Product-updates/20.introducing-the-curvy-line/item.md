@@ -7,6 +7,8 @@ taxonomy:
         - blog
     tag:
         - post
+        - products
+        - new
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -34,6 +36,8 @@ post_name: introducing-the-curvy-line
 status: publish
 post_type: post
 hide_from_post_list: false
+feed:
+    limit: 10
 ---
 
 <img src="https://printaura.com/wp-content/uploads/2018/05/curvyy.jpg" alt="curvyy" width="679" height="354" class="alignnone size-full wp-image-12714758" />
