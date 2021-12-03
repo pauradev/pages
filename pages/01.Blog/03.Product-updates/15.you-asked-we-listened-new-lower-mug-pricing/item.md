@@ -6,6 +6,8 @@ taxonomy:
         - blog
     tag:
         - post
+        - price
+        - products
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -33,6 +35,8 @@ post_name: you-asked-we-listened-new-lower-mug-pricing
 status: publish
 post_type: post
 hide_from_post_list: false
+feed:
+    limit: 10
 ---
 
 <img src="https://printaura.com/wp-content/uploads/2018/04/mugs-blog-1024x534.jpg" alt="mugs blog" width="980" height="511" class="alignnone size-large wp-image-12710463" />
