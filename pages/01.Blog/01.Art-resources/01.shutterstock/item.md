@@ -1,7 +1,7 @@
 ---
 title: 'Shutterstock Integration'
 media_order: gallery-2948052_1280.jpg
-published: true
+published: false
 date: '03-09-2019 09:45'
 hide_git_sync_repo_link: true
 external_links:
@@ -30,6 +30,8 @@ comment_status: open
 post_name: step-by-step-phone-case-template-tutorials
 status: publish
 post_type: post
+feed:
+    limit: 10
 ---
 
 [![sstk_partners](gallery-2948052_1280.jpg)](https://blog.printaura.com/blog/art-resources/shutterstock)
