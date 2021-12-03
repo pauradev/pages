@@ -7,6 +7,8 @@ taxonomy:
         - blog
     tag:
         - post
+        - discontinued
+        - products
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -34,6 +36,8 @@ post_name: american-apparel-discontinued-items-updates
 status: publish
 post_type: post
 hide_from_post_list: false
+feed:
+    limit: 10
 ---
 
 <img src="https://printaura.com/wp-content/uploads/2017/12/another-AA-update-copy.jpg" alt="another AA update copy" width="1920" height="1002" class="alignnone size-full wp-image-12622963" />
