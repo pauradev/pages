@@ -8,6 +8,8 @@ taxonomy:
         - blog
     tag:
         - post
+        - new
+        - products
     month:
         - July
     author:
@@ -39,6 +41,8 @@ comment_status: open
 post_name: welcome-new-bella-canvas-items
 status: publish
 post_type: post
+feed:
+    limit: 10
 ---
 
 <img class="alignnone size-large wp-image-12722409" src="https://printaura.com/wp-content/uploads/2018/07/bella-canvas-1024x534.jpg" alt="bella canvas" width="980" height="511" />
