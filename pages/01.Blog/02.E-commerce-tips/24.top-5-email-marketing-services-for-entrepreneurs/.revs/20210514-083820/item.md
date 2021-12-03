@@ -1,5 +1,5 @@
 ---
-title: 'Top 6 Email Marketing Services For Entrepreneurs'
+title: 'Top 5 Email Marketing Services For Entrepreneurs'
 media_order: email-marketing.png
 published: true
 date: '12-07-2017 08:17'
