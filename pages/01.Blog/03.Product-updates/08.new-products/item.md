@@ -9,6 +9,13 @@ show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
 hide_from_post_list: false
+taxonomy:
+    tag:
+        - new
+        - printing
+        - products
+feed:
+    limit: 10
 ---
 
 [![](Depositphotos_199702558_xl-2015.png)](https://blog.printaura.com/blog/design-ideas/new-products)
