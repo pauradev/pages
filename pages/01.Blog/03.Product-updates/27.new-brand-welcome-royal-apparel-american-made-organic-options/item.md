@@ -7,6 +7,8 @@ taxonomy:
         - blog
     tag:
         - post
+        - new
+        - products
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -34,6 +36,8 @@ post_name: new-brand-welcome-royal-apparel-american-made-organic-options
 status: publish
 post_type: post
 hide_from_post_list: false
+feed:
+    limit: 10
 ---
 
 <img class="alignnone size-full wp-image-7244509" src="https://printaura.com/wp-content/uploads/2017/05/royal-FB-final.jpg" alt="royal FB final" width="910" height="474" />
