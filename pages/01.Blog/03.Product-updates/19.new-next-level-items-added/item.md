@@ -7,6 +7,8 @@ taxonomy:
         - blog
     tag:
         - post
+        - products
+        - new
 hide_git_sync_repo_link: true
 external_links:
     process: true
@@ -34,6 +36,8 @@ post_name: new-next-level-items-added
 status: publish
 post_type: post
 hide_from_post_list: false
+feed:
+    limit: 10
 ---
 
 <img src="https://printaura.com/wp-content/uploads/2018/06/next-level-products.jpg" alt="next level products" width="950" height="570" class="alignnone size-full wp-image-12717990" />
