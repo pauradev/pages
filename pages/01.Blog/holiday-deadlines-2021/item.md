@@ -12,12 +12,12 @@ feed:
 published: true
 taxonomy:
     tag:
-        - holiday
-        - seasonal
         - post
+        - seasonal
+        - holiday
 ---
 
-![2021-Holiday%20deadline-FLAT](2021-Holiday%20deadline-FLAT.png "2021-Holiday%20deadline-FLAT")(https://blog.printaura.com/blog/holiday-deadlines-2021)
+[![2021-Holiday%20deadline-FLAT](2021-Holiday%20deadline-FLAT.png "2021-Holiday%20deadline-FLAT")(https://blog.printaura.com/blog/holiday-deadlines-2021)]
 
 ## The holiday season is upon us! Are you ready? 
 #### Here at Printaura.com, WE ARE! 
