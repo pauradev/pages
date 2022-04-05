@@ -70,7 +70,7 @@ Sometimes we all need a little extra push in the right direction. We've pulled s
 <hr />
 
 ### 6. "It always seems impossible until it's done." 
-Photo: White Water Mag Ltd
+[Photo: White Water Mag Ltd](https://www.whitewatermag.com/news/)
 
 ![](21.jpg)
 
