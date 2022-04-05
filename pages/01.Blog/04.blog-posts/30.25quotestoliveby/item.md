@@ -23,6 +23,8 @@ content:
 bricklayer_layout: '1'
 display_post_summary:
     enabled: '0'
+feed:
+    limit: 10
 ---
 
 [![](25-quotes.jpg)](https://blog.printaura.com/blog/blog-posts/25quotestoliveby)
@@ -67,7 +69,8 @@ Sometimes we all need a little extra push in the right direction. We've pulled s
 
 <hr />
 
-### 6. "It always seems impossible until it's done."
+### 6. "It always seems impossible until it's done." 
+Photo: White Water Mag Ltd
 
 ![](21.jpg)
 
