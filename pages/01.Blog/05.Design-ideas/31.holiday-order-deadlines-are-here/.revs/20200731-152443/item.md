@@ -33,7 +33,7 @@ hide_from_post_list: false
 
 <img class="aligncenter size-full wp-image-1897780" src="https://printaura.com/wp-content/uploads/2015/11/holidaydeadlinesbanner1.jpg" alt="holidaydeadlinesbanner" width="600" height="176" />
 
-Hello wonderful PrintAura members. It's that time of year again!
+Hello wonderful Printaura members. It's that time of year again!
 
 Your customers will be on the look out for unique gifts for their friends, family, loved ones, and maybe even themselves. There is nothing worse than waiting until the last minute to order a gift and having it arrive too late. We want to do our best to help you make sure no one is left out in the cold! That's why we are providing you with this handy holiday order deadline guide.<strong> Please share these dates with your customers to help make sure they get their orders in on time!</strong>
 <h2 style="text-align: center;">2015 Holiday Order Deadlines</h2>
@@ -100,6 +100,6 @@ Please make sure your customers place their orders by the dates below to ensure 
 
 <hr />
 
-Print Aura will do its best to process and ship orders to get them out to arrive before the holidays but can not guarantee ship or arrival times. Delays may result if images provided by the client are not sized or setup correctly. Certain products may become back ordered or become suddenly unavailable due to our product distributors which may cause delays in processing times.
+Printaura will do its best to process and ship orders to get them out to arrive before the holidays but can not guarantee ship or arrival times. Delays may result if images provided by the client are not sized or setup correctly. Certain products may become back ordered or become suddenly unavailable due to our product distributors which may cause delays in processing times.
 
 If you have any questions at all, please feel free to reach out and get in touch.

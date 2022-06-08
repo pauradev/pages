@@ -125,4 +125,4 @@ Via [JitterBeanMugs](https://www.etsy.com/shop/JitterBeanMugs)
 
 
 ## Add A Mug To Your Shop Today!
-If you are excited about these mugs, let us know by adding some to your store today! If you are a Print Aura member, you know that adding new items to your shop is totally risk free. We only print and ship out your items as you sell, so you will never be stuck with inventory that won’t sell. Give mugs a shot in your store today. They just might be a hit!
+If you are excited about these mugs, let us know by adding some to your store today! If you are a Printaura member, you know that adding new items to your shop is totally risk free. We only print and ship out your items as you sell, so you will never be stuck with inventory that won’t sell. Give mugs a shot in your store today. They just might be a hit!

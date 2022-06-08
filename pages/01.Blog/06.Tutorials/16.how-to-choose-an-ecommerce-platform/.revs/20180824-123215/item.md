@@ -44,7 +44,7 @@ With all the options available to you, we understand it can be overwhelming when
 <img src="https://printaura.com/wp-content/uploads/2014/04/choose-shopify.jpg" alt="shopify" />
 <a href="https://www.shopify.com/" target="_blank">https://www.shopify.com/</a>
 
-Shopify is one of the most popular platforms among our members. The setup is easy, integrating with Print Aura is easy, and they offer some beautiful shop templates that make it easy to get your shop up and running in no time!
+Shopify is one of the most popular platforms among our members. The setup is easy, integrating with Printaura is easy, and they offer some beautiful shop templates that make it easy to get your shop up and running in no time!
 
 <strong>Fees:</strong> starts at $29/month
 <strong>Marketplace:</strong> No

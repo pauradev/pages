@@ -36,14 +36,14 @@ hide_from_post_list: false
 ---
 
 <h2>What Is White Label?</h2>
-Print Aura is a white label service. You've probably seen this term thrown around before, but might not know what it actually means. White Label simply means that we do not brand the products we print on. We know that the designs are yours, and the customers are yours. We want to give our members the credit they deserve, and the opportunity to add branding of their own. You will never see a Print Aura logo or branding of any kind on your items.
+Printaura is a white label service. You've probably seen this term thrown around before, but might not know what it actually means. White Label simply means that we do not brand the products we print on. We know that the designs are yours, and the customers are yours. We want to give our members the credit they deserve, and the opportunity to add branding of their own. You will never see a Printaura logo or branding of any kind on your items.
 
 <img class="alignnone size-full wp-image-9700443" src="https://printaura.com/wp-content/uploads/2017/08/fb-branding.jpg" alt="fb branding" width="1000" height="522" />
 
 <h2>Branding Your Products</h2>
 Since our products are shipped to your customers without any branding, it's a perfect opportunity for you to put your own branding onto your products. We offer lots of different branding options to help make sure your products are recognizable as being YOURS. If you go into any retail store, you will notice most garments will at least have a branded tag hanging from the item and a branded neck label of some sortl. Brands do this because it helps with brand recognition and allows the customer to have a point of reference after buying the item. If the customer enjoys the item, it's easier for them to look up the brand later and see what else they have to offer.
 
-We offer many branding services free of charge. For instance, we always offer branded packing slips that accompany all of your orders. We also offer customer shipping return labels at no cost.We also offer other branding services at a small fee per item. So, what are some other ways you can expanding your brand using Print Auras services?
+We offer many branding services free of charge. For instance, we always offer branded packing slips that accompany all of your orders. We also offer customer shipping return labels at no cost.We also offer other branding services at a small fee per item. So, what are some other ways you can expanding your brand using Printauras services?
 
 <h3>Hang Tags</h3>
 Hang tags are a great way to add your branding to any item. You can keep it simple, or get creative with it. You create your neck labels, ship them to us, and we attach the label onto your products before they are shipped out. Check out our article with <a href="https://printaura.com/12-inspiring-hang-tag-designs/" target="_blank">12 Inspiring Hang Tag Ideas</a>! We also have an article on the <a href="https://printaura.com/anatomy-of-an-awesome-hang-tag" target="_blank">Anatomy of a Tang tag</a> if you are curious about what typically appears on a hang tag.

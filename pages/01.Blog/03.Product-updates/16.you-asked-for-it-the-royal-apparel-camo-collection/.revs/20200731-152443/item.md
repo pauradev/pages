@@ -76,7 +76,7 @@ We strive to offer items that our members want, and get excited about. We hope a
 </center>
 &nbsp;
 <h4>Add Some Camo Today!</h4>
-Can you see some of your designs printed on any of these items? Do these items inspire you to create an entirely new design? If so, add your designs to one or all of these camo items today! If you've been with Print Aura long, you know there's no risk to putting new items up for sale in your shop. There are no up front costs so if something isn't selling well, there is no loss. We only print your products out when you sell them! 
+Can you see some of your designs printed on any of these items? Do these items inspire you to create an entirely new design? If so, add your designs to one or all of these camo items today! If you've been with Printaura long, you know there's no risk to putting new items up for sale in your shop. There are no up front costs so if something isn't selling well, there is no loss. We only print your products out when you sell them! 
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 300px; left: 20px;">Save</span>
 

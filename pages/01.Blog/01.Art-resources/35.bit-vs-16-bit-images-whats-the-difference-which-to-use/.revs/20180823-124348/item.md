@@ -65,7 +65,7 @@ If your image is set to a CMYK color profile and is 16 bits, there are 65,536 to
 
 <h2>Which To Use </h2>
 
-You would probably assume that more tones equate to a better print. However, for PrintAura's specific printing purposes, <strong>we ask for 8 bit images</strong>. This may seem counter intuitive, but the reasoning is simple. Our specialized direct-to-garment Kornit printers were made to run off of 8-bit color tonal ranges. An 8 bit image will create the best color match to your original art work. 
+You would probably assume that more tones equate to a better print. However, for Printaura's specific printing purposes, <strong>we ask for 8 bit images</strong>. This may seem counter intuitive, but the reasoning is simple. Our specialized direct-to-garment Kornit printers were made to run off of 8-bit color tonal ranges. An 8 bit image will create the best color match to your original art work. 
 
 <h3> How To Check / Change Bit Preferences In Photoshop </h3>
 

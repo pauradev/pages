@@ -28,6 +28,6 @@ If you are located in New York State <strong>All orders that are shipped to New 
 
 <strong>OR</strong>
 
-<strong>Orders submitted through our integrations and manually</strong> (i.e. Shopify, Storenvy etc):  Print Aura will charge you New York State Sales tax (8.75%) on the sale price of the items in your store.
+<strong>Orders submitted through our integrations and manually</strong> (i.e. Shopify, Storenvy etc):  Printaura will charge you New York State Sales tax (8.75%) on the sale price of the items in your store.
 
 &nbsp;

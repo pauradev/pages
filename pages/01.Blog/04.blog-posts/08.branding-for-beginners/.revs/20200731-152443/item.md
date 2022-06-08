@@ -23,7 +23,7 @@ Let's talk about branding your products, ways to do it, and why it's important.
 
 ## Branding Basics 
 
-First of all, let's make sure we are all on the same page. We are working under the assumption that you've already begun to develop your brand. Hopefully you've read our article, "[Branding Basics: How To Start Building You Brand](https://blog.printaura.com/blog/tutorials/branding-basics-how-to-start-building-your-brand)". If you haven't, you might want to check it out! There we break down branding basics like how to develop your brand's identity and how to achieve consistency. Here, we will be diving a bit deeper into the branding options that are available to you as a Print Aura member. 
+First of all, let's make sure we are all on the same page. We are working under the assumption that you've already begun to develop your brand. Hopefully you've read our article, "[Branding Basics: How To Start Building You Brand](https://blog.printaura.com/blog/tutorials/branding-basics-how-to-start-building-your-brand)". If you haven't, you might want to check it out! There we break down branding basics like how to develop your brand's identity and how to achieve consistency. Here, we will be diving a bit deeper into the branding options that are available to you as a Printaura member. 
 
 Let's say you've gone through all the trouble to develop your branding on a digital level. You've figured out your brand's identity, your logo is finally perfect, and your website and product pages are looking on point. Now, selling and sending out unbranded shirts can undo a lot of that work. We live in an age of easy distraction and poor retention. On a daily basis, people are exposed to up to 5,000 ads a day. Crazy, right? How many of those brands do you even recall seeing? How do you help ensure your brand leaves a lasting impression?
 
@@ -67,7 +67,7 @@ Via [Natalie Palmer](https://www.behance.net/natalielouisepalmer)
 
 ### Neck Labels 
 
-Neck labels are important because they are there on the garment to stay. Print Aura can remove existing garment branding, and add a neck label of your design. This way, when someone checks branding on the neck label, they will see your brand, and not Gildan or Next Level Apparel. Include a little, or include a lot (just make sure your follow these [re-labeling guidelines](https://printaura.com/guide-legal-requirements-t-shirt-relabeling). 
+Neck labels are important because they are there on the garment to stay. Printaura can remove existing garment branding, and add a neck label of your design. This way, when someone checks branding on the neck label, they will see your brand, and not Gildan or Next Level Apparel. Include a little, or include a lot (just make sure your follow these [re-labeling guidelines](https://printaura.com/guide-legal-requirements-t-shirt-relabeling). 
 
 **Zeus Jones**<br>
 ![](Zeus%20Jones.jpg)<br>

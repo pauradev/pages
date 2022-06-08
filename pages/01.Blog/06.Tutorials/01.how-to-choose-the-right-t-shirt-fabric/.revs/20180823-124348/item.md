@@ -37,7 +37,7 @@ hide_from_post_list: false
 
 <img class="aligncenter size-large wp-image-2011079" src="https://printaura.com/wp-content/uploads/2015/12/howtochoosefabric-1024x315.jpg" alt="how to Choose the right fabric" width="980" height="301" />
 
-Print Aura offers many t-shirt brands that feature different fabric options. The variety of fabric is great if you know what you are looking for. However, it can be a little confusing and intimidating if you aren’t sure what the difference is.
+Printaura offers many t-shirt brands that feature different fabric options. The variety of fabric is great if you know what you are looking for. However, it can be a little confusing and intimidating if you aren’t sure what the difference is.
 
 We know most people aren't fabric experts, so we put together this handy little fabrics cheat sheet. Hopefully the information below will help you decide which fabric options work best for your t-shirts.
 <h2>How To Choose The Right T-Shirt Fabric</h2>

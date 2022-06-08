@@ -59,7 +59,7 @@ Table via <a href="http://photodune.net/licenses/photo" target="_blank">photodun
 
 <strong>The answer needs to be: YES.</strong>
 
-Some stock websites will not allow you to use their images for on-demand services like Print Aura, and other popular on-demand printing services. You need make sure that there isn’t a term stating that on-demand use is prohibited.
+Some stock websites will not allow you to use their images for on-demand services like Printaura, and other popular on-demand printing services. You need make sure that there isn’t a term stating that on-demand use is prohibited.
 <h3>How many prints can I sell with one license?</h3>
 <h3><img class="alignnone size-full wp-image-2096408" src="https://printaura.com/wp-content/uploads/2016/02/Voila_Capture-2016-02-02_10-17-01_AM.png" alt="Print Run" width="800" height="169" /></h3>
 Table via <a href="http://www.istockphoto.com/legal/license-agreement" target="_blank">istockphoto</a>

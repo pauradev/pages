@@ -43,7 +43,7 @@ The print industry is full of jargon that most people aren’t familiar with. We
 <h3>POD</h3>
 POD or “Print On Demand” simply means we only print your products when you need them. This is different from other services because we only print out the items you sell. There are no minimums and no need to keep a large stock of inventory. This eliminates any waste or excess product which translates to less overhead.
 <h3>DTG</h3>
-DTG or “Direct To Garment” refers to the printing process we use here at Print Aura. We have special printers that are able to print designs and images directly onto fabric. We print digitally as opposed to using screens. DTG printing allows us to offer no minimum orders! 
+DTG or “Direct To Garment” refers to the printing process we use here at Printaura. We have special printers that are able to print designs and images directly onto fabric. We print digitally as opposed to using screens. DTG printing allows us to offer no minimum orders! 
 <h3>Screen Printing / Silkscreening</h3>
 Screen printing is a printing process that goes back thousands of years. The process involves transferring a design onto a screen and using a squeegee to push ink through the stenciled mesh. People still use this technique today. It is a great technique but usually requires large minimum orders due to the setup process.
 <h3>Heat Press</h3>
@@ -53,7 +53,7 @@ Embroidery is a decorative technique used to create designs on fabric. This tech
 <h3>Blank</h3>
 A “blank” refers to a t-shirt or product that has not been printed on.
 <h3>White Label</h3>
-We are a white label company. “White Label” just means we print and ship products for other brands and businesses. We don’t use any branding on the products we print or on any of the shipping information. Basically, we print and ship your products to your customers, but you won't see Print Aura or any of our branding anywhere. We do this so <strong>YOUR BRAND</strong> can be the star. It will appear as though you have created and shipped out the product, not us.
+We are a white label company. “White Label” just means we print and ship products for other brands and businesses. We don’t use any branding on the products we print or on any of the shipping information. Basically, we print and ship your products to your customers, but you won't see Printaura or any of our branding anywhere. We do this so <strong>YOUR BRAND</strong> can be the star. It will appear as though you have created and shipped out the product, not us.
 <h3>Underbase</h3>
 Underbase refers a layer of white ink printed underneath a design. Underbase allows for colors to remain true, even when printed on darker items. Colors can change when printed on top of a base that is not white. Think about it like using a blue marker to draw on a red piece of paper. The blue marker won’t look blue over the red paper. It will look closer to brown. Underbase is just giving your design a white base to be printed on. However, contrast is still an issue that needs to be carefully considered when choosing shirt colors. For example if you print a dark purple design on a black shirt, even if the dark purple is a true dark purple, it will be hard to see since both colors are so similar.
 <h3>No Underbase</h3>

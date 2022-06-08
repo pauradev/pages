@@ -105,7 +105,7 @@ Please make sure your customers place their orders by the dates below to ensure 
 
 <hr />
 
-Print Aura will do its best to process and ship orders to get them out to arrive before the holidays but can not guarantee ship or arrival times. Delays may result if images provided by the client are not sized or setup correctly. Certain products may become back ordered or become suddenly unavailable due to our product distributors which may cause delays in processing times.
+Printaura will do its best to process and ship orders to get them out to arrive before the holidays but can not guarantee ship or arrival times. Delays may result if images provided by the client are not sized or setup correctly. Certain products may become back ordered or become suddenly unavailable due to our product distributors which may cause delays in processing times.
 
 If you have any questions at all, please feel free to reach out and get in touch.
 

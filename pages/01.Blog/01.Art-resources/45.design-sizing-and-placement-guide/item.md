@@ -39,7 +39,7 @@ post_type: post
 [![design sizing and placement guide](https://printaura.com/wp-content/uploads/2016/03/sizing-blog-banner-copy.jpg)](https://blog.printaura.com/blog/art-resources/design-sizing-and-placement-guide)
 
 <h2>Sizing And Placement</h2>
-We get a lot of questions about design sizing and placement here at Print Aura. People aren't sure how to gauge the sizing of their designs. It can be hard to visualize the size a digital design on a real life garment. We decided to create this handy guide to help you figure out how to size and place your designs.
+We get a lot of questions about design sizing and placement here at Printaura. People aren't sure how to gauge the sizing of their designs. It can be hard to visualize the size a digital design on a real life garment. We decided to create this handy guide to help you figure out how to size and place your designs.
 
 <h3>Maximum T-shirt Print Size</h3>
 

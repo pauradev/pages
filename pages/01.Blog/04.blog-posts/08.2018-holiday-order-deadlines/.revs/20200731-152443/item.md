@@ -99,5 +99,5 @@ If you utilize either of these branding services, please contact us to inquire a
 
 ### Postal Service / Artwork Issue Disclaimer
 
-Print Aura will do its best to process and ship orders to get them out to arrive before the holidays but can not guarantee ship or arrival times. It is unlikely, but delays may result due to circumstances beyond our control. There could be delays with USPS due to storms or the like, or if images provided by the client are not sized or setup correctly. Certain products may become back ordered or become suddenly unavailable due to our product distributors which may cause delays in processing times. If you have any questions at all, please feel free to reach out and get in touch. 
+Printaura will do its best to process and ship orders to get them out to arrive before the holidays but can not guarantee ship or arrival times. It is unlikely, but delays may result due to circumstances beyond our control. There could be delays with USPS due to storms or the like, or if images provided by the client are not sized or setup correctly. Certain products may become back ordered or become suddenly unavailable due to our product distributors which may cause delays in processing times. If you have any questions at all, please feel free to reach out and get in touch. 
 

@@ -110,7 +110,7 @@ Items that are on a separate line are shipped in separate packages due to the na
 &nbsp;
 <h4>Canada Shipping</h4>
 <h5>USPS International 1st Class (5-12+ business days)</h5>
-Tracking is only available when the package is in the United States.  Print Aura is not responsible for delays due to customs which may be a few days to a few weeks.
+Tracking is only available when the package is in the United States.  Printaura is not responsible for delays due to customs which may be a few days to a few weeks.
 <table border="0" width="691" cellpadding="10">
 <tbody>
 <tr>
@@ -153,7 +153,7 @@ Tracking is only available when the package is in the United States.  Print Aur
 &nbsp;
 <h4></h4>
 <h4>International Shipping</h4>
-We will ship USPS First Class to just about anywhere your customer is located. Tracking is only available when the package is in the United States.  Print Aura is not responsible for lost packages or delays due to customs which may be a few days to a few weeks.
+We will ship USPS First Class to just about anywhere your customer is located. Tracking is only available when the package is in the United States.  Printaura is not responsible for lost packages or delays due to customs which may be a few days to a few weeks.
 <table border="0" width="691" cellpadding="10">
 <tbody>
 <tr>

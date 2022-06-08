@@ -109,6 +109,6 @@ And since you all are amazing, here are some FREE resources to help get your swe
 <strong>Now go forth and CREATE!</strong>
 *Note: The sweaters shown are intended to be inspiration for your own designs. Use of copyrighted material without consent is against the law. Get creative and come up with your own designs!
 <h2>Sell Your Holiday Sweater Creation!</h2>
-After you've completed your ingenious design, it's time to start profiting from your hard work! Sell your design with Print Aura! We make it easy for you to get your designs out into the market place. There is no risk because you only pay for what you sell, and we take care of the printing and shipping for you!
-<p style="text-align: left;"><strong>Get started by checking out all the products Print Aura offers for customization!</strong></p>
+After you've completed your ingenious design, it's time to start profiting from your hard work! Sell your design with Printaura! We make it easy for you to get your designs out into the market place. There is no risk because you only pay for what you sell, and we take care of the printing and shipping for you!
+<p style="text-align: left;"><strong>Get started by checking out all the products Printaura offers for customization!</strong></p>
 <a href="https://printaura.com/t-shirt-options/"><img class="size-full wp-image-1903431 aligncenter" src="https://printaura.com/wp-content/uploads/2015/11/holidaysweaters1.jpg" alt="get started" width="260" height="167" /></a>

@@ -17,7 +17,7 @@ Yes! You can now have your t-shirt graphics printed even bigger than before.
 </ul>
 <img class="alignnone size-full wp-image-336101" src="https://printaura.com/wp-content/uploads/2014/05/jumboprint.jpg" alt="jumboprint" width="525" height="311" />
 
-To get started download the <a href="https://printaura.com/image-requirements/" target="_blank">jumbo t-shirt print template</a> for DTG printing with Print Aura.
+To get started download the <a href="https://printaura.com/image-requirements/" target="_blank">jumbo t-shirt print template</a> for DTG printing with Printaura.
 <h2>2. No white underbase for t-shirt printing.</h2>
 Don't want an underbase on your DTG t-shirt print? No problem.  You can now set individual images to be printed with "no underbase". What does this mean? Well with DTG printing a white underbase is typically applied to all garment colors except white. Then the color layer is applied on top. Adding that white underbase makes it so the colors will be more vibrant.
 

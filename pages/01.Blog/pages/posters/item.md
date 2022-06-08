@@ -37,7 +37,7 @@ hide_from_post_list: false
 
 [column col="1/2"]We offer <strong>on-demand poster printing fulfillment</strong>. We print/ship posters with your designs under your brand with no minimums. Order just one poster at a time featuring your artwork.
 
-Submit your poster orders using one of our integrations with the most popular e-commerce shopping carts or create a Print Aura account and manually submitting your orders. Either way, orders will be shipped under your brand. Your posters will arrive in a cardboard tube with your business name on the return label. Inside the packing slip will feature your logo and business information. [/column]
+Submit your poster orders using one of our integrations with the most popular e-commerce shopping carts or create a Printaura account and manually submitting your orders. Either way, orders will be shipped under your brand. Your posters will arrive in a cardboard tube with your business name on the return label. Inside the packing slip will feature your logo and business information. [/column]
 
 [column col="1/2"]
 <ul>

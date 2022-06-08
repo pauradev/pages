@@ -33,7 +33,7 @@ display_post_summary:
     
 Below is a visual of our turnaround time for fulfillment of custom printed products
 
-<img class="alignnone wp-image-1957567 size-full" src="https://printaura.com/wp-content/uploads/2015/05/turnaround-time-650.jpg" alt="Print Aura Fulfillment Turnaround Time" width="650" height="454" />
+<img class="alignnone wp-image-1957567 size-full" src="https://printaura.com/wp-content/uploads/2015/05/turnaround-time-650.jpg" alt="Printaura Fulfillment Turnaround Time" width="650" height="454" />
 <h2>Order Edits/Cancellations</h2>
 You are only able to edit or cancel your order when the status is still displays “New” or "On Hold". Once the order goes into processing you can no longer edit or cancel the order. If the order is processing and you need to make a change please <a title="Contact" href="https://printaura.com/contactus/">contact us</a> about your changes. We do our best to meet your request but once it starts processing we can’t guarantee that it can be edited or canceled.
 <h2>Stock Issues</h2>

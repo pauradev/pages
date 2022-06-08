@@ -41,7 +41,7 @@ hide_from_post_list: 0
 <h2>How Does Embroidery Work?</h2>
 Embroidery is a decorative technique used to create designs on fabric. This technique involves the weaving of thread to create shapes and words. Embroidery looks elegant and is distinguishable by it’s raised and textured qualities.
 
-If you are using Print Aura for your embroidery work, the steps are as follows:
+If you are using Printaura for your embroidery work, the steps are as follows:
 
 <ul>
 	<li>First, you will need to download one of our embroidery templates - found under the artwork requirements tab of the <a href="https://printaura.com/embroidery" target="_blank">embroidery page</a>.</li>

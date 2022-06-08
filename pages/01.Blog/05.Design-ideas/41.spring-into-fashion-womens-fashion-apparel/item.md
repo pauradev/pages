@@ -38,7 +38,7 @@ hide_from_post_list: false
 
 <h2><img class="alignnone size-large wp-image-2144173" src="https://printaura.com/wp-content/uploads/2016/02/womensspringfashion1-1024x534.jpg" alt="Women's Spring Fashion" width="980" height="511" /></h2>
 <h2>Women's Fashion</h2>
-As many of you already know, Print Aura has over 100 products available for printing. But did you know that we offer some fashion-forward apparel items? Many of our fashion items are overlooked in favor of more basic styles. Basic apparel styles work nicely for a wide variety of designs, but can lack in fashionable silhouette for those of ladies who want to show off our personality through design, but still look stylish. Step it up a notch and offer your design on a fashion forward item to your store today. Check out some of our more fashionable apparel items and accessories below.
+As many of you already know, Printaura has over 100 products available for printing. But did you know that we offer some fashion-forward apparel items? Many of our fashion items are overlooked in favor of more basic styles. Basic apparel styles work nicely for a wide variety of designs, but can lack in fashionable silhouette for those of ladies who want to show off our personality through design, but still look stylish. Step it up a notch and offer your design on a fashion forward item to your store today. Check out some of our more fashionable apparel items and accessories below.
 <h3>Apparel Examples</h3>
 <a href="https://printaura.com/product-view/?v=Ladies_Jersey_Tank_Dress&amp;hdn=MTgx" target="_blank"><strong>Bella / Canvas Ladies Jersey Tank Dress</strong></a>
 

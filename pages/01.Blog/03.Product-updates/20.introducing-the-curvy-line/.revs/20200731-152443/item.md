@@ -35,7 +35,7 @@ hide_from_post_list: false
 
 <img src="https://printaura.com/wp-content/uploads/2018/05/curvyy.jpg" alt="curvyy" width="679" height="354" class="alignnone size-full wp-image-12714758" />
 <h4>The Curvy Line</h4>
-Here at Print Aura, we strive to be as inclusive as possible. People come in all different shapes and sizes, and we want to offer products that excite and look great on everyone. Many of our unisex products are offered in sizes up to 2XL, but we know that those items aren't always the most flattering styles for women. That's why we decided to introduce a line made especially for curvier women!
+Here at Printaura, we strive to be as inclusive as possible. People come in all different shapes and sizes, and we want to offer products that excite and look great on everyone. Many of our unisex products are offered in sizes up to 2XL, but we know that those items aren't always the most flattering styles for women. That's why we decided to introduce a line made especially for curvier women!
 <h3>Sizing Information</h3>
 Our Curvy line sizes range from 1-4.
 <ul>

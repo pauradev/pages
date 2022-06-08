@@ -44,7 +44,7 @@ Please Take a look through this handy guide that details the installation steps 
 
 ---
 >#### Step 1:
-Logon to your PrintAura account and navigate to My Stores > Woocommerce Shops.
+Logon to your Printaura account and navigate to My Stores > Woocommerce Shops.
 Click the link titled "click here" to begin.
 
 ---
@@ -67,7 +67,7 @@ In a new tab go to your Woocommerce Store Admin panel and navigate to Plugins > 
 >#### Step 4:
 Return to the Woocommerce Store Installation tab.
 Click Install to continue.**
-You will be directed to your Woocommerce Shop. You will be asked to connect with PrintAura, simply click approve to let PrintAura setup your Woocommerce Store and begin setting up products.
+You will be directed to your Woocommerce Shop. You will be asked to connect with Printaura, simply click approve to let Printaura setup your Woocommerce Store and begin setting up products.
 
 ---
 ![](woo3.PNG)
@@ -75,7 +75,7 @@ You will be directed to your Woocommerce Shop. You will be asked to connect with
 ---
 #### __**Troubleshooting**__
 ___
-Depending on the version of Woocommerce and word press you are using you may have to enable legacy webhooks complete the following actions if you are able to see orders in Woocommerce but are unable to view them in PrintAura*
+Depending on the version of Woocommerce and word press you are using you may have to enable legacy webhooks complete the following actions if you are able to see orders in Woocommerce but are unable to view them in Printaura*
 ___
 >#### Navigate to Webhooks
 Navigate to Woocommerce > Settings > Advanced > Webhooks
@@ -85,7 +85,7 @@ ___
 
 ---
 >#### Select each installed Webhook
-In the Webhooks menu edit both PrintAura Webhooks one at a time.
+In the Webhooks menu edit both Printaura Webhooks one at a time.
 
 ---
 ![](woo6.PNG)
@@ -102,7 +102,7 @@ ___
 
 ---
 
-##### If you are still unable to view woocommerce orders on the printaura site the links between the site may be broken. to re-generate new links please follow the rest of the trouble shooting walkthrough to remove and re-install your Woocommerce shop on PrintAura.
+##### If you are still unable to view woocommerce orders on the printaura site the links between the site may be broken. to re-generate new links please follow the rest of the trouble shooting walkthrough to remove and re-install your Woocommerce shop on Printaura.
 
 ---
 > #### Delete Webhooks    
@@ -119,8 +119,8 @@ Navigate to the "REST API" tab select all API Keys and apply the "Revoke" Action
 ![](woo10.PNG)
 
 ---
->#### Remove Shop on PrintAura My Shops
-In your PrintAura My Shops > Woocommerce Shops select the remove action to uninstall the current shop.
+>#### Remove Shop on Printaura My Shops
+In your Printaura My Shops > Woocommerce Shops select the remove action to uninstall the current shop.
 
 ---
 ![](woo8.PNG)

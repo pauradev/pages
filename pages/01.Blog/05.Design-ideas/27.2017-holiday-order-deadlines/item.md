@@ -110,7 +110,7 @@ Please make sure your customers place their orders by the dates below to ensure 
 If you utilize either of these branding services, please contact us to inquire about the stock levels of these items. Since it's the holidays we want to ensure that there are no hold ups with orders and that there are enough branding items in stock to complete all of your orders as desired.
 
 <strong>Postal Service / Artwork Issue Disclaimer</strong>
-Print Aura will do its best to process and ship orders to get them out to arrive before the holidays but can not guarantee ship or arrival times. It is unlikely, but delays may result due to circumstances beyond our control. There could be delays with USPS due to storms or the like, or if images provided by the client are not sized or setup correctly. Certain products may become back ordered or become suddenly unavailable due to our product distributors which may cause delays in processing times.
+Printaura will do its best to process and ship orders to get them out to arrive before the holidays but can not guarantee ship or arrival times. It is unlikely, but delays may result due to circumstances beyond our control. There could be delays with USPS due to storms or the like, or if images provided by the client are not sized or setup correctly. Certain products may become back ordered or become suddenly unavailable due to our product distributors which may cause delays in processing times.
 
 If you have any questions at all, please feel free to reach out and get in touch.
 

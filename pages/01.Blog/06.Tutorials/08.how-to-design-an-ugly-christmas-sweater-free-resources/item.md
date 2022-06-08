@@ -125,7 +125,7 @@ Here are just a few we have selected for this special occasion:
 <a href="https://printaura.com/product-view?v=Youth_50/50_Fleece_Crew&hdn=MjA5"><img src="https://printaura.com/wp-content/uploads/2015/12/G180B.png" alt="G180B" width="200" height="200" class="alignnone size-full wp-image-2362505" /></a><br><a href="https://printaura.com/product-view?v=Youth_50/50_Fleece_Crew&hdn=MjA5">Gildan Youth 50/50 Fleece Crew</a> <br>G180B
 
 <h3>3. Add Your Ugly Christmas Sweater To Your Shop</h3>
-Create a mockup using our mockup tool, and put that puppy up for sale in your shop! You can put your design on as many sweaters and as many colors as you want! As you probably know by now, with Print Aura, there are no risks to adding as many variations as you want. If they don't sell, no worries! You aren't paying for anything unless it sells. This is one cool feature that allows you to offer lots of options, watch how they do, and adjust accordingly!
+Create a mockup using our mockup tool, and put that puppy up for sale in your shop! You can put your design on as many sweaters and as many colors as you want! As you probably know by now, with Printaura, there are no risks to adding as many variations as you want. If they don't sell, no worries! You aren't paying for anything unless it sells. This is one cool feature that allows you to offer lots of options, watch how they do, and adjust accordingly!
 
 <h3>4. Promote Your Hideous Holiday Masterpiece</h3>
 There are lots of different cost effective ways to advertise your new ugly Christmas sweater, and your store in general! You can promote through different social media accounts, emailers, through partnerships with social influencers, and more!

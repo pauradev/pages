@@ -41,7 +41,7 @@ hide_from_post_list: false
 [column col="1/2"]
 We offer <strong>on-demand custom apron printing fulfillment</strong>. We print/ship aprons with your designs under your brand with no minimums. Order just one apron at a time featuring your artwork.
 
-Submit your apron orders using one of our popular e-commerce shopping cart integrations or create a Print Aura account and manually submit your orders. Either way, orders will be shipped under your brand.
+Submit your apron orders using one of our popular e-commerce shopping cart integrations or create a Printaura account and manually submit your orders. Either way, orders will be shipped under your brand.
 [/column]
 
 [column col="1/2"]

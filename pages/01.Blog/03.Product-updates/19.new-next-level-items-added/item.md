@@ -42,7 +42,7 @@ feed:
 
 <img src="https://printaura.com/wp-content/uploads/2018/06/next-level-products.jpg" alt="next level products" width="950" height="570" class="alignnone size-full wp-image-12717990" />
 <h2>More Items To Choose From!</h2>
-One of our goals here at Print Aura is to keep our members excited about their stores and their designs. Adding new and fresh things can be great for your business, so we try to do the same. We've added some new Next Level items, with more additions from other brands on the way!
+One of our goals here at Printaura is to keep our members excited about their stores and their designs. Adding new and fresh things can be great for your business, so we try to do the same. We've added some new Next Level items, with more additions from other brands on the way!
 
 <h2>New Next Level Items</h2>
 We've added the following items to our product options, as well as new color options for some of our existing Next Level items! We hope one or more of these items inspires you to add something new to your store! 

@@ -69,7 +69,7 @@ Vector files come up short when dealing with complex images that require complex
 <strong>Usual file types:</strong> AI, EPS
 <h2>File Type Cheat Sheet</h2>
 We have listed a variety of common file types below. You will learn what each of these file types stand for, their best uses, and some features that are specific to each individual file type. We hope this helps clear things up a bit!
-<h3>Print Aura's Accepted File Types</h3>
+<h3>Printaura's Accepted File Types</h3>
 <span style="color: #ff0000;">*Some products require specific file types. Make sure you check the specific image requirements for each product.</span>
 
 <img class="aligncenter size-large wp-image-1984943" src="https://printaura.com/wp-content/uploads/2015/12/accepted-file-types-1024x187.png" alt="accepted file types" width="980" height="179" />
@@ -152,7 +152,7 @@ We have listed a variety of common file types below. You will learn what each of
 	<li>Drawback: JPEG files cannot accommodate transparency. This is why they are only accepted for mockups and products that do not require a transparent background.</li>
 </ul>
 &nbsp;
-<h3>Print Aura's Not Accepted File Types</h3>
+<h3>Printaura's Not Accepted File Types</h3>
 <img class="aligncenter size-large wp-image-1985117" src="https://printaura.com/wp-content/uploads/2015/12/not-accepted-file-types-1024x179.png" alt="not accepted file types" width="980" height="171" />
 <h4><span style="color: #008080;">.AI</span></h4>
 <strong>Stands For:</strong> Adobe Illustrator

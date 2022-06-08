@@ -39,7 +39,7 @@ hide_from_post_list: false
 <h2>Summer Launch</h2>
 <img class="alignnone size-large wp-image-8687070" src="https://printaura.com/wp-content/uploads/2017/07/summer-blog-1024x534.jpg" alt="summer blog" width="980" height="511" />
 
-The sun is out, and man is it ever out! Things sure are heating up on this side of the world, and we thought it was high time we added some more summer items to choose from and add to your shops. With the recent heat wave, your customers probably aren't looking to buy sweaters or heavy tees. Add your designs to some of our new summer items and see how they do in your shop! As you know, there's no risk experimenting with products when you work with Print Aura! You only pay for what you sell, and items are printed and shipped as they are ordered. So go ahead! Experiment, play around, try something new!
+The sun is out, and man is it ever out! Things sure are heating up on this side of the world, and we thought it was high time we added some more summer items to choose from and add to your shops. With the recent heat wave, your customers probably aren't looking to buy sweaters or heavy tees. Add your designs to some of our new summer items and see how they do in your shop! As you know, there's no risk experimenting with products when you work with Printaura! You only pay for what you sell, and items are printed and shipped as they are ordered. So go ahead! Experiment, play around, try something new!
 <h2>Staff Favorites</h2>
 We've not only added new items, but new colors to choose from as well! Check out some of our favorites from the new line up of summer items!
 <h3>Women's Flowy Boxy Tee</h3>

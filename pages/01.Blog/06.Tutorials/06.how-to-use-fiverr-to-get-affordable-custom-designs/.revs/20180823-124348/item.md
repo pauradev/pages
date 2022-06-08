@@ -61,7 +61,7 @@ And lastly, you’ll need to look at their pricing. While most projects start ou
 <h2>Tips For Tasking Out Your Design</h2>
 So now that you have chosen a seller, it’s time to task out your design! Every seller asks for different information when creating a design. Do your best to answer the questions they have provided, but also make sure to follow the tips below.
 <h3>1. Provide Image Requirements</h3>
-The first thing you need to do is look up <em><a href="https://printaura.com/image-requirements/" target="_blank">Print Aura’s Image Requirements</a></em>. Let the seller know that the design they provide will need to meet those requirements. This will allow the seller to create the design in accordance with our requirements. If you skip this step, you could end up with a design you can't even use. If they set it to 72 DPI or the wrong color profile, the design won't print well.
+The first thing you need to do is look up <em><a href="https://printaura.com/image-requirements/" target="_blank">Printaura’s Image Requirements</a></em>. Let the seller know that the design they provide will need to meet those requirements. This will allow the seller to create the design in accordance with our requirements. If you skip this step, you could end up with a design you can't even use. If they set it to 72 DPI or the wrong color profile, the design won't print well.
 <h3>2. Be Clear &amp; Detailed</h3>
 Give as CLEAR and DETAILED directions as possible. If you have a certain color scheme in mind, let them know. If you want certain parts sized specifically, let them know. The more descriptive you are, the better chance you have of getting a design close to what you have in mind.
 <h3>3. Provide Examples</h3>

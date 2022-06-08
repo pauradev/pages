@@ -34,7 +34,7 @@ hide_from_post_list: false
 <img src="https://printaura.com/wp-content/uploads/2016/04/dtg-vs-screen-print-banner1.jpg" alt="dtg vs screen printing" width="647" height="153" class="alignnone size-full wp-image-2287665" />
 
 <h4>DTG Printing</h4>
-DTG  printing, also referred to as direct to garment printing, is a method used to print digital imagery onto t-shirts and other fabrics. DTG printing is the method we use most frequently here at Print Aura. Direct to garment printing is just what it sounds like; the design is directly printed onto the garment. We use large specialized printers and inks to print designs directly onto fabrics.
+DTG  printing, also referred to as direct to garment printing, is a method used to print digital imagery onto t-shirts and other fabrics. DTG printing is the method we use most frequently here at Printaura. Direct to garment printing is just what it sounds like; the design is directly printed onto the garment. We use large specialized printers and inks to print designs directly onto fabrics.
 
 <img src="https://printaura.com/wp-content/uploads/2016/04/DTG-printer.jpg" alt="DTG printer" width="873" height="491" class="alignnone size-full wp-image-2287664" />
 

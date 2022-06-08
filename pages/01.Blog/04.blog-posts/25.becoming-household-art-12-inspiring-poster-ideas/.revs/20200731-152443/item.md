@@ -37,7 +37,7 @@ hide_from_post_list: false
 <h4>Posters &amp; Art Prints</h4>
 Selling posters of your designs is a great way to get your art out there. Posters can be a fun and affordable way for people to decorate their walls and show off art they enjoy. They are easy to frame, and an great way to bring something special to a room. They can be conversation starters, the focal point of a room, and or help to bring things together. You can sell your photography, your designs, and even prints of original paintings and mixed media arts.
 
-T-shirts and phone covers aren't for everyone. It's great to have a variety of items featuring your designs for people to choose from. As many of you know, there is no risk to adding items to your shop to test out how they do. Since Print Aura is a print on demand service, you only pay for what you have already sold. You don't need to pre-order items or keep an inventory.
+T-shirts and phone covers aren't for everyone. It's great to have a variety of items featuring your designs for people to choose from. As many of you know, there is no risk to adding items to your shop to test out how they do. Since Printaura is a print on demand service, you only pay for what you have already sold. You don't need to pre-order items or keep an inventory.
 
 Posters make art accessible for people who cannot afford original art work, but want to decorate their homes and feature art they enjoy. You really can't go wrong with selling posters!
 
@@ -115,7 +115,7 @@ Via <a href="https://www.behance.net/gallery/55708983/Dolce" target="_blank">Dol
 Via <a href="https://www.etsy.com/shop/holli?ref=l2-shopheader-name" target="_blank">Holli</a>
 
 <h4>Sell Your Designs on Posters Today!</h4>
-If you haven't added your designs to posters to sell in your store yet, I would encourage you to do so! Again, with Print Aura it's risk free to try out and test new items in your shop.
+If you haven't added your designs to posters to sell in your store yet, I would encourage you to do so! Again, with Printaura it's risk free to try out and test new items in your shop.
 
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 758px; left: 20px;">Save</span>
 
