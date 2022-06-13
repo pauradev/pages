@@ -9,6 +9,7 @@ show_pagination: true
 hide_from_post_list: false
 feed:
     limit: 10
+publish_date: '01-05-2018 13:28'
 ---
 
 [![](etsy-1.jpg)](/blog/e-commerce-tips/etsy-update-print-aura-is-now-an-approved-manufacturer)
