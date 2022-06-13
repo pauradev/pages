@@ -24,5 +24,6 @@ display_post_summary:
 hide_from_post_list: true
 feed:
     limit: 10
+visible: false
 ---
 
