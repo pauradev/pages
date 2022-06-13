@@ -41,389 +41,281 @@ feed:
 
 <img class="alignnone size-large wp-image-12712264" src="https://printaura.com/wp-content/uploads/2018/05/discontinue-1024x534.jpg" alt="discontinue" width="980" height="511" />
 
+#DISCONTINUED
+
 Every now and then we have to discontinue some of our items. This can happen for a number of different reasons:
-<ol>
- 	<li>The manufacturer will discontinue and item and we are no longer able to offer it.</li>
- 	<li>There are consistent stock issues with specific items.</li>
- 	<li>An item isn't selling or doing well for our members, and we want to make room for new items that will be popular and exciting!</li>
-</ol>
-&nbsp;
-<h2>Discontinued Items</h2>
-The following items will be officially discontinued on <span style="color: #ff0000;"><strong>May 21st, 2018.</strong></span> If you have any of these items up for sale in your shop, please remove them before the discontinue date. If you are not currently offering any of these items, please don't add them to your shop.
-<h4><em> RABBIT SKIN</em></h4>
-RS1004
-<ul>
- 	<li>White/Turquoise</li>
- 	<li>White/Raspberry</li>
-</ul>
-&nbsp;
-3401
-<ul>
- 	<li>Orange</li>
-</ul>
-&nbsp;
+The manufacturer will discontinue and item and we are no longer able to offer it.
+There are consistent stock issues with specific items.
+An item isn't selling or doing well for our members, and we want to make room for new items that will be popular and exciting!
 
-<hr />
+**The following items will be officially discontinued on June 26th.** If you have any of these items up for sale in your shop, please remove them before the discontinue date.
 
-<h4><em>ANVIL</em></h4>
-880
-<ul>
- 	<li>Dark Heather Grey</li>
-</ul>
-&nbsp;
+If you are not currently offering any of these items, please don't add them to your shop.
+
+##American Apparel (All)
+2007
+2102
+TR401
+2456
+2001
+2408
+
+
+##Anvil(ALL)
+949
 990B
-<ul>
- 	<li>Chocolate</li>
-</ul>
-&nbsp;
-<hr />
+6750VL
+987AN
+73000
+73500
+887L
+983
+982
+880
+980
 
-<h4><em>ALTERNATIVE APPAREL</em></h4>
-AA1072
-<ul>
- 	<li>Jade</li>
-</ul>
-&nbsp;
-AA4013
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-<hr />
 
-<h4><em>BELLA/CANVAS</em></h4>
-6004
-<ul>
- 	<li>Maroon</li>
-</ul>
-&nbsp;
-B6500
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-B100
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-3000C
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-3001U
-<ul>
- 	<li>2XL &amp; 3XL</li>
- 	<li>Asphalt</li>
- 	<li>White</li>
-</ul>
-&nbsp;
-3001Y
-<ul>
- 	<li>True Royal</li>
- 	<li>Grey Triblend</li>
- 	<li>Green Triblend</li>
-</ul>
-&nbsp;
-3005
-<ul>
- 	<li>White</li>
-</ul>
-&nbsp;
-3710
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-6000
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-1011
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-3719
-<ul>
- 	<li>True Royal</li>
-</ul>
-&nbsp;
-6405
-<ul>
- 	<li>White</li>
- 	<li>Pink</li>
-</ul>
-&nbsp;
-B8413
-<ul>
- 	<li>Char-Black Triblend</li>
-</ul>
-&nbsp;
-3406
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-807
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-7501
-<ul>
- 	<li>2XL</li>
-</ul>
-&nbsp;
-B8881
-<ul>
- 	<li>Red</li>
-</ul>
-&nbsp;
-810
-<ul>
- 	<li>XL &amp; 2XL</li>
-</ul>
-&nbsp;
-<hr />
+##Bayside
+BA3810 -All colors  
+BA8325 -All colors
 
-<h4><em>ROYAL APPAREL</em></h4>
-37170
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-25055
-<ul>
- 	<li>Red</li>
- 	<li>Tri Purple</li>
-</ul>
-&nbsp;
-5051ORG
-<ul>
- 	<li>Bark</li>
-</ul>
-&nbsp;
-2032ORG
-<ul>
- 	<li>Nautical Blue</li>
-</ul>
-&nbsp;
-5002
-<ul>
- 	<li>White</li>
-</ul>
-&nbsp;
-5002ORG
-<ul>
- 	<li>Salt</li>
-</ul>
-&nbsp;
-5058
-<ul>
- 	<li>Platinum</li>
-</ul>
-&nbsp;
-21052ORG
-<ul>
- 	<li>Ocean</li>
-</ul>
-&nbsp;
-5054
-<ul>
- 	<li>White</li>
-</ul>
-&nbsp;
-17551CMO
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-3120CMO
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-<hr />
 
-<h4><em>NEXT LEVEL</em></h4>
-3740
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-3633
-<ul>
- 	<li>Purple Rush</li>
-</ul>
-&nbsp;
-3400L
-<ul>
- 	<li>Tahiti Blue</li>
- 	<li>Purple Rush</li>
- 	<li>Plum</li>
- 	<li>Hot Pink</li>
-</ul>
-&nbsp;
-3540
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-3530
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-3300L
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-3533
-<ul>
- 	<li>Banana Cream</li>
- 	<li>Lilac</li>
-</ul>
-&nbsp;
-6633
-<ul>
- 	<li>Light Orange</li>
- 	<li>Lilac</li>
- 	<li>Raspberry</li>
- 	<li>Purple Berry</li>
- 	<li>Envy</li>
- 	<li>Purple Rush</li>
- 	<li>Banana Cream</li>
-</ul>
-&nbsp;
-6640
-<ul>
- 	<li>Kelly</li>
-</ul>
-&nbsp;
-6951
-<ul>
- 	<li>Heather Gray</li>
- 	<li>Dark Grey</li>
-</ul>
-&nbsp;
-3352
-<ul>
- 	<li>Kelly/White</li>
-</ul>
-&nbsp;
-6931
-<ul>
- 	<li>Heather Grey</li>
-</ul>
-&nbsp;
-1534
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-6731
-<ul>
- 	<li>Envy</li>
-</ul>
-&nbsp;
-<hr />
+##BellaCanvas
+8850 -All colors
+8852 -All colors
+B6035 -All colors
 
-<h4><em>GILDAN</em></h4>
-2000
-<ul>
- 	<li>Vegas Gold</li>
- 	<li>Olive</li>
-</ul>
-&nbsp;
-2000L
-<ul>
- 	<li>Sport Grey</li>
-</ul>
-&nbsp;
-2400
-<ul>
- 	<li>Light Pink</li>
-</ul>
-&nbsp;
-64000
-<ul>
- 	<li>Cherry Red</li>
-</ul>
-&nbsp;
-64000L
-<ul>
- 	<li>Sport Grey</li>
-</ul>
-&nbsp;
-64400
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-64400L
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-G424
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-G185
-<ul>
- 	<li>Military Green</li>
-</ul>
-&nbsp;
-G180
-<ul>
- 	<li>Military Green</li>
-</ul>
-&nbsp;
-G186FL
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-G180FL
-<ul>
- 	<li>ALL</li>
-</ul>
-&nbsp;
-<hr />
+3650 -Ashpalt, Berry
 
-<h4><em>INDEPENDENT TRADING</em></h4>
-SS3000
-<ul>
- 	<li>Charcoal</li>
-</ul>
-&nbsp;
-IND4000Z
-<ul>
- 	<li>Grey Heather</li>
-</ul>
-&nbsp;
-IND4000
-<ul>
- 	<li>Army Camo</li>
-</ul>
-&nbsp;
-AFX4000Z
-<ul>
- 	<li>Red</li>
-</ul>
-&nbsp;
-AFX4000
-<ul>
- 	<li>Red</li>
- 	<li>Solid Charcoal</li>
-</ul>
-&nbsp;
-<h2>Remember To Remove Or Replace</h2>
-If you currently offer these discontinued items in your store, please make sure to remove them or replace them before the <strong><span style="color: #ff0000;">May 21st deadline</span></strong>. If you were considering offering these items in your store, please refrain from doing so, as they will be discontinued shortly.
+6004 - Ash, Asphalt, Chocolate, Turquoise
+
+B6005 -Baby Blue, Ocean Blue,
+
+3200 -Black Heather/Black, Grey/ Emerald Triblend, Grey/ True Royal Triblend,
+      Grey/Charcoal Black Triblend, White Fleck/Navy Tribelnd, White/Black
+
+3200t -Grey/Charcoal Black Triblend, Grey/Red Triblend
+
+3200y - Grey/Red Triblend, White/Black
+
+3001U -Leaf
+
+8816 -Ashpalt Slub, Berry, Black Speckled, Blue Triblend, Charcoal Black Slub,
+      Dark Grey, Deep Heather Speckled, Kelly Green, Mint, Red, Red Speckled,
+      True Royal, White Fleck Triblend, White Marble,  White Slub
+
+8815 -Black Marble, Blue Marble, Blue Triblend, Coral, Grey Triblend, Midnight, Mint
+ 
+B8413 -Charcoal Triblend, Purple Triblend, Green Triblend, Navy Triblend, Aqua Triblend,
+       Clay Triblend
+
+B8800 -Pebble Brown
+
+7501 -Deep Heather/Black, Deep Heather/Navy, Navy Blue
+
+3480 -Ash, Athletic Heather/Black, Athletic Heather/Navy, Black/Athletic Heather,
+      Charcoal Black/Slub Black Triblend, Deep Heather/Red, Leaf, Orange, Team Purple,
+      White/True Royal
+
+8838 -Asphalt Slub, Blue Triblend, Charcoal Black TriBlend, Coral, Grey Triblend,  Heather Navy,
+      Heather Olive, Midnight,  Mint, Red, True Royal, White Slub
+
+
+##Champion
+CP15 -All colors
+CP75 -All colors
+CP65 -All colors
+S800 -All colors
+CP10 -Maroon, Orange, Ravens Purple
+S1051 -Maroon
+S1049 -Maroon, Oxford Grey
+
+
+##Fruit of the Loom
+SF76R -Firey Red
+SF72R -Royal Blue
+SF73R -All colors
+
+
+##Hanes
+F170 -Dark Chocolate
+F260 -Deep Red
+F280 -All colors
+
+
+##Gildan
+G420L-All colors
+2800 -All colors
+G230 -All colors
+2000T -All colors
+
+2400 -Irish Green
+
+8000 -Azalea
+
+G420B -Cardinal Red, Irish Green, White
+
+2000L -Cardinal Red, Daisy, Dark Chocolate, Forest Green, Iris, Irish Green, Maroon, Orange,
+      Safety Pink, Sapphire  
+
+H000 -Berry, Bright Salmon, Cobalt, Daisy, Galapagos Blue, Granite Heather, Iris, Irish Green,
+      Orchid, Paprika, Sport Dark Maroon, Sport Grey, Tropical Blue, Violet
+
+G570 -Black/White, White/ Forest, White/Carolina Blue, White/Maroon
+
+G500VL -Azalea, Coral Silk, Cornsilk, Heather Radiant Orchid
+
+G540L -Ash Grey, Carolina Blue, Garent
+
+64000L- (Rename womens) Cherry Red, Dark Chocolate, Irish Green, Kiwi
+
+2400B -Sapphire, Irish Green, Orange, Purple, Maroon, Light Blue, Light Pink, Charcoal, Ash Grey, Black
+
+2000B -Texas Orange, Dark Chocolate, Sand
+
+G220 -Ash, Charcoal, Gold, Lime
+
+
+##LAT
+3804 -Red
+
+3804 -Granite Heather, Red, Hot Pink
+
+3821 -Hot Pink, Vintage Smoke, White
+
+3522 -Hot Pink
+
+
+##Next Level
+6021 -All colors
+2050 -All colors
+1560 -All colors
+6730 -All colors
+6731 -All colors
+6740 -All colors
+6071 -All colors
+6491 -All colors
+3533 -All colors
+6333 -All colors
+
+6411- Heather Cool Blue, Heather Maroon
+
+6760 -Indigo, Militay Green, Vintage Royal
+
+N1540 -Military Green, Scarlet
+
+6440 -Envy, Royal
+
+6610 -Light Olive, Lilac, Stone Grey
+
+3900 -Dark Chocolate
+
+6051 -Vintage Red/ Black, Desert Pink/Premium Heather, Military Green/Premium Heather
+
+5080 -Ash
+
+6640 Black, Banana Cream,  Lilac, Lush, Turquoise, Kelly Green
+
+3352 -Black/White, Hot Pink/White, Kelly/White, Midnight Navy/Dark Grey Heather,
+      Royal/White, Red/White
+
+6410 -Banana Cream, Mint, Tahiti Blue
+
+6240 -Espresso
+
+N3710 -Raspberry, Purple Rush, Tahiti Blue
+
+6010 -Vintage Purple
+
+3310 -Gold, Forest Green
+
+3633 -Kelly Green
+
+6733 -Vintage Purple, Vintage Turquoise
+
+6933 -Red, Hot Pink, Cancun
+
+
+##Royal Apparel
+32084 -All colors
+25030 -All colors
+25060 -All colors
+20010 -All colors
+32112 -All colors
+
+73112 -Cloudburst
+
+5061ORG -Bark
+
+20060 -Tri vintage gray/Kelly Green, Tri White/Tri Purple
+
+RA5054 -Asphalt, Chocolate
+
+5054ORG -Avacado, Bark
+
+5055 -Asphalt, Chocoalte
+
+20051 -Tri Denim Navy
+
+5062 -Red, Chocolate
+
+20260 -Tri White/Tri Red
+
+17051 -Heather Brown
+
+17055 -Heather Light Blue, Heather Indigo
+
+20052 -Tri vintage gray/Kelly Green, Tri Vintage Grey/Pool
+
+25020 -Tri-Oatmeal
+
+25030 -Tri-Oatmeal
+
+73028 -Midnight, Pewter
+
+2138ORG -Salt/ Nautical Blue, Salt/ Cherry, Salt/ Slate
+
+2138 -White/Asphalt, White/ Burgundy, White/Fuchsia, White/Kelly, White/Navy, White/ Orange
+      White/Pink, White/Royal
+
+20039 -Tri Denim, Tri-Oatmeal
+
+2037ORG -Canary
+
+2035 -Asphalt, Pink, Pale Yellow
+
+20001-Tri Purple, Tri White
+
+
+##Tie-Dye
+CD100 -Carnival, Woodstock
+
+CD101 -Spider Gold, Spider Lime
+
+CD877 -Spider Lime
+
+
+##Rabbit Skin
+4424 -Apple, Key Lime
+
+4400-S -Chill/Indigo, Heather Grey/White Stripe, Kelly/White Stripe, Light Pink/Mauve,
+        Light Pink/White Dot, Navy/White Stripe, Raspberry/White Stripe, Red/White Dot
+        Red/White Strip, White/Titanium
+
+
+##Independent Trading
+AFX4000Z -Gunmetal Heather, Navy Blue
+
+
+##Yupoong
+6089 -Black/Silver, Black/Teal, Spruce
+
+6997 -Khaki
+
+
+##Remember To Remove Or Replace
+If you currently offer these discontinued items in your store, please make sure to remove them or replace them before the June 26th deadline.
+If you were considering offering these items in your store, please refrain from doing so, as they will soon be unavailable.
 
 We apologize for any inconvenience the discontinued items may have caused you.
+If you have any questions or concern please email us at support@printaura.com
