@@ -5,7 +5,6 @@ date: '23-08-2000 15:38'
 publish_date: '20-07-2017 12:45'
 hide_git_sync_repo_link: false
 routable: true
-visible: true
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: false
