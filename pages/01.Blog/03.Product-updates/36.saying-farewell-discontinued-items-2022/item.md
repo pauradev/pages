@@ -1,6 +1,6 @@
 ---
 title: 'Saying Farewell: Discontinued Items 2022'
-date: '08-05-2018 10:30'
+date: '13-06-2022 10:30'
 taxonomy:
     category:
         - blog
