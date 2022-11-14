@@ -1,7 +1,7 @@
 ---
 title: '2022 Holiday Order Deadlines'
 published: true
-date: '31-10-2017 12:14'
+date: '14-11-2022 12:14'
 taxonomy:
     category:
         - blog
@@ -37,6 +37,7 @@ hide_from_post_list: false
 media_order: unnamed.png
 feed:
     limit: 10
+publish_date: '14-11-2022 10:51'
 ---
 
 [![unnamed](unnamed.png "unnamed")](https://blog.printaura.com/blog/design-ideas/2022-holiday-order-deadlines)
