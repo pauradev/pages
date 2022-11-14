@@ -39,7 +39,11 @@ feed:
     limit: 10
 ---
 
-![unnamed](unnamed.png "unnamed")
+[![unnamed](unnamed.png "unnamed")](https://blog.printaura.com/blog/design-ideas/2022-holiday-order-deadlines)
+
+## The holiday season is upon us! Are you ready? 
+#### Here at Printaura.com, WE ARE! 
+
 
 Recommended dates by which to place your holiday orders to give them the best chance of meeting USPS deadlines for packages to arrive on or before December 24, 2022.
 
@@ -51,7 +55,3 @@ Domestic: December 15, 2022
  International: November 27, 2022
 
 We at Printaura.com want to wish you a very happy,healthy and prosperous holiday season!
-
-
---
--Cheryl
